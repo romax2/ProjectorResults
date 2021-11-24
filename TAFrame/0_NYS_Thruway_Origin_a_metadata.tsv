@@ -1,0 +1,62 @@
+stc_label	sentence	category
+0_NYS_Thruway_Origin_a	NYS Thruway Origin and Destination Points for All Vehicles:  2008 - 2014	Table
+IN_class 3 h	class 3 h	IN
+IN_class 2 h	class 2 h	IN
+IN_class 3 l	class 3 l	IN
+IN_class 7 h	class 7 h	IN
+IN_class 2 l	class 2 l	IN
+IN_class 6 h	class 6 h	IN
+IN_year	year	IN
+IN_class 5 h	class 5 h	IN
+IN_class 4 h	class 4 h	IN
+IN_class 4 l	class 4 l	IN
+IN_class 7 s	class 7 s	IN
+IN_exit	exit	IN
+IN_class 6 s	class 6 s	IN
+IN_total	total	IN
+IN_class 5 s	class 5 s	IN
+IN_non- revenue	non- revenue	IN
+IN_permit	permit	IN
+IN_entrance	entrance	IN
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_suffix	suffix	OUT
+OUT_mode	mode	OUT
+OUT_fund id	fund id	OUT
+OUT_milepost	milepost	OUT
+OUT_route	route	OUT
+OUT_mapped location	mapped location	OUT
+OUT_direction	direction	OUT
+OUT_miles	miles	OUT
+OUT_license number	license number	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_source	source	OUT
+OUT_conviction description	conviction description	OUT
+OUT_permit number	permit number	OUT
+OUT_sale yr	sale yr	OUT
+OUT_date designated	date designated	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_minor arterial dvmt	minor arterial dvmt	OUT
+OUT_fund id	fund id	OUT
+OUT_the geom	the geom	OUT
+OUT_sale type	sale type	OUT
+OUT_length	length	OUT
+OUT_date	date	OUT
+OUT_pu location id	pu location id	OUT
+OUT_permit id	permit id	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_fuel type	fuel type	OUT
+OUT_effective date	effective date	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_first approach	first approach	OUT
+OUT_sale item no	sale item no	OUT
+OUT_return	return	OUT
+OUT_edla	edla	OUT
+OUT_station id	station id	OUT
+OUT_state of license	state of license	OUT
+OUT_length	length	OUT
+OUT_town index	town index	OUT
+OUT_rides	rides	OUT
+OUT_issue date	issue date	OUT
+OUT_municipality	municipality	OUT
+OUT_ehail fee	ehail fee	OUT
+OUT_vendor id	vendor id	OUT

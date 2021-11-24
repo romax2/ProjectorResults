@@ -1,0 +1,62 @@
+stc_label	sentence	category
+4_Citywide_Mobility_Su	Citywide Mobility Survey - Day Survey 2019	Table
+IN_deliver package work	deliver package work	IN
+IN_no travel no work	no travel no work	IN
+IN_shop online	shop online	IN
+IN_no travel no transport	no travel no transport	IN
+IN_no travel weather	no travel weather	IN
+IN_num deleted trips	num deleted trips	IN
+IN_hh id	hh id	IN
+IN_made trips	made trips	IN
+IN_day is complete	day is complete	IN
+IN_num complete trip surveys	num complete trip surveys	IN
+IN_travel date	travel date	IN
+IN_no travel capture	no travel capture	IN
+IN_deliver none	deliver none	IN
+IN_day weight	day weight	IN
+IN_deliver service	deliver service	IN
+IN_no travel telework	no travel telework	IN
+IN_no travel sick	no travel sick	IN
+IN_num trips	num trips	IN
+IN_person id	person id	IN
+IN_travel date dow	travel date dow	IN
+IN_deliver other	deliver other	IN
+IN_no travel other	no travel other	IN
+IN_deliver package locker	deliver package locker	IN
+IN_person num	person num	IN
+IN_day num	day num	IN
+IN_deliver prepared	deliver prepared	IN
+IN_deliver package home	deliver package home	IN
+IN_no travel housework	no travel housework	IN
+IN_no travel kids break	no travel kids break	IN
+IN_cms zone	cms zone	IN
+IN_no travel delivery	no travel delivery	IN
+IN_telecommute time	telecommute time	IN
+IN_deliver food	deliver food	IN
+IN_no travel homeschool	no travel homeschool	IN
+IN_survey mode	survey mode	IN
+OUT_route	route	OUT
+OUT_type	type	OUT
+OUT_permit number	permit number	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_fund id	fund id	OUT
+OUT_sign fuse plate in	sign fuse plate in	OUT
+OUT_class 6 h	class 6 h	OUT
+OUT_year	year	OUT
+OUT_date designated	date designated	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_year	year	OUT
+OUT_intersection	intersection	OUT
+OUT_year	year	OUT
+OUT_comments	comments	OUT
+OUT_region	region	OUT
+OUT_status	status	OUT
+OUT_route number	route number	OUT
+OUT_fuel type	fuel type	OUT
+OUT_dot reference marker location	dot reference marker location	OUT
+OUT_permit number	permit number	OUT
+OUT_class 3 h	class 3 h	OUT
+OUT_state plate	state plate	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_route	route	OUT
+OUT_comments	comments	OUT

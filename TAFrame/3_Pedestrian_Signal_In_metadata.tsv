@@ -1,0 +1,62 @@
+stc_label	sentence	category
+3_Pedestrian_Signal_In	Pedestrian Signal Inventory and ADA Self-Assessments	Table
+IN_date	date	IN
+IN_davidson county border	davidson county border	IN
+IN_cpl aud	cpl aud	IN
+IN_cpl ldg	cpl ldg	IN
+IN_council district outlines	council district outlines	IN
+IN_cpl op	cpl op	IN
+IN_mapped location	mapped location	IN
+IN_ped signal pres	ped signal pres	IN
+IN_zip codes	zip codes	IN
+IN_cpl place	cpl place	IN
+IN_cpl prox	cpl prox	IN
+IN_evnt type	evnt type	IN
+IN_cmnt 2	cmnt 2	IN
+IN_cpl ctrst	cpl ctrst	IN
+IN_cpl force	cpl force	IN
+IN_service districts	service districts	IN
+IN_evnt lat	evnt lat	IN
+IN_inspector	inspector	IN
+IN_cpl cw 2	cpl cw 2	IN
+IN_cpl cw 1	cpl cw 1	IN
+IN_evnt map	evnt map	IN
+IN_cpl size	cpl size	IN
+IN_quad	quad	IN
+IN_cpl sep	cpl sep	IN
+IN_oa cmnt	oa cmnt	IN
+IN_cpl vis	cpl vis	IN
+IN_cpl hgt	cpl hgt	IN
+IN_evnt lon	evnt lon	IN
+OUT_fips	fips	OUT
+OUT_year	year	OUT
+OUT_town	town	OUT
+OUT_road name	road name	OUT
+OUT_exit	exit	OUT
+OUT_seg length	seg length	OUT
+OUT_extra	extra	OUT
+OUT_permit no	permit no	OUT
+OUT_year	year	OUT
+OUT_project location	project location	OUT
+OUT_year	year	OUT
+OUT_length	length	OUT
+OUT_route number	route number	OUT
+OUT_opt code	opt code	OUT
+OUT_object id	object id	OUT
+OUT_vehicle num	vehicle num	OUT
+OUT_license number	license number	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_year	year	OUT
+OUT_speed	speed	OUT
+OUT_month	month	OUT
+OUT_star denials	star denials	OUT
+OUT_type	type	OUT
+OUT_registration class	registration class	OUT
+OUT_counties	counties	OUT
+OUT_person num	person num	OUT
+OUT_ride 08	ride 08	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_dd	dd	OUT
+OUT_violation year	violation year	OUT
+OUT_wheelbase	wheelbase	OUT
