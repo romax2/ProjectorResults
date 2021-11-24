@@ -1,0 +1,604 @@
+stc_label	sentence	category
+T_NYS Thruway Origin and Destination Points for All Vehicles:  2008 - 2014	NYS Thruway Origin and Destination Points for All Vehicles:  2008 - 2014	Table
+T_Weigh in Motion	Weigh in Motion	Table
+T_McKenzie Highway Opening and Closing Dates	McKenzie Highway Opening and Closing Dates	Table
+T_Pedestrian Signal Inventory and ADA Self-Assessments	Pedestrian Signal Inventory and ADA Self-Assessments	Table
+T_Citywide Mobility Survey - Day Survey 2019	Citywide Mobility Survey - Day Survey 2019	Table
+T_Citywide Mobility Survey - Vehicle Survey 2019	Citywide Mobility Survey - Vehicle Survey 2019	Table
+T_Motor Vehicle Crashes - Case Information: Three Year Window	Motor Vehicle Crashes - Case Information: Three Year Window	Table
+T_Vehicle Colors, Most Popular in New York State	Vehicle Colors, Most Popular in New York State	Table
+T_Highway Sign Installations	Highway Sign Installations	Table
+T_Thruway Commuter Park and Ride Lots	Thruway Commuter Park and Ride Lots	Table
+T_Road Curves and Grades in Colorado	Road Curves and Grades in Colorado	Table
+T_Highway Curves and Grades in Colorado	Highway Curves and Grades in Colorado	Table
+T_Capital District Transportation Authority (CDTA) Performance Metrics: Beginning 2009	Capital District Transportation Authority (CDTA) Performance Metrics: Beginning 2009	Table
+T_Street Travel Permit	Street Travel Permit	Table
+T_Historical Medallion Drivers â€“ Passenger Assistance Trained 2014-2016	Historical Medallion Drivers â€“ Passenger Assistance Trained 2014-2016	Table
+T_2020 Green Taxi Trip Data	2020 Green Taxi Trip Data	Table
+T_2020 Yellow Taxi Trip Data	2020 Yellow Taxi Trip Data	Table
+T_Pavement Condition CSV Dataset 2004-2012	Pavement Condition CSV Dataset 2004-2012	Table
+T_COYS - Ward 1 - Filtered	COYS - Ward 1 - Filtered	Table
+T_DMV-Reportable Traffic Ticket Conviction Counts by Year and Court	DMV-Reportable Traffic Ticket Conviction Counts by Year and Court	Table
+T_Sidewalk Inventory for ADA Self-Assessment	Sidewalk Inventory for ADA Self-Assessment	Table
+T_Annual Average Daily Traffic (AADT) by Roadway Segment: Beginning 1977 - Average Values	Annual Average Daily Traffic (AADT) by Roadway Segment: Beginning 1977 - Average Values	Table
+T_Bicycle and Pedestrian Counts in Colorado	Bicycle and Pedestrian Counts in Colorado	Table
+T_Thruway Interchanges and Exits Map	Thruway Interchanges and Exits Map	Table
+T_Thruway Toll Gantries	Thruway Toll Gantries	Table
+T_Thruway Travel Plazas and Parking/Rest Areas	Thruway Travel Plazas and Parking/Rest Areas	Table
+T_Tourism Information Centers	Tourism Information Centers	Table
+T_CT Transit Hartford, New Haven, New Britain Area Route Bus Stops	CT Transit Hartford, New Haven, New Britain Area Route Bus Stops	Table
+T_Bicycle Counts	Bicycle Counts	Table
+T_Highway Mileage: Beginning 2008	Highway Mileage: Beginning 2008	Table
+T_Traffic Control Device Inventory	Traffic Control Device Inventory	Table
+T_2014 Daily Vehicle Miles Travelled By Town And Roadway Classification - ARCHIVE	2014 Daily Vehicle Miles Travelled By Town And Roadway Classification - ARCHIVE	Table
+T_Vehicle and Boat Registrations by Fuel Type per County	Vehicle and Boat Registrations by Fuel Type per County	Table
+T_Street Construction Permits - Cranes	Street Construction Permits - Cranes	Table
+T_Street Construction Permits - Fee	Street Construction Permits - Fee	Table
+T_Street Construction Permits - Related Agency	Street Construction Permits - Related Agency	Table
+T_Street Construction Permits - Stipulations (Historical)	Street Construction Permits - Stipulations (Historical)	Table
+T_Connecticut List of Scenic Roads as of Dec 31 2010 â€“ ARCHIVE	Connecticut List of Scenic Roads as of Dec 31 2010 â€“ ARCHIVE	Table
+T_NYS Thruway Origin and Destination Points for All Vehicles - 15 Minute Intervals: Latest Full Week	NYS Thruway Origin and Destination Points for All Vehicles - 15 Minute Intervals: Latest Full Week	Table
+T_NYS Thruway Origin and Destination Points for All Vehicles - 1 Hour Intervals: 2015	NYS Thruway Origin and Destination Points for All Vehicles - 1 Hour Intervals: 2015	Table
+T_Traffic Bollards Tracking and Installations	Traffic Bollards Tracking and Installations	Table
+T_CTA - Ridership - Bus Routes - Daily Totals by Route	CTA - Ridership - Bus Routes - Daily Totals by Route	Table
+T_CTA - Ridership - 'L' Station Entries - Daily Totals	CTA - Ridership - 'L' Station Entries - Daily Totals	Table
+T_CTA - Performance - Unscheduled Days Off	CTA - Performance - Unscheduled Days Off	Table
+T_Highway Traffic Counts in Colorado 2017	Highway Traffic Counts in Colorado 2017	Table
+T_Highway Traffic Counts in Colorado 2016	Highway Traffic Counts in Colorado 2016	Table
+T_Highway Traffic Counts in Colorado 2018	Highway Traffic Counts in Colorado 2018	Table
+T_Historical Auction Data, NYS Thruway Surplus Property: 2010-2013	Historical Auction Data, NYS Thruway Surplus Property: 2010-2013	Table
+T_Chicago Street Names	Chicago Street Names	Table
+T_Monthly Interstate Ferry Ridership, Port Authority:  Beginning 1998	Monthly Interstate Ferry Ridership, Port Authority:  Beginning 1998	Table
+T_Temporary Parking Permit for People with Disabilities- On Street	Temporary Parking Permit for People with Disabilities- On Street	Table
+T_E-Scooter Trips - Census Tract Summary - 2020	E-Scooter Trips - Census Tract Summary - 2020	Table
+T_E-Scooter Trips - 2020	E-Scooter Trips - 2020	Table
+T_E- ZPass Usage Statistics: Beginning 2008	E- ZPass Usage Statistics: Beginning 2008	Table
+T_Bike Routes (Deprecated January 2021)	Bike Routes (Deprecated January 2021)	Table
+T_Road Traffic Counts in Colorado 2018	Road Traffic Counts in Colorado 2018	Table
+T_HOV and Restricted Driving Lanes in Colorado	HOV and Restricted Driving Lanes in Colorado	Table
+T_Map - Red Light Camera Locations	Map - Red Light Camera Locations	Table
+T_Freight Cars Moved in Carfloat Operations, Port Authority of NY NJ:  Beginning 2009	Freight Cars Moved in Carfloat Operations, Port Authority of NY NJ:  Beginning 2009	Table
+T_Daily Vehicle Miles of Travel: Beginning 1985	Daily Vehicle Miles of Travel: Beginning 1985	Table
+T_Scenic Byways in Colorado	Scenic Byways in Colorado	Table
+T_Loaded Containers Monthly Imports and Exports Through Port Authority of NY NJ Maritime Terminals:  Beginning 2000	Loaded Containers Monthly Imports and Exports Through Port Authority of NY NJ Maritime Terminals:  Beginning 2000	Table
+T_Roadway Maintenance Areas	Roadway Maintenance Areas	Table
+T_Boat Makes, Most Popular in New York State	Boat Makes, Most Popular in New York State	Table
+T_Rail Containers Moved Through Port Authority of NY NJ Facilities:  Beginning 2000	Rail Containers Moved Through Port Authority of NY NJ Facilities:  Beginning 2000	Table
+T_Rochester-Genesee Regional Transportation Authority (RGRTA) Percentage of Buses Running On Time:  Beginning 2009	Rochester-Genesee Regional Transportation Authority (RGRTA) Percentage of Buses Running On Time:  Beginning 2009	Table
+T_Rochester-Genesee Regional Transportation Authority (RGRTA) Rider Volumes:  Beginning 2006	Rochester-Genesee Regional Transportation Authority (RGRTA) Rider Volumes:  Beginning 2006	Table
+T_Port Authority Trans-Hudson (PATH) Monthly Ridership: Beginning 1996	Port Authority Trans-Hudson (PATH) Monthly Ridership: Beginning 1996	Table
+T_Annual Cash or EZPass Usage Line Graph	Annual Cash or EZPass Usage Line Graph	Table
+T_PreK Riders by Transportation Site	PreK Riders by Transportation Site	Table
+T_Sign Posts in Colorado	Sign Posts in Colorado	Table
+T_Routes by Transportation Sites	Routes by Transportation Sites	Table
+T_PreK Vendors by Transportation Site	PreK Vendors by Transportation Site	Table
+T_Transit Ridership in Colorado	Transit Ridership in Colorado	Table
+T_Rochester-Genesee Regional Transportation Authority (RGRTA) Subsidiary's Yearly Average of Percent of Buses Running on Time: Beginning 2009	Rochester-Genesee Regional Transportation Authority (RGRTA) Subsidiary's Yearly Average of Percent of Buses Running on Time: Beginning 2009	Table
+T_Annual Overweight Load (AOL) Permits Stipulations	Annual Overweight Load (AOL) Permits Stipulations	Table
+T_Traffic Tickets Issued, Number of Tickets by Licensing State and Violation	Traffic Tickets Issued, Number of Tickets by Licensing State and Violation	Table
+T_Traffic Tickets Issued, Number of Tickets Issued by Year, Month, Day of Week, and Violation	Traffic Tickets Issued, Number of Tickets Issued by Year, Month, Day of Week, and Violation	Table
+A_class 3 h	class 3 h	Attribute
+A_class 2 h	class 2 h	Attribute
+A_class 3 l	class 3 l	Attribute
+A_class 7 h	class 7 h	Attribute
+A_class 2 l	class 2 l	Attribute
+A_class 6 h	class 6 h	Attribute
+A_year	year	Attribute
+A_class 5 h	class 5 h	Attribute
+A_class 4 h	class 4 h	Attribute
+A_class 4 l	class 4 l	Attribute
+A_class 7 s	class 7 s	Attribute
+A_exit	exit	Attribute
+A_class 6 s	class 6 s	Attribute
+A_total	total	Attribute
+A_class 5 s	class 5 s	Attribute
+A_non- revenue	non- revenue	Attribute
+A_permit	permit	Attribute
+A_entrance	entrance	Attribute
+A_nys municipal boundaries	nys municipal boundaries	Attribute
+A_suffix	suffix	Attribute
+A_mode	mode	Attribute
+A_fund id	fund id	Attribute
+A_milepost	milepost	Attribute
+A_route	route	Attribute
+A_mapped location	mapped location	Attribute
+A_direction	direction	Attribute
+A_miles	miles	Attribute
+A_license number	license number	Attribute
+A_new york zip codes	new york zip codes	Attribute
+A_source	source	Attribute
+A_conviction description	conviction description	Attribute
+A_permit number	permit number	Attribute
+A_sale yr	sale yr	Attribute
+A_date designated	date designated	Attribute
+A_stipulation id	stipulation id	Attribute
+A_minor arterial dvmt	minor arterial dvmt	Attribute
+A_the geom	the geom	Attribute
+A_sale type	sale type	Attribute
+A_length	length	Attribute
+A_date	date	Attribute
+A_pu location id	pu location id	Attribute
+A_permit id	permit id	Attribute
+A_month of conviction	month of conviction	Attribute
+A_fuel type	fuel type	Attribute
+A_effective date	effective date	Attribute
+A_drv cs d	drv cs d	Attribute
+A_first approach	first approach	Attribute
+A_sale item no	sale item no	Attribute
+A_return	return	Attribute
+A_edla	edla	Attribute
+A_station id	station id	Attribute
+A_state of license	state of license	Attribute
+A_town index	town index	Attribute
+A_rides	rides	Attribute
+A_issue date	issue date	Attribute
+A_municipality	municipality	Attribute
+A_ehail fee	ehail fee	Attribute
+A_vendor id	vendor id	Attribute
+A_num axles	num axles	Attribute
+A_speed	speed	Attribute
+A_minute	minute	Attribute
+A_second	second	Attribute
+A_hour	hour	Attribute
+A_month	month	Attribute
+A_wheelbase	wheelbase	Attribute
+A_class	class	Attribute
+A_day	day	Attribute
+A_lane	lane	Attribute
+A_site name	site name	Attribute
+A_slab 10	slab 10	Attribute
+A_payment type	payment type	Attribute
+A_deliver package locker	deliver package locker	Attribute
+A_record type	record type	Attribute
+A_replace post	replace post	Attribute
+A_fee type	fee type	Attribute
+A_minor collector miles	minor collector miles	Attribute
+A_tost	tost	Attribute
+A_last date updated	last date updated	Attribute
+A_longitude	longitude	Attribute
+A_year of conviction	year of conviction	Attribute
+A_school year	school year	Attribute
+A_rut 09	rut 09	Attribute
+A_grades c	grades c	Attribute
+A_violation month	violation month	Attribute
+A_vehicle count	vehicle count	Attribute
+A_county	county	Attribute
+A_end centroid latitude	end centroid latitude	Attribute
+A_evnt lat	evnt lat	Attribute
+A_location	location	Attribute
+A_device type	device type	Attribute
+A_end centroid location	end centroid location	Attribute
+A_created on	created on	Attribute
+A_project location	project location	Attribute
+A_start centroid location	start centroid location	Attribute
+A_route number	route number	Attribute
+A_latitude	latitude	Attribute
+A_dd	dd	Attribute
+A_school name	school name	Attribute
+A_court name	court name	Attribute
+A_completed both training	completed both training	Attribute
+A_days lost per capita 2011	days lost per capita 2011	Attribute
+A_opening date	opening date	Attribute
+A_closing date	closing date	Attribute
+A_closing month	closing month	Attribute
+A_opening month	opening month	Attribute
+A_status	status	Attribute
+A_iri	iri	Attribute
+A_sale no	sale no	Attribute
+A_deliver none	deliver none	Attribute
+A_davidson county border	davidson county border	Attribute
+A_color	color	Attribute
+A_owning region	owning region	Attribute
+A_town	town	Attribute
+A_seg length	seg length	Attribute
+A_stop code	stop code	Attribute
+A_cpl size	cpl size	Attribute
+A_road name	road name	Attribute
+A_registration class	registration class	Attribute
+A_cmnt 2	cmnt 2	Attribute
+A_deliver food	deliver food	Attribute
+A_description	description	Attribute
+A_congestion surcharge	congestion surcharge	Attribute
+A_permit fee amount charged	permit fee amount charged	Attribute
+A_grades f	grades f	Attribute
+A_device priority	device priority	Attribute
+A_maintenance sub- area name	maintenance sub- area name	Attribute
+A_neighbourhood id	neighbourhood id	Attribute
+A_days lost in 2010	days lost in 2010	Attribute
+A_to descr	to descr	Attribute
+A_street	street	Attribute
+A_repair post	repair post	Attribute
+A_sale price	sale price	Attribute
+A_end centroid longitude	end centroid longitude	Attribute
+A_zone id	zone id	Attribute
+A_permit no	permit no	Attribute
+A_env 10	env 10	Attribute
+A_neighbourhood url	neighbourhood url	Attribute
+A_cpl aud	cpl aud	Attribute
+A_cpl ldg	cpl ldg	Attribute
+A_council district outlines	council district outlines	Attribute
+A_cpl op	cpl op	Attribute
+A_ped signal pres	ped signal pres	Attribute
+A_zip codes	zip codes	Attribute
+A_cpl place	cpl place	Attribute
+A_cpl prox	cpl prox	Attribute
+A_evnt type	evnt type	Attribute
+A_cpl ctrst	cpl ctrst	Attribute
+A_cpl force	cpl force	Attribute
+A_service districts	service districts	Attribute
+A_inspector	inspector	Attribute
+A_cpl cw 2	cpl cw 2	Attribute
+A_cpl cw 1	cpl cw 1	Attribute
+A_evnt map	evnt map	Attribute
+A_quad	quad	Attribute
+A_cpl sep	cpl sep	Attribute
+A_oa cmnt	oa cmnt	Attribute
+A_cpl vis	cpl vis	Attribute
+A_cpl hgt	cpl hgt	Attribute
+A_evnt lon	evnt lon	Attribute
+A_fips	fips	Attribute
+A_extra	extra	Attribute
+A_opt code	opt code	Attribute
+A_object id	object id	Attribute
+A_vehicle num	vehicle num	Attribute
+A_yr20 factor	yr20 factor	Attribute
+A_star denials	star denials	Attribute
+A_type	type	Attribute
+A_counties	counties	Attribute
+A_person num	person num	Attribute
+A_ride 08	ride 08	Attribute
+A_number of vehicles that used e- z pass	number of vehicles that used e- z pass	Attribute
+A_violation year	violation year	Attribute
+A_deliver package work	deliver package work	Attribute
+A_no travel no work	no travel no work	Attribute
+A_shop online	shop online	Attribute
+A_no travel no transport	no travel no transport	Attribute
+A_no travel weather	no travel weather	Attribute
+A_num deleted trips	num deleted trips	Attribute
+A_hh id	hh id	Attribute
+A_made trips	made trips	Attribute
+A_day is complete	day is complete	Attribute
+A_num complete trip surveys	num complete trip surveys	Attribute
+A_travel date	travel date	Attribute
+A_no travel capture	no travel capture	Attribute
+A_day weight	day weight	Attribute
+A_deliver service	deliver service	Attribute
+A_no travel telework	no travel telework	Attribute
+A_no travel sick	no travel sick	Attribute
+A_num trips	num trips	Attribute
+A_person id	person id	Attribute
+A_travel date dow	travel date dow	Attribute
+A_deliver other	deliver other	Attribute
+A_no travel other	no travel other	Attribute
+A_day num	day num	Attribute
+A_deliver prepared	deliver prepared	Attribute
+A_deliver package home	deliver package home	Attribute
+A_no travel housework	no travel housework	Attribute
+A_no travel kids break	no travel kids break	Attribute
+A_cms zone	cms zone	Attribute
+A_no travel delivery	no travel delivery	Attribute
+A_telecommute time	telecommute time	Attribute
+A_no travel homeschool	no travel homeschool	Attribute
+A_survey mode	survey mode	Attribute
+A_sign fuse plate in	sign fuse plate in	Attribute
+A_number of vehicles that used cash	number of vehicles that used cash	Attribute
+A_intersection	intersection	Attribute
+A_comments	comments	Attribute
+A_region	region	Attribute
+A_dot reference marker location	dot reference marker location	Attribute
+A_state plate	state plate	Attribute
+A_stipulation description	stipulation description	Attribute
+A_home park amount year	home park amount year	Attribute
+A_home park amount day	home park amount day	Attribute
+A_weight	weight	Attribute
+A_home park	home park	Attribute
+A_home park amount week	home park amount week	Attribute
+A_home park amount month	home park amount month	Attribute
+A_vehicle id	vehicle id	Attribute
+A_store and fwd flag	store and fwd flag	Attribute
+A_sign post support ft	sign post support ft	Attribute
+A_tip amount	tip amount	Attribute
+A_pmi- not on time	pmi- not on time	Attribute
+A_end community area name	end community area name	Attribute
+A_improvement surcharge	improvement surcharge	Attribute
+A_interval beginning time	interval beginning time	Attribute
+A_run by	run by	Attribute
+A_sign location id	sign location id	Attribute
+A_obj type	obj type	Attribute
+A_name	name	Attribute
+A_curves b	curves b	Attribute
+A_from descr	from descr	Attribute
+A_curves d	curves d	Attribute
+A_start time	start time	Attribute
+A_replace bollard	replace bollard	Attribute
+A_shape leng	shape leng	Attribute
+A_days lost per capita 2010	days lost per capita 2010	Attribute
+A_number of riders	number of riders	Attribute
+A_expiration date	expiration date	Attribute
+A_modified on	modified on	Attribute
+A_crash descriptor	crash descriptor	Attribute
+A_event descriptor	event descriptor	Attribute
+A_police report	police report	Attribute
+A_weather conditions	weather conditions	Attribute
+A_collision type descriptor	collision type descriptor	Attribute
+A_number of vehicles involved	number of vehicles involved	Attribute
+A_pedestrian bicyclist action	pedestrian bicyclist action	Attribute
+A_road descriptor	road descriptor	Attribute
+A_county name	county name	Attribute
+A_road surface conditions	road surface conditions	Attribute
+A_traffic control device	traffic control device	Attribute
+A_lighting conditions	lighting conditions	Attribute
+A_time	time	Attribute
+A_day of week	day of week	Attribute
+A_related permit number	related permit number	Attribute
+A_ratecode id	ratecode id	Attribute
+A_req#	req#	Attribute
+A_project status	project status	Attribute
+A_f street	f street	Attribute
+A_sale date	sale date	Attribute
+A_maintenance area number	maintenance area number	Attribute
+A_violation description	violation description	Attribute
+A_crane type short desc	crane type short desc	Attribute
+A_err cd	err cd	Attribute
+A_last time updated	last time updated	Attribute
+A_tp id	tp id	Attribute
+A_freeway miles	freeway miles	Attribute
+A_vendor	vendor	Attribute
+A_volume of loaded rail cars moved	volume of loaded rail cars moved	Attribute
+A_repair curb	repair curb	Attribute
+A_other ridership	other ridership	Attribute
+A_start centroid longitude	start centroid longitude	Attribute
+A_grades e	grades e	Attribute
+A_pmi completed	pmi completed	Attribute
+A_passenger count	passenger count	Attribute
+A_type name	type name	Attribute
+A_subsidiary	subsidiary	Attribute
+A_permit related agency desc	permit related agency desc	Attribute
+A_major colelctor miles	major colelctor miles	Attribute
+A_start community area name	start community area name	Attribute
+A_cr slp	cr slp	Attribute
+A_days lost 2011	days lost 2011	Attribute
+A_data date	data date	Attribute
+A_functional class code	functional class code	Attribute
+A_percent on- time	percent on- time	Attribute
+A_minor collector dvmt	minor collector dvmt	Attribute
+A_stop lat	stop lat	Attribute
+A_vehicle miles travelled	vehicle miles travelled	Attribute
+A_ref#	ref#	Attribute
+A_comp date	comp date	Attribute
+A_ridership	ridership	Attribute
+A_entry plaza	entry plaza	Attribute
+A_end community area number	end community area number	Attribute
+A_loaded containers volume	loaded containers volume	Attribute
+A_rtd ridership	rtd ridership	Attribute
+A_neighbourhood name	neighbourhood name	Attribute
+A_permit purpose	permit purpose	Attribute
+A_prevent accidents	prevent accidents	Attribute
+A_shape len	shape len	Attribute
+A_total amount	total amount	Attribute
+A_sign post id	sign post id	Attribute
+A_title	title	Attribute
+A_spaces	spaces	Attribute
+A_paved	paved	Attribute
+A_lighted	lighted	Attribute
+A_total trips	total trips	Attribute
+A_description line 1	description line 1	Attribute
+A_start community area number	start community area number	Attribute
+A_sign location gu id	sign location gu id	Attribute
+A_mta tax	mta tax	Attribute
+A_number of rail containers moved	number of rail containers moved	Attribute
+A_vendor name	vendor name	Attribute
+A_geometry	geometry	Attribute
+A_repaired	repaired	Attribute
+A_counts	counts	Attribute
+A_min address	min address	Attribute
+A_drv ti mat	drv ti mat	Attribute
+A_curves a	curves a	Attribute
+A_curves c	curves c	Attribute
+A_grade len	grade len	Attribute
+A_curve len	curve len	Attribute
+A_grades b	grades b	Attribute
+A_grades a	grades a	Attribute
+A_curves e	curves e	Attribute
+A_curves f	curves f	Attribute
+A_fat crack percent	fat crack percent	Attribute
+A_median	median	Attribute
+A_grades d	grades d	Attribute
+A_stipulation full text	stipulation full text	Attribute
+A_floats - number of round trips	floats - number of round trips	Attribute
+A_drv cs	drv cs	Attribute
+A_vehicle class	vehicle class	Attribute
+A_violation day of week	violation day of week	Attribute
+A_tolls amount	tolls amount	Attribute
+A_t street	t street	Attribute
+A_construction type	construction type	Attribute
+A_site	site	Attribute
+A_other mileage	other mileage	Attribute
+A_downtown passengers	downtown passengers	Attribute
+A_month- year	month- year	Attribute
+A_long	long	Attribute
+A_service interruptions	service interruptions	Attribute
+A_fixed/ shut complaints	fixed/ shut complaints	Attribute
+A_total complaints	total complaints	Attribute
+A_non- prevent accidents	non- prevent accidents	Attribute
+A_other complaints	other complaints	Attribute
+A_total riders	total riders	Attribute
+A_star riders	star riders	Attribute
+A_comp not address 10 days	comp not address 10 days	Attribute
+A_fixed riders	fixed riders	Attribute
+A_stop lon	stop lon	Attribute
+A_permit type	permit type	Attribute
+A_exit plaza	exit plaza	Attribute
+A_freeway dvmt	freeway dvmt	Attribute
+A_max address	max address	Attribute
+A_drv ld	drv ld	Attribute
+A_company id	company id	Attribute
+A_qty return	qty return	Attribute
+A_company name	company name	Attribute
+A_condition restrictions	condition restrictions	Attribute
+A_valid dates	valid dates	Attribute
+A_return date	return date	Attribute
+A_valid times	valid times	Attribute
+A_permit print date	permit print date	Attribute
+A_permit qty	permit qty	Attribute
+A_interstate miles	interstate miles	Attribute
+A_planning regions	planning regions	Attribute
+A_fare amount	fare amount	Attribute
+A_sign post support type id	sign post support type id	Attribute
+A_operation	operation	Attribute
+A_count	count	Attribute
+A_do location id	do location id	Attribute
+A_slab 08	slab 08	Attribute
+A_quarter	quarter	Attribute
+A_sw mat ty	sw mat ty	Attribute
+A_end time	end time	Attribute
+A_data collected	data collected	Attribute
+A_lpep pickup datetime	lpep pickup datetime	Attribute
+A_trip distance	trip distance	Attribute
+A_trip type	trip type	Attribute
+A_make	make	Attribute
+A_repair end	repair end	Attribute
+A_intersecting route	intersecting route	Attribute
+A_description line 2	description line 2	Attribute
+A_tpep pickup datetime	tpep pickup datetime	Attribute
+A_third approach	third approach	Attribute
+A_permit expire date	permit expire date	Attribute
+A_local miles	local miles	Attribute
+A_env 09	env 09	Attribute
+A_oci 12	oci 12	Attribute
+A_end accum	end accum	Attribute
+A_env 06	env 06	Attribute
+A_env 05	env 05	Attribute
+A_env 08	env 08	Attribute
+A_oci 11	oci 11	Attribute
+A_env 07	env 07	Attribute
+A_oci 10	oci 10	Attribute
+A_env 04	env 04	Attribute
+A_dir	dir	Attribute
+A_yr ovl	yr ovl	Attribute
+A_slab 09	slab 09	Attribute
+A_slab 07	slab 07	Attribute
+A_id	id	Attribute
+A_rut 10	rut 10	Attribute
+A_rut 11	rut 11	Attribute
+A_ride 10	ride 10	Attribute
+A_env 12	env 12	Attribute
+A_ride 11	ride 11	Attribute
+A_ride 12	ride 12	Attribute
+A_env 11	env 11	Attribute
+A_start accum	start accum	Attribute
+A_layer id	layer id	Attribute
+A_surface ty	surface ty	Attribute
+A_rut 12	rut 12	Attribute
+A_ride 06	ride 06	Attribute
+A_ride 07	ride 07	Attribute
+A_ride 04	ride 04	Attribute
+A_ride 05	ride 05	Attribute
+A_ride 09	ride 09	Attribute
+A_rut 07	rut 07	Attribute
+A_rut 08	rut 08	Attribute
+A_rut 05	rut 05	Attribute
+A_rut 06	rut 06	Attribute
+A_rut 04	rut 04	Attribute
+A_oci 04	oci 04	Attribute
+A_conk 04	conk 04	Attribute
+A_conk 05	conk 05	Attribute
+A_yr surf	yr surf	Attribute
+A_conk 06	conk 06	Attribute
+A_oci 09	oci 09	Attribute
+A_surf area	surf area	Attribute
+A_oci 06	oci 06	Attribute
+A_slab 12	slab 12	Attribute
+A_oci 05	oci 05	Attribute
+A_slab 11	slab 11	Attribute
+A_oci 08	oci 08	Attribute
+A_oci 07	oci 07	Attribute
+A_stipulation code	stipulation code	Attribute
+A_local mileage	local mileage	Attribute
+A_icon anchor	icon anchor	Attribute
+A_main route	main route	Attribute
+A_location type	location type	Attribute
+A_county mileage	county mileage	Attribute
+A_nysdot mileage	nysdot mileage	Attribute
+A_percent of vehicles that used cash	percent of vehicles that used cash	Attribute
+A_location 1	location 1	Attribute
+A_go live date	go live date	Attribute
+A_event subt	event subt	Attribute
+A_sw width	sw width	Attribute
+A_obj hgt	obj hgt	Attribute
+A_obj pot	obj pot	Attribute
+A_from	from	Attribute
+A_side	side	Attribute
+A_measure	measure	Attribute
+A_cr slp d	cr slp d	Attribute
+A_fur zn w	fur zn w	Attribute
+A_midtown passengers	midtown passengers	Attribute
+A_crane serial number	crane serial number	Attribute
+A_trip duration	trip duration	Attribute
+A_lat	lat	Attribute
+A_violation charged code	violation charged code	Attribute
+A_sign post comment	sign post comment	Attribute
+A_end census tract	end census tract	Attribute
+A_trip id	trip id	Attribute
+A_sign post base type id	sign post base type id	Attribute
+A_route id	route id	Attribute
+A_sign distance prev post	sign distance prev post	Attribute
+A_road	road	Attribute
+A_replace anchor	replace anchor	Attribute
+A_replace clip	replace clip	Attribute
+A_support type desc	support type desc	Attribute
+A_sign post brown	sign post brown	Attribute
+A_route location	route location	Attribute
+A_mapping location	mapping location	Attribute
+A_plaza name	plaza name	Attribute
+A_sign post gu id	sign post gu id	Attribute
+A_minor arterial miles	minor arterial miles	Attribute
+A_local dvmt	local dvmt	Attribute
+A_urban area	urban area	Attribute
+A_stop name	stop name	Attribute
+A_stop url	stop url	Attribute
+A_stop id	stop id	Attribute
+A_parent station	parent station	Attribute
+A_total ridership	total ridership	Attribute
+A_touring route mileage	touring route mileage	Attribute
+A_maintenance responsibility	maintenance responsibility	Attribute
+A_second approach	second approach	Attribute
+A_suffix direction	suffix direction	Attribute
+A_total centerline highway mileage	total centerline highway mileage	Attribute
+A_device number	device number	Attribute
+A_maintaining region	maintaining region	Attribute
+A_device purpose	device purpose	Attribute
+A_sign post qty	sign post qty	Attribute
+A_full street name	full street name	Attribute
+A_urban	urban	Attribute
+A_shape st le	shape st le	Attribute
+A_major collector dvmt	major collector dvmt	Attribute
+A_principal arterial miles	principal arterial miles	Attribute
+A_principal arterial dvmt	principal arterial dvmt	Attribute
+A_interstate dvmt	interstate dvmt	Attribute
+A_town num	town num	Attribute
+A_loc error	loc error	Attribute
+A_functional class	functional class	Attribute
+A_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	Attribute
+A_repair bollards	repair bollards	Attribute
+A_replace curb	replace curb	Attribute
+A_start centroid latitude	start centroid latitude	Attribute
+A_replace arc	replace arc	Attribute
+A_valid	valid	Attribute
+A_replace end	replace end	Attribute
+A_repl t- curb	repl t- curb	Attribute
+A_repair rsb	repair rsb	Attribute
+A_replace rsb	replace rsb	Attribute
+A_sign post validate date	sign post validate date	Attribute
+A_sign post exists	sign post exists	Attribute
+A_surf type	surf type	Attribute
+A_sign post condition	sign post condition	Attribute
+A_start census tract	start census tract	Attribute
+A_sign post date created	sign post date created	Attribute
+A_trip count	trip count	Attribute
+A_sign post date updated	sign post date updated	Attribute
+A_psi	psi	Attribute
+A_population	population	Attribute
+A_sign post base qty	sign post base qty	Attribute
+A_sign post inactive date	sign post inactive date	Attribute
+A_sign post inactive	sign post inactive	Attribute
