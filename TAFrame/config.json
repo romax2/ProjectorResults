@@ -1,27 +1,27 @@
 {
     "embeddings": [{
             "tensorName": "0_NYS_Thruway_Origin_a",
-            "tensorShape": [1, 60],
+            "tensorShape": [61, 384],
             "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/0_NYS_Thruway_Origin_a_embeddings.tsv",
             "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/0_NYS_Thruway_Origin_a_metadata.tsv"
         }, {
             "tensorName": "1_Weigh_in_Motion",
-            "tensorShape": [1, 60],
+            "tensorShape": [61, 384],
             "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/1_Weigh_in_Motion_embeddings.tsv",
             "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/1_Weigh_in_Motion_metadata.tsv"
         }, {
             "tensorName": "2_McKenzie_Highway_Ope",
-            "tensorShape": [1, 60],
+            "tensorShape": [61, 384],
             "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/2_McKenzie_Highway_Ope_embeddings.tsv",
             "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/2_McKenzie_Highway_Ope_metadata.tsv"
         }, {
             "tensorName": "3_Pedestrian_Signal_In",
-            "tensorShape": [1, 60],
+            "tensorShape": [61, 384],
             "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/3_Pedestrian_Signal_In_embeddings.tsv",
             "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/3_Pedestrian_Signal_In_metadata.tsv"
         }, {
             "tensorName": "4_Citywide_Mobility_Su",
-            "tensorShape": [1, 60],
+            "tensorShape": [61, 384],
             "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/4_Citywide_Mobility_Su_embeddings.tsv",
             "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/4_Citywide_Mobility_Su_metadata.tsv"
         }
