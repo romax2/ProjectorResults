@@ -1,0 +1,62 @@
+stc_label	sentence	category
+17_cta_-_performance_-_	cta - performance - unscheduled days off	Table
+IN_days lost in 2010	days lost in 2010	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_quarter	quarter	OUT
+OUT_trip duration	trip duration	OUT
+OUT_total trips	total trips	OUT
+IN_days lost per capita 2010	days lost per capita 2010	IN
+OUT_percent on- time	percent on- time	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_passenger count	passenger count	OUT
+IN_days lost per capita 2011	days lost per capita 2011	IN
+OUT_year	year	OUT
+OUT_oci 12	oci 12	OUT
+IN_days lost 2011	days lost 2011	IN
+OUT_yr20 factor	yr20 factor	OUT
+OUT_exit	exit	OUT
+OUT_stop code	stop code	OUT
+OUT_project location	project location	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_sale price	sale price	OUT
+OUT_station id	station id	OUT
+OUT_station id	station id	OUT
+OUT_effective date	effective date	OUT
+OUT_the geom	the geom	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_surf type	surf type	OUT
+OUT_registration class	registration class	OUT
+OUT_modified on	modified on	OUT
+OUT_route	route	OUT
+OUT_shape st le	shape st le	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_payment type	payment type	OUT
+OUT_created on	created on	OUT
+IN_mode	mode	IN
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_deliver package home	deliver package home	OUT
+OUT_county	county	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_cms zone	cms zone	OUT
+OUT_fixed riders	fixed riders	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_geometry	geometry	OUT
+OUT_repl t- curb	repl t- curb	OUT
+OUT_repl t- curb	repl t- curb	OUT
+OUT_fixed/ shut complaints	fixed/ shut complaints	OUT
+OUT_sale type	sale type	OUT
+OUT_support type desc	support type desc	OUT
+OUT_permit type	permit type	OUT
+OUT_sale no	sale no	OUT
+OUT_rides	rides	OUT
+OUT_ref#	ref#	OUT
+OUT_ref#	ref#	OUT

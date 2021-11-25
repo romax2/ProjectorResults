@@ -1,0 +1,62 @@
+stc_label	sentence	category
+24_e-scooter_trips_-_ce	e-scooter trips - census tract summary - 2020	Table
+IN_trip count	trip count	IN
+OUT_route id	route id	OUT
+OUT_shape leng	shape leng	OUT
+OUT_ridership	ridership	OUT
+OUT_length	length	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_ped signal pres	ped signal pres	OUT
+IN_end community area number	end community area number	IN
+OUT_route	route	OUT
+IN_end community area name	end community area name	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_day of week	day of week	OUT
+IN_start community area number	start community area number	IN
+OUT_ratecode id	ratecode id	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_start community area name	start community area name	IN
+IN_start census tract	start census tract	IN
+OUT_yr20 factor	yr20 factor	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_class 7 s	class 7 s	OUT
+OUT_counties	counties	OUT
+OUT_counties	counties	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_year of conviction	year of conviction	OUT
+IN_end census tract	end census tract	IN
+OUT_entrance	entrance	OUT
+OUT_name	name	OUT
+OUT_crash descriptor	crash descriptor	OUT
+IN_start centroid location	start centroid location	IN
+IN_start centroid latitude	start centroid latitude	IN
+OUT_date	date	OUT
+IN_start centroid longitude	start centroid longitude	IN
+OUT_do location id	do location id	OUT
+OUT_pedestrian bicyclist action	pedestrian bicyclist action	OUT
+OUT_registration class	registration class	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_functional class code	functional class code	OUT
+OUT_direction	direction	OUT
+OUT_permit number	permit number	OUT
+OUT_sale type	sale type	OUT
+IN_end centroid longitude	end centroid longitude	IN
+IN_end centroid location	end centroid location	IN
+OUT_midtown passengers	midtown passengers	OUT
+OUT_color	color	OUT
+OUT_opt code	opt code	OUT
+IN_end centroid latitude	end centroid latitude	IN
+OUT_closing date	closing date	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_intersection	intersection	OUT
+OUT_court name	court name	OUT
+OUT_court name	court name	OUT

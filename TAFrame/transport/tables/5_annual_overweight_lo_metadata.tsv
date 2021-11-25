@@ -1,0 +1,62 @@
+stc_label	sentence	category
+5_annual_overweight_lo	annual overweight load (aol) permits stipulations	Table
+IN_stipulation id	stipulation id	IN
+OUT_valid	valid	OUT
+OUT_county	county	OUT
+OUT_last date updated	last date updated	OUT
+OUT_date	date	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_latitude	latitude	OUT
+OUT_street	street	OUT
+OUT_street	street	OUT
+OUT_exit	exit	OUT
+IN_stipulation code	stipulation code	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_deliver none	deliver none	OUT
+OUT_planning regions	planning regions	OUT
+OUT_station id	station id	OUT
+OUT_stop url	stop url	OUT
+OUT_start community area name	start community area name	OUT
+OUT_start community area name	start community area name	OUT
+OUT_length	length	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_counties	counties	OUT
+OUT_month- year	month- year	OUT
+OUT_collision type descriptor	collision type descriptor	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_total amount	total amount	OUT
+IN_stipulation description	stipulation description	IN
+OUT_trip count	trip count	OUT
+OUT_mode	mode	OUT
+OUT_curves c	curves c	OUT
+OUT_start community area number	start community area number	OUT
+OUT_start community area number	start community area number	OUT
+OUT_class 5 h	class 5 h	OUT
+OUT_minute	minute	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_total riders	total riders	OUT
+OUT_device type	device type	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_project status	project status	OUT
+OUT_project status	project status	OUT
+OUT_court name	court name	OUT
+OUT_court name	court name	OUT
+OUT_rides	rides	OUT
+OUT_state plate	state plate	OUT
+OUT_company name	company name	OUT
+IN_permit number	permit number	IN
+IN_permit id	permit id	IN
+OUT_route number	route number	OUT
+OUT_sign post date created	sign post date created	OUT
+OUT_opening date	opening date	OUT
+OUT_type name	type name	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

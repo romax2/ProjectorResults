@@ -1,0 +1,62 @@
+stc_label	sentence	category
+41_nys_thruway_origin_a	nys thruway origin and destination points for all vehicles - 15 minute intervals: latest full week	Table
+OUT_downtown passengers	downtown passengers	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_home park amount year	home park amount year	OUT
+OUT_closing month	closing month	OUT
+IN_interval beginning time	interval beginning time	IN
+OUT_curve len	curve len	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_school year	school year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_exit plaza	exit plaza	OUT
+OUT_comp date	comp date	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_construction type	construction type	OUT
+IN_vehicle count	vehicle count	IN
+OUT_violation day of week	violation day of week	OUT
+OUT_fips	fips	OUT
+IN_date	date	IN
+IN_vehicle class	vehicle class	IN
+OUT_date designated	date designated	OUT
+OUT_street	street	OUT
+IN_exit	exit	IN
+OUT_registration class	registration class	OUT
+OUT_record type	record type	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_permit number	permit number	OUT
+OUT_counties	counties	OUT
+IN_entrance	entrance	IN
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT
+OUT_created on	created on	OUT
+OUT_permit no	permit no	OUT
+OUT_company name	company name	OUT
+OUT_fuel type	fuel type	OUT
+OUT_fuel type	fuel type	OUT
+OUT_type	type	OUT
+OUT_related permit number	related permit number	OUT
+OUT_stop lon	stop lon	OUT
+IN_payment type	payment type	IN
+OUT_permit print date	permit print date	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_sign fuse plate in	sign fuse plate in	OUT
+OUT_expiration date	expiration date	OUT
+OUT_shape st le	shape st le	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_description	description	OUT
+OUT_valid	valid	OUT
+OUT_geometry	geometry	OUT
+OUT_description line 1	description line 1	OUT
+OUT_type name	type name	OUT
+OUT_milepost	milepost	OUT
+OUT_suffix	suffix	OUT
+OUT_owning region	owning region	OUT

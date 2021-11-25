@@ -1,0 +1,62 @@
+stc_label	sentence	category
+11_chicago_street_names	chicago street names	Table
+OUT_location	location	OUT
+IN_street	street	IN
+OUT_neighbourhood name	neighbourhood name	OUT
+IN_full street name	full street name	IN
+OUT_site	site	OUT
+OUT_municipality	municipality	OUT
+OUT_station id	station id	OUT
+IN_min address	min address	IN
+OUT_the geom	the geom	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_school year	school year	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_name	name	OUT
+OUT_quarter	quarter	OUT
+OUT_total amount	total amount	OUT
+OUT_tolls amount	tolls amount	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_trip type	trip type	OUT
+OUT_trip distance	trip distance	OUT
+OUT_tip amount	tip amount	OUT
+OUT_dd	dd	OUT
+OUT_curves b	curves b	OUT
+OUT_curves b	curves b	OUT
+OUT_opening month	opening month	OUT
+OUT_curves a	curves a	OUT
+OUT_sale price	sale price	OUT
+OUT_to descr	to descr	OUT
+OUT_repair end	repair end	OUT
+OUT_registration class	registration class	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_created on	created on	OUT
+OUT_date designated	date designated	OUT
+OUT_date designated	date designated	OUT
+OUT_make	make	OUT
+IN_direction	direction	IN
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_permit no	permit no	OUT
+OUT_opt code	opt code	OUT
+OUT_rides	rides	OUT
+OUT_description line 1	description line 1	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_license number	license number	OUT
+OUT_obj pot	obj pot	OUT
+IN_suffix direction	suffix direction	IN
+OUT_title	title	OUT
+OUT_court name	court name	OUT
+OUT_replace post	replace post	OUT
+IN_suffix	suffix	IN
+OUT_first approach	first approach	OUT
+OUT_edla	edla	OUT
+IN_max address	max address	IN

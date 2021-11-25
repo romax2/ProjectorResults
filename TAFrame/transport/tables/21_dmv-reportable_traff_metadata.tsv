@@ -1,0 +1,62 @@
+stc_label	sentence	category
+21_dmv-reportable_traff	dmv-reportable traffic ticket conviction counts by year and court	Table
+IN_year of conviction	year of conviction	IN
+IN_month of conviction	month of conviction	IN
+OUT_record type	record type	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_passenger count	passenger count	OUT
+OUT_year	year	OUT
+OUT_grades f	grades f	OUT
+OUT_grades a	grades a	OUT
+OUT_mta tax	mta tax	OUT
+IN_conviction description	conviction description	IN
+OUT_dd	dd	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_fips	fips	OUT
+OUT_location 1	location 1	OUT
+OUT_total trips	total trips	OUT
+OUT_total trips	total trips	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_tolls amount	tolls amount	OUT
+OUT_planning regions	planning regions	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_curves e	curves e	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_site name	site name	OUT
+OUT_trip distance	trip distance	OUT
+OUT_other mileage	other mileage	OUT
+OUT_other mileage	other mileage	OUT
+OUT_counties	counties	OUT
+OUT_to descr	to descr	OUT
+OUT_sale price	sale price	OUT
+OUT_effective date	effective date	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_project status	project status	OUT
+OUT_project status	project status	OUT
+OUT_icon anchor	icon anchor	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_modified on	modified on	OUT
+OUT_closing month	closing month	OUT
+OUT_star denials	star denials	OUT
+OUT_end centroid longitude	end centroid longitude	OUT
+OUT_source	source	OUT
+OUT_permit number	permit number	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+OUT_sale type	sale type	OUT
+OUT_state of license	state of license	OUT
+OUT_related permit number	related permit number	OUT
+OUT_go live date	go live date	OUT
+OUT_police report	police report	OUT
+OUT_rides	rides	OUT
+OUT_sign fuse plate in	sign fuse plate in	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_opening date	opening date	OUT
+IN_court name	court name	IN
+OUT_comments	comments	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

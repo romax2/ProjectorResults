@@ -1,0 +1,62 @@
+stc_label	sentence	category
+39_motor_vehicle_crashe	motor vehicle crashes - case information: three year window	Table
+OUT_conviction description	conviction description	OUT
+OUT_record type	record type	OUT
+IN_number of vehicles involved	number of vehicles involved	IN
+OUT_err cd	err cd	OUT
+IN_year	year	IN
+OUT_f street	f street	OUT
+OUT_f street	f street	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_req#	req#	OUT
+OUT_req#	req#	OUT
+OUT_location	location	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_latitude	latitude	OUT
+OUT_crane type short desc	crane type short desc	OUT
+IN_day of week	day of week	IN
+OUT_tp id	tp id	OUT
+OUT_site name	site name	OUT
+IN_dot reference marker location	dot reference marker location	IN
+IN_time	time	IN
+OUT_miles	miles	OUT
+IN_date	date	IN
+OUT_fips	fips	OUT
+IN_municipality	municipality	IN
+OUT_the geom	the geom	OUT
+IN_pedestrian bicyclist action	pedestrian bicyclist action	IN
+OUT_modified on	modified on	OUT
+OUT_registration class	registration class	OUT
+OUT_counties	counties	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_maintenance area number	maintenance area number	OUT
+IN_crash descriptor	crash descriptor	IN
+IN_event descriptor	event descriptor	IN
+OUT_ratecode id	ratecode id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+IN_collision type descriptor	collision type descriptor	IN
+OUT_fuel type	fuel type	OUT
+OUT_project status	project status	OUT
+OUT_mode	mode	OUT
+IN_weather conditions	weather conditions	IN
+OUT_violation description	violation description	OUT
+IN_road surface conditions	road surface conditions	IN
+OUT_no travel telework	no travel telework	OUT
+OUT_sale date	sale date	OUT
+OUT_sale date	sale date	OUT
+OUT_last time updated	last time updated	OUT
+OUT_state of license	state of license	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+IN_police report	police report	IN
+OUT_route number	route number	OUT
+OUT_route number	route number	OUT
+OUT_related permit number	related permit number	OUT
+OUT_opt code	opt code	OUT
+IN_road descriptor	road descriptor	IN
+IN_county name	county name	IN
+OUT_court name	court name	OUT
+OUT_comments	comments	OUT
+OUT_zone id	zone id	OUT
+IN_lighting conditions	lighting conditions	IN
+IN_traffic control device	traffic control device	IN

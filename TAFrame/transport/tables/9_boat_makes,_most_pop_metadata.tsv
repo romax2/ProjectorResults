@@ -1,0 +1,62 @@
+stc_label	sentence	category
+9_boat_makes,_most_pop	boat makes, most popular in new york state	Table
+OUT_obj pot	obj pot	OUT
+IN_make	make	IN
+OUT_cpl ctrst	cpl ctrst	OUT
+OUT_rides	rides	OUT
+OUT_rides	rides	OUT
+OUT_type name	type name	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_opt code	opt code	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_exit	exit	OUT
+OUT_sale date	sale date	OUT
+OUT_sale price	sale price	OUT
+OUT_tip amount	tip amount	OUT
+OUT_stop name	stop name	OUT
+OUT_non- revenue	non- revenue	OUT
+OUT_miles	miles	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_site name	site name	OUT
+OUT_req#	req#	OUT
+OUT_mta tax	mta tax	OUT
+OUT_mta tax	mta tax	OUT
+OUT_construction type	construction type	OUT
+OUT_street	street	OUT
+OUT_site	site	OUT
+OUT_cpl cw 1	cpl cw 1	OUT
+OUT_county	county	OUT
+OUT_fee type	fee type	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_length	length	OUT
+OUT_curves a	curves a	OUT
+OUT_total	total	OUT
+OUT_trip id	trip id	OUT
+IN_registration class	registration class	IN
+IN_record type	record type	IN
+OUT_route	route	OUT
+OUT_oci 12	oci 12	OUT
+OUT_min address	min address	OUT
+OUT_year	year	OUT
+OUT_drv cs	drv cs	OUT
+OUT_replace bollard	replace bollard	OUT
+OUT_effective date	effective date	OUT
+OUT_id	id	OUT
+OUT_closing month	closing month	OUT
+OUT_school name	school name	OUT
+OUT_police report	police report	OUT
+OUT_town index	town index	OUT
+OUT_sign post validate date	sign post validate date	OUT
+OUT_maintenance responsibility	maintenance responsibility	OUT
+OUT_comments	comments	OUT
+OUT_county name	county name	OUT
+OUT_permit purpose	permit purpose	OUT
+OUT_end time	end time	OUT
+OUT_parent station	parent station	OUT
+OUT_parent station	parent station	OUT
+OUT_parent station	parent station	OUT
+OUT_end centroid location	end centroid location	OUT
+OUT_description	description	OUT
+OUT_pu location id	pu location id	OUT
+OUT_intersection	intersection	OUT
+OUT_intersection	intersection	OUT

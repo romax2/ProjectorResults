@@ -1,0 +1,62 @@
+stc_label	sentence	category
+10_capital_district_tra	capital district transportation authority (cdta) performance metrics: beginning 2009	Table
+IN_month- year	month- year	IN
+OUT_class 2 h	class 2 h	OUT
+OUT_percent on- time	percent on- time	OUT
+IN_total riders	total riders	IN
+OUT_counts	counts	OUT
+OUT_counts	counts	OUT
+OUT_grades a	grades a	OUT
+OUT_fips	fips	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_pmi- not on time	pmi- not on time	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_drv ld	drv ld	OUT
+IN_miles	miles	IN
+OUT_min address	min address	OUT
+IN_total complaints	total complaints	IN
+IN_pmi completed	pmi completed	IN
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_length	length	OUT
+OUT_counties	counties	OUT
+OUT_project location	project location	OUT
+OUT_longitude	longitude	OUT
+OUT_station id	station id	OUT
+OUT_station id	station id	OUT
+OUT_evnt type	evnt type	OUT
+OUT_exit plaza	exit plaza	OUT
+OUT_name	name	OUT
+OUT_stop lon	stop lon	OUT
+OUT_fuel type	fuel type	OUT
+OUT_route	route	OUT
+OUT_created on	created on	OUT
+OUT_date	date	OUT
+IN_star denials	star denials	IN
+IN_service interruptions	service interruptions	IN
+OUT_closing month	closing month	OUT
+OUT_permit id	permit id	OUT
+OUT_county	county	OUT
+OUT_geometry	geometry	OUT
+OUT_geometry	geometry	OUT
+IN_fixed riders	fixed riders	IN
+OUT_source	source	OUT
+OUT_permit type	permit type	OUT
+OUT_repaired	repaired	OUT
+IN_fixed/ shut complaints	fixed/ shut complaints	IN
+OUT_violation description	violation description	OUT
+IN_other complaints	other complaints	IN
+OUT_freeway dvmt	freeway dvmt	OUT
+IN_non- prevent accidents	non- prevent accidents	IN
+OUT_state of license	state of license	OUT
+IN_comp not address 10 days	comp not address 10 days	IN
+OUT_max address	max address	OUT
+OUT_edla	edla	OUT
+OUT_traffic control device	traffic control device	OUT
+IN_prevent accidents	prevent accidents	IN
+IN_star riders	star riders	IN

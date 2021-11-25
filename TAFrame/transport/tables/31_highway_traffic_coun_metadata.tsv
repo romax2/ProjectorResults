@@ -1,0 +1,62 @@
+stc_label	sentence	category
+31_highway_traffic_coun	highway traffic counts in colorado 2018	Table
+OUT_class 5 h	class 5 h	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_num trips	num trips	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+IN_yr20 factor	yr20 factor	IN
+OUT_count	count	OUT
+OUT_total trips	total trips	OUT
+OUT_cmnt 2	cmnt 2	OUT
+IN_dd	dd	IN
+OUT_day of week	day of week	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_quarter	quarter	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_pmi- not on time	pmi- not on time	OUT
+OUT_record type	record type	OUT
+IN_length	length	IN
+OUT_trip type	trip type	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_stop code	stop code	OUT
+OUT_site name	site name	OUT
+OUT_site name	site name	OUT
+OUT_site name	site name	OUT
+OUT_latitude	latitude	OUT
+OUT_fuel type	fuel type	OUT
+OUT_station id	station id	OUT
+OUT_tolls amount	tolls amount	OUT
+OUT_home park	home park	OUT
+IN_route	route	IN
+IN_the geom	the geom	IN
+OUT_weather conditions	weather conditions	OUT
+OUT_town index	town index	OUT
+OUT_date	date	OUT
+OUT_violation month	violation month	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_other ridership	other ridership	OUT
+OUT_direction	direction	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_violation description	violation description	OUT
+OUT_rides	rides	OUT
+OUT_type	type	OUT
+OUT_opt code	opt code	OUT
+OUT_opening date	opening date	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_replace post	replace post	OUT
+OUT_replace end	replace end	OUT
+OUT_replace end	replace end	OUT
+IN_edla	edla	IN
+OUT_suffix	suffix	OUT
+OUT_court name	court name	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+47_prek_vendors_by_tran	prek vendors by transportation site	Table
+IN_vendor name	vendor name	IN
+OUT_start community area number	start community area number	OUT
+OUT_council district outlines	council district outlines	OUT
+OUT_station id	station id	OUT
+IN_site name	site name	IN
+OUT_location	location	OUT
+IN_school year	school year	IN
+OUT_rut 09	rut 09	OUT
+OUT_construction type	construction type	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_class 4 l	class 4 l	OUT
+OUT_oci 12	oci 12	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_do location id	do location id	OUT
+OUT_hh id	hh id	OUT
+OUT_record type	record type	OUT
+OUT_latitude	latitude	OUT
+IN_school name	school name	IN
+OUT_cpl ldg	cpl ldg	OUT
+OUT_fat crack percent	fat crack percent	OUT
+OUT_population	population	OUT
+OUT_length	length	OUT
+OUT_shape leng	shape leng	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_violation year	violation year	OUT
+OUT_id	id	OUT
+OUT_conviction description	conviction description	OUT
+OUT_date	date	OUT
+OUT_permit id	permit id	OUT
+OUT_registration class	registration class	OUT
+OUT_county	county	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_interstate miles	interstate miles	OUT
+OUT_fixed riders	fixed riders	OUT
+OUT_license number	license number	OUT
+OUT_deliver prepared	deliver prepared	OUT
+OUT_make	make	OUT
+OUT_freeway dvmt	freeway dvmt	OUT
+OUT_description	description	OUT
+OUT_description line 2	description line 2	OUT
+OUT_route location	route location	OUT
+OUT_type	type	OUT
+OUT_type	type	OUT
+OUT_no travel homeschool	no travel homeschool	OUT
+IN_opt code	opt code	IN
+OUT_opening date	opening date	OUT
+OUT_sign post support type id	sign post support type id	OUT
+OUT_replace arc	replace arc	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_second approach	second approach	OUT
+OUT_star riders	star riders	OUT
+OUT_prevent accidents	prevent accidents	OUT
+OUT_prevent accidents	prevent accidents	OUT

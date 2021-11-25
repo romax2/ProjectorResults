@@ -1,0 +1,62 @@
+stc_label	sentence	category
+34_hov_and_restricted_d	hov and restricted driving lanes in colorado	Table
+OUT_midtown passengers	midtown passengers	OUT
+OUT_major collector dvmt	major collector dvmt	OUT
+OUT_id	id	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_planning regions	planning regions	OUT
+OUT_counties	counties	OUT
+OUT_road descriptor	road descriptor	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_pmi- not on time	pmi- not on time	OUT
+OUT_month	month	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_road name	road name	OUT
+OUT_conviction description	conviction description	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_date	date	OUT
+OUT_latitude	latitude	OUT
+OUT_construction type	construction type	OUT
+OUT_record type	record type	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_hh id	hh id	OUT
+IN_fips	fips	IN
+OUT_sale item no	sale item no	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_violation year	violation year	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_entry plaza	entry plaza	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_fuel type	fuel type	OUT
+OUT_registration class	registration class	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_permit number	permit number	OUT
+IN_length	length	IN
+OUT_home park amount day	home park amount day	OUT
+OUT_cr slp	cr slp	OUT
+OUT_repaired	repaired	OUT
+OUT_no travel sick	no travel sick	OUT
+OUT_shape leng	shape leng	OUT
+OUT_second	second	OUT
+OUT_num axles	num axles	OUT
+OUT_valid	valid	OUT
+IN_route	route	IN
+OUT_license number	license number	OUT
+OUT_mode	mode	OUT
+OUT_county	county	OUT
+OUT_court name	court name	OUT
+OUT_sign post base qty	sign post base qty	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_rides	rides	OUT
+OUT_road surface conditions	road surface conditions	OUT

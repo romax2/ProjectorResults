@@ -1,0 +1,62 @@
+stc_label	sentence	category
+1_2020_green_taxi_trip	2020 green taxi trip data	Table
+OUT_data collected	data collected	OUT
+IN_lpep pickup datetime	lpep pickup datetime	IN
+IN_trip distance	trip distance	IN
+IN_mta tax	mta tax	IN
+OUT_oa cmnt	oa cmnt	OUT
+IN_passenger count	passenger count	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+IN_trip type	trip type	IN
+OUT_day weight	day weight	OUT
+OUT_count	count	OUT
+OUT_year	year	OUT
+OUT_class 2 h	class 2 h	OUT
+IN_total amount	total amount	IN
+OUT_class 5 s	class 5 s	OUT
+IN_fare amount	fare amount	IN
+OUT_cpl size	cpl size	OUT
+OUT_data date	data date	OUT
+OUT_service districts	service districts	OUT
+IN_tip amount	tip amount	IN
+OUT_new york zip codes	new york zip codes	OUT
+OUT_exit	exit	OUT
+IN_congestion surcharge	congestion surcharge	IN
+OUT_exit plaza	exit plaza	OUT
+IN_tolls amount	tolls amount	IN
+OUT_maintenance area number	maintenance area number	OUT
+IN_ratecode id	ratecode id	IN
+OUT_to descr	to descr	OUT
+OUT_counties	counties	OUT
+OUT_counties	counties	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_route	route	OUT
+OUT_repair end	repair end	OUT
+IN_do location id	do location id	IN
+OUT_date	date	OUT
+OUT_violation day of week	violation day of week	OUT
+IN_pu location id	pu location id	IN
+OUT_created on	created on	OUT
+IN_improvement surcharge	improvement surcharge	IN
+IN_extra	extra	IN
+IN_ehail fee	ehail fee	IN
+IN_payment type	payment type	IN
+OUT_make	make	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_no travel telework	no travel telework	OUT
+IN_store and fwd flag	store and fwd flag	IN
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+IN_vendor id	vendor id	IN
+OUT_geometry	geometry	OUT
+OUT_rides	rides	OUT
+OUT_deliver none	deliver none	OUT
+OUT_type	type	OUT
+OUT_description line 2	description line 2	OUT
+OUT_description	description	OUT
+OUT_ref#	ref#	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_sw mat ty	sw mat ty	OUT
+OUT_intersecting route	intersecting route	OUT
+OUT_edla	edla	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+7_bicycle_counts	bicycle counts	Table
+IN_counts	counts	IN
+OUT_grades b	grades b	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_total riders	total riders	OUT
+OUT_month- year	month- year	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_curves e	curves e	OUT
+OUT_record type	record type	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_touring route mileage	touring route mileage	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_exit	exit	OUT
+OUT_municipality	municipality	OUT
+OUT_town	town	OUT
+OUT_subsidiary	subsidiary	OUT
+IN_site	site	IN
+OUT_urban area	urban area	OUT
+OUT_opening month	opening month	OUT
+OUT_school name	school name	OUT
+OUT_name	name	OUT
+OUT_name	name	OUT
+IN_date	date	IN
+OUT_project status	project status	OUT
+OUT_registration class	registration class	OUT
+OUT_mode	mode	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_functional class code	functional class code	OUT
+OUT_lighted	lighted	OUT
+IN_id	id	IN
+OUT_permit	permit	OUT
+OUT_permit type	permit type	OUT
+OUT_expiration date	expiration date	OUT
+OUT_sale type	sale type	OUT
+OUT_related permit number	related permit number	OUT
+OUT_maintenance responsibility	maintenance responsibility	OUT
+OUT_maintenance responsibility	maintenance responsibility	OUT
+OUT_downtown passengers	downtown passengers	OUT
+IN_status	status	IN
+OUT_local dvmt	local dvmt	OUT
+OUT_description line 2	description line 2	OUT
+OUT_suffix direction	suffix direction	OUT
+OUT_comments	comments	OUT
+OUT_second approach	second approach	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

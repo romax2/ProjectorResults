@@ -1,0 +1,62 @@
+stc_label	sentence	category
+45_port_authority_trans	port authority trans-hudson (path) monthly ridership: beginning 1996	Table
+IN_month	month	IN
+OUT_vehicle count	vehicle count	OUT
+OUT_record type	record type	OUT
+IN_year	year	IN
+IN_total trips	total trips	IN
+OUT_total amount	total amount	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_curves b	curves b	OUT
+OUT_cr slp	cr slp	OUT
+OUT_comp date	comp date	OUT
+OUT_location	location	OUT
+OUT_miles	miles	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_mapping location	mapping location	OUT
+OUT_f street	f street	OUT
+OUT_latitude	latitude	OUT
+OUT_person id	person id	OUT
+OUT_town	town	OUT
+OUT_start community area name	start community area name	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_station id	station id	OUT
+OUT_shape leng	shape leng	OUT
+OUT_evnt map	evnt map	OUT
+OUT_region	region	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_the geom	the geom	OUT
+OUT_ratecode id	ratecode id	OUT
+OUT_name	name	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_shape st le	shape st le	OUT
+OUT_last date updated	last date updated	OUT
+OUT_extra	extra	OUT
+OUT_drv ti mat	drv ti mat	OUT
+OUT_sale item no	sale item no	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_violation description	violation description	OUT
+OUT_permit type	permit type	OUT
+OUT_route number	route number	OUT
+OUT_freeway dvmt	freeway dvmt	OUT
+OUT_opt code	opt code	OUT
+OUT_description line 1	description line 1	OUT
+OUT_description line 1	description line 1	OUT
+OUT_sign post exists	sign post exists	OUT
+OUT_issue date	issue date	OUT
+OUT_replace arc	replace arc	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_replace post	replace post	OUT
+OUT_suffix	suffix	OUT
+OUT_intersecting route	intersecting route	OUT

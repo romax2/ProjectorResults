@@ -1,0 +1,62 @@
+stc_label	sentence	category
+30_highway_traffic_coun	highway traffic counts in colorado 2017	Table
+OUT_class 7 h	class 7 h	OUT
+OUT_class 3 l	class 3 l	OUT
+IN_yr20 factor	yr20 factor	IN
+OUT_passenger count	passenger count	OUT
+OUT_counts	counts	OUT
+OUT_count	count	OUT
+IN_dd	dd	IN
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_total ridership	total ridership	OUT
+OUT_drv ld	drv ld	OUT
+OUT_trip duration	trip duration	OUT
+OUT_hour	hour	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_speed	speed	OUT
+OUT_minor arterial dvmt	minor arterial dvmt	OUT
+OUT_record type	record type	OUT
+IN_length	length	IN
+OUT_full street name	full street name	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_start community area number	start community area number	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_start community area name	start community area name	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_road name	road name	OUT
+OUT_street	street	OUT
+OUT_longitude	longitude	OUT
+OUT_exit	exit	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_station id	station id	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_repair end	repair end	OUT
+OUT_entry plaza	entry plaza	OUT
+OUT_start time	start time	OUT
+OUT_school name	school name	OUT
+IN_route	route	IN
+IN_loc error	loc error	IN
+OUT_name	name	OUT
+IN_the geom	the geom	IN
+OUT_violation year	violation year	OUT
+OUT_project status	project status	OUT
+IN_shape st le	shape st le	IN
+OUT_date	date	OUT
+OUT_permit number	permit number	OUT
+OUT_minor collector miles	minor collector miles	OUT
+OUT_type	type	OUT
+OUT_type	type	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_opening date	opening date	OUT
+IN_edla	edla	IN
+OUT_permit fee amount charged	permit fee amount charged	OUT

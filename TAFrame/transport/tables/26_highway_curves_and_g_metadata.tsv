@@ -1,0 +1,62 @@
+stc_label	sentence	category
+26_highway_curves_and_g	highway curves and grades in colorado	Table
+IN_curves f	curves f	IN
+IN_curves e	curves e	IN
+IN_curves a	curves a	IN
+IN_grades f	grades f	IN
+IN_curves c	curves c	IN
+OUT_home park amount year	home park amount year	OUT
+IN_grades e	grades e	IN
+OUT_other mileage	other mileage	OUT
+IN_curves b	curves b	IN
+IN_curves d	curves d	IN
+IN_grades d	grades d	IN
+IN_grades b	grades b	IN
+IN_grades c	grades c	IN
+IN_grades a	grades a	IN
+OUT_mta tax	mta tax	OUT
+OUT_cmnt 2	cmnt 2	OUT
+OUT_month- year	month- year	OUT
+IN_length	length	IN
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_record type	record type	OUT
+OUT_end community area name	end community area name	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_start community area number	start community area number	OUT
+IN_route	route	IN
+OUT_street	street	OUT
+OUT_min address	min address	OUT
+OUT_construction type	construction type	OUT
+OUT_t street	t street	OUT
+OUT_data date	data date	OUT
+OUT_site	site	OUT
+OUT_long	long	OUT
+OUT_vendor	vendor	OUT
+OUT_created on	created on	OUT
+OUT_the geom	the geom	OUT
+OUT_wheelbase	wheelbase	OUT
+OUT_registration class	registration class	OUT
+OUT_conviction description	conviction description	OUT
+OUT_conviction description	conviction description	OUT
+OUT_other ridership	other ridership	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_closing month	closing month	OUT
+OUT_direction	direction	OUT
+OUT_source	source	OUT
+OUT_state plate	state plate	OUT
+OUT_end centroid location	end centroid location	OUT
+OUT_sign location id	sign location id	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_rides	rides	OUT
+OUT_color	color	OUT
+OUT_status	status	OUT
+OUT_opt code	opt code	OUT
+IN_intersection	intersection	IN
+OUT_sign post id	sign post id	OUT
+IN_comments	comments	IN

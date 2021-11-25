@@ -1,0 +1,62 @@
+stc_label	sentence	category
+38_monthly_interstate_f	monthly interstate ferry ridership, port authority:  beginning 1998	Table
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_month- year	month- year	OUT
+IN_month	month	IN
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+IN_year	year	IN
+OUT_oci 06	oci 06	OUT
+OUT_passenger count	passenger count	OUT
+OUT_seg length	seg length	OUT
+OUT_curves f	curves f	OUT
+OUT_stop name	stop name	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_mapped location	mapped location	OUT
+OUT_longitude	longitude	OUT
+OUT_town	town	OUT
+OUT_construction type	construction type	OUT
+OUT_miles	miles	OUT
+OUT_road name	road name	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_violation year	violation year	OUT
+OUT_length	length	OUT
+OUT_the geom	the geom	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_school name	school name	OUT
+OUT_repair end	repair end	OUT
+OUT_shape st le	shape st le	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_county	county	OUT
+OUT_mode	mode	OUT
+OUT_vendor name	vendor name	OUT
+OUT_make	make	OUT
+OUT_permit number	permit number	OUT
+IN_midtown passengers	midtown passengers	IN
+OUT_side	side	OUT
+OUT_violation description	violation description	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_rides	rides	OUT
+IN_downtown passengers	downtown passengers	IN
+OUT_color	color	OUT
+OUT_opt code	opt code	OUT
+OUT_description	description	OUT
+OUT_description line 1	description line 1	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_sign post support ft	sign post support ft	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_title	title	OUT
+OUT_title	title	OUT
+OUT_comments	comments	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_sign post condition	sign post condition	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+48_rail_containers_move	rail containers moved through port authority of ny nj facilities:  beginning 2000	Table
+IN_number of rail containers moved	number of rail containers moved	IN
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_longitude	longitude	OUT
+OUT_longitude	longitude	OUT
+OUT_municipality	municipality	OUT
+OUT_the geom	the geom	OUT
+OUT_f street	f street	OUT
+OUT_location	location	OUT
+OUT_project location	project location	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_exit	exit	OUT
+OUT_counties	counties	OUT
+OUT_street	street	OUT
+OUT_road name	road name	OUT
+IN_month	month	IN
+IN_year	year	IN
+OUT_counts	counts	OUT
+OUT_counts	counts	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_stop lat	stop lat	OUT
+OUT_curves e	curves e	OUT
+OUT_principal arterial dvmt	principal arterial dvmt	OUT
+OUT_seg length	seg length	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_pmi completed	pmi completed	OUT
+OUT_stop lon	stop lon	OUT
+OUT_from descr	from descr	OUT
+OUT_trip distance	trip distance	OUT
+OUT_created on	created on	OUT
+OUT_population	population	OUT
+OUT_length	length	OUT
+OUT_date	date	OUT
+OUT_run by	run by	OUT
+OUT_major colelctor miles	major colelctor miles	OUT
+OUT_fuel type	fuel type	OUT
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+OUT_registration class	registration class	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_object id	object id	OUT
+OUT_extra	extra	OUT
+OUT_star denials	star denials	OUT
+OUT_county	county	OUT
+OUT_return	return	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_date designated	date designated	OUT
+OUT_company name	company name	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_expiration date	expiration date	OUT
+OUT_support type desc	support type desc	OUT
+OUT_other complaints	other complaints	OUT
+OUT_maintenance responsibility	maintenance responsibility	OUT
+OUT_route location	route location	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_no travel housework	no travel housework	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_sign post support ft	sign post support ft	OUT
+OUT_sign post comment	sign post comment	OUT

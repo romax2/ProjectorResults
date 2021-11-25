@@ -1,0 +1,62 @@
+stc_label	sentence	category
+18_cta_-_ridership_-_'l	cta - ridership - 'l' station entries - daily totals	Table
+OUT_school year	school year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_curves c	curves c	OUT
+OUT_total centerline highway mileage	total centerline highway mileage	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_hh id	hh id	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_fips	fips	OUT
+OUT_dd	dd	OUT
+OUT_dd	dd	OUT
+OUT_home park amount month	home park amount month	OUT
+OUT_ridership	ridership	OUT
+OUT_tip amount	tip amount	OUT
+OUT_location	location	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_evnt lat	evnt lat	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_project location	project location	OUT
+OUT_municipality	municipality	OUT
+OUT_municipality	municipality	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_length	length	OUT
+OUT_counties	counties	OUT
+OUT_start community area number	start community area number	OUT
+OUT_evnt type	evnt type	OUT
+OUT_number of riders	number of riders	OUT
+IN_station id	station id	IN
+OUT_sale yr	sale yr	OUT
+IN_date	date	IN
+OUT_project status	project status	OUT
+OUT_icon anchor	icon anchor	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_modified on	modified on	OUT
+OUT_mode	mode	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_closing month	closing month	OUT
+OUT_state plate	state plate	OUT
+OUT_county	county	OUT
+OUT_operation	operation	OUT
+OUT_source	source	OUT
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_milepost	milepost	OUT
+OUT_license number	license number	OUT
+IN_rides	rides	IN
+OUT_valid	valid	OUT
+OUT_sign post exists	sign post exists	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_issue date	issue date	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_max address	max address	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_sign post validate date	sign post validate date	OUT

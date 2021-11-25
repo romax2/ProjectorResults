@@ -1,0 +1,62 @@
+stc_label	sentence	category
+25_freight_cars_moved_i	freight cars moved in carfloat operations, port authority of ny nj:  beginning 2009	Table
+OUT_route number	route number	OUT
+OUT_school name	school name	OUT
+OUT_counties	counties	OUT
+OUT_urban	urban	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_grades d	grades d	OUT
+OUT_fat crack percent	fat crack percent	OUT
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+OUT_dd	dd	OUT
+IN_year	year	IN
+OUT_project status	project status	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_end community area number	end community area number	OUT
+OUT_end community area number	end community area number	OUT
+OUT_permit number	permit number	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_vendor name	vendor name	OUT
+OUT_median	median	OUT
+OUT_school year	school year	OUT
+IN_quarter	quarter	IN
+OUT_cpl aud	cpl aud	OUT
+OUT_cpl ldg	cpl ldg	OUT
+OUT_psi	psi	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_end community area name	end community area name	OUT
+OUT_length	length	OUT
+OUT_street	street	OUT
+OUT_latitude	latitude	OUT
+OUT_exit	exit	OUT
+IN_floats - number of round trips	floats - number of round trips	IN
+OUT_permit expire date	permit expire date	OUT
+OUT_date	date	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_fund id	fund id	OUT
+OUT_stop name	stop name	OUT
+OUT_number of riders	number of riders	OUT
+OUT_sale price	sale price	OUT
+OUT_direction	direction	OUT
+OUT_type name	type name	OUT
+OUT_type name	type name	OUT
+OUT_ride 08	ride 08	OUT
+OUT_local dvmt	local dvmt	OUT
+OUT_payment type	payment type	OUT
+OUT_sign post gu id	sign post gu id	OUT
+OUT_no travel delivery	no travel delivery	OUT
+OUT_violation charged code	violation charged code	OUT
+IN_volume of loaded rail cars moved	volume of loaded rail cars moved	IN
+OUT_modified on	modified on	OUT
+OUT_county	county	OUT
+OUT_valid dates	valid dates	OUT
+OUT_valid	valid	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_prevent accidents	prevent accidents	OUT
+OUT_sale type	sale type	OUT

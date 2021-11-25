@@ -1,0 +1,62 @@
+stc_label	sentence	category
+40_nys_thruway_origin_a	nys thruway origin and destination points for all vehicles - 1 hour intervals: 2015	Table
+OUT_local mileage	local mileage	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_days lost 2011	days lost 2011	OUT
+IN_interval beginning time	interval beginning time	IN
+OUT_hour	hour	OUT
+OUT_route	route	OUT
+OUT_day	day	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_curves f	curves f	OUT
+OUT_curves c	curves c	OUT
+OUT_curves b	curves b	OUT
+OUT_start community area number	start community area number	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_percent on- time	percent on- time	OUT
+IN_vehicle class	vehicle class	IN
+IN_vehicle count	vehicle count	IN
+OUT_site name	site name	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_location	location	OUT
+OUT_vendor	vendor	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_exit	exit	IN
+OUT_comp date	comp date	OUT
+OUT_closing month	closing month	OUT
+OUT_other ridership	other ridership	OUT
+OUT_project status	project status	OUT
+OUT_project status	project status	OUT
+IN_entrance	entrance	IN
+OUT_weight	weight	OUT
+OUT_permit number	permit number	OUT
+IN_date	date	IN
+OUT_min address	min address	OUT
+OUT_school name	school name	OUT
+OUT_obj pot	obj pot	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_interstate dvmt	interstate dvmt	OUT
+OUT_permit no	permit no	OUT
+OUT_conviction description	conviction description	OUT
+IN_payment type	payment type	IN
+OUT_deliver none	deliver none	OUT
+OUT_make	make	OUT
+OUT_sale item no	sale item no	OUT
+OUT_other complaints	other complaints	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_description line 2	description line 2	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_type name	type name	OUT
+OUT_deliver package work	deliver package work	OUT
+OUT_milepost	milepost	OUT
+OUT_star riders	star riders	OUT
+OUT_major collector dvmt	major collector dvmt	OUT
+OUT_route location	route location	OUT
+OUT_route location	route location	OUT
+OUT_court name	court name	OUT

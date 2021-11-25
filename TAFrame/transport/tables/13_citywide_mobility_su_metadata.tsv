@@ -1,0 +1,62 @@
+stc_label	sentence	category
+13_citywide_mobility_su	citywide mobility survey - vehicle survey 2019	Table
+IN_survey mode	survey mode	IN
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+IN_vehicle num	vehicle num	IN
+OUT_curves b	curves b	OUT
+OUT_curves d	curves d	OUT
+OUT_fips	fips	OUT
+IN_hh id	hh id	IN
+OUT_interval beginning time	interval beginning time	OUT
+OUT_miles	miles	OUT
+OUT_miles	miles	OUT
+IN_weight	weight	IN
+OUT_pmi- not on time	pmi- not on time	OUT
+IN_year	year	IN
+IN_home park amount year	home park amount year	IN
+IN_vehicle id	vehicle id	IN
+IN_home park amount month	home park amount month	IN
+OUT_tip amount	tip amount	OUT
+OUT_shape leng	shape leng	OUT
+OUT_end community area name	end community area name	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+IN_home park amount week	home park amount week	IN
+IN_home park amount day	home park amount day	IN
+OUT_location	location	OUT
+OUT_counties	counties	OUT
+OUT_number of riders	number of riders	OUT
+OUT_project location	project location	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_street	street	OUT
+OUT_road name	road name	OUT
+OUT_from descr	from descr	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_cpl cw 1	cpl cw 1	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_run by	run by	OUT
+OUT_run by	run by	OUT
+IN_home park	home park	IN
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_start time	start time	OUT
+OUT_name	name	OUT
+OUT_obj type	obj type	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_modified on	modified on	OUT
+OUT_registration class	registration class	OUT
+OUT_store and fwd flag	store and fwd flag	OUT
+IN_cms zone	cms zone	IN
+OUT_stipulation id	stipulation id	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_replace bollard	replace bollard	OUT
+OUT_permit no	permit no	OUT
+OUT_expiration date	expiration date	OUT
+OUT_sign location id	sign location id	OUT
+OUT_sign post support ft	sign post support ft	OUT
+OUT_intersection	intersection	OUT
+OUT_opt code	opt code	OUT

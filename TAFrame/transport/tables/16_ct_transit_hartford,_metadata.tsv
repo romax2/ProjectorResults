@@ -1,0 +1,62 @@
+stc_label	sentence	category
+16_ct_transit_hartford,	ct transit hartford, new haven, new britain area route bus stops	Table
+IN_location type	location type	IN
+IN_stop name	stop name	IN
+IN_location	location	IN
+OUT_t street	t street	OUT
+IN_stop id	stop id	IN
+OUT_site name	site name	OUT
+OUT_construction type	construction type	OUT
+IN_stop code	stop code	IN
+OUT_project location	project location	OUT
+OUT_entrance	entrance	OUT
+IN_planning regions	planning regions	IN
+IN_stop lat	stop lat	IN
+OUT_road name	road name	OUT
+OUT_the geom	the geom	OUT
+IN_stop lon	stop lon	IN
+IN_counties	counties	IN
+OUT_record type	record type	OUT
+OUT_total ridership	total ridership	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_ridership	ridership	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_counts	counts	OUT
+OUT_total amount	total amount	OUT
+OUT_violation year	violation year	OUT
+OUT_fur zn w	fur zn w	OUT
+OUT_touring route mileage	touring route mileage	OUT
+OUT_time	time	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_dd	dd	OUT
+OUT_iri	iri	OUT
+IN_stop url	stop url	IN
+OUT_length	length	OUT
+OUT_length	length	OUT
+IN_parent station	parent station	IN
+OUT_registration class	registration class	OUT
+OUT_fuel type	fuel type	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+IN_town index	town index	IN
+OUT_mode	mode	OUT
+OUT_county	county	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_vendor name	vendor name	OUT
+OUT_permit id	permit id	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_rides	rides	OUT
+OUT_related permit number	related permit number	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_sign location id	sign location id	OUT
+OUT_license number	license number	OUT
+IN_zone id	zone id	IN
+OUT_sw mat ty	sw mat ty	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+32_historical_auction_d	historical auction data, nys thruway surplus property: 2010-2013	Table
+IN_sale yr	sale yr	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_obj type	obj type	OUT
+OUT_quarter	quarter	OUT
+OUT_quarter	quarter	OUT
+IN_sale price	sale price	IN
+OUT_tip amount	tip amount	OUT
+OUT_end community area name	end community area name	OUT
+OUT_end community area name	end community area name	OUT
+OUT_data date	data date	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_modified on	modified on	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_num trips	num trips	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_town	town	OUT
+OUT_start census tract	start census tract	OUT
+OUT_effective date	effective date	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_to descr	to descr	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_functional class	functional class	OUT
+OUT_make	make	OUT
+OUT_yr ovl	yr ovl	OUT
+OUT_class 7 h	class 7 h	OUT
+OUT_fuel type	fuel type	OUT
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_station id	station id	OUT
+OUT_route	route	OUT
+OUT_interstate miles	interstate miles	OUT
+IN_sale type	sale type	IN
+IN_sale item no	sale item no	IN
+OUT_school name	school name	OUT
+OUT_mode	mode	OUT
+IN_sale date	sale date	IN
+OUT_pedestrian bicyclist action	pedestrian bicyclist action	OUT
+OUT_crash descriptor	crash descriptor	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_created on	created on	OUT
+OUT_second	second	OUT
+IN_sale no	sale no	IN
+OUT_permit id	permit id	OUT
+OUT_state of license	state of license	OUT
+IN_description line 2	description line 2	IN
+IN_description line 1	description line 1	IN
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_sign post exists	sign post exists	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_no travel capture	no travel capture	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_sign post qty	sign post qty	OUT

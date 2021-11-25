@@ -1,0 +1,62 @@
+stc_label	sentence	category
+20_daily_vehicle_miles_	daily vehicle miles of travel: beginning 1985	Table
+IN_vehicle miles travelled	vehicle miles travelled	IN
+OUT_month- year	month- year	OUT
+OUT_num trips	num trips	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_school year	school year	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_curves b	curves b	OUT
+IN_year	year	IN
+OUT_curves c	curves c	OUT
+OUT_trip duration	trip duration	OUT
+OUT_total amount	total amount	OUT
+OUT_tp id	tp id	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_length	length	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_f street	f street	OUT
+OUT_planning regions	planning regions	OUT
+OUT_longitude	longitude	OUT
+OUT_street	street	OUT
+OUT_evnt type	evnt type	OUT
+IN_functional class	functional class	IN
+OUT_site	site	OUT
+OUT_school name	school name	OUT
+OUT_pu location id	pu location id	OUT
+IN_urban area	urban area	IN
+OUT_fuel type	fuel type	OUT
+OUT_fuel type	fuel type	OUT
+OUT_violation day of week	violation day of week	OUT
+OUT_route	route	OUT
+OUT_created on	created on	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_conviction description	conviction description	OUT
+OUT_registration class	registration class	OUT
+OUT_modified on	modified on	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_extra	extra	OUT
+IN_functional class code	functional class code	IN
+OUT_id	id	OUT
+OUT_geometry	geometry	OUT
+OUT_geometry	geometry	OUT
+OUT_make	make	OUT
+OUT_make	make	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_permit no	permit no	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_sale item no	sale item no	OUT
+OUT_sale date	sale date	OUT
+OUT_violation description	violation description	OUT
+OUT_deliver prepared	deliver prepared	OUT
+OUT_status	status	OUT
+OUT_state of license	state of license	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_sign post support type id	sign post support type id	OUT
+OUT_no travel delivery	no travel delivery	OUT
+OUT_sign post validate date	sign post validate date	OUT

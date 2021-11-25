@@ -1,0 +1,62 @@
+stc_label	sentence	category
+35_loaded_containers_mo	loaded containers monthly imports and exports through port authority of ny nj maritime terminals:  beginning 2000	Table
+OUT_mta tax	mta tax	OUT
+OUT_cpl size	cpl size	OUT
+OUT_cpl vis	cpl vis	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_from descr	from descr	OUT
+IN_month	month	IN
+OUT_record type	record type	OUT
+OUT_site name	site name	OUT
+IN_year	year	IN
+OUT_end community area number	end community area number	OUT
+OUT_mapped location	mapped location	OUT
+OUT_latitude	latitude	OUT
+OUT_sale price	sale price	OUT
+OUT_town	town	OUT
+OUT_oci 11	oci 11	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_date	date	OUT
+OUT_stop lat	stop lat	OUT
+OUT_grades c	grades c	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_shape leng	shape leng	OUT
+OUT_counties	counties	OUT
+OUT_violation day of week	violation day of week	OUT
+OUT_davidson county border	davidson county border	OUT
+OUT_the geom	the geom	OUT
+OUT_modified on	modified on	OUT
+IN_loaded containers volume	loaded containers volume	IN
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_make	make	OUT
+OUT_project status	project status	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_source	source	OUT
+OUT_shape len	shape len	OUT
+OUT_deliver none	deliver none	OUT
+OUT_sale no	sale no	OUT
+IN_type	type	IN
+OUT_permit id	permit id	OUT
+OUT_end centroid longitude	end centroid longitude	OUT
+OUT_color	color	OUT
+OUT_rides	rides	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_first approach	first approach	OUT
+OUT_sign post inactive	sign post inactive	OUT
+OUT_second approach	second approach	OUT
+OUT_sign post inactive date	sign post inactive date	OUT
+OUT_major collector dvmt	major collector dvmt	OUT

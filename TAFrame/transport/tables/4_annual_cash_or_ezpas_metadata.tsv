@@ -1,0 +1,62 @@
+stc_label	sentence	category
+4_annual_cash_or_ezpas	annual cash or ezpass usage line graph	Table
+OUT_vehicle count	vehicle count	OUT
+OUT_curves b	curves b	OUT
+OUT_school year	school year	OUT
+OUT_record type	record type	OUT
+IN_year	year	IN
+OUT_cmnt 2	cmnt 2	OUT
+OUT_grades a	grades a	OUT
+OUT_fips	fips	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_sale yr	sale yr	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_latitude	latitude	OUT
+OUT_longitude	longitude	OUT
+OUT_station id	station id	OUT
+OUT_station id	station id	OUT
+OUT_psi	psi	OUT
+OUT_entrance	entrance	OUT
+OUT_start centroid latitude	start centroid latitude	OUT
+OUT_violation year	violation year	OUT
+OUT_name	name	OUT
+OUT_do location id	do location id	OUT
+OUT_the geom	the geom	OUT
+OUT_the geom	the geom	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_sw width	sw width	OUT
+IN_number of vehicles that used e- z pass	number of vehicles that used e- z pass	IN
+OUT_registration class	registration class	OUT
+IN_number of vehicles that used cash	number of vehicles that used cash	IN
+OUT_mode	mode	OUT
+OUT_service interruptions	service interruptions	OUT
+OUT_county	county	OUT
+OUT_main route	main route	OUT
+OUT_state plate	state plate	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_permit number	permit number	OUT
+OUT_source	source	OUT
+OUT_direction	direction	OUT
+OUT_permit type	permit type	OUT
+OUT_expiration date	expiration date	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_violation description	violation description	OUT
+OUT_maintenance responsibility	maintenance responsibility	OUT
+OUT_freeway dvmt	freeway dvmt	OUT
+OUT_status	status	OUT
+OUT_description line 2	description line 2	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_replace arc	replace arc	OUT
+OUT_replace arc	replace arc	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_court name	court name	OUT
+OUT_court name	court name	OUT
+OUT_prevent accidents	prevent accidents	OUT

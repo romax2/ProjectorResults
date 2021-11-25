@@ -1,0 +1,62 @@
+stc_label	sentence	category
+22_e-_zpass_usage_stati	e- zpass usage statistics: beginning 2008	Table
+OUT_vehicle count	vehicle count	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_vehicle count	vehicle count	OUT
+IN_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	IN
+OUT_trip count	trip count	OUT
+OUT_seg length	seg length	OUT
+OUT_tp id	tp id	OUT
+OUT_curves b	curves b	OUT
+OUT_counts	counts	OUT
+OUT_median	median	OUT
+IN_year	year	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_cpl force	cpl force	OUT
+OUT_count	count	OUT
+OUT_dd	dd	OUT
+OUT_fips	fips	OUT
+OUT_fare amount	fare amount	OUT
+IN_percent of vehicles that used cash	percent of vehicles that used cash	IN
+OUT_tip amount	tip amount	OUT
+OUT_shape leng	shape leng	OUT
+OUT_length	length	OUT
+OUT_stop name	stop name	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_location	location	OUT
+OUT_street	street	OUT
+OUT_start census tract	start census tract	OUT
+IN_entry plaza	entry plaza	IN
+IN_exit plaza	exit plaza	IN
+OUT_counties	counties	OUT
+OUT_entrance	entrance	OUT
+OUT_entrance	entrance	OUT
+OUT_station id	station id	OUT
+OUT_violation year	violation year	OUT
+OUT_stop lon	stop lon	OUT
+OUT_the geom	the geom	OUT
+OUT_date	date	OUT
+OUT_return date	return date	OUT
+OUT_route	route	OUT
+IN_number of vehicles that used e- z pass	number of vehicles that used e- z pass	IN
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_created on	created on	OUT
+OUT_registration class	registration class	OUT
+OUT_modified on	modified on	OUT
+IN_number of vehicles that used cash	number of vehicles that used cash	IN
+OUT_make	make	OUT
+OUT_permit id	permit id	OUT
+OUT_direction	direction	OUT
+OUT_return	return	OUT
+OUT_violation description	violation description	OUT
+OUT_violation description	violation description	OUT
+OUT_rides	rides	OUT
+OUT_sale no	sale no	OUT
+OUT_type	type	OUT
+OUT_color	color	OUT
+OUT_color	color	OUT
+OUT_device type	device type	OUT
+OUT_suffix	suffix	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+8_bike_routes_(depreca	bike routes (deprecated january 2021)	Table
+IN_the geom	the geom	IN
+OUT_urban area	urban area	OUT
+OUT_latitude	latitude	OUT
+IN_f street	f street	IN
+IN_t street	t street	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+IN_street	street	IN
+OUT_road name	road name	OUT
+OUT_road name	road name	OUT
+OUT_zip codes	zip codes	OUT
+OUT_exit	exit	OUT
+OUT_exit	exit	OUT
+OUT_mapped location	mapped location	OUT
+OUT_municipality	municipality	OUT
+OUT_site name	site name	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_total ridership	total ridership	OUT
+OUT_school year	school year	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_count	count	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_conviction description	conviction description	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_violation month	violation month	OUT
+OUT_drv cs	drv cs	OUT
+OUT_milepost	milepost	OUT
+OUT_home park amount month	home park amount month	OUT
+OUT_weight	weight	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_home park amount day	home park amount day	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_route id	route id	OUT
+OUT_repl t- curb	repl t- curb	OUT
+OUT_closing month	closing month	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+IN_shape leng	shape leng	IN
+OUT_ride 11	ride 11	OUT
+OUT_county	county	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_route	route	OUT
+OUT_mode	mode	OUT
+OUT_collision type descriptor	collision type descriptor	OUT
+OUT_make	make	OUT
+OUT_last time updated	last time updated	OUT
+OUT_vendor name	vendor name	OUT
+OUT_intersection	intersection	OUT
+OUT_direction	direction	OUT
+OUT_description line 2	description line 2	OUT
+OUT_description	description	OUT
+OUT_closing date	closing date	OUT
+OUT_closing date	closing date	OUT
+OUT_comments	comments	OUT

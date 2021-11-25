@@ -1,0 +1,62 @@
+stc_label	sentence	category
+12_citywide_mobility_su	citywide mobility survey - day survey 2019	Table
+IN_num complete trip surveys	num complete trip surveys	IN
+IN_survey mode	survey mode	IN
+IN_num trips	num trips	IN
+IN_day num	day num	IN
+IN_person num	person num	IN
+OUT_yr20 factor	yr20 factor	OUT
+IN_day weight	day weight	IN
+OUT_class 6 h	class 6 h	OUT
+OUT_class 3 h	class 3 h	OUT
+IN_num deleted trips	num deleted trips	IN
+IN_hh id	hh id	IN
+IN_telecommute time	telecommute time	IN
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_deliver package locker	deliver package locker	IN
+OUT_region	region	OUT
+OUT_dot reference marker location	dot reference marker location	OUT
+IN_person id	person id	IN
+IN_shop online	shop online	IN
+IN_day is complete	day is complete	IN
+OUT_fund id	fund id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+IN_deliver package home	deliver package home	IN
+OUT_fuel type	fuel type	OUT
+IN_deliver other	deliver other	IN
+IN_no travel telework	no travel telework	IN
+OUT_state plate	state plate	OUT
+IN_cms zone	cms zone	IN
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+IN_travel date	travel date	IN
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+IN_no travel weather	no travel weather	IN
+IN_no travel sick	no travel sick	IN
+IN_travel date dow	travel date dow	IN
+OUT_route number	route number	OUT
+IN_made trips	made trips	IN
+OUT_date designated	date designated	OUT
+IN_deliver food	deliver food	IN
+IN_deliver prepared	deliver prepared	IN
+OUT_sign fuse plate in	sign fuse plate in	OUT
+IN_deliver none	deliver none	IN
+IN_deliver service	deliver service	IN
+OUT_type	type	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_intersection	intersection	OUT
+IN_no travel housework	no travel housework	IN
+OUT_status	status	OUT
+IN_no travel no transport	no travel no transport	IN
+IN_no travel homeschool	no travel homeschool	IN
+IN_no travel kids break	no travel kids break	IN
+IN_deliver package work	deliver package work	IN
+OUT_comments	comments	OUT
+OUT_comments	comments	OUT
+IN_no travel capture	no travel capture	IN
+IN_no travel no work	no travel no work	IN
+IN_no travel other	no travel other	IN
+IN_no travel delivery	no travel delivery	IN

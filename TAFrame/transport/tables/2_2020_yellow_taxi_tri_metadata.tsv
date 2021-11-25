@@ -1,0 +1,62 @@
+stc_label	sentence	category
+2_2020_yellow_taxi_tri	2020 yellow taxi trip data	Table
+IN_tpep pickup datetime	tpep pickup datetime	IN
+IN_trip distance	trip distance	IN
+OUT_num trips	num trips	OUT
+OUT_curves e	curves e	OUT
+OUT_home park amount day	home park amount day	OUT
+IN_passenger count	passenger count	IN
+IN_mta tax	mta tax	IN
+OUT_grades d	grades d	OUT
+OUT_month	month	OUT
+OUT_dd	dd	OUT
+OUT_dd	dd	OUT
+OUT_class 2 h	class 2 h	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_total amount	total amount	IN
+IN_fare amount	fare amount	IN
+OUT_dot reference marker location	dot reference marker location	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+IN_tip amount	tip amount	IN
+IN_ratecode id	ratecode id	IN
+OUT_exit	exit	OUT
+IN_tolls amount	tolls amount	IN
+IN_congestion surcharge	congestion surcharge	IN
+OUT_crane type short desc	crane type short desc	OUT
+OUT_longitude	longitude	OUT
+OUT_min address	min address	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_spaces	spaces	OUT
+OUT_name	name	OUT
+IN_do location id	do location id	IN
+OUT_shape len	shape len	OUT
+IN_pu location id	pu location id	IN
+OUT_wheelbase	wheelbase	OUT
+OUT_registration class	registration class	OUT
+OUT_other ridership	other ridership	OUT
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+IN_extra	extra	IN
+IN_improvement surcharge	improvement surcharge	IN
+OUT_no travel weather	no travel weather	OUT
+IN_payment type	payment type	IN
+OUT_stipulation id	stipulation id	OUT
+IN_store and fwd flag	store and fwd flag	IN
+IN_vendor id	vendor id	IN
+OUT_last time updated	last time updated	OUT
+OUT_condition restrictions	condition restrictions	OUT
+OUT_route number	route number	OUT
+OUT_route number	route number	OUT
+OUT_other complaints	other complaints	OUT
+OUT_color	color	OUT
+OUT_opt code	opt code	OUT
+OUT_ref#	ref#	OUT
+OUT_local miles	local miles	OUT
+OUT_permit qty	permit qty	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_third approach	third approach	OUT

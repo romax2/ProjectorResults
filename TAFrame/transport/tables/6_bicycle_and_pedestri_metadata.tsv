@@ -1,0 +1,62 @@
+stc_label	sentence	category
+6_bicycle_and_pedestri	bicycle and pedestrian counts in colorado	Table
+OUT_vehicle count	vehicle count	OUT
+OUT_vehicle count	vehicle count	OUT
+IN_data collected	data collected	IN
+OUT_curves c	curves c	OUT
+OUT_curves b	curves b	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_dd	dd	OUT
+OUT_dd	dd	OUT
+IN_day of week	day of week	IN
+IN_year	year	IN
+IN_month	month	IN
+OUT_trip id	trip id	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+IN_location 1	location 1	IN
+OUT_neighbourhood name	neighbourhood name	OUT
+IN_location	location	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_end census tract	end census tract	OUT
+IN_counties	counties	IN
+IN_data date	data date	IN
+IN_station id	station id	IN
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_violation year	violation year	OUT
+IN_long	long	IN
+OUT_name	name	OUT
+OUT_name	name	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_vendor name	vendor name	OUT
+OUT_fee type	fee type	OUT
+IN_county	county	IN
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_permit number	permit number	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_permit id	permit id	OUT
+OUT_make	make	OUT
+IN_direction	direction	IN
+OUT_violation charged code	violation charged code	OUT
+OUT_end centroid location	end centroid location	OUT
+OUT_end centroid location	end centroid location	OUT
+OUT_last time updated	last time updated	OUT
+OUT_sign post base type id	sign post base type id	OUT
+OUT_sign location gu id	sign location gu id	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+IN_lat	lat	IN
+OUT_status	status	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_sign post comment	sign post comment	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_no travel delivery	no travel delivery	OUT

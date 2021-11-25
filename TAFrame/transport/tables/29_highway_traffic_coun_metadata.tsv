@@ -1,0 +1,62 @@
+stc_label	sentence	category
+29_highway_traffic_coun	highway traffic counts in colorado 2016	Table
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_class 5 s	class 5 s	OUT
+OUT_num trips	num trips	OUT
+IN_yr20 factor	yr20 factor	IN
+OUT_person num	person num	OUT
+OUT_total centerline highway mileage	total centerline highway mileage	OUT
+OUT_total centerline highway mileage	total centerline highway mileage	OUT
+OUT_evnt lon	evnt lon	OUT
+IN_dd	dd	IN
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_mta tax	mta tax	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+IN_length	length	IN
+OUT_req#	req#	OUT
+OUT_end community area name	end community area name	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_location	location	OUT
+OUT_site name	site name	OUT
+OUT_ridership	ridership	OUT
+OUT_construction type	construction type	OUT
+OUT_spaces	spaces	OUT
+OUT_entrance	entrance	OUT
+OUT_entrance	entrance	OUT
+IN_route	route	IN
+OUT_pu location id	pu location id	OUT
+IN_the geom	the geom	IN
+OUT_created on	created on	OUT
+OUT_vendor name	vendor name	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+IN_shape len	shape len	IN
+OUT_modified on	modified on	OUT
+OUT_registration class	registration class	OUT
+OUT_functional class code	functional class code	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_milepost	milepost	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_color	color	OUT
+OUT_ref#	ref#	OUT
+OUT_description line 2	description line 2	OUT
+OUT_sale no	sale no	OUT
+OUT_intersection	intersection	OUT
+OUT_no travel no transport	no travel no transport	OUT
+OUT_sign distance prev post	sign distance prev post	OUT
+OUT_opening date	opening date	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_second approach	second approach	OUT
+OUT_replace end	replace end	OUT
+IN_edla	edla	IN
+OUT_court name	court name	OUT
+OUT_lighting conditions	lighting conditions	OUT
+OUT_sign post condition	sign post condition	OUT

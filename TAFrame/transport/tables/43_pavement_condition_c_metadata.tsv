@@ -1,0 +1,62 @@
+stc_label	sentence	category
+43_pavement_condition_c	pavement condition csv dataset 2004-2012	Table
+IN_rut 10	rut 10	IN
+IN_rut 09	rut 09	IN
+IN_rut 11	rut 11	IN
+IN_rut 07	rut 07	IN
+IN_rut 12	rut 12	IN
+IN_rut 08	rut 08	IN
+IN_rut 05	rut 05	IN
+IN_oci 09	oci 09	IN
+IN_oci 07	oci 07	IN
+IN_oci 10	oci 10	IN
+IN_rut 06	rut 06	IN
+IN_oci 06	oci 06	IN
+IN_yr ovl	yr ovl	IN
+IN_oci 05	oci 05	IN
+IN_oci 08	oci 08	IN
+IN_oci 11	oci 11	IN
+IN_oci 12	oci 12	IN
+IN_miles	miles	IN
+IN_end accum	end accum	IN
+IN_region	region	IN
+IN_ride 10	ride 10	IN
+IN_rut 04	rut 04	IN
+IN_oci 04	oci 04	IN
+IN_env 09	env 09	IN
+IN_env 05	env 05	IN
+IN_env 07	env 07	IN
+IN_ride 12	ride 12	IN
+IN_location	location	IN
+IN_env 08	env 08	IN
+IN_env 10	env 10	IN
+IN_env 06	env 06	IN
+IN_ride 11	ride 11	IN
+IN_dir	dir	IN
+IN_env 12	env 12	IN
+IN_route	route	IN
+IN_surface ty	surface ty	IN
+IN_env 11	env 11	IN
+IN_err cd	err cd	IN
+IN_env 04	env 04	IN
+IN_ride 08	ride 08	IN
+IN_slab 11	slab 11	IN
+IN_surf area	surf area	IN
+IN_ride 05	ride 05	IN
+OUT_registration class	registration class	OUT
+IN_slab 07	slab 07	IN
+IN_slab 12	slab 12	IN
+IN_start accum	start accum	IN
+IN_ride 09	ride 09	IN
+IN_id	id	IN
+IN_slab 10	slab 10	IN
+IN_ride 07	ride 07	IN
+IN_slab 09	slab 09	IN
+IN_ride 04	ride 04	IN
+IN_conk 06	conk 06	IN
+IN_yr surf	yr surf	IN
+IN_conk 05	conk 05	IN
+IN_ride 06	ride 06	IN
+IN_slab 08	slab 08	IN
+IN_layer id	layer id	IN
+IN_conk 04	conk 04	IN

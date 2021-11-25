@@ -1,0 +1,62 @@
+stc_label	sentence	category
+33_historical_medallion	historical medallion drivers â€“ passenger assistance trained 2014-2016	Table
+OUT_record type	record type	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_data collected	data collected	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_seg length	seg length	OUT
+OUT_quarter	quarter	OUT
+OUT_quarter	quarter	OUT
+OUT_dd	dd	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_location	location	OUT
+OUT_curve len	curve len	OUT
+OUT_curves a	curves a	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_exit plaza	exit plaza	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_length	length	OUT
+OUT_speed	speed	OUT
+OUT_end time	end time	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_the geom	the geom	OUT
+OUT_conviction description	conviction description	OUT
+OUT_conviction description	conviction description	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+IN_name	name	IN
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_modified on	modified on	OUT
+OUT_do location id	do location id	OUT
+OUT_route	route	OUT
+OUT_payment type	payment type	OUT
+OUT_county	county	OUT
+OUT_mode	mode	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_stipulation id	stipulation id	OUT
+IN_last date updated	last date updated	IN
+IN_completed both training	completed both training	IN
+OUT_direction	direction	OUT
+OUT_direction	direction	OUT
+OUT_violation description	violation description	OUT
+IN_last time updated	last time updated	IN
+IN_expiration date	expiration date	IN
+OUT_end centroid latitude	end centroid latitude	OUT
+IN_type	type	IN
+OUT_downtown passengers	downtown passengers	OUT
+OUT_rides	rides	OUT
+OUT_rides	rides	OUT
+IN_license number	license number	IN
+OUT_closing date	closing date	OUT
+OUT_slab 08	slab 08	OUT
+OUT_sw mat ty	sw mat ty	OUT

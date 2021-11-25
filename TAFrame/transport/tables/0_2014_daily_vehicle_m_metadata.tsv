@@ -1,0 +1,62 @@
+stc_label	sentence	category
+0_2014_daily_vehicle_m	2014 daily vehicle miles travelled by town and roadway classification - archive	Table
+OUT_class 4 l	class 4 l	OUT
+OUT_oa cmnt	oa cmnt	OUT
+OUT_total trips	total trips	OUT
+OUT_total trips	total trips	OUT
+OUT_school year	school year	OUT
+IN_principal arterial miles	principal arterial miles	IN
+IN_principal arterial dvmt	principal arterial dvmt	IN
+OUT_quarter	quarter	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+IN_major colelctor miles	major colelctor miles	IN
+OUT_number of vehicles involved	number of vehicles involved	OUT
+IN_minor arterial dvmt	minor arterial dvmt	IN
+OUT_evnt lat	evnt lat	OUT
+IN_minor arterial miles	minor arterial miles	IN
+IN_region	region	IN
+OUT_req#	req#	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_ridership	ridership	OUT
+OUT_counties	counties	OUT
+OUT_t street	t street	OUT
+IN_town	town	IN
+OUT_entrance	entrance	OUT
+OUT_site	site	OUT
+OUT_school name	school name	OUT
+OUT_loc error	loc error	OUT
+IN_freeway miles	freeway miles	IN
+OUT_route	route	OUT
+OUT_route	route	OUT
+IN_minor collector dvmt	minor collector dvmt	IN
+OUT_sale yr	sale yr	OUT
+OUT_date	date	OUT
+OUT_replace anchor	replace anchor	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_permit number	permit number	OUT
+IN_interstate miles	interstate miles	IN
+IN_county	county	IN
+OUT_direction	direction	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_source	source	OUT
+IN_town num	town num	IN
+OUT_last time updated	last time updated	OUT
+OUT_violation description	violation description	OUT
+IN_minor collector miles	minor collector miles	IN
+OUT_rides	rides	OUT
+IN_freeway dvmt	freeway dvmt	IN
+OUT_type	type	OUT
+IN_local dvmt	local dvmt	IN
+OUT_color	color	OUT
+OUT_status	status	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_opt code	opt code	OUT
+IN_local miles	local miles	IN
+OUT_first approach	first approach	OUT
+IN_major collector dvmt	major collector dvmt	IN
+IN_interstate dvmt	interstate dvmt	IN

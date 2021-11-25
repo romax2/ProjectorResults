@@ -1,0 +1,62 @@
+stc_label	sentence	category
+19_cta_-_ridership_-_bu	cta - ridership - bus routes - daily totals by route	Table
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_total ridership	total ridership	OUT
+OUT_num deleted trips	num deleted trips	OUT
+OUT_class 2 h	class 2 h	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_mta tax	mta tax	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_principal arterial dvmt	principal arterial dvmt	OUT
+OUT_data date	data date	OUT
+OUT_location	location	OUT
+OUT_project location	project location	OUT
+OUT_project location	project location	OUT
+OUT_stop code	stop code	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_functional class	functional class	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_school name	school name	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_do location id	do location id	OUT
+IN_route	route	IN
+OUT_ratecode id	ratecode id	OUT
+OUT_project status	project status	OUT
+IN_date	date	IN
+OUT_violation month	violation month	OUT
+OUT_fee type	fee type	OUT
+OUT_state plate	state plate	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_main route	main route	OUT
+OUT_county	county	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_source	source	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_return	return	OUT
+OUT_route number	route number	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+IN_rides	rides	IN
+OUT_sale no	sale no	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_color	color	OUT
+OUT_opt code	opt code	OUT
+OUT_no travel kids break	no travel kids break	OUT
+OUT_opening date	opening date	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_comments	comments	OUT
+OUT_major collector dvmt	major collector dvmt	OUT
+OUT_interstate dvmt	interstate dvmt	OUT
+OUT_sign post validate date	sign post validate date	OUT
+OUT_third approach	third approach	OUT

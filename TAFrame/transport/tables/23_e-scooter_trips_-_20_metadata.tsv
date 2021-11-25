@@ -1,0 +1,62 @@
+stc_label	sentence	category
+23_e-scooter_trips_-_20	e-scooter trips - 2020	Table
+IN_trip id	trip id	IN
+OUT_touring route mileage	touring route mileage	OUT
+IN_trip duration	trip duration	IN
+IN_trip distance	trip distance	IN
+OUT_minor arterial miles	minor arterial miles	OUT
+OUT_seg length	seg length	OUT
+IN_start time	start time	IN
+IN_end time	end time	IN
+IN_end community area number	end community area number	IN
+IN_end community area name	end community area name	IN
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_principal arterial dvmt	principal arterial dvmt	OUT
+OUT_route	route	OUT
+OUT_project location	project location	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_location	location	OUT
+IN_start community area number	start community area number	IN
+OUT_minor collector dvmt	minor collector dvmt	OUT
+IN_start community area name	start community area name	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_latitude	latitude	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_subsidiary	subsidiary	OUT
+IN_vendor	vendor	IN
+IN_start centroid latitude	start centroid latitude	IN
+IN_start centroid location	start centroid location	IN
+OUT_non- revenue	non- revenue	OUT
+OUT_obj type	obj type	OUT
+OUT_star denials	star denials	OUT
+IN_start centroid longitude	start centroid longitude	IN
+OUT_registration class	registration class	OUT
+OUT_county	county	OUT
+OUT_rides	rides	OUT
+OUT_payment type	payment type	OUT
+OUT_source	source	OUT
+OUT_make	make	OUT
+OUT_make	make	OUT
+OUT_lane	lane	OUT
+OUT_permit no	permit no	OUT
+OUT_road	road	OUT
+IN_end centroid longitude	end centroid longitude	IN
+IN_end centroid location	end centroid location	IN
+OUT_route number	route number	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_type	type	OUT
+OUT_type	type	OUT
+IN_end centroid latitude	end centroid latitude	IN
+OUT_intersection	intersection	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_company id	company id	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_sign post date updated	sign post date updated	OUT
+OUT_sign post qty	sign post qty	OUT
+OUT_sign post qty	sign post qty	OUT
+OUT_edla	edla	OUT
+OUT_prevent accidents	prevent accidents	OUT

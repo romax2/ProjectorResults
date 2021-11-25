@@ -1,0 +1,62 @@
+stc_label	sentence	category
+28_highway_sign_install	highway sign installations	Table
+OUT_end community area number	end community area number	OUT
+OUT_project location	project location	OUT
+IN_location	location	IN
+OUT_exit	exit	OUT
+OUT_entry plaza	entry plaza	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_passenger count	passenger count	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_total amount	total amount	OUT
+OUT_ridership	ridership	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_miles	miles	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+IN_req#	req#	IN
+OUT_month of conviction	month of conviction	OUT
+OUT_home park amount week	home park amount week	OUT
+OUT_class 3 l	class 3 l	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_length	length	OUT
+OUT_created on	created on	OUT
+IN_comp date	comp date	IN
+OUT_the geom	the geom	OUT
+OUT_the geom	the geom	OUT
+OUT_sale price	sale price	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_date	date	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_violation month	violation month	OUT
+OUT_other ridership	other ridership	OUT
+OUT_wheelbase	wheelbase	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_county	county	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_collision type descriptor	collision type descriptor	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_closing month	closing month	OUT
+OUT_shape len	shape len	OUT
+OUT_cms zone	cms zone	OUT
+OUT_permit id	permit id	OUT
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_permit purpose	permit purpose	OUT
+OUT_expiration date	expiration date	OUT
+OUT_state of license	state of license	OUT
+OUT_opt code	opt code	OUT
+OUT_sign post id	sign post id	OUT
+IN_ref#	ref#	IN
+IN_comments	comments	IN
+IN_type name	type name	IN
+OUT_suffix	suffix	OUT
+OUT_edla	edla	OUT
+OUT_prevent accidents	prevent accidents	OUT

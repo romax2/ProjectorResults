@@ -1,0 +1,62 @@
+stc_label	sentence	category
+14_connecticut_list_of_	connecticut list of scenic roads as of dec 31 2010 â€“ archive	Table
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_council district outlines	council district outlines	OUT
+OUT_f street	f street	OUT
+IN_town	town	IN
+IN_location	location	IN
+OUT_full street name	full street name	OUT
+OUT_street	street	OUT
+OUT_site name	site name	OUT
+OUT_month	month	OUT
+OUT_exit	exit	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_non- revenue	non- revenue	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_counts	counts	OUT
+OUT_sale price	sale price	OUT
+OUT_violation day of week	violation day of week	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_class 7 s	class 7 s	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_home park amount day	home park amount day	OUT
+IN_miles	miles	IN
+OUT_cpl cw 1	cpl cw 1	OUT
+OUT_last date updated	last date updated	OUT
+OUT_number of riders	number of riders	OUT
+OUT_project status	project status	OUT
+OUT_project status	project status	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+IN_route	route	IN
+OUT_functional class code	functional class code	OUT
+OUT_functional class code	functional class code	OUT
+OUT_functional class code	functional class code	OUT
+OUT_mode	mode	OUT
+IN_date designated	date designated	IN
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_route number	route number	OUT
+OUT_opt code	opt code	OUT
+OUT_permit	permit	OUT
+OUT_police report	police report	OUT
+OUT_rides	rides	OUT
+OUT_downtown passengers	downtown passengers	OUT

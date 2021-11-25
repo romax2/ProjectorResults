@@ -1,0 +1,62 @@
+stc_label	sentence	category
+37_mckenzie_highway_ope	mckenzie highway opening and closing dates	Table
+OUT_deliver package locker	deliver package locker	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_davidson county border	davidson county border	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_stop code	stop code	OUT
+OUT_grades f	grades f	OUT
+OUT_project location	project location	OUT
+OUT_cmnt 2	cmnt 2	OUT
+OUT_created on	created on	OUT
+IN_year	year	IN
+OUT_location	location	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_site name	site name	OUT
+OUT_site name	site name	OUT
+OUT_seg length	seg length	OUT
+OUT_iri	iri	OUT
+OUT_longitude	longitude	OUT
+OUT_street	street	OUT
+OUT_road name	road name	OUT
+OUT_repair post	repair post	OUT
+OUT_the geom	the geom	OUT
+OUT_the geom	the geom	OUT
+OUT_town	town	OUT
+OUT_cpl size	cpl size	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_to descr	to descr	OUT
+OUT_env 10	env 10	OUT
+OUT_sale price	sale price	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_conviction description	conviction description	OUT
+OUT_end centroid longitude	end centroid longitude	OUT
+OUT_permit number	permit number	OUT
+OUT_date	date	OUT
+OUT_registration class	registration class	OUT
+IN_opening month	opening month	IN
+OUT_permit no	permit no	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_deliver food	deliver food	OUT
+OUT_device priority	device priority	OUT
+IN_closing month	closing month	IN
+OUT_date designated	date designated	OUT
+IN_opening date	opening date	IN
+OUT_deliver none	deliver none	OUT
+OUT_color	color	OUT
+OUT_sale no	sale no	OUT
+OUT_description	description	OUT
+OUT_zone id	zone id	OUT
+OUT_status	status	OUT
+OUT_owning region	owning region	OUT
+IN_closing date	closing date	IN
+OUT_court name	court name	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT

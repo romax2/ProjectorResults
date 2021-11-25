@@ -1,0 +1,62 @@
+stc_label	sentence	category
+46_prek_riders_by_trans	prek riders by transportation site	Table
+OUT_edla	edla	OUT
+OUT_go live date	go live date	OUT
+OUT_lane	lane	OUT
+IN_school name	school name	IN
+OUT_milepost	milepost	OUT
+OUT_start centroid longitude	start centroid longitude	OUT
+OUT_urban area	urban area	OUT
+OUT_the geom	the geom	OUT
+OUT_class 2 h	class 2 h	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_grades f	grades f	OUT
+OUT_device number	device number	OUT
+OUT_t street	t street	OUT
+OUT_town	town	OUT
+OUT_year	year	OUT
+OUT_total trips	total trips	OUT
+OUT_street	street	OUT
+IN_school year	school year	IN
+OUT_principal arterial miles	principal arterial miles	OUT
+OUT_quarter	quarter	OUT
+OUT_location	location	OUT
+OUT_fur zn w	fur zn w	OUT
+IN_site name	site name	IN
+OUT_fuel type	fuel type	OUT
+OUT_replace anchor	replace anchor	OUT
+OUT_mapping location	mapping location	OUT
+OUT_trip id	trip id	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_permit no	permit no	OUT
+OUT_route	route	OUT
+OUT_violation month	violation month	OUT
+OUT_touring route mileage	touring route mileage	OUT
+OUT_touring route mileage	touring route mileage	OUT
+OUT_touring route mileage	touring route mileage	OUT
+OUT_env 07	env 07	OUT
+OUT_major colelctor miles	major colelctor miles	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+OUT_env 11	env 11	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_road descriptor	road descriptor	OUT
+IN_number of riders	number of riders	IN
+OUT_valid times	valid times	OUT
+OUT_cpl prox	cpl prox	OUT
+OUT_rides	rides	OUT
+OUT_opening month	opening month	OUT
+OUT_opening month	opening month	OUT
+OUT_expiration date	expiration date	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_other ridership	other ridership	OUT
+OUT_other ridership	other ridership	OUT
+OUT_ratecode id	ratecode id	OUT
+IN_opt code	opt code	IN
+OUT_comments	comments	OUT
+OUT_last time updated	last time updated	OUT

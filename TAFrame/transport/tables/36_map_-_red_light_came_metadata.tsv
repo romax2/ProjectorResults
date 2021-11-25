@@ -1,0 +1,62 @@
+stc_label	sentence	category
+36_map_-_red_light_came	map - red light camera locations	Table
+IN_longitude	longitude	IN
+IN_latitude	latitude	IN
+IN_location	location	IN
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_station id	station id	OUT
+OUT_the geom	the geom	OUT
+OUT_municipality	municipality	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_shape st le	shape st le	OUT
+OUT_day of week	day of week	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_date	date	OUT
+OUT_name	name	OUT
+OUT_name	name	OUT
+OUT_miles	miles	OUT
+OUT_class 5 s	class 5 s	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_opening month	opening month	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_population	population	OUT
+OUT_conviction description	conviction description	OUT
+OUT_fee type	fee type	OUT
+OUT_functional class	functional class	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_project status	project status	OUT
+OUT_event descriptor	event descriptor	OUT
+OUT_county	county	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_cms zone	cms zone	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_sale item no	sale item no	OUT
+OUT_source	source	OUT
+OUT_store and fwd flag	store and fwd flag	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_route number	route number	OUT
+OUT_rides	rides	OUT
+IN_go live date	go live date	IN
+IN_intersection	intersection	IN
+OUT_permit related agency desc	permit related agency desc	OUT
+IN_first approach	first approach	IN
+OUT_edla	edla	OUT
+IN_second approach	second approach	IN
+OUT_traffic control device	traffic control device	OUT
+IN_third approach	third approach	IN

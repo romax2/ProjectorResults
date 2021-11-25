@@ -1,0 +1,62 @@
+stc_label	sentence	category
+44_pedestrian_signal_in	pedestrian signal inventory and ada self-assessments	Table
+IN_ped signal pres	ped signal pres	IN
+IN_cpl hgt	cpl hgt	IN
+OUT_seg length	seg length	OUT
+OUT_vehicle num	vehicle num	OUT
+IN_cpl op	cpl op	IN
+IN_cpl force	cpl force	IN
+OUT_person num	person num	OUT
+IN_cpl aud	cpl aud	IN
+IN_cpl vis	cpl vis	IN
+IN_cpl cw 1	cpl cw 1	IN
+IN_cpl cw 2	cpl cw 2	IN
+OUT_dd	dd	OUT
+IN_cpl ldg	cpl ldg	IN
+IN_oa cmnt	oa cmnt	IN
+OUT_fips	fips	OUT
+IN_cpl size	cpl size	IN
+IN_evnt lat	evnt lat	IN
+IN_evnt type	evnt type	IN
+IN_cmnt 2	cmnt 2	IN
+IN_evnt lon	evnt lon	IN
+IN_cpl sep	cpl sep	IN
+OUT_month	month	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_length	length	OUT
+IN_mapped location	mapped location	IN
+OUT_speed	speed	OUT
+IN_zip codes	zip codes	IN
+IN_council district outlines	council district outlines	IN
+OUT_project location	project location	OUT
+IN_service districts	service districts	IN
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_exit	exit	OUT
+OUT_road name	road name	OUT
+IN_cpl prox	cpl prox	IN
+OUT_violation year	violation year	OUT
+OUT_town	town	OUT
+OUT_counties	counties	OUT
+IN_davidson county border	davidson county border	IN
+IN_evnt map	evnt map	IN
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_ride 08	ride 08	OUT
+OUT_object id	object id	OUT
+OUT_wheelbase	wheelbase	OUT
+IN_date	date	IN
+OUT_registration class	registration class	OUT
+OUT_star denials	star denials	OUT
+OUT_extra	extra	OUT
+IN_cpl place	cpl place	IN
+IN_cpl ctrst	cpl ctrst	IN
+OUT_permit no	permit no	OUT
+OUT_type	type	OUT
+OUT_route number	route number	OUT
+OUT_license number	license number	OUT
+OUT_opt code	opt code	OUT
+IN_quad	quad	IN
+IN_inspector	inspector	IN

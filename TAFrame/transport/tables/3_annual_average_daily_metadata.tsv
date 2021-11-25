@@ -1,0 +1,62 @@
+stc_label	sentence	category
+3_annual_average_daily	annual average daily traffic (aadt) by roadway segment: beginning 1977 - average values	Table
+OUT_yr20 factor	yr20 factor	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_grades c	grades c	OUT
+OUT_class 3 h	class 3 h	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_grades b	grades b	OUT
+OUT_total amount	total amount	OUT
+IN_count	count	IN
+OUT_school year	school year	OUT
+OUT_total trips	total trips	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_fat crack percent	fat crack percent	OUT
+OUT_trip duration	trip duration	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+IN_municipality	municipality	IN
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_counties	counties	OUT
+OUT_end community area name	end community area name	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_crane serial number	crane serial number	OUT
+IN_road name	road name	IN
+OUT_longitude	longitude	OUT
+OUT_longitude	longitude	OUT
+OUT_length	length	OUT
+IN_station id	station id	IN
+OUT_latitude	latitude	OUT
+OUT_do location id	do location id	OUT
+OUT_exit	exit	OUT
+OUT_name	name	OUT
+OUT_created on	created on	OUT
+OUT_project status	project status	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_route	route	OUT
+OUT_date	date	OUT
+OUT_drv ti mat	drv ti mat	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_other ridership	other ridership	OUT
+OUT_midtown passengers	midtown passengers	OUT
+IN_county	county	IN
+OUT_stipulation id	stipulation id	OUT
+OUT_travel date dow	travel date dow	OUT
+OUT_valid times	valid times	OUT
+OUT_completed both training	completed both training	OUT
+OUT_condition restrictions	condition restrictions	OUT
+OUT_sale type	sale type	OUT
+OUT_intersection	intersection	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_no travel homeschool	no travel homeschool	OUT
+OUT_quad	quad	OUT
+OUT_company id	company id	OUT
+OUT_max address	max address	OUT
+OUT_type name	type name	OUT
+OUT_closing date	closing date	OUT
+OUT_no travel delivery	no travel delivery	OUT
