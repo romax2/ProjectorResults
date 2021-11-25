@@ -1,0 +1,62 @@
+stc_label	sentence	category
+63_street_travel_permit	street travel permit	Table
+IN_permit qty	permit qty	IN
+IN_permit print date	permit print date	IN
+IN_permit purpose	permit purpose	IN
+OUT_permit	permit	OUT
+IN_permit no	permit no	IN
+OUT_sign post support type id	sign post support type id	OUT
+OUT_sign post support type id	sign post support type id	OUT
+IN_issue date	issue date	IN
+IN_company id	company id	IN
+IN_valid dates	valid dates	IN
+OUT_opt code	opt code	OUT
+IN_company name	company name	IN
+IN_expiration date	expiration date	IN
+OUT_sale no	sale no	OUT
+IN_condition restrictions	condition restrictions	IN
+OUT_suffix	suffix	OUT
+OUT_do location id	do location id	OUT
+IN_valid times	valid times	IN
+OUT_sale item no	sale item no	OUT
+IN_return	return	IN
+OUT_created on	created on	OUT
+OUT_class 4 l	class 4 l	OUT
+OUT_curves e	curves e	OUT
+OUT_count	count	OUT
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_fips	fips	OUT
+OUT_total trips	total trips	OUT
+OUT_speed	speed	OUT
+OUT_counts	counts	OUT
+OUT_route	route	OUT
+OUT_interstate miles	interstate miles	OUT
+OUT_interstate miles	interstate miles	OUT
+OUT_hh id	hh id	OUT
+IN_effective date	effective date	IN
+OUT_fee type	fee type	OUT
+OUT_day	day	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_end community area number	end community area number	OUT
+OUT_cmnt 2	cmnt 2	OUT
+OUT_school name	school name	OUT
+OUT_operation	operation	OUT
+OUT_fare amount	fare amount	OUT
+OUT_geometry	geometry	OUT
+IN_qty return	qty return	IN
+OUT_home park amount day	home park amount day	OUT
+OUT_start time	start time	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+IN_return date	return date	IN
+OUT_name	name	OUT
+OUT_comments	comments	OUT
+OUT_comments	comments	OUT
+OUT_violation year	violation year	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_planning regions	planning regions	OUT
+OUT_longitude	longitude	OUT
+OUT_longitude	longitude	OUT
+OUT_town	town	OUT

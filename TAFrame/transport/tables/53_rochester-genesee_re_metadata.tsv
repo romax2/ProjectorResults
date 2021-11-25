@@ -1,0 +1,62 @@
+stc_label	sentence	category
+53_rochester-genesee_re	rochester-genesee regional transportation authority (rgrta) rider volumes:  beginning 2006	Table
+OUT_school year	school year	OUT
+OUT_interval beginning time	interval beginning time	OUT
+IN_month	month	IN
+OUT_curves d	curves d	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_record type	record type	OUT
+IN_year	year	IN
+OUT_mta tax	mta tax	OUT
+OUT_iri	iri	OUT
+OUT_fare amount	fare amount	OUT
+OUT_service districts	service districts	OUT
+OUT_service districts	service districts	OUT
+IN_ridership	ridership	IN
+OUT_from descr	from descr	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_location	location	OUT
+OUT_longitude	longitude	OUT
+OUT_longitude	longitude	OUT
+OUT_number of riders	number of riders	OUT
+OUT_start community area name	start community area name	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_start community area number	start community area number	OUT
+OUT_psi	psi	OUT
+OUT_minor collector dvmt	minor collector dvmt	OUT
+OUT_site	site	OUT
+IN_subsidiary	subsidiary	IN
+OUT_station id	station id	OUT
+OUT_stop lat	stop lat	OUT
+OUT_name	name	OUT
+OUT_name	name	OUT
+OUT_violation year	violation year	OUT
+OUT_do location id	do location id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_date	date	OUT
+OUT_created on	created on	OUT
+OUT_project status	project status	OUT
+OUT_effective date	effective date	OUT
+OUT_registration class	registration class	OUT
+OUT_start accum	start accum	OUT
+OUT_start accum	start accum	OUT
+OUT_fee type	fee type	OUT
+OUT_last date updated	last date updated	OUT
+OUT_payment type	payment type	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_direction	direction	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_sale item no	sale item no	OUT
+OUT_rides	rides	OUT
+OUT_license number	license number	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_non- prevent accidents	non- prevent accidents	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_suffix direction	suffix direction	OUT
+OUT_first approach	first approach	OUT
+OUT_edla	edla	OUT
+OUT_sign post inactive date	sign post inactive date	OUT

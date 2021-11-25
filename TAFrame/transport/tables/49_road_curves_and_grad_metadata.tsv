@@ -1,0 +1,62 @@
+stc_label	sentence	category
+49_road_curves_and_grad	road curves and grades in colorado	Table
+IN_curves f	curves f	IN
+IN_curves e	curves e	IN
+IN_grades e	grades e	IN
+IN_grades f	grades f	IN
+IN_curves a	curves a	IN
+IN_curves c	curves c	IN
+IN_grades b	grades b	IN
+IN_grades d	grades d	IN
+IN_curves b	curves b	IN
+IN_grade len	grade len	IN
+IN_curves d	curves d	IN
+IN_grades c	grades c	IN
+IN_curve len	curve len	IN
+OUT_drv cs	drv cs	OUT
+IN_grades a	grades a	IN
+OUT_vehicle class	vehicle class	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_floats - number of round trips	floats - number of round trips	OUT
+IN_median	median	IN
+IN_fips	fips	IN
+OUT_home park amount month	home park amount month	OUT
+IN_fat crack percent	fat crack percent	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+IN_length	length	IN
+OUT_day	day	OUT
+OUT_tost	tost	OUT
+OUT_council district outlines	council district outlines	OUT
+OUT_ridership	ridership	OUT
+OUT_t street	t street	OUT
+OUT_tolls amount	tolls amount	OUT
+OUT_municipality	municipality	OUT
+IN_route	route	IN
+OUT_subsidiary	subsidiary	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_violation day of week	violation day of week	OUT
+OUT_created on	created on	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_effective date	effective date	OUT
+OUT_violation month	violation month	OUT
+OUT_crash descriptor	crash descriptor	OUT
+OUT_functional class code	functional class code	OUT
+OUT_county	county	OUT
+OUT_travel date	travel date	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_cms zone	cms zone	OUT
+OUT_type	type	OUT
+OUT_type	type	OUT
+OUT_license number	license number	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+IN_intersection	intersection	IN
+OUT_opening date	opening date	OUT
+OUT_stipulation full text	stipulation full text	OUT
+IN_comments	comments	IN
+OUT_suffix	suffix	OUT

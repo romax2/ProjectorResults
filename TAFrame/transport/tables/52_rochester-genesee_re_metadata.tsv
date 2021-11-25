@@ -1,0 +1,62 @@
+stc_label	sentence	category
+52_rochester-genesee_re	rochester-genesee regional transportation authority (rgrta) percentage of buses running on time:  beginning 2009	Table
+IN_percent on- time	percent on- time	IN
+OUT_principal arterial miles	principal arterial miles	OUT
+OUT_grades c	grades c	OUT
+OUT_counts	counts	OUT
+OUT_counts	counts	OUT
+OUT_counts	counts	OUT
+IN_month	month	IN
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+IN_year	year	IN
+OUT_council district outlines	council district outlines	OUT
+OUT_length	length	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_zip codes	zip codes	OUT
+OUT_project location	project location	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_fat crack percent	fat crack percent	OUT
+OUT_stop name	stop name	OUT
+OUT_crane serial number	crane serial number	OUT
+OUT_min address	min address	OUT
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_req#	req#	OUT
+OUT_counties	counties	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_planning regions	planning regions	OUT
+OUT_road name	road name	OUT
+IN_subsidiary	subsidiary	IN
+OUT_station id	station id	OUT
+OUT_station id	station id	OUT
+OUT_route	route	OUT
+OUT_school name	school name	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_comp date	comp date	OUT
+OUT_stop lat	stop lat	OUT
+OUT_the geom	the geom	OUT
+OUT_the geom	the geom	OUT
+OUT_stop lon	stop lon	OUT
+OUT_ratecode id	ratecode id	OUT
+OUT_project status	project status	OUT
+OUT_created on	created on	OUT
+OUT_fund id	fund id	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_replace anchor	replace anchor	OUT
+OUT_modified on	modified on	OUT
+OUT_interstate miles	interstate miles	OUT
+OUT_permit number	permit number	OUT
+OUT_direction	direction	OUT
+OUT_permit type	permit type	OUT
+OUT_date designated	date designated	OUT
+OUT_date designated	date designated	OUT
+OUT_last time updated	last time updated	OUT
+OUT_freeway dvmt	freeway dvmt	OUT
+OUT_deliver package work	deliver package work	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_court name	court name	OUT
+OUT_edla	edla	OUT

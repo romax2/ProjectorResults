@@ -1,0 +1,62 @@
+stc_label	sentence	category
+76_vehicle_colors,_most	vehicle colors, most popular in new york state	Table
+IN_color	color	IN
+OUT_type	type	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+IN_registration class	registration class	IN
+OUT_stipulation id	stipulation id	OUT
+OUT_exit	exit	OUT
+OUT_longitude	longitude	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_other ridership	other ridership	OUT
+OUT_minor collector dvmt	minor collector dvmt	OUT
+OUT_date	date	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_modified on	modified on	OUT
+OUT_stop lat	stop lat	OUT
+OUT_repair curb	repair curb	OUT
+OUT_the geom	the geom	OUT
+OUT_service districts	service districts	OUT
+OUT_start community area name	start community area name	OUT
+OUT_data date	data date	OUT
+IN_record type	record type	IN
+OUT_station id	station id	OUT
+OUT_municipality	municipality	OUT
+OUT_start centroid longitude	start centroid longitude	OUT
+OUT_fund id	fund id	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_major colelctor miles	major colelctor miles	OUT
+OUT_project status	project status	OUT
+OUT_functional class code	functional class code	OUT
+OUT_pmi completed	pmi completed	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_passenger count	passenger count	OUT
+OUT_evnt lat	evnt lat	OUT
+OUT_cr slp	cr slp	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_grades e	grades e	OUT
+OUT_name	name	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_run by	run by	OUT
+OUT_run by	run by	OUT
+OUT_freeway miles	freeway miles	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_school name	school name	OUT
+OUT_class 7 s	class 7 s	OUT
+OUT_vendor	vendor	OUT
+OUT_end centroid longitude	end centroid longitude	OUT
+OUT_related permit number	related permit number	OUT
+OUT_type name	type name	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_sign fuse plate in	sign fuse plate in	OUT
+OUT_edla	edla	OUT

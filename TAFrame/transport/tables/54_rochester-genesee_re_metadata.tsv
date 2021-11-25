@@ -1,0 +1,62 @@
+stc_label	sentence	category
+54_rochester-genesee_re	rochester-genesee regional transportation authority (rgrta) subsidiary's yearly average of percent of buses running on time: beginning 2009	Table
+IN_percent on- time	percent on- time	IN
+OUT_vehicle count	vehicle count	OUT
+OUT_passenger count	passenger count	OUT
+OUT_median	median	OUT
+OUT_rut 05	rut 05	OUT
+OUT_grades b	grades b	OUT
+OUT_counts	counts	OUT
+OUT_counts	counts	OUT
+OUT_seg length	seg length	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_count	count	OUT
+OUT_rut 06	rut 06	OUT
+OUT_fips	fips	OUT
+IN_year	year	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_end community area name	end community area name	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_site name	site name	OUT
+OUT_f street	f street	OUT
+OUT_stop name	stop name	OUT
+OUT_fat crack percent	fat crack percent	OUT
+OUT_latitude	latitude	OUT
+OUT_municipality	municipality	OUT
+OUT_year of conviction	year of conviction	OUT
+IN_subsidiary	subsidiary	IN
+OUT_day is complete	day is complete	OUT
+OUT_station id	station id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_comp date	comp date	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_date	date	OUT
+OUT_mode	mode	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_make	make	OUT
+OUT_permit type	permit type	OUT
+OUT_completed both training	completed both training	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_sale date	sale date	OUT
+OUT_rides	rides	OUT
+OUT_deliver none	deliver none	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_description	description	OUT
+OUT_description	description	OUT
+OUT_edla	edla	OUT
+OUT_third approach	third approach	OUT

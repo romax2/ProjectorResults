@@ -1,0 +1,62 @@
+stc_label	sentence	category
+71_traffic_control_devi	traffic control device inventory	Table
+OUT_modified on	modified on	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_ped signal pres	ped signal pres	OUT
+OUT_fare amount	fare amount	OUT
+OUT_exit	exit	OUT
+OUT_exit	exit	OUT
+OUT_violation month	violation month	OUT
+IN_latitude	latitude	IN
+OUT_month	month	OUT
+IN_longitude	longitude	IN
+IN_location	location	IN
+OUT_full street name	full street name	OUT
+OUT_site name	site name	OUT
+OUT_project location	project location	OUT
+IN_device priority	device priority	IN
+IN_county	county	IN
+OUT_construction type	construction type	OUT
+OUT_conviction description	conviction description	OUT
+OUT_conviction description	conviction description	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_end community area number	end community area number	OUT
+OUT_oa cmnt	oa cmnt	OUT
+OUT_urban	urban	OUT
+OUT_shape st le	shape st le	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_grades c	grades c	OUT
+IN_municipality	municipality	IN
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_class 5 h	class 5 h	OUT
+OUT_name	name	OUT
+IN_maintenance responsibility	maintenance responsibility	IN
+OUT_speed	speed	OUT
+OUT_route	route	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_subsidiary	subsidiary	OUT
+IN_main route	main route	IN
+OUT_geometry	geometry	OUT
+OUT_violation description	violation description	OUT
+OUT_type	type	OUT
+IN_device number	device number	IN
+OUT_shape len	shape len	OUT
+OUT_comp not address 10 days	comp not address 10 days	OUT
+OUT_vendor name	vendor name	OUT
+IN_maintaining region	maintaining region	IN
+IN_device purpose	device purpose	IN
+IN_device type	device type	IN
+OUT_intersection	intersection	OUT
+OUT_sign post qty	sign post qty	OUT
+IN_owning region	owning region	IN
+IN_intersecting route	intersecting route	IN
+OUT_company id	company id	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

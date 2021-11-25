@@ -1,0 +1,62 @@
+stc_label	sentence	category
+75_vehicle_and_boat_reg	vehicle and boat registrations by fuel type per county	Table
+IN_record type	record type	IN
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_grades d	grades d	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_grades c	grades c	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_cr slp d	cr slp d	OUT
+OUT_mapping location	mapping location	OUT
+OUT_curve len	curve len	OUT
+OUT_longitude	longitude	OUT
+OUT_exit	exit	OUT
+OUT_t street	t street	OUT
+OUT_construction type	construction type	OUT
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+OUT_site name	site name	OUT
+OUT_floats - number of round trips	floats - number of round trips	OUT
+OUT_municipality	municipality	OUT
+OUT_miles	miles	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_the geom	the geom	OUT
+OUT_stop lon	stop lon	OUT
+OUT_env 04	env 04	OUT
+OUT_start centroid longitude	start centroid longitude	OUT
+IN_registration class	registration class	IN
+OUT_conviction description	conviction description	OUT
+OUT_conviction description	conviction description	OUT
+IN_fuel type	fuel type	IN
+OUT_functional class	functional class	OUT
+OUT_shape st le	shape st le	OUT
+OUT_run by	run by	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+IN_county	county	IN
+OUT_project status	project status	OUT
+OUT_project status	project status	OUT
+OUT_created on	created on	OUT
+OUT_route	route	OUT
+OUT_slab 07	slab 07	OUT
+OUT_source	source	OUT
+OUT_expiration date	expiration date	OUT
+OUT_cpl ctrst	cpl ctrst	OUT
+OUT_company name	company name	OUT
+OUT_state of license	state of license	OUT
+OUT_sale no	sale no	OUT
+OUT_rides	rides	OUT
+OUT_opt code	opt code	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_comments	comments	OUT
+OUT_replace clip	replace clip	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+77_weigh_in_motion	weigh in motion	Table
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_grades c	grades c	OUT
+OUT_rut 09	rut 09	OUT
+OUT_dd	dd	OUT
+OUT_school year	school year	OUT
+IN_hour	hour	IN
+IN_class	class	IN
+IN_speed	speed	IN
+IN_year	year	IN
+IN_month	month	IN
+IN_day	day	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+IN_minute	minute	IN
+OUT_evnt lat	evnt lat	OUT
+OUT_deliver package locker	deliver package locker	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_location	location	OUT
+OUT_project location	project location	OUT
+OUT_site name	site name	OUT
+OUT_longitude	longitude	OUT
+OUT_latitude	latitude	OUT
+OUT_station id	station id	OUT
+OUT_fuel type	fuel type	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_tost	tost	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_school name	school name	OUT
+IN_num axles	num axles	IN
+OUT_created on	created on	OUT
+OUT_mode	mode	OUT
+OUT_violation month	violation month	OUT
+OUT_effective date	effective date	OUT
+OUT_fee type	fee type	OUT
+IN_wheelbase	wheelbase	IN
+OUT_payment type	payment type	OUT
+OUT_county	county	OUT
+OUT_slab 10	slab 10	OUT
+OUT_last date updated	last date updated	OUT
+IN_direction	direction	IN
+IN_lane	lane	IN
+IN_second	second	IN
+OUT_source	source	OUT
+OUT_completed both training	completed both training	OUT
+OUT_end centroid location	end centroid location	OUT
+OUT_route number	route number	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+OUT_sale type	sale type	OUT
+OUT_minor collector miles	minor collector miles	OUT
+OUT_rides	rides	OUT
+OUT_device type	device type	OUT
+OUT_replace post	replace post	OUT
+OUT_court name	court name	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+61_street_construction_	street construction permits - related agency	Table
+IN_permit number	permit number	IN
+IN_related permit number	related permit number	IN
+IN_permit related agency desc	permit related agency desc	IN
+OUT_maintenance area number	maintenance area number	OUT
+OUT_do location id	do location id	OUT
+IN_created on	created on	IN
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_day weight	day weight	OUT
+OUT_drv cs d	drv cs d	OUT
+OUT_month- year	month- year	OUT
+OUT_class 3 h	class 3 h	OUT
+OUT_miles	miles	OUT
+OUT_school year	school year	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_parent station	parent station	OUT
+OUT_principal arterial dvmt	principal arterial dvmt	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_hh id	hh id	OUT
+OUT_oci 06	oci 06	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_number of riders	number of riders	OUT
+OUT_zip codes	zip codes	OUT
+OUT_long	long	OUT
+OUT_exit	exit	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_start centroid latitude	start centroid latitude	OUT
+OUT_longitude	longitude	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_effective date	effective date	OUT
+IN_modified on	modified on	IN
+OUT_other ridership	other ridership	OUT
+OUT_payment type	payment type	OUT
+OUT_registration class	registration class	OUT
+OUT_county	county	OUT
+OUT_last date updated	last date updated	OUT
+OUT_pedestrian bicyclist action	pedestrian bicyclist action	OUT
+OUT_lane	lane	OUT
+OUT_travel date dow	travel date dow	OUT
+OUT_sign post comment	sign post comment	OUT
+OUT_milepost	milepost	OUT
+OUT_loaded containers volume	loaded containers volume	OUT
+OUT_color	color	OUT
+OUT_color	color	OUT
+OUT_color	color	OUT
+OUT_other complaints	other complaints	OUT
+OUT_type	type	OUT
+OUT_support type desc	support type desc	OUT
+OUT_state of license	state of license	OUT
+OUT_replace arc	replace arc	OUT
+OUT_opt code	opt code	OUT

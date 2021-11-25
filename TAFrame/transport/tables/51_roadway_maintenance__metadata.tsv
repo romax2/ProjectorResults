@@ -1,0 +1,62 @@
+stc_label	sentence	category
+51_roadway_maintenance_	roadway maintenance areas	Table
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+IN_neighbourhood id	neighbourhood id	IN
+IN_neighbourhood url	neighbourhood url	IN
+IN_neighbourhood name	neighbourhood name	IN
+OUT_zip codes	zip codes	OUT
+OUT_road name	road name	OUT
+OUT_road name	road name	OUT
+OUT_pu location id	pu location id	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_tpep pickup datetime	tpep pickup datetime	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_shape st le	shape st le	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_hh id	hh id	OUT
+OUT_percent on- time	percent on- time	OUT
+IN_maintenance area number	maintenance area number	IN
+OUT_yr20 factor	yr20 factor	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_cpl ldg	cpl ldg	OUT
+OUT_tp id	tp id	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_total riders	total riders	OUT
+OUT_class 6 h	class 6 h	OUT
+OUT_req#	req#	OUT
+OUT_req#	req#	OUT
+OUT_fips	fips	OUT
+OUT_curves a	curves a	OUT
+IN_maintenance sub- area name	maintenance sub- area name	IN
+OUT_weight	weight	OUT
+OUT_loc error	loc error	OUT
+OUT_to descr	to descr	OUT
+OUT_date	date	OUT
+OUT_functional class	functional class	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_route	route	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_device number	device number	OUT
+OUT_extra	extra	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_date designated	date designated	OUT
+OUT_replace bollard	replace bollard	OUT
+OUT_replace bollard	replace bollard	OUT
+OUT_route number	route number	OUT
+OUT_sale no	sale no	OUT
+OUT_state of license	state of license	OUT
+OUT_type	type	OUT
+OUT_go live date	go live date	OUT
+OUT_court name	court name	OUT
+OUT_repair rsb	repair rsb	OUT
+OUT_company id	company id	OUT

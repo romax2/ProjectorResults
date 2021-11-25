@@ -1,0 +1,62 @@
+stc_label	sentence	category
+69_tourism_information_	tourism information centers	Table
+OUT_site name	site name	OUT
+IN_location	location	IN
+IN_plaza name	plaza name	IN
+IN_nys municipal boundaries	nys municipal boundaries	IN
+IN_latitude	latitude	IN
+IN_mapping location	mapping location	IN
+IN_new york zip codes	new york zip codes	IN
+IN_longitude	longitude	IN
+OUT_neighbourhood id	neighbourhood id	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_end community area number	end community area number	OUT
+OUT_subsidiary	subsidiary	OUT
+IN_counties	counties	IN
+OUT_urban area	urban area	OUT
+OUT_the geom	the geom	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_record type	record type	OUT
+OUT_fare amount	fare amount	OUT
+OUT_cpl size	cpl size	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_end time	end time	OUT
+OUT_end time	end time	OUT
+OUT_hh id	hh id	OUT
+OUT_counts	counts	OUT
+OUT_minor arterial miles	minor arterial miles	OUT
+OUT_school name	school name	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_class 5 s	class 5 s	OUT
+OUT_date	date	OUT
+OUT_violation month	violation month	OUT
+OUT_registration class	registration class	OUT
+OUT_fee type	fee type	OUT
+OUT_modified on	modified on	OUT
+OUT_created on	created on	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+IN_route	route	IN
+OUT_stipulation id	stipulation id	OUT
+OUT_stipulation id	stipulation id	OUT
+OUT_extra	extra	OUT
+IN_operation	operation	IN
+OUT_drv ti mat	drv ti mat	OUT
+IN_direction	direction	IN
+OUT_end centroid longitude	end centroid longitude	OUT
+IN_milepost	milepost	IN
+OUT_permit number	permit number	OUT
+OUT_permit id	permit id	OUT
+OUT_opt code	opt code	OUT
+OUT_local dvmt	local dvmt	OUT
+OUT_description line 1	description line 1	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_stipulation code	stipulation code	OUT
+OUT_closing date	closing date	OUT
+OUT_issue date	issue date	OUT
+OUT_court name	court name	OUT
+OUT_sign post gu id	sign post gu id	OUT

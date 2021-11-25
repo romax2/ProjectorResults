@@ -1,0 +1,62 @@
+stc_label	sentence	category
+66_thruway_interchanges	thruway interchanges and exits map	Table
+IN_nys municipal boundaries	nys municipal boundaries	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+IN_latitude	latitude	IN
+IN_new york zip codes	new york zip codes	IN
+IN_location	location	IN
+IN_exit	exit	IN
+IN_longitude	longitude	IN
+OUT_site name	site name	OUT
+OUT_project location	project location	OUT
+OUT_site	site	OUT
+OUT_davidson county border	davidson county border	OUT
+IN_counties	counties	IN
+OUT_record type	record type	OUT
+OUT_cpl aud	cpl aud	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_school year	school year	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_year	year	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_counts	counts	OUT
+OUT_percent on- time	percent on- time	OUT
+IN_route id	route id	IN
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_violation year	violation year	OUT
+OUT_count	count	OUT
+OUT_total riders	total riders	OUT
+OUT_cr slp	cr slp	OUT
+OUT_day weight	day weight	OUT
+OUT_date	date	OUT
+OUT_maintenance area number	maintenance area number	OUT
+OUT_number of riders	number of riders	OUT
+OUT_number of riders	number of riders	OUT
+OUT_num axles	num axles	OUT
+OUT_modified on	modified on	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_travel date	travel date	OUT
+IN_route	route	IN
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_mode	mode	OUT
+OUT_mode	mode	OUT
+OUT_county	county	OUT
+OUT_county	county	OUT
+OUT_local mileage	local mileage	OUT
+OUT_freeway miles	freeway miles	OUT
+OUT_star denials	star denials	OUT
+OUT_vendor name	vendor name	OUT
+OUT_id	id	OUT
+OUT_violation description	violation description	OUT
+IN_milepost	milepost	IN
+OUT_minor collector miles	minor collector miles	OUT
+OUT_status	status	OUT
+IN_type	type	IN
+OUT_opt code	opt code	OUT
+IN_description	description	IN
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_sign distance prev post	sign distance prev post	OUT

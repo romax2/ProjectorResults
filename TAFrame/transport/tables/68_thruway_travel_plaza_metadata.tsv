@@ -1,0 +1,62 @@
+stc_label	sentence	category
+68_thruway_travel_plaza	thruway travel plazas and parking/rest areas	Table
+OUT_exit plaza	exit plaza	OUT
+IN_new york zip codes	new york zip codes	IN
+IN_latitude	latitude	IN
+IN_nys municipal boundaries	nys municipal boundaries	IN
+OUT_neighbourhood name	neighbourhood name	OUT
+IN_location	location	IN
+IN_longitude	longitude	IN
+OUT_site	site	OUT
+OUT_site	site	OUT
+OUT_construction type	construction type	OUT
+IN_counties	counties	IN
+OUT_mta tax	mta tax	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_lpep pickup datetime	lpep pickup datetime	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month- year	month- year	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_passenger count	passenger count	OUT
+OUT_passenger count	passenger count	OUT
+IN_tp id	tp id	IN
+OUT_total trips	total trips	OUT
+OUT_trip id	trip id	OUT
+OUT_start centroid location	start centroid location	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_total	total	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_date	date	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_fee type	fee type	OUT
+IN_icon anchor	icon anchor	IN
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_other ridership	other ridership	OUT
+OUT_object id	object id	OUT
+OUT_object id	object id	OUT
+IN_route	route	IN
+OUT_closing month	closing month	OUT
+OUT_county	county	OUT
+OUT_maintenance sub- area name	maintenance sub- area name	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_created on	created on	OUT
+OUT_extra	extra	OUT
+OUT_freeway miles	freeway miles	OUT
+OUT_fixed riders	fixed riders	OUT
+OUT_no travel telework	no travel telework	OUT
+OUT_id	id	OUT
+OUT_midtown passengers	midtown passengers	OUT
+IN_direction	direction	IN
+IN_milepost	milepost	IN
+OUT_end centroid location	end centroid location	OUT
+OUT_route number	route number	OUT
+IN_route location	route location	IN
+OUT_obj pot	obj pot	OUT
+OUT_local miles	local miles	OUT
+IN_title	title	IN

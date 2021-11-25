@@ -1,0 +1,62 @@
+stc_label	sentence	category
+72_traffic_tickets_issu	traffic tickets issued, number of tickets by licensing state and violation	Table
+IN_violation year	violation year	IN
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_registration class	registration class	OUT
+OUT_county	county	OUT
+OUT_county	county	OUT
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+OUT_cpl cw 1	cpl cw 1	OUT
+OUT_number of vehicles involved	number of vehicles involved	OUT
+IN_violation description	violation description	IN
+OUT_latitude	latitude	OUT
+OUT_project location	project location	OUT
+OUT_valid times	valid times	OUT
+OUT_location	location	OUT
+OUT_street	street	OUT
+OUT_total ridership	total ridership	OUT
+OUT_req#	req#	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_station id	station id	OUT
+OUT_total amount	total amount	OUT
+OUT_year	year	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_dd	dd	OUT
+OUT_num axles	num axles	OUT
+OUT_expiration date	expiration date	OUT
+OUT_data collected	data collected	OUT
+OUT_day	day	OUT
+OUT_name	name	OUT
+OUT_length	length	OUT
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+OUT_fur zn w	fur zn w	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_curves e	curves e	OUT
+OUT_curves b	curves b	OUT
+OUT_weight	weight	OUT
+OUT_speed	speed	OUT
+OUT_functional class	functional class	OUT
+IN_state of license	state of license	IN
+OUT_fuel type	fuel type	OUT
+OUT_route	route	OUT
+OUT_valid	valid	OUT
+OUT_id	id	OUT
+OUT_id	id	OUT
+OUT_deliver package home	deliver package home	OUT
+OUT_sw width	sw width	OUT
+IN_source	source	IN
+OUT_make	make	OUT
+OUT_direction	direction	OUT
+OUT_type	type	OUT
+OUT_rides	rides	OUT
+OUT_local miles	local miles	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

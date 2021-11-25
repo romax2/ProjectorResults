@@ -1,0 +1,62 @@
+stc_label	sentence	category
+50_road_traffic_counts_	road traffic counts in colorado 2018	Table
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_day weight	day weight	OUT
+IN_fips	fips	IN
+OUT_principal arterial miles	principal arterial miles	OUT
+OUT_day of week	day of week	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+IN_iri	iri	IN
+IN_seg length	seg length	IN
+IN_population	population	IN
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_trip duration	trip duration	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_mta tax	mta tax	OUT
+OUT_minute	minute	OUT
+OUT_cpl force	cpl force	OUT
+IN_psi	psi	IN
+OUT_zip codes	zip codes	OUT
+IN_from descr	from descr	IN
+OUT_year of conviction	year of conviction	OUT
+OUT_counties	counties	OUT
+OUT_road name	road name	OUT
+OUT_street	street	OUT
+OUT_exit	exit	OUT
+OUT_exit	exit	OUT
+OUT_station id	station id	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_start time	start time	OUT
+IN_to descr	to descr	IN
+OUT_site	site	OUT
+IN_route	route	IN
+IN_fund id	fund id	IN
+IN_the geom	the geom	IN
+OUT_rtd ridership	rtd ridership	OUT
+OUT_created on	created on	OUT
+OUT_violation year	violation year	OUT
+IN_urban	urban	IN
+IN_surf type	surf type	IN
+OUT_town index	town index	OUT
+OUT_no travel telework	no travel telework	OUT
+OUT_replace rsb	replace rsb	OUT
+OUT_effective date	effective date	OUT
+OUT_registration class	registration class	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_county	county	OUT
+OUT_closing month	closing month	OUT
+IN_operation	operation	IN
+OUT_make	make	OUT
+OUT_permit print date	permit print date	OUT
+OUT_violation description	violation description	OUT
+OUT_ref#	ref#	OUT
+OUT_state of license	state of license	OUT
+OUT_court name	court name	OUT
+OUT_court name	court name	OUT

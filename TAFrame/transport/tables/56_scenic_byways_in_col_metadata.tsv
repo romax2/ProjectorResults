@@ -1,0 +1,62 @@
+stc_label	sentence	category
+56_scenic_byways_in_col	scenic byways in colorado	Table
+OUT_location	location	OUT
+OUT_stop id	stop id	OUT
+OUT_f street	f street	OUT
+OUT_davidson county border	davidson county border	OUT
+OUT_pu location id	pu location id	OUT
+OUT_pu location id	pu location id	OUT
+OUT_total ridership	total ridership	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_comp date	comp date	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_hour	hour	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_total complaints	total complaints	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_quarter	quarter	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_minor arterial dvmt	minor arterial dvmt	OUT
+OUT_violation day of week	violation day of week	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_principal arterial miles	principal arterial miles	OUT
+OUT_date	date	OUT
+OUT_tip amount	tip amount	OUT
+OUT_class 2 l	class 2 l	OUT
+OUT_class 3 h	class 3 h	OUT
+IN_name	name	IN
+OUT_evnt lon	evnt lon	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_minute	minute	OUT
+OUT_registration class	registration class	OUT
+OUT_conviction description	conviction description	OUT
+OUT_fee type	fee type	OUT
+OUT_modified on	modified on	OUT
+OUT_functional class	functional class	OUT
+OUT_payment type	payment type	OUT
+OUT_service interruptions	service interruptions	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+IN_route	route	IN
+OUT_town index	town index	OUT
+IN_geometry	geometry	IN
+OUT_make	make	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_end centroid longitude	end centroid longitude	OUT
+OUT_source	source	OUT
+OUT_violation description	violation description	OUT
+OUT_end centroid latitude	end centroid latitude	OUT
+OUT_store and fwd flag	store and fwd flag	OUT
+OUT_permit number	permit number	OUT
+OUT_permit number	permit number	OUT
+OUT_no travel no transport	no travel no transport	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_sign post brown	sign post brown	OUT
+OUT_traffic control device	traffic control device	OUT

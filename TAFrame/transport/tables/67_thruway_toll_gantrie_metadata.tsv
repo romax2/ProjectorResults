@@ -1,0 +1,62 @@
+stc_label	sentence	category
+67_thruway_toll_gantrie	thruway toll gantries	Table
+OUT_f street	f street	OUT
+IN_new york zip codes	new york zip codes	IN
+IN_nys municipal boundaries	nys municipal boundaries	IN
+IN_latitude	latitude	IN
+OUT_exit	exit	OUT
+IN_longitude	longitude	IN
+OUT_neighbourhood name	neighbourhood name	OUT
+OUT_site name	site name	OUT
+OUT_site name	site name	OUT
+OUT_end community area number	end community area number	OUT
+OUT_entrance	entrance	OUT
+OUT_construction type	construction type	OUT
+OUT_project location	project location	OUT
+OUT_site	site	OUT
+IN_counties	counties	IN
+OUT_the geom	the geom	OUT
+OUT_month	month	OUT
+OUT_oci 06	oci 06	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_seg length	seg length	OUT
+OUT_vehicle class	vehicle class	OUT
+OUT_trip duration	trip duration	OUT
+OUT_violation year	violation year	OUT
+OUT_oci 10	oci 10	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_curves e	curves e	OUT
+OUT_env 06	env 06	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_date	date	OUT
+OUT_trip type	trip type	OUT
+IN_name	name	IN
+OUT_school name	school name	OUT
+OUT_payment type	payment type	OUT
+OUT_route	route	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_project status	project status	OUT
+OUT_county	county	OUT
+OUT_functional class code	functional class code	OUT
+IN_road	road	IN
+OUT_replace anchor	replace anchor	OUT
+OUT_no travel sick	no travel sick	OUT
+IN_milepost	milepost	IN
+OUT_source	source	OUT
+OUT_direction	direction	OUT
+OUT_support type desc	support type desc	OUT
+OUT_permit number	permit number	OUT
+IN_type	type	IN
+OUT_stipulation description	stipulation description	OUT
+OUT_permit	permit	OUT
+OUT_permit type	permit type	OUT
+IN_description	description	IN
+OUT_closing date	closing date	OUT
+OUT_inspector	inspector	OUT
+OUT_sign post brown	sign post brown	OUT
+OUT_permit expire date	permit expire date	OUT
+OUT_replace clip	replace clip	OUT

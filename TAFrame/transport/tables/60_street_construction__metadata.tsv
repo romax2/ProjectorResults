@@ -1,0 +1,62 @@
+stc_label	sentence	category
+60_street_construction_	street construction permits - fee	Table
+IN_permit number	permit number	IN
+OUT_sign post support ft	sign post support ft	OUT
+IN_permit fee amount charged	permit fee amount charged	IN
+OUT_route number	route number	OUT
+OUT_owning region	owning region	OUT
+OUT_no travel housework	no travel housework	OUT
+OUT_company id	company id	OUT
+OUT_company name	company name	OUT
+IN_created on	created on	IN
+OUT_repair bollards	repair bollards	OUT
+OUT_total riders	total riders	OUT
+OUT_day weight	day weight	OUT
+OUT_type name	type name	OUT
+OUT_grades d	grades d	OUT
+OUT_replace curb	replace curb	OUT
+OUT_fips	fips	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_total amount	total amount	OUT
+OUT_major colelctor miles	major colelctor miles	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_year	year	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_min address	min address	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_star denials	star denials	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_town index	town index	OUT
+OUT_direction	direction	OUT
+OUT_rides	rides	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_record type	record type	OUT
+OUT_stop code	stop code	OUT
+OUT_pu location id	pu location id	OUT
+OUT_slab 08	slab 08	OUT
+OUT_mapping location	mapping location	OUT
+OUT_location	location	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_entrance	entrance	OUT
+OUT_entrance	entrance	OUT
+OUT_longitude	longitude	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_latitude	latitude	OUT
+OUT_violation year	violation year	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_return date	return date	OUT
+OUT_date	date	OUT
+IN_modified on	modified on	IN
+OUT_geometry	geometry	OUT
+OUT_effective date	effective date	OUT
+OUT_operation	operation	OUT
+OUT_county	county	OUT
+OUT_county	county	OUT
+IN_fee type	fee type	IN
+OUT_color	color	OUT
+OUT_closing month	closing month	OUT
+OUT_type	type	OUT

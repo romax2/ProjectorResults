@@ -1,0 +1,62 @@
+stc_label	sentence	category
+57_sidewalk_inventory_f	sidewalk inventory for ada self-assessment	Table
+IN_sw width	sw width	IN
+IN_obj pot	obj pot	IN
+IN_drv ti mat	drv ti mat	IN
+OUT_sale type	sale type	OUT
+IN_tost	tost	IN
+IN_obj type	obj type	IN
+IN_obj hgt	obj hgt	IN
+IN_evnt type	evnt type	IN
+OUT_county	county	OUT
+IN_evnt lat	evnt lat	IN
+OUT_registration class	registration class	OUT
+IN_cr slp	cr slp	IN
+OUT_sale item no	sale item no	OUT
+IN_event subt	event subt	IN
+OUT_modified on	modified on	OUT
+OUT_modified on	modified on	OUT
+IN_fur zn w	fur zn w	IN
+OUT_fuel type	fuel type	OUT
+OUT_fuel type	fuel type	OUT
+OUT_sale price	sale price	OUT
+IN_mapped location	mapped location	IN
+OUT_survey mode	survey mode	OUT
+OUT_route	route	OUT
+IN_zip codes	zip codes	IN
+IN_measure	measure	IN
+OUT_longitude	longitude	OUT
+IN_evnt lon	evnt lon	IN
+OUT_month	month	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_curve len	curve len	OUT
+IN_drv cs	drv cs	IN
+OUT_date	date	OUT
+IN_cr slp d	cr slp d	IN
+IN_service districts	service districts	IN
+IN_drv ld	drv ld	IN
+IN_council district outlines	council district outlines	IN
+OUT_interval beginning time	interval beginning time	OUT
+IN_drv cs d	drv cs d	IN
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_from	from	IN
+IN_davidson county border	davidson county border	IN
+OUT_subsidiary	subsidiary	OUT
+OUT_second	second	OUT
+OUT_municipality	municipality	OUT
+OUT_the geom	the geom	OUT
+IN_sw mat ty	sw mat ty	IN
+OUT_created on	created on	OUT
+OUT_school name	school name	OUT
+OUT_permit number	permit number	OUT
+OUT_permit id	permit id	OUT
+OUT_geometry	geometry	OUT
+IN_repaired	repaired	IN
+IN_side	side	IN
+OUT_no travel delivery	no travel delivery	OUT
+OUT_store and fwd flag	store and fwd flag	OUT
+OUT_company id	company id	OUT
+OUT_sign post support type id	sign post support type id	OUT
+OUT_midtown passengers	midtown passengers	OUT

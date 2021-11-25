@@ -1,0 +1,62 @@
+stc_label	sentence	category
+73_traffic_tickets_issu	traffic tickets issued, number of tickets issued by year, month, day of week, and violation	Table
+OUT_month of conviction	month of conviction	OUT
+OUT_month of conviction	month of conviction	OUT
+IN_violation day of week	violation day of week	IN
+IN_violation year	violation year	IN
+OUT_comp date	comp date	OUT
+OUT_lpep pickup datetime	lpep pickup datetime	OUT
+IN_violation month	violation month	IN
+OUT_vehicle count	vehicle count	OUT
+OUT_vehicle count	vehicle count	OUT
+OUT_ridership	ridership	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_day of week	day of week	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_latitude	latitude	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_person num	person num	OUT
+OUT_days lost per capita 2010	days lost per capita 2010	OUT
+OUT_hour	hour	OUT
+OUT_entry plaza	entry plaza	OUT
+OUT_date	date	OUT
+OUT_count	count	OUT
+OUT_effective date	effective date	OUT
+OUT_effective date	effective date	OUT
+OUT_entrance	entrance	OUT
+OUT_station id	station id	OUT
+OUT_fips	fips	OUT
+OUT_urban area	urban area	OUT
+OUT_other mileage	other mileage	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_miles	miles	OUT
+OUT_opening month	opening month	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+IN_violation charged code	violation charged code	IN
+OUT_town index	town index	OUT
+OUT_fuel type	fuel type	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+IN_violation description	violation description	IN
+OUT_id	id	OUT
+OUT_geometry	geometry	OUT
+OUT_vendor name	vendor name	OUT
+OUT_expiration date	expiration date	OUT
+OUT_milepost	milepost	OUT
+OUT_milepost	milepost	OUT
+IN_source	source	IN
+OUT_midtown passengers	midtown passengers	OUT
+OUT_state plate	state plate	OUT
+OUT_store and fwd flag	store and fwd flag	OUT
+OUT_route number	route number	OUT
+OUT_permit type	permit type	OUT
+OUT_intersection	intersection	OUT
+OUT_downtown passengers	downtown passengers	OUT
+OUT_stipulation full text	stipulation full text	OUT
+OUT_suffix direction	suffix direction	OUT
+OUT_conk 04	conk 04	OUT

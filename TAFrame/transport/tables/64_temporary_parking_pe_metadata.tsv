@@ -1,0 +1,62 @@
+stc_label	sentence	category
+64_temporary_parking_pe	temporary parking permit for people with disabilities- on street	Table
+OUT_permit number	permit number	OUT
+IN_permit no	permit no	IN
+OUT_crane serial number	crane serial number	OUT
+IN_permit type	permit type	IN
+OUT_num complete trip surveys	num complete trip surveys	OUT
+OUT_curves e	curves e	OUT
+OUT_grades e	grades e	OUT
+OUT_dd	dd	OUT
+OUT_counties	counties	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_class 3 h	class 3 h	OUT
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+OUT_class 5 s	class 5 s	OUT
+OUT_trip distance	trip distance	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_measure	measure	OUT
+IN_location	location	IN
+OUT_record type	record type	OUT
+OUT_record type	record type	OUT
+OUT_speed	speed	OUT
+OUT_project status	project status	OUT
+OUT_tip amount	tip amount	OUT
+OUT_longitude	longitude	OUT
+OUT_route	route	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_station id	station id	OUT
+OUT_freeway miles	freeway miles	OUT
+OUT_violation year	violation year	OUT
+OUT_opening month	opening month	OUT
+IN_state plate	state plate	IN
+OUT_mode	mode	OUT
+OUT_date	date	OUT
+OUT_date	date	OUT
+OUT_route number	route number	OUT
+IN_effective date	effective date	IN
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_number of vehicles that used cash	number of vehicles that used cash	OUT
+OUT_registration class	registration class	OUT
+OUT_source	source	OUT
+IN_permit expire date	permit expire date	IN
+OUT_rides	rides	OUT
+OUT_rides	rides	OUT
+OUT_sign post brown	sign post brown	OUT
+OUT_type	type	OUT
+OUT_description line 2	description line 2	OUT
+OUT_sale no	sale no	OUT
+OUT_quad	quad	OUT
+IN_valid	valid	IN
+OUT_sign post date created	sign post date created	OUT
+OUT_permit fee amount charged	permit fee amount charged	OUT
+OUT_edla	edla	OUT

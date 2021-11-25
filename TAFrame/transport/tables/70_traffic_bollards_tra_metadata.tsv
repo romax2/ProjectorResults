@@ -1,0 +1,62 @@
+stc_label	sentence	category
+70_traffic_bollards_tra	traffic bollards tracking and installations	Table
+OUT_maintenance area number	maintenance area number	OUT
+IN_repair curb	repair curb	IN
+OUT_end census tract	end census tract	OUT
+IN_repair end	repair end	IN
+OUT_construction type	construction type	OUT
+IN_location	location	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_total ridership	total ridership	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_grades b	grades b	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_record type	record type	OUT
+IN_repair post	repair post	IN
+OUT_the geom	the geom	OUT
+OUT_curves b	curves b	OUT
+OUT_fips	fips	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_month of conviction	month of conviction	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+OUT_floats - number of round trips	floats - number of round trips	OUT
+IN_replace curb	replace curb	IN
+OUT_other mileage	other mileage	OUT
+IN_repair bollards	repair bollards	IN
+OUT_days lost 2011	days lost 2011	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_length	length	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_number of riders	number of riders	OUT
+OUT_fuel type	fuel type	OUT
+IN_replace anchor	replace anchor	IN
+OUT_rtd ridership	rtd ridership	OUT
+IN_repl t- curb	repl t- curb	IN
+IN_date	date	IN
+IN_replace rsb	replace rsb	IN
+OUT_fee type	fee type	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_payment type	payment type	OUT
+OUT_payment type	payment type	OUT
+OUT_modified on	modified on	OUT
+OUT_permit number	permit number	OUT
+OUT_functional class code	functional class code	OUT
+OUT_functional class code	functional class code	OUT
+IN_replace bollard	replace bollard	IN
+OUT_county	county	OUT
+OUT_shape len	shape len	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_state of license	state of license	OUT
+OUT_state of license	state of license	OUT
+OUT_opt code	opt code	OUT
+IN_replace post	replace post	IN
+OUT_max address	max address	OUT
+IN_replace arc	replace arc	IN
+IN_replace clip	replace clip	IN
+IN_replace end	replace end	IN
+IN_repair rsb	repair rsb	IN

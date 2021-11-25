@@ -1,0 +1,62 @@
+stc_label	sentence	category
+55_routes_by_transporta	routes by transportation sites	Table
+OUT_slab 12	slab 12	OUT
+OUT_slab 09	slab 09	OUT
+IN_route number	route number	IN
+OUT_evnt map	evnt map	OUT
+OUT_milepost	milepost	OUT
+OUT_station id	station id	OUT
+OUT_percent of vehicles that used cash	percent of vehicles that used cash	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_record type	record type	OUT
+OUT_lpep pickup datetime	lpep pickup datetime	OUT
+OUT_vehicle miles travelled	vehicle miles travelled	OUT
+OUT_exit	exit	OUT
+OUT_nys municipal boundaries	nys municipal boundaries	OUT
+OUT_pmi completed	pmi completed	OUT
+IN_school year	school year	IN
+OUT_fips	fips	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_evnt lon	evnt lon	OUT
+OUT_tolls amount	tolls amount	OUT
+OUT_id	id	OUT
+OUT_project location	project location	OUT
+OUT_curves f	curves f	OUT
+OUT_req#	req#	OUT
+OUT_minute	minute	OUT
+OUT_env 09	env 09	OUT
+OUT_principal arterial miles	principal arterial miles	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_ped signal pres	ped signal pres	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_ridership	ridership	OUT
+OUT_length	length	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+OUT_shape leng	shape leng	OUT
+OUT_registration class	registration class	OUT
+OUT_violation charged code	violation charged code	OUT
+OUT_pedestrian bicyclist action	pedestrian bicyclist action	OUT
+OUT_expiration date	expiration date	OUT
+OUT_permit id	permit id	OUT
+OUT_route id	route id	OUT
+OUT_county	county	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_date designated	date designated	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_sale no	sale no	OUT
+OUT_direction	direction	OUT
+OUT_ref#	ref#	OUT
+IN_opt code	opt code	IN
+OUT_permit qty	permit qty	OUT
+OUT_comments	comments	OUT
+OUT_court name	court name	OUT
+OUT_prevent accidents	prevent accidents	OUT

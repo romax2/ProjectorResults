@@ -1,0 +1,62 @@
+stc_label	sentence	category
+62_street_construction_	street construction permits - stipulations (historical)	Table
+IN_permit number	permit number	IN
+IN_created on	created on	IN
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_nysdot mileage	nysdot mileage	OUT
+OUT_percent on- time	percent on- time	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_dd	dd	OUT
+OUT_dd	dd	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_class	class	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_days lost in 2010	days lost in 2010	OUT
+OUT_mta tax	mta tax	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_project location	project location	OUT
+OUT_municipality	municipality	OUT
+OUT_region	region	OUT
+OUT_minor arterial dvmt	minor arterial dvmt	OUT
+OUT_site name	site name	OUT
+OUT_location	location	OUT
+OUT_ridership	ridership	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_state plate	state plate	OUT
+OUT_from descr	from descr	OUT
+OUT_longitude	longitude	OUT
+OUT_station id	station id	OUT
+OUT_long	long	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_start centroid longitude	start centroid longitude	OUT
+OUT_fund id	fund id	OUT
+OUT_town index	town index	OUT
+OUT_violation year	violation year	OUT
+OUT_paved	paved	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_conviction description	conviction description	OUT
+OUT_direction	direction	OUT
+OUT_collision type descriptor	collision type descriptor	OUT
+OUT_functional class code	functional class code	OUT
+OUT_payment type	payment type	OUT
+OUT_registration class	registration class	OUT
+OUT_closing month	closing month	OUT
+OUT_midtown passengers	midtown passengers	OUT
+OUT_midtown passengers	midtown passengers	OUT
+IN_stipulation id	stipulation id	IN
+OUT_side	side	OUT
+OUT_description line 1	description line 1	OUT
+OUT_state of license	state of license	OUT
+OUT_sign post qty	sign post qty	OUT
+IN_stipulation full text	stipulation full text	IN
+OUT_star riders	star riders	OUT
+OUT_edla	edla	OUT
+OUT_edla	edla	OUT

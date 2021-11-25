@@ -1,0 +1,62 @@
+stc_label	sentence	category
+59_street_construction_	street construction permits - cranes	Table
+IN_crane serial number	crane serial number	IN
+OUT_new york zip codes	new york zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_start community area name	start community area name	OUT
+OUT_project location	project location	OUT
+IN_crane type short desc	crane type short desc	IN
+OUT_counties	counties	OUT
+OUT_counties	counties	OUT
+OUT_total centerline highway mileage	total centerline highway mileage	OUT
+OUT_mapped location	mapped location	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_data collected	data collected	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_percent on- time	percent on- time	OUT
+IN_created on	created on	IN
+IN_permit number	permit number	IN
+OUT_day of week	day of week	OUT
+OUT_yr20 factor	yr20 factor	OUT
+OUT_percent of vehicles that used e- z pass	percent of vehicles that used e- z pass	OUT
+OUT_evnt lon	evnt lon	OUT
+OUT_end time	end time	OUT
+OUT_record type	record type	OUT
+OUT_home park amount month	home park amount month	OUT
+OUT_days lost 2011	days lost 2011	OUT
+OUT_tip amount	tip amount	OUT
+OUT_year of conviction	year of conviction	OUT
+OUT_home park	home park	OUT
+OUT_congestion surcharge	congestion surcharge	OUT
+OUT_pu location id	pu location id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_rtd ridership	rtd ridership	OUT
+OUT_violation year	violation year	OUT
+OUT_violation year	violation year	OUT
+OUT_sale yr	sale yr	OUT
+OUT_opening month	opening month	OUT
+OUT_permit type	permit type	OUT
+OUT_town index	town index	OUT
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_conviction description	conviction description	OUT
+IN_modified on	modified on	IN
+OUT_other ridership	other ridership	OUT
+OUT_other ridership	other ridership	OUT
+OUT_payment type	payment type	OUT
+OUT_direction	direction	OUT
+OUT_county	county	OUT
+OUT_county	county	OUT
+OUT_completed both training	completed both training	OUT
+OUT_rides	rides	OUT
+OUT_rides	rides	OUT
+OUT_type	type	OUT
+OUT_type	type	OUT
+OUT_color	color	OUT
+OUT_description line 1	description line 1	OUT
+OUT_no travel homeschool	no travel homeschool	OUT
+OUT_opt code	opt code	OUT
+OUT_edla	edla	OUT
+OUT_prevent accidents	prevent accidents	OUT

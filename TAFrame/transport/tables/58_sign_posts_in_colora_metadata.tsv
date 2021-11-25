@@ -1,0 +1,62 @@
+stc_label	sentence	category
+58_sign_posts_in_colora	sign posts in colorado	Table
+IN_sign post exists	sign post exists	IN
+IN_sign post base qty	sign post base qty	IN
+IN_sign location gu id	sign location gu id	IN
+IN_sign post id	sign post id	IN
+IN_sign post gu id	sign post gu id	IN
+IN_sign post base type id	sign post base type id	IN
+IN_sign post support ft	sign post support ft	IN
+IN_sign location id	sign location id	IN
+IN_sign post support type id	sign post support type id	IN
+IN_sign post brown	sign post brown	IN
+IN_sign post comment	sign post comment	IN
+IN_sign distance prev post	sign distance prev post	IN
+IN_sign fuse plate in	sign fuse plate in	IN
+IN_sign post inactive	sign post inactive	IN
+IN_sign post date created	sign post date created	IN
+IN_sign post date updated	sign post date updated	IN
+IN_sign post validate date	sign post validate date	IN
+IN_sign post inactive date	sign post inactive date	IN
+IN_sign post qty	sign post qty	IN
+IN_sign post condition	sign post condition	IN
+OUT_permit number	permit number	OUT
+OUT_created on	created on	OUT
+OUT_created on	created on	OUT
+IN_region	region	IN
+OUT_miles	miles	OUT
+OUT_curves b	curves b	OUT
+OUT_repair end	repair end	OUT
+OUT_fips	fips	OUT
+OUT_fips	fips	OUT
+OUT_route	route	OUT
+OUT_project status	project status	OUT
+OUT_year	year	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_go live date	go live date	OUT
+OUT_service districts	service districts	OUT
+OUT_start time	start time	OUT
+OUT_crash descriptor	crash descriptor	OUT
+OUT_ridership	ridership	OUT
+OUT_min address	min address	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_name	name	OUT
+OUT_name	name	OUT
+OUT_road name	road name	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_exit	exit	OUT
+OUT_entrance	entrance	OUT
+IN_object id	object id	IN
+OUT_max address	max address	OUT
+OUT_county	county	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_date	date	OUT
+OUT_modified on	modified on	OUT
+OUT_operation	operation	OUT
+OUT_road	road	OUT
+OUT_road	road	OUT
+OUT_opt code	opt code	OUT
+OUT_sale no	sale no	OUT
+IN_support type desc	support type desc	IN
+OUT_sale date	sale date	OUT

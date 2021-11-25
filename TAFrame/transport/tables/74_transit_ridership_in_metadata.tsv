@@ -1,0 +1,62 @@
+stc_label	sentence	category
+74_transit_ridership_in	transit ridership in colorado	Table
+IN_rtd ridership	rtd ridership	IN
+IN_total ridership	total ridership	IN
+OUT_req#	req#	OUT
+OUT_date	date	OUT
+IN_other ridership	other ridership	IN
+OUT_evnt type	evnt type	OUT
+OUT_registration class	registration class	OUT
+OUT_sale price	sale price	OUT
+OUT_stop name	stop name	OUT
+IN_year	year	IN
+OUT_neighbourhood url	neighbourhood url	OUT
+OUT_num deleted trips	num deleted trips	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_improvement surcharge	improvement surcharge	OUT
+OUT_full street name	full street name	OUT
+OUT_exit	exit	OUT
+OUT_exit	exit	OUT
+OUT_payment type	payment type	OUT
+OUT_interval beginning time	interval beginning time	OUT
+OUT_road name	road name	OUT
+OUT_modified on	modified on	OUT
+OUT_dd	dd	OUT
+OUT_dd	dd	OUT
+OUT_crane type short desc	crane type short desc	OUT
+OUT_to descr	to descr	OUT
+OUT_curves e	curves e	OUT
+OUT_start centroid latitude	start centroid latitude	OUT
+OUT_station id	station id	OUT
+OUT_grades a	grades a	OUT
+OUT_grades a	grades a	OUT
+OUT_from	from	OUT
+OUT_fips	fips	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_days lost per capita 2011	days lost per capita 2011	OUT
+OUT_total riders	total riders	OUT
+OUT_counties	counties	OUT
+OUT_counties	counties	OUT
+OUT_county	county	OUT
+OUT_shape leng	shape leng	OUT
+OUT_object id	object id	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_school name	school name	OUT
+OUT_sale item no	sale item no	OUT
+OUT_created on	created on	OUT
+OUT_completed both training	completed both training	OUT
+OUT_star denials	star denials	OUT
+OUT_geometry	geometry	OUT
+OUT_violation description	violation description	OUT
+OUT_lighted	lighted	OUT
+OUT_made trips	made trips	OUT
+OUT_valid	valid	OUT
+OUT_permit id	permit id	OUT
+OUT_opt code	opt code	OUT
+OUT_description	description	OUT
+OUT_description	description	OUT
+OUT_color	color	OUT
+OUT_sign post gu id	sign post gu id	OUT
+OUT_edla	edla	OUT
+OUT_max address	max address	OUT

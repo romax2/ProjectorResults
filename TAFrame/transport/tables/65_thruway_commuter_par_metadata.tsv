@@ -1,0 +1,62 @@
+stc_label	sentence	category
+65_thruway_commuter_par	thruway commuter park and ride lots	Table
+IN_latitude	latitude	IN
+IN_nys municipal boundaries	nys municipal boundaries	IN
+IN_new york zip codes	new york zip codes	IN
+OUT_end community area name	end community area name	OUT
+IN_location	location	IN
+IN_longitude	longitude	IN
+IN_exit	exit	IN
+OUT_station id	station id	OUT
+IN_spaces	spaces	IN
+OUT_the geom	the geom	OUT
+OUT_min address	min address	OUT
+OUT_municipality	municipality	OUT
+IN_counties	counties	IN
+OUT_start community area name	start community area name	OUT
+OUT_number of vehicles involved	number of vehicles involved	OUT
+OUT_subsidiary	subsidiary	OUT
+OUT_mta tax	mta tax	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_paved	paved	IN
+OUT_school year	school year	OUT
+OUT_hh id	hh id	OUT
+OUT_counts	counts	OUT
+OUT_total trips	total trips	OUT
+OUT_date	date	OUT
+OUT_start community area number	start community area number	OUT
+OUT_dd	dd	OUT
+OUT_volume of loaded rail cars moved	volume of loaded rail cars moved	OUT
+OUT_region	region	OUT
+OUT_num axles	num axles	OUT
+OUT_ehail fee	ehail fee	OUT
+OUT_number of rail containers moved	number of rail containers moved	OUT
+IN_run by	run by	IN
+OUT_number of vehicles that used e- z pass	number of vehicles that used e- z pass	OUT
+OUT_closing month	closing month	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_route	route	OUT
+OUT_geometry	geometry	OUT
+IN_lighted	lighted	IN
+OUT_drv ti mat	drv ti mat	OUT
+OUT_vendor name	vendor name	OUT
+OUT_vendor name	vendor name	OUT
+OUT_source	source	OUT
+OUT_source	source	OUT
+OUT_stipulation description	stipulation description	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_color	color	OUT
+OUT_description line 1	description line 1	OUT
+OUT_repaired	repaired	OUT
+OUT_related permit number	related permit number	OUT
+OUT_permit related agency desc	permit related agency desc	OUT
+OUT_sign location gu id	sign location gu id	OUT
+OUT_sign location gu id	sign location gu id	OUT
+IN_title	title	IN
+OUT_quad	quad	OUT
+IN_comments	comments	IN
