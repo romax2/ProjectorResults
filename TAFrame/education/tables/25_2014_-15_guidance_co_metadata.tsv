@@ -1,0 +1,62 @@
+stc_label	sentence	category
+25_2014_-15_guidance_co	2014 -15 guidance counselor reporting - post secondary planning	Table
+OUT_subject	subject	OUT
+OUT_science	science	OUT
+OUT_elementary counselors	elementary counselors	OUT
+OUT_new accounts opened in 2013	new accounts opened in 2013	OUT
+OUT_county name	county name	OUT
+OUT_program type	program type	OUT
+OUT_number of offers	number of offers	OUT
+OUT_school	school	OUT
+OUT_service category	service category	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_nation	nation	OUT
+OUT_the geom	the geom	OUT
+OUT_institution or organization	institution or organization	OUT
+OUT_longitude	longitude	OUT
+IN_staff completing training	staff completing training	IN
+OUT_latitude	latitude	OUT
+OUT_section	section	OUT
+OUT_town code	town code	OUT
+OUT_town code	town code	OUT
+OUT_link	link	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_teachers kindergarten	teachers kindergarten	OUT
+OUT_count of students	count of students	OUT
+OUT_count of testers	count of testers	OUT
+OUT_itinerant health teachers	itinerant health teachers	OUT
+OUT_total teacher compensation	total teacher compensation	OUT
+IN_location name	location name	IN
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_metric value	metric value	OUT
+OUT_number of graduates	number of graduates	OUT
+OUT_head count	head count	OUT
+OUT_sat writing avg. score	sat writing avg. score	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_literacy	literacy	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_teacher attendance rate	teacher attendance rate	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_percent self- contained	percent self- contained	OUT
+OUT_total parent response rate	total parent response rate	OUT
+OUT_effective school leadership rating	effective school leadership rating	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_strong family- community ties score	strong family- community ties score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_school type	school type	OUT
+OUT_year	year	OUT
+OUT_level 2: #	level 2: #	OUT
+OUT_preschool age	preschool age	OUT
+OUT_pct level 4	pct level 4	OUT
+IN_school year	school year	IN
+OUT_enrollment	enrollment	OUT
+OUT_q1 2	q1 2	OUT
+OUT_ecers space/ furnishings score	ecers space/ furnishings score	OUT
+OUT_grade 1	grade 1	OUT
+OUT_grade 3	grade 3	OUT
+OUT_grade 3	grade 3	OUT
+OUT_community school district	community school district	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+16_2013_-_2015__nyc_res	2013 - 2015  nyc results on the new york state math test with math regents included	Table
+OUT_class instructional support score	class instructional support score	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+IN_level 3 or higher	level 3 or higher	IN
+OUT_percent permanent resident alien	percent permanent resident alien	OUT
+OUT_college career rate 2013	college career rate 2013	OUT
+OUT_total enrolled students	total enrolled students	OUT
+IN_number tested	number tested	IN
+OUT_ecers most recent assessment year	ecers most recent assessment year	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+IN_school name	school name	IN
+OUT_high num	high num	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_college name	college name	OUT
+IN_year	year	IN
+OUT_school- year	school- year	OUT
+OUT_school- year	school- year	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_literacy	literacy	OUT
+OUT_q18 c3 r3	q18 c3 r3	OUT
+OUT_response	response	OUT
+OUT_evaluations	evaluations	OUT
+OUT_count citizen status unknown	count citizen status unknown	OUT
+OUT_fall term	fall term	OUT
+OUT_fall term	fall term	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_f status health teachers	f status health teachers	OUT
+OUT_count of testers	count of testers	OUT
+OUT_grade 4 regular membership	grade 4 regular membership	OUT
+OUT_grade 6 regular membership	grade 6 regular membership	OUT
+OUT_work type	work type	OUT
+OUT_staff completing training	staff completing training	OUT
+IN_grade	grade	IN
+OUT_lgbtqgnc training - teachers	lgbtqgnc training - teachers	OUT
+OUT_u of u	u of u	OUT
+OUT_leaders and specialists	leaders and specialists	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_science	science	OUT
+OUT_town code	town code	OUT
+OUT_city council district	city council district	OUT
+OUT_neighbor 8	neighbor 8	OUT
+OUT_city	city	OUT
+OUT_class size	class size	OUT
+OUT_zip	zip	OUT
+OUT_zip	zip	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_shape st le	shape st le	OUT
+OUT_lang. arts	lang. arts	OUT
+OUT_record type description	record type description	OUT
+OUT_record type code	record type code	OUT
+OUT_description	description	OUT
+OUT_primary program type	primary program type	OUT
+OUT_ytd	ytd	OUT
+OUT_school principals & assistant principals	school principals & assistant principals	OUT
+OUT_fy	fy	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_service category	service category	OUT
+OUT_school district	school district	OUT

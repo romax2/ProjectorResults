@@ -1,0 +1,62 @@
+stc_label	sentence	category
+24_2014_-_2017_regents	2014 - 2017 regents	Table
+IN_number scoring below 65	number scoring below 65	IN
+IN_percent scoring below 65	percent scoring below 65	IN
+OUT_student progress 10-11	student progress 10-11	OUT
+IN_number scoring 65 or above	number scoring 65 or above	IN
+IN_percent scoring 65 or above	percent scoring 65 or above	IN
+OUT_progress rpt 11-12	progress rpt 11-12	OUT
+IN_number scoring 80 or above	number scoring 80 or above	IN
+IN_percent scoring 80 or above	percent scoring 80 or above	IN
+IN_total tested	total tested	IN
+OUT_percent asian non hispanic	percent asian non hispanic	OUT
+IN_school type	school type	IN
+OUT_college career rate 2014	college career rate 2014	OUT
+IN_school name	school name	IN
+OUT_school year	school year	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+IN_school dbn	school dbn	IN
+IN_year	year	IN
+IN_mean score	mean score	IN
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+IN_percent scoring cr	percent scoring cr	IN
+OUT_total	total	OUT
+OUT_total	total	OUT
+OUT_school- year	school- year	OUT
+OUT_q17 c3 r2	q17 c3 r2	OUT
+IN_regents exam	regents exam	IN
+OUT_scores	scores	OUT
+OUT_head count	head count	OUT
+IN_school level	school level	IN
+OUT_total number of children	total number of children	OUT
+OUT_total teacher compensation	total teacher compensation	OUT
+OUT_not receiving	not receiving	OUT
+IN_number scoring cr	number scoring cr	IN
+OUT_kindergarten regular membership	kindergarten regular membership	OUT
+OUT_sample date	sample date	OUT
+OUT_grade level	grade level	OUT
+OUT_total passengers	total passengers	OUT
+OUT_count of offers	count of offers	OUT
+OUT_mathematics	mathematics	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_subject	subject	OUT
+OUT_site street address	site street address	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_section	section	OUT
+OUT_class size	class size	OUT
+OUT_subcategory	subcategory	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_record type code	record type code	OUT
+OUT_the geom	the geom	OUT
+OUT_the geom	the geom	OUT
+OUT_nation	nation	OUT
+OUT_sample id	sample id	OUT
+IN_lookup	lookup	IN
+OUT_program category	program category	OUT
+OUT_code	code	OUT
+OUT_utah	utah	OUT
+OUT_entity name	entity name	OUT
+OUT_central office administrators	central office administrators	OUT
+OUT_central office administrators	central office administrators	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+20_2013-2014_class_size	2013-2014 class size report city level distribution final	Table
+IN_core subject	core subject	IN
+IN_class size	class size	IN
+OUT_kindergarten	kindergarten	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_sector type	sector type	OUT
+OUT_science	science	OUT
+IN_subject	subject	IN
+OUT_tap college name	tap college name	OUT
+OUT_county name	county name	OUT
+OUT_count of offers	count of offers	OUT
+IN_program type	program type	IN
+OUT_soc. sec.	soc. sec.	OUT
+OUT_number of offers	number of offers	OUT
+IN_number of students	number of students	IN
+OUT_teachers preschool	teachers preschool	OUT
+OUT_total field trips	total field trips	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_college or institution type	college or institution type	OUT
+OUT_sample id	sample id	OUT
+IN_service category	service category	IN
+IN_grade level	grade level	IN
+IN_number of classes	number of classes	IN
+OUT_code	code	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_city council district	city council district	OUT
+OUT_city	city	OUT
+OUT_contact hrs:	contact hrs:	OUT
+OUT_college enroll 2011-12	college enroll 2011-12	OUT
+OUT_month	month	OUT
+OUT_total benefits	total benefits	OUT
+OUT_total teacher benefits	total teacher benefits	OUT
+OUT_metric type	metric type	OUT
+OUT_evaluations	evaluations	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_q12 r4 c3	q12 r4 c3	OUT
+OUT_total	total	OUT
+OUT_percentage	percentage	OUT
+OUT_strong family- community ties - percent positive	strong family- community ties - percent positive	OUT
+OUT_student attendance rate	student attendance rate	OUT
+OUT_teacher response rate	teacher response rate	OUT
+OUT_closing the achievement gap points	closing the achievement gap points	OUT
+OUT_percent change 2013	percent change 2013	OUT
+OUT_parent response rate	parent response rate	OUT
+OUT_percent change 2014	percent change 2014	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_number scoring 65 or above	number scoring 65 or above	OUT
+OUT_school type	school type	OUT
+OUT_school type	school type	OUT
+OUT_level 1: #	level 1: #	OUT
+OUT_pct level 3 and 4	pct level 3 and 4	OUT
+OUT_year	year	OUT
+OUT_enrollment	enrollment	OUT
+OUT_cohort year	cohort year	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_percent not receiving	percent not receiving	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT

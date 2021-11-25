@@ -1,0 +1,62 @@
+stc_label	sentence	category
+1_2006_-_2012_math_tes	2006 - 2012 math test results - citywide - swd	Table
+OUT_quality review - how effective is the teaching and learning?	quality review - how effective is the teaching and learning?	OUT
+IN_pct level 4	pct level 4	IN
+IN_pct level 3	pct level 3	IN
+IN_pct level 1	pct level 1	IN
+IN_pct level 3 and 4	pct level 3 and 4	IN
+IN_pct level 2	pct level 2	IN
+OUT_percent rank 2014	percent rank 2014	OUT
+IN_num level 3	num level 3	IN
+IN_num level 2	num level 2	IN
+IN_num level 4	num level 4	IN
+IN_num level 1	num level 1	IN
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+IN_mean scale score	mean scale score	IN
+OUT_ecers- r language reasoning score	ecers- r language reasoning score	OUT
+IN_num level 3 and 4	num level 3 and 4	IN
+OUT_grade 3	grade 3	OUT
+OUT_num of sat test takers	num of sat test takers	OUT
+IN_number tested	number tested	IN
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school dbn	school dbn	OUT
+IN_demographic	demographic	IN
+OUT_q7 2	q7 2	OUT
+OUT_elem num	elem num	OUT
+IN_year	year	IN
+OUT_code type	code type	OUT
+OUT_total	total	OUT
+OUT_preschool age	preschool age	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+OUT_is dual immersion	is dual immersion	OUT
+OUT_response	response	OUT
+OUT_principal	principal	OUT
+OUT_school level	school level	OUT
+OUT_median salary	median salary	OUT
+OUT_count of students	count of students	OUT
+OUT_health insurance	health insurance	OUT
+OUT_staff completing training	staff completing training	OUT
+IN_grade	grade	IN
+OUT_number of classes	number of classes	OUT
+OUT_charter school	charter school	OUT
+OUT_charter school	charter school	OUT
+OUT_science	science	OUT
+OUT_town code	town code	OUT
+OUT_neighbor 7	neighbor 7	OUT
+OUT_class size	class size	OUT
+OUT_longitude	longitude	OUT
+OUT_subject area	subject area	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_main	main	OUT
+OUT_the geom	the geom	OUT
+OUT_md earn wne p10	md earn wne p10	OUT
+OUT_primary program type	primary program type	OUT
+OUT_sample id	sample id	OUT
+OUT_county	county	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_soc. sec.	soc. sec.	OUT
+OUT_usu	usu	OUT

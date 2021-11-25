@@ -1,0 +1,62 @@
+stc_label	sentence	category
+15_2013_-_2014_doe_high	2013 - 2014 doe high school performance-directory	Table
+OUT_suu	suu	OUT
+OUT_district	district	OUT
+OUT_entity name	entity name	OUT
+OUT_code	code	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_librarians	librarians	OUT
+OUT_location	location	OUT
+OUT_the geom	the geom	OUT
+OUT_opt code	opt code	OUT
+OUT_school4 secondary address	school4 secondary address	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_latitude	latitude	OUT
+OUT_school2 primary address	school2 primary address	OUT
+OUT_county name	county name	OUT
+OUT_subject	subject	OUT
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+OUT_leaders and specialists	leaders and specialists	OUT
+OUT_total open accounts as of 12/31/2013	total open accounts as of 12/31/2013	OUT
+OUT_e ls	e ls	OUT
+OUT_college region name	college region name	OUT
+OUT_staff completing training	staff completing training	OUT
+IN_college ready 10-11	college ready 10-11	IN
+IN_student perf 10-11	student perf 10-11	IN
+OUT_retirement	retirement	OUT
+IN_student perf 11-12	student perf 11-12	IN
+IN_college enroll 2011-12	college enroll 2011-12	IN
+IN_college enroll 2010-11	college enroll 2010-11	IN
+IN_college ready 11-12	college ready 11-12	IN
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+OUT_cumulative number of sessions	cumulative number of sessions	OUT
+OUT_graduate part- time	graduate part- time	OUT
+OUT_student count	student count	OUT
+OUT_metric value	metric value	OUT
+OUT_score	score	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_code type	code type	OUT
+IN_progress rpt 10-11	progress rpt 10-11	IN
+IN_progress rpt 11-12	progress rpt 11-12	IN
+OUT_growth	growth	OUT
+OUT_percent of graduates that completed 2+ credits in arts	percent of graduates that completed 2+ credits in arts	OUT
+IN_student progress 11-12	student progress 11-12	IN
+IN_student progress 10-11	student progress 10-11	IN
+OUT_school dbn	school dbn	OUT
+IN_quality review year	quality review year	IN
+OUT_school name	school name	OUT
+IN_graduation 2011-12	graduation 2011-12	IN
+OUT_percent black	percent black	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+IN_graduation 2010-11	graduation 2010-11	IN
+OUT_level 3: %	level 3: %	OUT
+OUT_ecers- r activities score	ecers- r activities score	OUT
+OUT_ecers- r activities score	ecers- r activities score	OUT
+IN_quality review score	quality review score	IN
+OUT_category	category	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_cohort	cohort	OUT
+OUT_preschool age	preschool age	OUT
+OUT_count ethnicity unknown	count ethnicity unknown	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+44_2018_-_2020_class_an	2018 - 2020 class and ecers-r data	Table
+IN_ecers- r language reasoning score	ecers- r language reasoning score	IN
+IN_ecers- r personal care routines score	ecers- r personal care routines score	IN
+IN_ecers- r space and furnishings score	ecers- r space and furnishings score	IN
+IN_ecers- r activities score	ecers- r activities score	IN
+OUT_ytd % attendance	ytd % attendance	OUT
+IN_ecers- r program structure score	ecers- r program structure score	IN
+IN_ecers- r interaction score	ecers- r interaction score	IN
+IN_ecers- r observation average score	ecers- r observation average score	IN
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_grade 3	grade 3	OUT
+OUT_pre- k students	pre- k students	OUT
+IN_ecers- r most recent assessment year	ecers- r most recent assessment year	IN
+OUT_level 3: %	level 3: %	OUT
+OUT_grade 1	grade 1	OUT
+OUT_student progress 11-12	student progress 11-12	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+IN_class emotional support score	class emotional support score	IN
+IN_class classroom organization score	class classroom organization score	IN
+IN_class instructional support score	class instructional support score	IN
+OUT_cohort year	cohort year	OUT
+OUT_college name	college name	OUT
+IN_class most recent assessment year	class most recent assessment year	IN
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_code type	code type	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_response	response	OUT
+OUT_metric value	metric value	OUT
+OUT_fall term	fall term	OUT
+OUT_college career rate historic avg similar schls	college career rate historic avg similar schls	OUT
+OUT_per capita personal income 2013	per capita personal income 2013	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_count of students	count of students	OUT
+OUT_grade	grade	OUT
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+OUT_subject	subject	OUT
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_neighbor 7	neighbor 7	OUT
+OUT_city council district	city council district	OUT
+IN_site district	site district	IN
+IN_site street address	site street address	IN
+IN_site borough	site borough	IN
+IN_site zip code	site zip code	IN
+IN_site id	site id	IN
+OUT_sector type	sector type	OUT
+IN_site name	site name	IN
+OUT_longitude	longitude	OUT
+OUT_program	program	OUT
+OUT_md earn wne p10	md earn wne p10	OUT
+OUT_county	county	OUT
+OUT_code	code	OUT
+OUT_tap college code	tap college code	OUT
+OUT_district	district	OUT
+OUT_md earn wne	md earn wne	OUT

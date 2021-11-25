@@ -1,0 +1,62 @@
+stc_label	sentence	category
+0_2006_-_2012__math_te	2006 - 2012  math test results - district - all students	Table
+OUT_strong family- community ties score	strong family- community ties score	OUT
+IN_pct level 3	pct level 3	IN
+IN_pct level 4	pct level 4	IN
+IN_num level 3	num level 3	IN
+IN_pct level 3 and 4	pct level 3 and 4	IN
+IN_pct level 1	pct level 1	IN
+IN_num level 2	num level 2	IN
+IN_pct level 2	pct level 2	IN
+IN_num level 4	num level 4	IN
+IN_num level 1	num level 1	IN
+IN_num level 3 and 4	num level 3 and 4	IN
+OUT_grade 4	grade 4	OUT
+OUT_grade 1	grade 1	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+IN_mean scale score	mean scale score	IN
+OUT_percent proficient	percent proficient	OUT
+OUT_total academic expectations score	total academic expectations score	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_college career rate 2013	college career rate 2013	OUT
+IN_number tested	number tested	IN
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_low grade	low grade	OUT
+OUT_q9 2	q9 2	OUT
+IN_demographic	demographic	IN
+OUT_q1 2	q1 2	OUT
+IN_year	year	IN
+OUT_percent not receiving	percent not receiving	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_school- year	school- year	OUT
+OUT_preschool age	preschool age	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_response	response	OUT
+OUT_total trained	total trained	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_college enroll 2011-12	college enroll 2011-12	OUT
+OUT_count of testers	count of testers	OUT
+OUT_count of testers	count of testers	OUT
+OUT_long- term disability insurance	long- term disability insurance	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_student perf 10-11	student perf 10-11	OUT
+IN_grade	grade	IN
+OUT_network num	network num	OUT
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_number of students	number of students	OUT
+OUT_unemploy-ment insurance	unemploy-ment insurance	OUT
+OUT_course section	course section	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_location code	location code	OUT
+OUT_fy 14-15	fy 14-15	OUT
+OUT_county	county	OUT
+IN_district	district	IN
+OUT_number of offers	number of offers	OUT
+OUT_entity name	entity name	OUT
+OUT_service category	service category	OUT
+OUT_service category	service category	OUT
+OUT_central office administrators	central office administrators	OUT

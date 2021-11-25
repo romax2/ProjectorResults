@@ -1,0 +1,62 @@
+stc_label	sentence	category
+13_2012-2013_class_size	2012-2013 class size report city level distribution	Table
+IN_core subject	core subject	IN
+OUT_science	science	OUT
+OUT_charter school	charter school	OUT
+IN_class size	class size	IN
+IN_number of students	number of students	IN
+OUT_county name	county name	OUT
+OUT_county name	county name	OUT
+OUT_tap college name	tap college name	OUT
+IN_grade level	grade level	IN
+IN_number of classes	number of classes	IN
+IN_program type	program type	IN
+OUT_fy 13	fy 13	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_utah	utah	OUT
+OUT_tap college code	tap college code	OUT
+OUT_language	language	OUT
+IN_service category	service category	IN
+OUT_description of code	description of code	OUT
+OUT_code	code	OUT
+OUT_name	name	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_district number	district number	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_student perf 10-11	student perf 10-11	OUT
+OUT_network nam	network nam	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_grade 2 regular membership	grade 2 regular membership	OUT
+OUT_total compensation	total compensation	OUT
+OUT_count	count	OUT
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+OUT_q21 c3 r2	q21 c3 r2	OUT
+OUT_principal	principal	OUT
+OUT_graduation rate boro	graduation rate boro	OUT
+OUT_lea	lea	OUT
+OUT_fall term	fall term	OUT
+OUT_qr curriculum	qr curriculum	OUT
+OUT_state student count	state student count	OUT
+OUT_state student count	state student count	OUT
+OUT_ushe total	ushe total	OUT
+OUT_head count	head count	OUT
+OUT_q15 c3 r3	q15 c3 r3	OUT
+OUT_q12 r2 c3	q12 r2 c3	OUT
+OUT_total	total	OUT
+IN_percent of students in program / grade / subject	percent of students in program / grade / subject	IN
+OUT_school dbn	school dbn	OUT
+OUT_quality review - how safe and inclusive is the school while supporting social-emotional growth?	quality review - how safe and inclusive is the school while supporting social-emotional growth?	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_years of principal experience at this school	years of principal experience at this school	OUT
+OUT_collaborative teachers score	collaborative teachers score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_supportive environment score	supportive environment score	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_num achieving apm	num achieving apm	OUT

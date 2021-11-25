@@ -1,0 +1,62 @@
+stc_label	sentence	category
+2_2009_-_2010_school_a	2009 - 2010 school attendance and enrollment by district	Table
+OUT_total enrollment	total enrollment	OUT
+OUT_grade 6	grade 6	OUT
+OUT_total engagement score	total engagement score	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_percent white	percent white	OUT
+OUT_grade 4	grade 4	OUT
+OUT_grade 3	grade 3	OUT
+IN_ytd % attendance	ytd % attendance	IN
+OUT_level 3: #	level 3: #	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_student progress 11-12	student progress 11-12	OUT
+OUT_cohort	cohort	OUT
+OUT_cohort	cohort	OUT
+IN_ytd enrollment	ytd enrollment	IN
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school dbn	school dbn	OUT
+OUT_school dbn	school dbn	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_category	category	OUT
+OUT_total mathematics % goal range	total mathematics % goal range	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_preschool age	preschool age	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_response	response	OUT
+OUT_response	response	OUT
+OUT_count	count	OUT
+OUT_total number of children . distinct count, not the sum of columns.	total number of children . distinct count, not the sum of columns.	OUT
+OUT_life insurance	life insurance	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_district number	district number	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_state operating cost	state operating cost	OUT
+OUT_district id	district id	OUT
+OUT_program	program	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_classroom parapros	classroom parapros	OUT
+OUT_language	language	OUT
+OUT_language	language	OUT
+OUT_see footnotes re: totals	see footnotes re: totals	OUT
+OUT_county	county	OUT
+IN_district	district	IN
+OUT_tap college code	tap college code	OUT
+OUT_county name	county name	OUT
+OUT_college region name	college region name	OUT
+OUT_district name	district name	OUT
+OUT_school district	school district	OUT

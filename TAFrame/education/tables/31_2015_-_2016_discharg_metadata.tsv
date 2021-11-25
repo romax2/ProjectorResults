@@ -1,0 +1,62 @@
+stc_label	sentence	category
+31_2015_-_2016_discharg	2015 - 2016 discharge reporting by code -ms	Table
+OUT_percent change 2013	percent change 2013	OUT
+OUT_total grads num	total grads num	OUT
+OUT_percent scoring 80 or above	percent scoring 80 or above	OUT
+OUT_level4 n	level4 n	OUT
+OUT_grade 1	grade 1	OUT
+IN_total enrolled students	total enrolled students	IN
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_progress rpt 10-11	progress rpt 10-11	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_qr assessing student learning	qr assessing student learning	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_year	year	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+IN_code type	code type	IN
+IN_student category	student category	IN
+OUT_q14 c3 r1	q14 c3 r1	OUT
+OUT_score	score	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_literacy	literacy	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_q15 c3 r2	q15 c3 r2	OUT
+OUT_response	response	OUT
+OUT_evaluations	evaluations	OUT
+OUT_qr curriculum	qr curriculum	OUT
+OUT_lea	lea	OUT
+OUT_gender sexuality alliance?	gender sexuality alliance?	OUT
+OUT_headcount type	headcount type	OUT
+OUT_location name	location name	OUT
+IN_count of students	count of students	IN
+OUT_grade 6 regular membership	grade 6 regular membership	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_grade 5 regular membership	grade 5 regular membership	OUT
+OUT_special ed self- contained membership	special ed self- contained membership	OUT
+OUT_network num	network num	OUT
+OUT_college or institution type	college or institution type	OUT
+OUT_mathematics	mathematics	OUT
+OUT_subject	subject	OUT
+OUT_snow	snow	OUT
+OUT_science	science	OUT
+OUT_contact hrs:	contact hrs:	OUT
+OUT_federal school code	federal school code	OUT
+OUT_referrals	referrals	OUT
+OUT_district number	district number	OUT
+OUT_section	section	OUT
+OUT_ind inc avg	ind inc avg	OUT
+OUT_location 1	location 1	OUT
+OUT_record type code	record type code	OUT
+IN_geographic unit	geographic unit	IN
+OUT_the geom	the geom	OUT
+OUT_ytd	ytd	OUT
+IN_description of code	description of code	IN
+IN_code	code	IN
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_fy 11	fy 11	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT

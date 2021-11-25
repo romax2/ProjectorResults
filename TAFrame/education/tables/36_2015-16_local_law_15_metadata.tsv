@@ -1,0 +1,62 @@
+stc_label	sentence	category
+36_2015-16_local_law_15	2015-16 local law 15 health data - licensed health instructors	Table
+IN_community school district	community school district	IN
+OUT_student category	student category	OUT
+OUT_cohort	cohort	OUT
+OUT_kindergarten students	kindergarten students	OUT
+OUT_grade 6	grade 6	OUT
+OUT_num level 2	num level 2	OUT
+OUT_low grade	low grade	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_percent change 2013	percent change 2013	OUT
+OUT_math proficient possible	math proficient possible	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_mean scale score	mean scale score	OUT
+IN_school dbn	school dbn	IN
+OUT_quality review year	quality review year	OUT
+OUT_student attendance rate	student attendance rate	OUT
+OUT_total	total	OUT
+OUT_sat math avg. score	sat math avg. score	OUT
+OUT_code type	code type	OUT
+OUT_literacy	literacy	OUT
+OUT_student count	student count	OUT
+IN_full time health teachers	full time health teachers	IN
+IN_f status health teachers	f status health teachers	IN
+OUT_total trained	total trained	OUT
+IN_total part time and full time health teachers	total part time and full time health teachers	IN
+OUT_headcount type	headcount type	OUT
+IN_school level	school level	IN
+OUT_q21 c3 r3	q21 c3 r3	OUT
+IN_itinerant health teachers	itinerant health teachers	IN
+OUT_count of testers	count of testers	OUT
+OUT_grade 9 regular membership	grade 9 regular membership	OUT
+OUT_school2 grades	school2 grades	OUT
+OUT_school3 grades	school3 grades	OUT
+OUT_u of u	u of u	OUT
+IN_sum of f status and itinerant	sum of f status and itinerant	IN
+OUT_central office support	central office support	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_town	town	OUT
+IN_city council district	city council district	IN
+OUT_neighbor 3	neighbor 3	OUT
+OUT_number of students	number of students	OUT
+OUT_other pros and parapros	other pros and parapros	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_composite class nbr	composite class nbr	OUT
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+OUT_subject area	subject area	OUT
+OUT_county	county	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_fy	fy	OUT
+OUT_subject	subject	OUT
+OUT_fy 11	fy 11	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_language	language	OUT
+OUT_county name	county name	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+8_2011-2012_nyc_family	2011-2012 nyc family guides	Table
+OUT_geographic unit	geographic unit	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_geographic unit	geographic unit	OUT
+IN_family guide name	family guide name	IN
+OUT_zip	zip	OUT
+OUT_ifs ps - individual family service plans	ifs ps - individual family service plans	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+IN_link	link	IN
+OUT_suu	suu	OUT
+OUT_enrollment type description	enrollment type description	OUT
+IN_language	language	IN
+OUT_program type	program type	OUT
+OUT_fy 14	fy 14	OUT
+OUT_lang. arts	lang. arts	OUT
+OUT_core subject	core subject	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_mathematics	mathematics	OUT
+OUT_ontrack year1 boro	ontrack year1 boro	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_grade level	grade level	OUT
+OUT_sample date	sample date	OUT
+IN_grade	grade	IN
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_retirement	retirement	OUT
+OUT_not receiving	not receiving	OUT
+OUT_metric type	metric type	OUT
+OUT_full time health teachers	full time health teachers	OUT
+OUT_metric value	metric value	OUT
+OUT_literacy	literacy	OUT
+OUT_code type	code type	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_high grade	high grade	OUT
+OUT_percent of students chronically absent	percent of students chronically absent	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_collaborative teachers - survey percent positive	collaborative teachers - survey percent positive	OUT
+OUT_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	OUT
+OUT_school name	school name	OUT
+OUT_percent proficient	percent proficient	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_percent scoring 80 or above	percent scoring 80 or above	OUT
+OUT_economic need index	economic need index	OUT
+OUT_total student response rate	total student response rate	OUT
+OUT_total parent response rate	total parent response rate	OUT
+OUT_teacher response rate	teacher response rate	OUT
+OUT_parent response rate	parent response rate	OUT
+OUT_category	category	OUT
+OUT_school3 name	school3 name	OUT
+OUT_total	total	OUT
+OUT_total	total	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_college career rate 2014	college career rate 2014	OUT
+OUT_school year	school year	OUT
+OUT_lea type	lea type	OUT
+OUT_year	year	OUT
+OUT_preschool age	preschool age	OUT
+OUT_preschool age	preschool age	OUT
