@@ -1,0 +1,62 @@
+stc_label	sentence	category
+78_jordan_school_distri	jordan school district sage scores 2014	Table
+IN_school	school	IN
+OUT_program category	program category	OUT
+OUT_tap college name	tap college name	OUT
+IN_district	district	IN
+OUT_code	code	OUT
+OUT_location	location	OUT
+OUT_county name	county name	OUT
+OUT_county name	county name	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_longitude	longitude	OUT
+OUT_school2 secondary address	school2 secondary address	OUT
+OUT_school2 secondary address	school2 secondary address	OUT
+OUT_municipality	municipality	OUT
+OUT_subcategory	subcategory	OUT
+OUT_town code	town code	OUT
+IN_subject	subject	IN
+OUT_charter school	charter school	OUT
+OUT_charter school	charter school	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of children in licensed family homes	number of children in licensed family homes	OUT
+IN_grade	grade	IN
+OUT_student perf 10-11	student perf 10-11	OUT
+OUT_health insurance	health insurance	OUT
+OUT_month	month	OUT
+OUT_not receiving	not receiving	OUT
+OUT_not receiving	not receiving	OUT
+OUT_count male	count male	OUT
+OUT_headcount type	headcount type	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_principal	principal	OUT
+OUT_f status health teachers	f status health teachers	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+IN_scores	scores	IN
+OUT_enrollment type code	enrollment type code	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_count white non hispanic	count white non hispanic	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_q17 c3 r4	q17 c3 r4	OUT
+OUT_student attendance rate	student attendance rate	OUT
+OUT_total	total	OUT
+OUT_progress grade	progress grade	OUT
+OUT_total	total	OUT
+OUT_total	total	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_quality review rating	quality review rating	OUT
+OUT_category	category	OUT
+OUT_grade 3	grade 3	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_total cohort num	total cohort num	OUT

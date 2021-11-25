@@ -1,0 +1,62 @@
+stc_label	sentence	category
+88_project	project	Table
+OUT_city	city	OUT
+OUT_latitude	latitude	OUT
+OUT_family guide name	family guide name	OUT
+IN_district number	district number	IN
+OUT_sam link	sam link	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_description	description	OUT
+OUT_nation	nation	OUT
+OUT_dsu	dsu	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_language	language	OUT
+OUT_md earn wne	md earn wne	OUT
+OUT_utah	utah	OUT
+OUT_utah	utah	OUT
+OUT_primary program type	primary program type	OUT
+IN_county name	county name	IN
+OUT_record type code	record type code	OUT
+IN_state operating cost	state operating cost	IN
+IN_operating cost	operating cost	IN
+OUT_core subject	core subject	OUT
+OUT_snow	snow	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_number of classes	number of classes	OUT
+IN_state operating cost per student	state operating cost per student	IN
+IN_operating cost per student	operating cost per student	IN
+OUT_health insurance	health insurance	OUT
+OUT_teachers kindergarten	teachers kindergarten	OUT
+OUT_count of testers	count of testers	OUT
+OUT_total benefits	total benefits	OUT
+OUT_count	count	OUT
+OUT_cumulative number of sessions	cumulative number of sessions	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_graduation rate boro	graduation rate boro	OUT
+IN_student count	student count	IN
+OUT_literacy	literacy	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_level1 n	level1 n	OUT
+OUT_school name	school name	OUT
+OUT_category	category	OUT
+OUT_category	category	OUT
+OUT_college career readiness grad possible	college career readiness grad possible	OUT
+OUT_percent female	percent female	OUT
+OUT_quality review score	quality review score	OUT
+OUT_student category	student category	OUT
+IN_school year	school year	IN
+OUT_grade 5	grade 5	OUT
+OUT_school- year	school- year	OUT
+OUT_percentage	percentage	OUT
+OUT_year	year	OUT
+OUT_total grads num	total grads num	OUT

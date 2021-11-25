@@ -1,0 +1,62 @@
+stc_label	sentence	category
+53_ashland	ashland	Table
+IN_district number	district number	IN
+OUT_neighbor 3	neighbor 3	OUT
+OUT_city	city	OUT
+OUT_location code	location code	OUT
+OUT_town code	town code	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_dsu	dsu	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_entity name	entity name	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_type	type	OUT
+OUT_school	school	OUT
+OUT_control	control	OUT
+OUT_control	control	OUT
+OUT_primary program type	primary program type	OUT
+IN_county name	county name	IN
+OUT_date	date	OUT
+OUT_group	group	OUT
+OUT_ontrack year1 boro	ontrack year1 boro	OUT
+OUT_number of students	number of students	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_grade	grade	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_grade 5 regular membership	grade 5 regular membership	OUT
+IN_operating cost per student	operating cost per student	IN
+OUT_q20 c3 r4	q20 c3 r4	OUT
+OUT_median classroom teacher salary	median classroom teacher salary	OUT
+OUT_cumulative number of sessions	cumulative number of sessions	OUT
+OUT_location name	location name	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_count other citizen status	count other citizen status	OUT
+OUT_ushe total	ushe total	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_code type	code type	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_qr assessing student learning	qr assessing student learning	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_level3 n	level3 n	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_quality review year	quality review year	OUT
+OUT_total parent response rate	total parent response rate	OUT
+OUT_category	category	OUT
+OUT_num of ap test takers	num of ap test takers	OUT
+OUT_quality review rating	quality review rating	OUT
+OUT_level 3 #	level 3 #	OUT
+OUT_level 2: #	level 2: #	OUT
+OUT_sat critical reading avg. score	sat critical reading avg. score	OUT
+OUT_school year	school year	OUT
+OUT_grade 6	grade 6	OUT
+OUT_student category	student category	OUT
+OUT_year	year	OUT
+OUT_total grads num	total grads num	OUT
+OUT_percent partially receiving	percent partially receiving	OUT

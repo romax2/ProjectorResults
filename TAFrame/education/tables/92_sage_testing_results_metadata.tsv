@@ -1,0 +1,62 @@
+stc_label	sentence	category
+92_sage_testing_results	sage testing results utah by subject and grade 2015 2017	Table
+OUT_level 1 %	level 1 %	OUT
+OUT_grade 6	grade 6	OUT
+OUT_level3 n	level3 n	OUT
+IN_percent proficient	percent proficient	IN
+OUT_progress rpt 10-11	progress rpt 10-11	OUT
+IN_school name	school name	IN
+OUT_ytd % attendance	ytd % attendance	OUT
+IN_school year	school year	IN
+OUT_demographic	demographic	OUT
+OUT_category	category	OUT
+OUT_growth	growth	OUT
+OUT_code type	code type	OUT
+OUT_code type	code type	OUT
+OUT_total	total	OUT
+OUT_kindergarten students	kindergarten students	OUT
+OUT_response	response	OUT
+OUT_response	response	OUT
+OUT_metric value	metric value	OUT
+IN_lea	lea	IN
+OUT_headcount type	headcount type	OUT
+OUT_headcount type	headcount type	OUT
+OUT_location name	location name	OUT
+OUT_metric type	metric type	OUT
+OUT_college ready 11-12	college ready 11-12	OUT
+OUT_median school administrator salary	median school administrator salary	OUT
+OUT_count of testers	count of testers	OUT
+OUT_count of students	count of students	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_network num	network num	OUT
+OUT_charter school	charter school	OUT
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+IN_subject	subject	IN
+OUT_link	link	OUT
+OUT_town code	town code	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_town	town	OUT
+OUT_math	math	OUT
+OUT_city	city	OUT
+OUT_lgbtqgnc training - other	lgbtqgnc training - other	OUT
+OUT_district number	district number	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_longitude	longitude	OUT
+IN_subject area	subject area	IN
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+OUT_elementary counselors	elementary counselors	OUT
+OUT_main	main	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_the geom	the geom	OUT
+OUT_time	time	OUT
+OUT_county	county	OUT
+OUT_name	name	OUT
+OUT_type	type	OUT
+OUT_school principals & assistant principals	school principals & assistant principals	OUT
+OUT_date	date	OUT
+OUT_district	district	OUT
+OUT_school	school	OUT
+OUT_term	term	OUT

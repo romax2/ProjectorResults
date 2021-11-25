@@ -1,0 +1,62 @@
+stc_label	sentence	category
+74_headcount_enrollment	headcount enrollment by student level and student load by institutions of the state university of new york: beginning fall 2011	Table
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_high grade	high grade	OUT
+OUT_score	score	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_count asian non hispanic	count asian non hispanic	OUT
+IN_year	year	IN
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_total grads num	total grads num	OUT
+OUT_enrollment	enrollment	OUT
+OUT_grade 3	grade 3	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_grade 6	grade 6	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_percent not receiving	percent not receiving	OUT
+IN_graduate part- time	graduate part- time	IN
+IN_undergraduate part- time	undergraduate part- time	IN
+IN_graduate full- time	graduate full- time	IN
+IN_undergraduate full- time	undergraduate full- time	IN
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_total benefits	total benefits	OUT
+OUT_count of testers	count of testers	OUT
+OUT_health insurance	health insurance	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_q20 c3 r1	q20 c3 r1	OUT
+OUT_grade	grade	OUT
+IN_college or institution type	college or institution type	IN
+OUT_leaders and specialists	leaders and specialists	OUT
+OUT_leaders and specialists	leaders and specialists	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_number of students	number of students	OUT
+OUT_college	college	OUT
+OUT_operating cost	operating cost	OUT
+OUT_class size	class size	OUT
+OUT_class size	class size	OUT
+OUT_lang. arts	lang. arts	OUT
+OUT_ontrack year1 historic avg similar schls	ontrack year1 historic avg similar schls	OUT
+OUT_fy 12	fy 12	OUT
+OUT_program type	program type	OUT
+OUT_qualifier	qualifier	OUT
+OUT_qualifier	qualifier	OUT
+OUT_utah	utah	OUT
+OUT_language	language	OUT
+IN_term	term	IN
+OUT_control	control	OUT
+OUT_school	school	OUT
+OUT_type	type	OUT
+OUT_service category	service category	OUT
+IN_college or institution name	college or institution name	IN
+OUT_district	district	OUT
+OUT_name	name	OUT
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_room:	room:	OUT
+OUT_subcategory	subcategory	OUT
+OUT_five yr ave	five yr ave	OUT

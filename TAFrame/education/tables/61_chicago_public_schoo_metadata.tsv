@@ -1,0 +1,62 @@
+stc_label	sentence	category
+61_chicago_public_schoo	chicago public schools - high school geographic networks	Table
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_latitude	latitude	OUT
+OUT_latitude	latitude	OUT
+OUT_town or city	town or city	OUT
+IN_network nam	network nam	IN
+OUT_section	section	OUT
+OUT_town	town	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_link	link	OUT
+OUT_classroom parapros	classroom parapros	OUT
+IN_the geom	the geom	IN
+OUT_nation	nation	OUT
+OUT_code	code	OUT
+OUT_program code	program code	OUT
+OUT_district	district	OUT
+OUT_program category	program category	OUT
+OUT_description of code	description of code	OUT
+OUT_school	school	OUT
+OUT_md earn wne	md earn wne	OUT
+OUT_usu	usu	OUT
+OUT_utah	utah	OUT
+OUT_primary program type	primary program type	OUT
+OUT_qualifier	qualifier	OUT
+OUT_subject	subject	OUT
+OUT_college region name	college region name	OUT
+IN_network num	network num	IN
+OUT_college ready 10-11	college ready 10-11	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_retirement	retirement	OUT
+OUT_month	month	OUT
+OUT_not receiving	not receiving	OUT
+OUT_teacher median beginning salary	teacher median beginning salary	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_literacy	literacy	OUT
+OUT_q12 r3 c3	q12 r3 c3	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_growth language all students	growth language all students	OUT
+OUT_q17 c3 r2	q17 c3 r2	OUT
+OUT_level1 n	level1 n	OUT
+OUT_level3 n	level3 n	OUT
+OUT_percent proficient	percent proficient	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school dbn	school dbn	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_teacher attendance rate	teacher attendance rate	OUT
+OUT_strong family- community ties score	strong family- community ties score	OUT
+OUT_pct level 1	pct level 1	OUT
+OUT_level 3+4: %	level 3+4: %	OUT
+OUT_total communication score	total communication score	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_num level 4	num level 4	OUT
+OUT_college career rate 2014	college career rate 2014	OUT
+OUT_class emotional support score	class emotional support score	OUT
+OUT_cohort	cohort	OUT
+OUT_year	year	OUT

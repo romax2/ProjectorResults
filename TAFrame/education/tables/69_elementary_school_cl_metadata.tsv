@@ -1,0 +1,62 @@
+stc_label	sentence	category
+69_elementary_school_cl	elementary school class size level 2013	Table
+IN_kindergarten	kindergarten	IN
+OUT_primary program type	primary program type	OUT
+OUT_subject	subject	OUT
+OUT_county name	county name	OUT
+OUT_county name	county name	OUT
+OUT_mathematics	mathematics	OUT
+OUT_ontrack year1 boro	ontrack year1 boro	OUT
+OUT_school	school	OUT
+OUT_mid name	mid name	OUT
+OUT_number of students	number of students	OUT
+OUT_program category	program category	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_code	code	OUT
+OUT_description	description	OUT
+OUT_number of classes	number of classes	OUT
+OUT_opt code	opt code	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_classroom parapros	classroom parapros	OUT
+OUT_u of u	u of u	OUT
+OUT_u of u	u of u	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_latitude	latitude	OUT
+IN_local education agencies	local education agencies	IN
+OUT_city	city	OUT
+OUT_site borough	site borough	OUT
+OUT_grade	grade	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_grade 1 regular membership	grade 1 regular membership	OUT
+OUT_count of students	count of students	OUT
+OUT_itinerant health teachers	itinerant health teachers	OUT
+OUT_eligible	eligible	OUT
+OUT_median salary	median salary	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_ushe total	ushe total	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_percentage	percentage	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+IN_school name	school name	IN
+OUT_pct level 3 and 4	pct level 3 and 4	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+IN_grade 2	grade 2	IN
+IN_grade 1	grade 1	IN
+IN_grade 3	grade 3	IN
+IN_grade 5	grade 5	IN
+IN_grade 6	grade 6	IN
+IN_grade 4	grade 4	IN
+OUT_category	category	OUT
+OUT_student category	student category	OUT
+OUT_community school district	community school district	OUT

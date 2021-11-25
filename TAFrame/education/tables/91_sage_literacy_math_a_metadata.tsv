@@ -1,0 +1,62 @@
+stc_label	sentence	category
+91_sage_literacy_math_a	sage literacy math and science scores 2015	Table
+OUT_total engagement score	total engagement score	OUT
+OUT_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	OUT
+OUT_quality review - how safe and inclusive is the school while supporting social-emotional growth?	quality review - how safe and inclusive is the school while supporting social-emotional growth?	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_percent of students chronically absent	percent of students chronically absent	OUT
+OUT_num of sat test takers	num of sat test takers	OUT
+OUT_total parent response rate	total parent response rate	OUT
+OUT_grade 4	grade 4	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_student attendance rate	student attendance rate	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+OUT_school type	school type	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_total parent response ratem %	total parent response ratem %	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_percent not receiving	percent not receiving	OUT
+OUT_q14 c3 r1	q14 c3 r1	OUT
+IN_literacy	literacy	IN
+OUT_q15 c3 r2	q15 c3 r2	OUT
+OUT_response	response	OUT
+OUT_community school district	community school district	OUT
+OUT_teacher median beginning salary	teacher median beginning salary	OUT
+OUT_count	count	OUT
+OUT_count	count	OUT
+OUT_total number of children . distinct count, not the sum of columns.	total number of children . distinct count, not the sum of columns.	OUT
+OUT_total number of children . distinct count, not the sum of columns.	total number of children . distinct count, not the sum of columns.	OUT
+OUT_total compensation	total compensation	OUT
+OUT_count of students	count of students	OUT
+OUT_health insurance	health insurance	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_number of students	number of students	OUT
+OUT_count of offers	count of offers	OUT
+IN_mathematics	mathematics	IN
+OUT_subject	subject	OUT
+IN_science	science	IN
+OUT_link	link	OUT
+OUT_link	link	OUT
+OUT_town or city	town or city	OUT
+OUT_town	town	OUT
+OUT_class size	class size	OUT
+OUT_city	city	OUT
+OUT_subcategory	subcategory	OUT
+OUT_mn earn wne p10	mn earn wne p10	OUT
+OUT_location category description	location category description	OUT
+OUT_nation	nation	OUT
+OUT_sample id	sample id	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_suu	suu	OUT
+OUT_county	county	OUT
+IN_district	district	IN
+OUT_total vehicles	total vehicles	OUT
+IN_school	school	IN

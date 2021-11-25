@@ -1,0 +1,62 @@
+stc_label	sentence	category
+50_administrator_and_te	administrator and teacher salary and benefits charter schools 2011	Table
+IN_median salary	median salary	IN
+IN_median beginning salary	median beginning salary	IN
+IN_total benefits	total benefits	IN
+IN_unemployment insurance	unemployment insurance	IN
+IN_total compensation	total compensation	IN
+IN_retirement	retirement	IN
+OUT_eligible	eligible	OUT
+IN_school administrators' median salary	school administrators' median salary	IN
+IN_life insurance	life insurance	IN
+IN_health insurance	health insurance	IN
+OUT_operating cost per student	operating cost per student	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_late pick- up available	late pick- up available	OUT
+OUT_e ls	e ls	OUT
+OUT_undergraduate full- time	undergraduate full- time	OUT
+IN_industrial insurance	industrial insurance	IN
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+IN_dental insurance	dental insurance	IN
+IN_charter school	charter school	IN
+OUT_subject	subject	OUT
+OUT_lgbtqgnc training - other	lgbtqgnc training - other	OUT
+IN_soc. sec.	soc. sec.	IN
+OUT_ytd	ytd	OUT
+OUT_fy 13	fy 13	OUT
+OUT_school	school	OUT
+OUT_school district	school district	OUT
+OUT_service category	service category	OUT
+OUT_composite school id	composite school id	OUT
+OUT_suu	suu	OUT
+OUT_central office administrators	central office administrators	OUT
+OUT_district	district	OUT
+OUT_code	code	OUT
+OUT_county	county	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_time	time	OUT
+OUT_neighbor e	neighbor e	OUT
+OUT_sam link	sam link	OUT
+OUT_title	title	OUT
+OUT_town	town	OUT
+OUT_not receiving	not receiving	OUT
+OUT_total trained	total trained	OUT
+OUT_location name	location name	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_teacher response rate	teacher response rate	OUT
+OUT_percent change 2013	percent change 2013	OUT
+OUT_percent black	percent black	OUT
+OUT_quality review score	quality review score	OUT
+OUT_school4 name	school4 name	OUT
+OUT_ecers- r program structure score	ecers- r program structure score	OUT
+OUT_sat critical reading avg. score	sat critical reading avg. score	OUT
+OUT_school year	school year	OUT
+OUT_percent proficient	percent proficient	OUT
+OUT_trust rating	trust rating	OUT
+OUT_q8 2	q8 2	OUT
+OUT_pct level 3 and 4	pct level 3 and 4	OUT
+OUT_total safety and respect score	total safety and respect score	OUT
+OUT_demographic	demographic	OUT
+IN_long- term disability	long- term disability	IN
+OUT_student category	student category	OUT

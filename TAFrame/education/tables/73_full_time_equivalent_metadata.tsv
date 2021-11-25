@@ -1,0 +1,62 @@
+stc_label	sentence	category
+73_full_time_equivalent	full time equivalent staff by position, school districts utah 2015	Table
+IN_elementary counselors	elementary counselors	IN
+OUT_mn earn wne p10	mn earn wne p10	OUT
+IN_secondary couselors	secondary couselors	IN
+OUT_college	college	OUT
+OUT_payments by issuer in 2013	payments by issuer in 2013	OUT
+OUT_group	group	OUT
+OUT_fy 12	fy 12	OUT
+OUT_science	science	OUT
+IN_school principals & assistant principals	school principals & assistant principals	IN
+OUT_ke	ke	OUT
+OUT_program type	program type	OUT
+OUT_ontrack year1 boro	ontrack year1 boro	OUT
+OUT_school	school	OUT
+OUT_service category	service category	OUT
+IN_teachers preschool	teachers preschool	IN
+OUT_district	district	OUT
+IN_librarians	librarians	IN
+IN_county	county	IN
+OUT_dental insurance	dental insurance	OUT
+OUT_location	location	OUT
+IN_leaders and specialists	leaders and specialists	IN
+IN_other support	other support	IN
+OUT_the geom	the geom	OUT
+IN_school support	school support	IN
+OUT_industrial insurance	industrial insurance	OUT
+IN_librarian parapros	librarian parapros	IN
+OUT_district id	district id	OUT
+IN_classroom parapros	classroom parapros	IN
+IN_other pros and parapros	other pros and parapros	IN
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_five yr ave	five yr ave	OUT
+IN_central office support	central office support	IN
+OUT_link	link	OUT
+OUT_grade	grade	OUT
+IN_central office administrators	central office administrators	IN
+IN_teachers secondary	teachers secondary	IN
+IN_teachers elementary	teachers elementary	IN
+IN_teachers kindergarten	teachers kindergarten	IN
+OUT_median salary	median salary	OUT
+OUT_fall term	fall term	OUT
+OUT_metric value	metric value	OUT
+IN_teachers special education	teachers special education	IN
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_q12 r1 c3	q12 r1 c3	OUT
+IN_total	total	IN
+OUT_percentage	percentage	OUT
+OUT_quality review - how well do teachers work with each other?	quality review - how well do teachers work with each other?	OUT
+OUT_q16 c3 r4	q16 c3 r4	OUT
+OUT_progress grade	progress grade	OUT
+OUT_progress grade	progress grade	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_pct level 4	pct level 4	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT

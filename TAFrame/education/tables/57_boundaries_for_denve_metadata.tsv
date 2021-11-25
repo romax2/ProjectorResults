@@ -1,0 +1,62 @@
+stc_label	sentence	category
+57_boundaries_for_denve	boundaries for denver public schools	Table
+IN_neighbor 3	neighbor 3	IN
+OUT_planning regions	planning regions	OUT
+IN_neighbor 9	neighbor 9	IN
+IN_neighbor 1	neighbor 1	IN
+OUT_city	city	OUT
+IN_neighbor 8	neighbor 8	IN
+IN_neighbor 7	neighbor 7	IN
+OUT_subcategory	subcategory	OUT
+OUT_subcategory	subcategory	OUT
+IN_neighbor 2	neighbor 2	IN
+IN_neighbor 5	neighbor 5	IN
+IN_neighbor 4	neighbor 4	IN
+IN_neighbor e	neighbor e	IN
+IN_neighbor 6	neighbor 6	IN
+IN_the geom	the geom	IN
+OUT_dsu	dsu	OUT
+IN_oid	oid	IN
+OUT_district	district	OUT
+IN_high name	high name	IN
+IN_neighbor 0	neighbor 0	IN
+IN_mid name	mid name	IN
+OUT_school	school	OUT
+IN_elem name	elem name	IN
+OUT_see footnotes re: totals	see footnotes re: totals	OUT
+OUT_control	control	OUT
+OUT_number of offers	number of offers	OUT
+IN_neighbor k	neighbor k	IN
+OUT_math	math	OUT
+OUT_core subject	core subject	OUT
+OUT_number of students	number of students	OUT
+OUT_u of u	u of u	OUT
+OUT_grade	grade	OUT
+OUT_college ready 10-11	college ready 10-11	OUT
+OUT_late pick- up available	late pick- up available	OUT
+OUT_number scoring cr	number scoring cr	OUT
+OUT_count	count	OUT
+OUT_count	count	OUT
+OUT_median salary	median salary	OUT
+IN_school yea	school yea	IN
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_metric value	metric value	OUT
+IN_mid num	mid num	IN
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_school name	school name	OUT
+OUT_student response rate	student response rate	OUT
+OUT_percent asian	percent asian	OUT
+IN_high num	high num	IN
+OUT_graduation rate 2013	graduation rate 2013	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_number tested	number tested	OUT
+IN_elem num	elem num	IN
+OUT_school year	school year	OUT
+OUT_total	total	OUT
+OUT_grade 4	grade 4	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_total grads num	total grads num	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_eligible stop to school students	eligible stop to school students	OUT

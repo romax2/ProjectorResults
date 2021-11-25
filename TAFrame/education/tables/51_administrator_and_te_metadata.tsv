@@ -1,0 +1,62 @@
+stc_label	sentence	category
+51_administrator_and_te	administrator and teacher salary and benefits district 2010	Table
+IN_total benefits	total benefits	IN
+IN_total compensation	total compensation	IN
+IN_retirement	retirement	IN
+OUT_eligible	eligible	OUT
+IN_unemployment insurance	unemployment insurance	IN
+OUT_count of testers	count of testers	OUT
+IN_life insurance	life insurance	IN
+OUT_month	month	OUT
+OUT_count	count	OUT
+IN_health insurance	health insurance	IN
+IN_teacher median beginning salary	teacher median beginning salary	IN
+IN_teacher median salary	teacher median salary	IN
+OUT_teachers kindergarten	teachers kindergarten	OUT
+IN_school administrators' median salary	school administrators' median salary	IN
+OUT_number of sessions	number of sessions	OUT
+IN_industrial insurance	industrial insurance	IN
+IN_dental insurance	dental insurance	IN
+OUT_science	science	OUT
+OUT_college	college	OUT
+OUT_class size	class size	OUT
+IN_soc. sec.	soc. sec.	IN
+OUT_school	school	OUT
+OUT_sign up today!	sign up today!	OUT
+OUT_service category	service category	OUT
+OUT_district name	district name	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_nation	nation	OUT
+OUT_shape st le	shape st le	OUT
+IN_local education agencies	local education agencies	IN
+OUT_contact hrs:	contact hrs:	OUT
+OUT_link	link	OUT
+OUT_ushe total	ushe total	OUT
+OUT_head count	head count	OUT
+OUT_sat writing avg. score	sat writing avg. score	OUT
+OUT_code type	code type	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_school dbn	school dbn	OUT
+OUT_growth science all students possible	growth science all students possible	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_percent change 2013	percent change 2013	OUT
+OUT_percent asian	percent asian	OUT
+OUT_years of principal experience at this school	years of principal experience at this school	OUT
+OUT_percent hispanic latino	percent hispanic latino	OUT
+OUT_percent black	percent black	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+OUT_student satisfaction 2012	student satisfaction 2012	OUT
+OUT_student satisfaction 2012	student satisfaction 2012	OUT
+OUT_level 3 or higher	level 3 or higher	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_total grads num	total grads num	OUT
+OUT_number tested	number tested	OUT
+OUT_enrollment	enrollment	OUT
+IN_long- term disability	long- term disability	IN
+OUT_percent not receiving	percent not receiving	OUT

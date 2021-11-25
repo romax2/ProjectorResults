@@ -1,0 +1,62 @@
+stc_label	sentence	category
+71_five_year_summary_by	five year summary by citywide category	Table
+OUT_fy 14-15	fy 14-15	OUT
+OUT_ontrack year1 historic avg similar schls	ontrack year1 historic avg similar schls	OUT
+OUT_tap college name	tap college name	OUT
+OUT_sector type	sector type	OUT
+OUT_program type	program type	OUT
+OUT_program type	program type	OUT
+OUT_ytd	ytd	OUT
+OUT_status	status	OUT
+OUT_county name	county name	OUT
+OUT_language	language	OUT
+OUT_subject	subject	OUT
+IN_program category	program category	IN
+OUT_count receives public assistance	count receives public assistance	OUT
+OUT_lookup	lookup	OUT
+OUT_district	district	OUT
+IN_code	code	IN
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_the geom	the geom	OUT
+OUT_number of students	number of students	OUT
+OUT_number of students	number of students	OUT
+OUT_second address	second address	OUT
+OUT_neighbor 2	neighbor 2	OUT
+OUT_longitude	longitude	OUT
+OUT_family guide name	family guide name	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_section	section	OUT
+OUT_school3 primary address	school3 primary address	OUT
+OUT_location category description	location category description	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_network num	network num	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_kindergarten regular membership	kindergarten regular membership	OUT
+OUT_total number of children . distinct count, not the sum of columns.	total number of children . distinct count, not the sum of columns.	OUT
+OUT_median classroom teacher salary	median classroom teacher salary	OUT
+OUT_school level	school level	OUT
+OUT_undergraduate full- time	undergraduate full- time	OUT
+OUT_discipline	discipline	OUT
+OUT_q15 c3 r3	q15 c3 r3	OUT
+OUT_score	score	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+IN_total	total	IN
+OUT_effective school leadership - percent positive	effective school leadership - percent positive	OUT
+OUT_school dbn	school dbn	OUT
+OUT_level3+4 n	level3+4 n	OUT
+OUT_percent scoring 80 or above	percent scoring 80 or above	OUT
+OUT_school name	school name	OUT
+OUT_percent black	percent black	OUT
+OUT_school type	school type	OUT
+OUT_num of ap test takers	num of ap test takers	OUT
+OUT_year	year	OUT
+OUT_high num	high num	OUT
+OUT_number tested	number tested	OUT
+OUT_category	category	OUT
+OUT_grade 6	grade 6	OUT
+OUT_total grads num	total grads num	OUT
+OUT_cohort	cohort	OUT
+OUT_eligible stop to school students	eligible stop to school students	OUT

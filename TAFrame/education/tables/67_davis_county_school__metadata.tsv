@@ -1,0 +1,62 @@
+stc_label	sentence	category
+67_davis_county_school_	davis county school performance scores data	Table
+OUT_collaborative teachers - percent positive	collaborative teachers - percent positive	OUT
+OUT_percent change 2014	percent change 2014	OUT
+IN_growth science below proficient	growth science below proficient	IN
+IN_growth math below proficient	growth math below proficient	IN
+IN_growth science all students	growth science all students	IN
+IN_growth science below proficient possible	growth science below proficient possible	IN
+IN_growth science all students possible	growth science all students possible	IN
+IN_growth math all students	growth math all students	IN
+IN_growth math below proficient possible	growth math below proficient possible	IN
+IN_growth math all students possible	growth math all students possible	IN
+IN_growth language below proficient	growth language below proficient	IN
+OUT_grade 1	grade 1	OUT
+OUT_grade 2	grade 2	OUT
+IN_growth language below proficient possible	growth language below proficient possible	IN
+IN_overall points	overall points	IN
+IN_language proficient	language proficient	IN
+IN_growth language all students	growth language all students	IN
+IN_students meeting all four ccr benchmarks act	students meeting all four ccr benchmarks act	IN
+IN_growth language all students possible	growth language all students possible	IN
+IN_math proficient	math proficient	IN
+IN_science proficient	science proficient	IN
+IN_college career readiness grad	college career readiness grad	IN
+OUT_school type	school type	OUT
+IN_college career readiness grad possible	college career readiness grad possible	IN
+IN_language proficient possible	language proficient possible	IN
+OUT_school name	school name	OUT
+IN_science proficient possible	science proficient possible	IN
+OUT_grade 3 begin year	grade 3 begin year	OUT
+IN_math proficient possible	math proficient possible	IN
+IN_overall possible	overall possible	IN
+IN_college career readiness act possible	college career readiness act possible	IN
+OUT_year	year	OUT
+OUT_percent not receiving	percent not receiving	OUT
+OUT_total	total	OUT
+OUT_total mathematics % goal range	total mathematics % goal range	OUT
+OUT_count	count	OUT
+OUT_month	month	OUT
+OUT_retirement	retirement	OUT
+IN_grade	grade	IN
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_number of classes	number of classes	OUT
+OUT_grade level	grade level	OUT
+IN_telephone	telephone	IN
+OUT_group	group	OUT
+OUT_class size	class size	OUT
+OUT_operating cost	operating cost	OUT
+OUT_district number	district number	OUT
+IN_counties	counties	IN
+OUT_pct stu safe 2014	pct stu safe 2014	OUT
+IN_location 1	location 1	IN
+OUT_geographic unit	geographic unit	OUT
+OUT_tap college name	tap college name	OUT
+OUT_code	code	OUT
+IN_type	type	IN
+IN_district	district	IN
+OUT_utah	utah	OUT
+OUT_utah	utah	OUT
+OUT_entity name	entity name	OUT
+OUT_qualifier	qualifier	OUT
+IN_school	school	IN

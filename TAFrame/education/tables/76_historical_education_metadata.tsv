@@ -1,0 +1,62 @@
+stc_label	sentence	category
+76_historical_education	historical education data: 1999-2009  actual operating cost per student	Table
+OUT_number of children in licensed family home	number of children in licensed family home	OUT
+OUT_grade	grade	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_dental insurance	dental insurance	OUT
+IN_state operating cost per student	state operating cost per student	IN
+OUT_kindergarten regular membership	kindergarten regular membership	OUT
+IN_operating cost per student	operating cost per student	IN
+OUT_subject	subject	OUT
+OUT_count of students	count of students	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_snow	snow	OUT
+OUT_science	science	OUT
+OUT_count of testers	count of testers	OUT
+IN_operating cost	operating cost	IN
+IN_state operating cost	state operating cost	IN
+OUT_month	month	OUT
+IN_county name	county name	IN
+OUT_count	count	OUT
+OUT_language	language	OUT
+OUT_term	term	OUT
+OUT_school district	school district	OUT
+OUT_program category	program category	OUT
+OUT_code	code	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_the geom	the geom	OUT
+OUT_geographic unit	geographic unit	OUT
+IN_district id	district id	IN
+IN_district number	district number	IN
+OUT_zip code	zip code	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_school level	school level	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_discipline	discipline	OUT
+IN_student count	student count	IN
+IN_state student count	state student count	IN
+OUT_school- year	school- year	OUT
+OUT_literacy	literacy	OUT
+OUT_literacy	literacy	OUT
+OUT_percent citizen status total	percent citizen status total	OUT
+OUT_q14 c3 r4	q14 c3 r4	OUT
+OUT_overall points	overall points	OUT
+OUT_student progress 11-12	student progress 11-12	OUT
+OUT_percent change 2014	percent change 2014	OUT
+OUT_percent black	percent black	OUT
+OUT_level3 n	level3 n	OUT
+OUT_language proficient possible	language proficient possible	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+IN_school year	school year	IN
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_number tested	number tested	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_category	category	OUT

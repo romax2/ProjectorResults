@@ -1,0 +1,62 @@
+stc_label	sentence	category
+93_salt_lake_county_3rd	salt lake county 3rd grade reading competency all schools & title 1 schools	Table
+OUT_grade 2	grade 2	OUT
+OUT_pre- k students	pre- k students	OUT
+IN_grade 3 end year	grade 3 end year	IN
+OUT_pct level 1	pct level 1	OUT
+IN_grade 3 mid year	grade 3 mid year	IN
+IN_grade 3 begin year	grade 3 begin year	IN
+OUT_level 4 #	level 4 #	OUT
+OUT_num level 1	num level 1	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_overall score	overall score	OUT
+OUT_level2 n	level2 n	OUT
+OUT_school name	school name	OUT
+OUT_strong family- community ties rating	strong family- community ties rating	OUT
+OUT_demographic	demographic	OUT
+OUT_total parent response ratem %	total parent response ratem %	OUT
+OUT_total grads num	total grads num	OUT
+OUT_school dbn	school dbn	OUT
+OUT_percent scoring cr	percent scoring cr	OUT
+IN_school year	school year	IN
+OUT_year	year	OUT
+OUT_category	category	OUT
+OUT_student category	student category	OUT
+OUT_q15 c3 r4	q15 c3 r4	OUT
+OUT_q15 c3 r4	q15 c3 r4	OUT
+OUT_evaluations	evaluations	OUT
+OUT_full time health teachers	full time health teachers	OUT
+OUT_discipline	discipline	OUT
+OUT_metric type	metric type	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_retirement	retirement	OUT
+OUT_count of students	count of students	OUT
+OUT_grade 4 regular membership	grade 4 regular membership	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_q23 c3 r4	q23 c3 r4	OUT
+OUT_number of classes	number of classes	OUT
+OUT_number of classes	number of classes	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_mathematics	mathematics	OUT
+OUT_core subject	core subject	OUT
+OUT_science	science	OUT
+OUT_science	science	OUT
+OUT_town code	town code	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_city	city	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_zip	zip	OUT
+OUT_class size	class size	OUT
+OUT_sector type	sector type	OUT
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_the geom	the geom	OUT
+OUT_location code	location code	OUT
+OUT_count public assistance unknown	count public assistance unknown	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_school	school	OUT

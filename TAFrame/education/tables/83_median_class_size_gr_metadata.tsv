@@ -1,0 +1,62 @@
+stc_label	sentence	category
+83_median_class_size_gr	median class size grades 7-11 science math language by district 2007	Table
+OUT_program type	program type	OUT
+OUT_payments by issuer in 2013	payments by issuer in 2013	OUT
+IN_lang. arts	lang. arts	IN
+OUT_control	control	OUT
+OUT_service category	service category	OUT
+IN_math	math	IN
+IN_science	science	IN
+OUT_entity name	entity name	OUT
+IN_district	district	IN
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_snow	snow	OUT
+OUT_the geom	the geom	OUT
+OUT_neighbor 6	neighbor 6	OUT
+OUT_charter school	charter school	OUT
+OUT_longitude	longitude	OUT
+OUT_latitude	latitude	OUT
+OUT_section	section	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_town	town	OUT
+OUT_link	link	OUT
+OUT_number of classes	number of classes	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_count	count	OUT
+OUT_headcount type	headcount type	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_fall term	fall term	OUT
+OUT_metric value	metric value	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_total	total	OUT
+OUT_percent self- contained	percent self- contained	OUT
+OUT_student satisfaction 2012	student satisfaction 2012	OUT
+OUT_total student response rate	total student response rate	OUT
+OUT_strong family- community ties rating	strong family- community ties rating	OUT
+OUT_level1 n	level1 n	OUT
+OUT_college career rate 2013	college career rate 2013	OUT
+OUT_q5 2	q5 2	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_percent scoring below 65	percent scoring below 65	OUT
+OUT_level 4: %	level 4: %	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_level 3 or higher	level 3 or higher	OUT
+OUT_ecers- r program structure score	ecers- r program structure score	OUT
+OUT_sat critical reading avg. score	sat critical reading avg. score	OUT
+OUT_ecers- r space and furnishings score	ecers- r space and furnishings score	OUT
+OUT_pct level 3	pct level 3	OUT
+OUT_total engagement score	total engagement score	OUT
+OUT_trust score	trust score	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_year	year	OUT
+OUT_number tested	number tested	OUT
+OUT_grade 4	grade 4	OUT
+OUT_lea type	lea type	OUT

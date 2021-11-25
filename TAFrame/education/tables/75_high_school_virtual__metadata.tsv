@@ -1,0 +1,62 @@
+stc_label	sentence	category
+75_high_school_virtual_	high school virtual recruitment urls posted on myschools - 2020-2021 school year	Table
+OUT_site name	site name	OUT
+OUT_district number	district number	OUT
+OUT_section	section	OUT
+OUT_city council district	city council district	OUT
+OUT_subcategory	subcategory	OUT
+OUT_site district	site district	OUT
+OUT_town code	town code	OUT
+OUT_record type description	record type description	OUT
+OUT_network nam	network nam	OUT
+OUT_location category description	location category description	OUT
+IN_link to school's my schools page	link to school's my schools page	IN
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_nation	nation	OUT
+OUT_college ipeds id	college ipeds id	OUT
+IN_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	IN
+OUT_fy	fy	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_fy 15	fy 15	OUT
+OUT_md earn wne	md earn wne	OUT
+OUT_primary program type	primary program type	OUT
+OUT_elementary counselors	elementary counselors	OUT
+OUT_class size	class size	OUT
+OUT_class size	class size	OUT
+OUT_operating cost	operating cost	OUT
+OUT_federal school code	federal school code	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_charter school	charter school	OUT
+OUT_new accounts opened in 2013	new accounts opened in 2013	OUT
+OUT_college region name	college region name	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_sample date	sample date	OUT
+OUT_sam #	sam #	OUT
+OUT_grade 8 regular membership	grade 8 regular membership	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_grade 7 regular membership	grade 7 regular membership	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_undergraduate full- time	undergraduate full- time	OUT
+OUT_headcount type	headcount type	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_literacy	literacy	OUT
+OUT_literacy	literacy	OUT
+OUT_total mathematics % goal range	total mathematics % goal range	OUT
+OUT_q12 r1 c3	q12 r1 c3	OUT
+OUT_scores	scores	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_percent rank 2014	percent rank 2014	OUT
+OUT_score	score	OUT
+OUT_level3 n	level3 n	OUT
+OUT_quality review year	quality review year	OUT
+IN_school name	school name	IN
+OUT_level 2 %	level 2 %	OUT
+OUT_head count	head count	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_school age	school age	OUT
+OUT_year	year	OUT
+OUT_preschool age	preschool age	OUT

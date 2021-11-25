@@ -1,0 +1,62 @@
+stc_label	sentence	category
+90_rich_school_district	rich school district sage scores 2014	Table
+OUT_see footnotes re: totals	see footnotes re: totals	OUT
+IN_school	school	IN
+OUT_service category	service category	OUT
+OUT_service category	service category	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_term	term	OUT
+OUT_college or institution name	college or institution name	OUT
+OUT_program type	program type	OUT
+IN_district	district	IN
+OUT_the geom	the geom	OUT
+OUT_librarian parapros	librarian parapros	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_ontrack year1 historic avg similar schls	ontrack year1 historic avg similar schls	OUT
+OUT_sam link	sam link	OUT
+OUT_referrals	referrals	OUT
+OUT_subcategory	subcategory	OUT
+OUT_class size	class size	OUT
+OUT_city	city	OUT
+OUT_kindergarten	kindergarten	OUT
+IN_subject	subject	IN
+OUT_teachers preschool	teachers preschool	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_total field trips	total field trips	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_students	students	OUT
+IN_grade	grade	IN
+OUT_college region name	college region name	OUT
+OUT_college enroll 2011-12	college enroll 2011-12	OUT
+OUT_count	count	OUT
+OUT_student count	student count	OUT
+OUT_student satisfaction historic avg similar schls	student satisfaction historic avg similar schls	OUT
+OUT_fall term	fall term	OUT
+OUT_state student count	state student count	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+IN_score	score	IN
+OUT_q11 r3 c3	q11 r3 c3	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	OUT
+OUT_percent self- contained	percent self- contained	OUT
+OUT_percent rank 2014	percent rank 2014	OUT
+OUT_school- year	school- year	OUT
+OUT_quality review - how well do teachers work with each other?	quality review - how well do teachers work with each other?	OUT
+OUT_progress grade	progress grade	OUT
+OUT_progress grade	progress grade	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_q5 2	q5 2	OUT
+OUT_percentage	percentage	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_total academic expectations score	total academic expectations score	OUT
+OUT_number scoring 65 or above	number scoring 65 or above	OUT
+OUT_ecers- r program structure score	ecers- r program structure score	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_category	category	OUT
+OUT_year	year	OUT
+OUT_demographic	demographic	OUT

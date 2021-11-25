@@ -1,0 +1,62 @@
+stc_label	sentence	category
+87_procurement_training	procurement training calendar	Table
+OUT_the geom	the geom	OUT
+OUT_neighbor 5	neighbor 5	OUT
+IN_description	description	IN
+IN_location	location	IN
+OUT_sam link	sam link	OUT
+IN_time	time	IN
+OUT_local education agencies	local education agencies	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_fy	fy	OUT
+OUT_district	district	OUT
+IN_room:	room:	IN
+OUT_subcategory	subcategory	OUT
+OUT_entity name	entity name	OUT
+OUT_site zip code	site zip code	OUT
+IN_title	title	IN
+OUT_program category	program category	OUT
+IN_contact hrs:	contact hrs:	IN
+OUT_location category description	location category description	OUT
+OUT_link	link	OUT
+IN_sign up today!	sign up today!	IN
+OUT_qualifier	qualifier	OUT
+OUT_school district	school district	OUT
+IN_date	date	IN
+OUT_core subject	core subject	OUT
+OUT_charter school	charter school	OUT
+OUT_number of classes	number of classes	OUT
+OUT_grade	grade	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_count of students	count of students	OUT
+OUT_retirement	retirement	OUT
+OUT_month	month	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_school level	school level	OUT
+OUT_school level	school level	OUT
+OUT_headcount type	headcount type	OUT
+OUT_metric value	metric value	OUT
+OUT_q15 c3 r1	q15 c3 r1	OUT
+OUT_literacy	literacy	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_progress rpt 11-12	progress rpt 11-12	OUT
+OUT_strong family- community ties - percent positive	strong family- community ties - percent positive	OUT
+OUT_school name	school name	OUT
+OUT_number scoring 80 or above	number scoring 80 or above	OUT
+OUT_qr high expectations	qr high expectations	OUT
+OUT_total teacher response rate	total teacher response rate	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+OUT_total	total	OUT
+OUT_total	total	OUT
+OUT_category	category	OUT
+OUT_level 1 %	level 1 %	OUT
+OUT_number tested	number tested	OUT
+OUT_demographic variable	demographic variable	OUT
+OUT_num level 2	num level 2	OUT
+OUT_grade 4	grade 4	OUT
+OUT_year	year	OUT
+OUT_student category	student category	OUT

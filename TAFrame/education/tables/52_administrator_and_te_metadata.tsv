@@ -1,0 +1,62 @@
+stc_label	sentence	category
+52_administrator_and_te	administrator and teacher salary and benefits district 2012	Table
+OUT_count	count	OUT
+IN_retirement	retirement	IN
+IN_long- term disability insurance	long- term disability insurance	IN
+IN_total teacher benefits	total teacher benefits	IN
+IN_life insurance	life insurance	IN
+IN_median school administrator salary	median school administrator salary	IN
+IN_total teacher compensation	total teacher compensation	IN
+IN_health insurance	health insurance	IN
+OUT_grade 12 regular membership	grade 12 regular membership	OUT
+IN_social security	social security	IN
+IN_median classroom teacher salary	median classroom teacher salary	IN
+OUT_grade 7 regular membership	grade 7 regular membership	OUT
+IN_industrial insurance	industrial insurance	IN
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+IN_dental insurance	dental insurance	IN
+OUT_number of students	number of students	OUT
+IN_unemploy-ment insurance	unemploy-ment insurance	IN
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_math	math	OUT
+OUT_payments by issuer in 2013	payments by issuer in 2013	OUT
+OUT_program type	program type	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_sign up today!	sign up today!	OUT
+IN_school district	school district	IN
+OUT_composite school id	composite school id	OUT
+OUT_neighbor 0	neighbor 0	OUT
+OUT_program category	program category	OUT
+OUT_central office administrators	central office administrators	OUT
+OUT_nation	nation	OUT
+OUT_the geom	the geom	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_school2 primary address	school2 primary address	OUT
+OUT_city council district	city council district	OUT
+OUT_ifs ps - individual family service plans	ifs ps - individual family service plans	OUT
+OUT_college career rate historic avg similar schls	college career rate historic avg similar schls	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_total	total	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_college career rate 2014	college career rate 2014	OUT
+OUT_college career rate 2013	college career rate 2013	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_percent scoring 65 or above	percent scoring 65 or above	OUT
+OUT_elem num	elem num	OUT
+OUT_growth science below proficient	growth science below proficient	OUT
+OUT_school name	school name	OUT
+OUT_percent scoring below 65	percent scoring below 65	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_level 4: #	level 4: #	OUT
+OUT_sat critical reading avg. score	sat critical reading avg. score	OUT
+OUT_school year	school year	OUT
+OUT_lea type	lea type	OUT
+OUT_level 1 %	level 1 %	OUT
+OUT_num level 1	num level 1	OUT
+OUT_community school district	community school district	OUT

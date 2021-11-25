@@ -1,0 +1,62 @@
+stc_label	sentence	category
+70_five_year_plan_summa	five year plan summary by capital category	Table
+OUT_program type	program type	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_district name	district name	OUT
+OUT_total vehicles	total vehicles	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_oid	oid	OUT
+OUT_location	location	OUT
+OUT_main	main	OUT
+OUT_tap sector group	tap sector group	OUT
+IN_subcategory	subcategory	IN
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+OUT_room:	room:	OUT
+OUT_ifs ps - individual family service plans	ifs ps - individual family service plans	OUT
+OUT_location category description	location category description	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_special ed self- contained membership	special ed self- contained membership	OUT
+OUT_operating cost per student	operating cost per student	OUT
+IN_work type	work type	IN
+OUT_grade 3 regular membership	grade 3 regular membership	OUT
+OUT_itinerant health teachers	itinerant health teachers	OUT
+OUT_count of students	count of students	OUT
+OUT_count of testers	count of testers	OUT
+OUT_month	month	OUT
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+OUT_total number of children	total number of children	OUT
+OUT_school level	school level	OUT
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+OUT_metric type	metric type	OUT
+OUT_metric type	metric type	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_ushe total	ushe total	OUT
+OUT_number of graduates	number of graduates	OUT
+OUT_head count	head count	OUT
+OUT_code type	code type	OUT
+OUT_school- year	school- year	OUT
+OUT_collaborative teachers - percent positive	collaborative teachers - percent positive	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+IN_total	total	IN
+OUT_total teacher response rate	total teacher response rate	OUT
+OUT_percent scoring 65 or above	percent scoring 65 or above	OUT
+OUT_school name	school name	OUT
+OUT_class emotional support score	class emotional support score	OUT
+OUT_pct level 3 and 4	pct level 3 and 4	OUT
+OUT_pct level 2	pct level 2	OUT
+OUT_school year	school year	OUT
+OUT_rigorous instruction score	rigorous instruction score	OUT
+OUT_grade 2	grade 2	OUT
+OUT_num level 1	num level 1	OUT
+IN_category	category	IN
+OUT_num level 2	num level 2	OUT
+OUT_grade 6	grade 6	OUT
+OUT_demographic variable	demographic variable	OUT
+OUT_demographic variable	demographic variable	OUT
+OUT_cohort	cohort	OUT
+OUT_community school district	community school district	OUT

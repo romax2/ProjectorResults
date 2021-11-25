@@ -1,0 +1,62 @@
+stc_label	sentence	category
+89_regional_school_dist	regional school district boundaries	Table
+OUT_site id	site id	OUT
+IN_shape st ar	shape st ar	IN
+IN_shape st le	shape st le	IN
+OUT_district id	district id	OUT
+IN_the geom	the geom	IN
+OUT_location	location	OUT
+OUT_code	code	OUT
+IN_district	district	IN
+OUT_total vehicles	total vehicles	OUT
+OUT_language	language	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_soc. sec.	soc. sec.	OUT
+OUT_fy 14-15	fy 14-15	OUT
+OUT_core subject	core subject	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_number of students	number of students	OUT
+OUT_number of classes	number of classes	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_count	count	OUT
+OUT_total number of children	total number of children	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_undergraduate part- time	undergraduate part- time	OUT
+OUT_graduation rate boro	graduation rate boro	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_total mathematics % goal range	total mathematics % goal range	OUT
+OUT_total mathematics % goal range	total mathematics % goal range	OUT
+OUT_code type	code type	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_level3 n	level3 n	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_enrollment	enrollment	OUT
+OUT_performance grade	performance grade	OUT
+OUT_graduation 2011-12	graduation 2011-12	OUT
+OUT_total teacher response rate	total teacher response rate	OUT
+OUT_sat math avg. score	sat math avg. score	OUT
+OUT_supportive environment rating	supportive environment rating	OUT
+OUT_school type	school type	OUT
+OUT_category	category	OUT
+OUT_level 4 #	level 4 #	OUT
+OUT_ecers- r space and furnishings score	ecers- r space and furnishings score	OUT
+OUT_level 1 #	level 1 #	OUT
+OUT_level 3+4 %	level 3+4 %	OUT
+OUT_number tested	number tested	OUT
+OUT_overall score	overall score	OUT
+OUT_total	total	OUT
+OUT_total	total	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_year	year	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT
+OUT_in effect as of 1/1/2014?	in effect as of 1/1/2014?	OUT

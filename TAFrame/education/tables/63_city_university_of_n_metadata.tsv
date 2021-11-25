@@ -1,0 +1,62 @@
+stc_label	sentence	category
+63_city_university_of_n	city university of new york (cuny) enrollment trends by college: beginning fall 1990	Table
+OUT_total enrollment	total enrollment	OUT
+OUT_grade 3 mid year	grade 3 mid year	OUT
+OUT_level 3 %	level 3 %	OUT
+IN_full-time equivalent enrollment	full-time equivalent enrollment	IN
+IN_college name	college name	IN
+OUT_number tested	number tested	OUT
+OUT_total engagement score	total engagement score	OUT
+OUT_college career rate 2012	college career rate 2012	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+OUT_percent gender unknown	percent gender unknown	OUT
+OUT_percent english language learners	percent english language learners	OUT
+OUT_year	year	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school year	school year	OUT
+OUT_collaborative teachers - survey percent positive	collaborative teachers - survey percent positive	OUT
+OUT_level2 n	level2 n	OUT
+OUT_total safety and respect score	total safety and respect score	OUT
+OUT_quality review - how effective is the teaching and learning?	quality review - how effective is the teaching and learning?	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_effective school leadership - percent positive	effective school leadership - percent positive	OUT
+OUT_preschool age	preschool age	OUT
+OUT_q16 c3 r3	q16 c3 r3	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_high grade	high grade	OUT
+IN_enrollment type code	enrollment type code	IN
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_eligible stop to school students	eligible stop to school students	OUT
+IN_head count	head count	IN
+OUT_ushe total	ushe total	OUT
+IN_fall term	fall term	IN
+OUT_gender sexuality alliance?	gender sexuality alliance?	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_school yea	school yea	OUT
+OUT_college ready 11-12	college ready 11-12	OUT
+OUT_median salary	median salary	OUT
+OUT_total compensation	total compensation	OUT
+OUT_count of testers	count of testers	OUT
+OUT_count of students	count of students	OUT
+OUT_work type	work type	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_sum of f status and itinerant	sum of f status and itinerant	OUT
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_subject	subject	OUT
+OUT_central office support	central office support	OUT
+OUT_district number	district number	OUT
+OUT_family guide name	family guide name	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+IN_college ipeds id	college ipeds id	IN
+OUT_school support	school support	OUT
+OUT_other support	other support	OUT
+IN_enrollment type description	enrollment type description	IN
+OUT_description of code	description of code	OUT
+OUT_type	type	OUT
+OUT_number of offers	number of offers	OUT
+OUT_service category	service category	OUT
+OUT_md earn wne	md earn wne	OUT
+OUT_usu	usu	OUT

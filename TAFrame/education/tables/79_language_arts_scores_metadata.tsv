@@ -1,0 +1,62 @@
+stc_label	sentence	category
+79_language_arts_scores	language arts scores all schools utah sage 2014	Table
+IN_score	score	IN
+OUT_college career rate 2012	college career rate 2012	OUT
+OUT_percentage	percentage	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_percent asian	percent asian	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_total	total	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_number tested	number tested	OUT
+OUT_level1 n	level1 n	OUT
+OUT_level 2 %	level 2 %	OUT
+OUT_level 2: #	level 2: #	OUT
+OUT_student satisfaction 2012	student satisfaction 2012	OUT
+OUT_grade 4	grade 4	OUT
+OUT_num level 1	num level 1	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_cohort	cohort	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_student category	student category	OUT
+OUT_q17 c3 r1	q17 c3 r1	OUT
+OUT_number of graduates	number of graduates	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_community school district	community school district	OUT
+OUT_headcount type	headcount type	OUT
+OUT_location name	location name	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_per capita personal income 2013	per capita personal income 2013	OUT
+OUT_month	month	OUT
+OUT_teachers kindergarten	teachers kindergarten	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_teachers secondary	teachers secondary	OUT
+OUT_grade	grade	OUT
+OUT_sample date	sample date	OUT
+OUT_network num	network num	OUT
+OUT_grade level	grade level	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_number of students	number of students	OUT
+OUT_group	group	OUT
+OUT_sector type	sector type	OUT
+OUT_sector type	sector type	OUT
+OUT_site id	site id	OUT
+OUT_referrals	referrals	OUT
+OUT_room:	room:	OUT
+OUT_ind inc avg	ind inc avg	OUT
+OUT_sign up today!	sign up today!	OUT
+OUT_program code	program code	OUT
+OUT_location category description	location category description	OUT
+OUT_code	code	OUT
+IN_district	district	IN
+IN_school	school	IN
+OUT_school district	school district	OUT

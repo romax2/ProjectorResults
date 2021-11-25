@@ -1,0 +1,62 @@
+stc_label	sentence	category
+59_care_4_kids_(c4k)_nu	care 4 kids (c4k) number of children by town, october 2018	Table
+OUT_fy 14-15	fy 14-15	OUT
+OUT_sector type	sector type	OUT
+IN_number of children in licensed and regulated centers	number of children in licensed and regulated centers	IN
+OUT_utah	utah	OUT
+OUT_language	language	OUT
+OUT_school	school	OUT
+OUT_sign up today!	sign up today!	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_entity name	entity name	OUT
+OUT_district	district	OUT
+OUT_classification of instructional program	classification of instructional program	OUT
+OUT_dsu	dsu	OUT
+OUT_network num	network num	OUT
+OUT_pct stu enough variety 2014	pct stu enough variety 2014	OUT
+OUT_longitude	longitude	OUT
+IN_municipality	municipality	IN
+OUT_industrial insurance	industrial insurance	OUT
+IN_number of children in unlicesed relative care	number of children in unlicesed relative care	IN
+OUT_title	title	OUT
+OUT_city council district	city council district	OUT
+IN_town code	town code	IN
+OUT_town	town	OUT
+IN_number of children in licensed family home	number of children in licensed family home	IN
+OUT_grade	grade	OUT
+OUT_grade 11 regular membership	grade 11 regular membership	OUT
+OUT_college region name	college region name	OUT
+OUT_student perf 11-12	student perf 11-12	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_teacher median salary	teacher median salary	OUT
+IN_total number of children	total number of children	IN
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_metric type	metric type	OUT
+OUT_head count	head count	OUT
+OUT_scores	scores	OUT
+OUT_literacy	literacy	OUT
+OUT_code type	code type	OUT
+OUT_code type	code type	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_growth	growth	OUT
+OUT_school dbn	school dbn	OUT
+OUT_student progress 10-11	student progress 10-11	OUT
+OUT_teacher response rate	teacher response rate	OUT
+OUT_quality review year	quality review year	OUT
+OUT_q16 c3 r2	q16 c3 r2	OUT
+OUT_total communication score	total communication score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_town index	town index	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_level 3 or higher	level 3 or higher	OUT
+OUT_num of ap test takers	num of ap test takers	OUT
+OUT_level 3+4 #	level 3+4 #	OUT
+OUT_overall possible	overall possible	OUT
+OUT_preschool age	preschool age	OUT
+OUT_school year	school year	OUT
+OUT_number tested	number tested	OUT
+OUT_grade 1	grade 1	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_grade 5	grade 5	OUT

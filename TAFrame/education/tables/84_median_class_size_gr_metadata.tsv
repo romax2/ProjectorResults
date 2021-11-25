@@ -1,0 +1,62 @@
+stc_label	sentence	category
+84_median_class_size_gr	median class size grades k-6 by district 2011	Table
+OUT_ytd	ytd	OUT
+OUT_fy 13	fy 13	OUT
+OUT_language	language	OUT
+OUT_class size	class size	OUT
+OUT_sector type	sector type	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_neighbor 0	neighbor 0	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_lookup	lookup	OUT
+OUT_code	code	OUT
+IN_kindergarten	kindergarten	IN
+OUT_subject area	subject area	OUT
+OUT_librarian parapros	librarian parapros	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_charter school	charter school	OUT
+IN_local education agencies	local education agencies	IN
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_students	students	OUT
+OUT_grade	grade	OUT
+OUT_grade 11 regular membership	grade 11 regular membership	OUT
+OUT_grade 12 regular membership	grade 12 regular membership	OUT
+OUT_teachers kindergarten	teachers kindergarten	OUT
+OUT_retirement	retirement	OUT
+OUT_school level	school level	OUT
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+OUT_discipline	discipline	OUT
+OUT_college career rate historic avg similar schls	college career rate historic avg similar schls	OUT
+OUT_full time health teachers	full time health teachers	OUT
+OUT_head count	head count	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_q10 2	q10 2	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_percent of graduates that completed 2+ credits in arts	percent of graduates that completed 2+ credits in arts	OUT
+OUT_total	total	OUT
+OUT_total student response rate	total student response rate	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_math proficient	math proficient	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_grade 1	grade 1	IN
+IN_grade 2	grade 2	IN
+OUT_num level 4	num level 4	OUT
+IN_grade 3	grade 3	IN
+IN_grade 5	grade 5	IN
+IN_grade 6	grade 6	IN
+IN_grade 4	grade 4	IN
+OUT_demographic	demographic	OUT
+OUT_community school district	community school district	OUT

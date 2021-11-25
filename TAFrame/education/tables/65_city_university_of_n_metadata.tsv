@@ -1,0 +1,62 @@
+stc_label	sentence	category
+65_city_university_of_n	city university of new york (cuny) university retention and graduation rates: beginning 1990	Table
+OUT_percent hra eligible	percent hra eligible	OUT
+OUT_percent black	percent black	OUT
+IN_percentage	percentage	IN
+OUT_num level 3	num level 3	OUT
+OUT_percent citizen status total	percent citizen status total	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_level3+4 n	level3+4 n	OUT
+OUT_growth	growth	OUT
+OUT_year	year	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+OUT_total	total	OUT
+OUT_school4 name	school4 name	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_scores	scores	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT
+IN_head count	head count	IN
+IN_fall term	fall term	IN
+OUT_metric type	metric type	OUT
+OUT_q21 c3 r3	q21 c3 r3	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_count of students	count of students	OUT
+OUT_not receiving	not receiving	OUT
+OUT_not receiving	not receiving	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_grade	grade	OUT
+OUT_total open accounts as of 12/31/2013	total open accounts as of 12/31/2013	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_college or institution type	college or institution type	OUT
+OUT_total field trips	total field trips	OUT
+OUT_ke	ke	OUT
+OUT_link	link	OUT
+IN_college	college	IN
+OUT_town	town	OUT
+OUT_city	city	OUT
+OUT_neighbor 2	neighbor 2	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_lang. arts	lang. arts	OUT
+IN_record type description	record type description	IN
+IN_record type code	record type code	IN
+OUT_elementary counselors	elementary counselors	OUT
+OUT_tap college name	tap college name	OUT
+OUT_main	main	OUT
+OUT_language	language	OUT
+OUT_program category	program category	OUT
+OUT_county	county	OUT
+OUT_county	county	OUT
+OUT_name	name	OUT
+OUT_code	code	OUT
+OUT_district	district	OUT
+OUT_entity name	entity name	OUT
+OUT_school	school	OUT
+OUT_school district	school district	OUT
+OUT_central office administrators	central office administrators	OUT

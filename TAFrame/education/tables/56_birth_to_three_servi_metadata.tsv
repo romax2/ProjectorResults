@@ -1,0 +1,62 @@
+stc_label	sentence	category
+56_birth_to_three_servi	birth to three services by town sfy 2016	Table
+OUT_geographic unit	geographic unit	OUT
+IN_fy	fy	IN
+OUT_unique destinations	unique destinations	OUT
+OUT_unique destinations	unique destinations	OUT
+OUT_code	code	OUT
+OUT_nation	nation	OUT
+OUT_other support	other support	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_subcategory	subcategory	OUT
+IN_referrals	referrals	IN
+IN_ifs ps - individual family service plans	ifs ps - individual family service plans	IN
+OUT_site street address	site street address	OUT
+IN_rec'd svcs	rec'd svcs	IN
+OUT_district name	district name	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+IN_town	town	IN
+OUT_date	date	OUT
+OUT_college	college	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_definition	definition	OUT
+OUT_ke	ke	OUT
+OUT_number of students	number of students	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_special ed resource membership	special ed resource membership	OUT
+OUT_network num	network num	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_total open accounts as of 12/31/2013	total open accounts as of 12/31/2013	OUT
+OUT_e ls	e ls	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_qr teacher collaboration	qr teacher collaboration	OUT
+IN_eligible	eligible	IN
+OUT_month	month	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_metric type	metric type	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_graduation rate boro	graduation rate boro	OUT
+IN_evaluations	evaluations	IN
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_score	score	OUT
+OUT_q7 2	q7 2	OUT
+OUT_progress grade	progress grade	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_school name	school name	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_level 3 %	level 3 %	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_trust rating	trust rating	OUT
+OUT_college career rate 2012	college career rate 2012	OUT
+OUT_number tested	number tested	OUT
+OUT_number tested	number tested	OUT
+OUT_grade 2	grade 2	OUT
+OUT_cohort year	cohort year	OUT
+OUT_year	year	OUT
+IN_exited to ecse - early childhood special education	exited to ecse - early childhood special education	IN
+OUT_in effect as of 1/1/2014?	in effect as of 1/1/2014?	OUT

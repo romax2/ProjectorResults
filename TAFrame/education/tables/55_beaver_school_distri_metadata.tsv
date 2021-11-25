@@ -1,0 +1,62 @@
+stc_label	sentence	category
+55_beaver_school_distri	beaver school district sage scores 2014	Table
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+IN_district	district	IN
+IN_school	school	IN
+OUT_fy	fy	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_description	description	OUT
+OUT_opt code	opt code	OUT
+OUT_neighbor e	neighbor e	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_neighbor 2	neighbor 2	OUT
+OUT_school3 definition	school3 definition	OUT
+OUT_school2 secondary address	school2 secondary address	OUT
+OUT_counties	counties	OUT
+OUT_site id	site id	OUT
+OUT_sample site	sample site	OUT
+OUT_network nam	network nam	OUT
+OUT_town or city	town or city	OUT
+OUT_elementary counselors	elementary counselors	OUT
+OUT_sector type	sector type	OUT
+IN_subject	subject	IN
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_students	students	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+IN_grade	grade	IN
+OUT_teachers elementary	teachers elementary	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_month	month	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_student count	student count	OUT
+OUT_fall term	fall term	OUT
+OUT_metric value	metric value	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_head count	head count	OUT
+OUT_q12 r3 c3	q12 r3 c3	OUT
+IN_score	score	IN
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_student satisfaction 2013	student satisfaction 2013	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_ecers- r most recent assessment year	ecers- r most recent assessment year	OUT
+OUT_state rank 2014	state rank 2014	OUT
+OUT_strong family- community ties - percent positive	strong family- community ties - percent positive	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+OUT_progress grade	progress grade	OUT
+OUT_school- year	school- year	OUT
+OUT_strong family- community ties rating	strong family- community ties rating	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_percent black	percent black	OUT
+OUT_school type	school type	OUT
+OUT_quality review rating	quality review rating	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_sat critical reading avg. score	sat critical reading avg. score	OUT
+OUT_ecers- r space and furnishings score	ecers- r space and furnishings score	OUT
+OUT_school year	school year	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+72_full_time_equivalent	full time equivalent staff by position, charter schools utah 2015	Table
+OUT_subject	subject	OUT
+IN_charter school	charter school	IN
+IN_school principals & assistant principals	school principals & assistant principals	IN
+IN_elementary counselors	elementary counselors	IN
+OUT_class size	class size	OUT
+IN_secondary couselors	secondary couselors	IN
+IN_teachers preschool	teachers preschool	IN
+OUT_date	date	OUT
+IN_leaders and specialists	leaders and specialists	IN
+OUT_number of sessions	number of sessions	OUT
+OUT_ytd	ytd	OUT
+OUT_service category	service category	OUT
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+OUT_e ls	e ls	OUT
+OUT_district	district	OUT
+IN_librarians	librarians	IN
+IN_teachers secondary	teachers secondary	IN
+IN_other support	other support	IN
+OUT_the geom	the geom	OUT
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+IN_teachers elementary	teachers elementary	IN
+IN_school support	school support	IN
+IN_librarian parapros	librarian parapros	IN
+OUT_geographic unit	geographic unit	OUT
+IN_classroom parapros	classroom parapros	IN
+OUT_record type description	record type description	OUT
+IN_other pros and parapros	other pros and parapros	IN
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_school3 primary address	school3 primary address	OUT
+OUT_city council district	city council district	OUT
+OUT_contact hrs:	contact hrs:	OUT
+OUT_town code	town code	OUT
+OUT_link	link	OUT
+IN_central office support	central office support	IN
+IN_central office administrators	central office administrators	IN
+IN_teachers kindergarten	teachers kindergarten	IN
+OUT_count of testers	count of testers	OUT
+OUT_count of testers	count of testers	OUT
+OUT_metric type	metric type	OUT
+OUT_headcount type	headcount type	OUT
+IN_teachers special education	teachers special education	IN
+OUT_head count	head count	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+IN_total	total	IN
+OUT_pre- k students	pre- k students	OUT
+OUT_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	OUT
+OUT_school dbn	school dbn	OUT
+OUT_total teacher response rate %	total teacher response rate %	OUT
+OUT_kindergarten students	kindergarten students	OUT
+OUT_strong family- community ties score	strong family- community ties score	OUT
+OUT_graduation rate 2012	graduation rate 2012	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_school name	school name	OUT
+OUT_trust score	trust score	OUT
+OUT_grade 4	grade 4	OUT
+OUT_demographic category	demographic category	OUT

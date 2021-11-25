@@ -1,0 +1,62 @@
+stc_label	sentence	category
+95_school_district_brea	school district breakdowns	Table
+IN_count public assistance unknown	count public assistance unknown	IN
+IN_count public assistance total	count public assistance total	IN
+OUT_science	science	OUT
+IN_count nreceives public assistance	count nreceives public assistance	IN
+OUT_tap college code	tap college code	OUT
+OUT_language	language	OUT
+IN_count receives public assistance	count receives public assistance	IN
+OUT_school	school	OUT
+OUT_district name	district name	OUT
+OUT_total field trips	total field trips	OUT
+OUT_neighbor 6	neighbor 6	OUT
+OUT_network nam	network nam	OUT
+OUT_town	town	OUT
+IN_percent nreceives public assistance	percent nreceives public assistance	IN
+IN_jurisdiction name	jurisdiction name	IN
+IN_percent public assistance total	percent public assistance total	IN
+IN_count participants	count participants	IN
+IN_count citizen status total	count citizen status total	IN
+IN_count us citizen	count us citizen	IN
+IN_count male	count male	IN
+IN_count permanent resident alien	count permanent resident alien	IN
+IN_count gender total	count gender total	IN
+IN_count female	count female	IN
+IN_count other citizen status	count other citizen status	IN
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+IN_count citizen status unknown	count citizen status unknown	IN
+IN_count american indian	count american indian	IN
+OUT_literacy	literacy	OUT
+IN_percent receives public assistance	percent receives public assistance	IN
+IN_count white non hispanic	count white non hispanic	IN
+IN_percent public assistance unknown	percent public assistance unknown	IN
+OUT_total reading % goal range	total reading % goal range	OUT
+IN_count asian non hispanic	count asian non hispanic	IN
+IN_count black non hispanic	count black non hispanic	IN
+IN_percent citizen status total	percent citizen status total	IN
+IN_percent gender total	percent gender total	IN
+OUT_strong family- community ties - percent positive	strong family- community ties - percent positive	OUT
+IN_count hispanic latino	count hispanic latino	IN
+IN_percent us citizen	percent us citizen	IN
+IN_percent black non hispanic	percent black non hispanic	IN
+IN_percent white non hispanic	percent white non hispanic	IN
+IN_percent american indian	percent american indian	IN
+IN_percent asian non hispanic	percent asian non hispanic	IN
+IN_percent male	percent male	IN
+IN_percent female	percent female	IN
+IN_percent other citizen status	percent other citizen status	IN
+IN_percent hispanic latino	percent hispanic latino	IN
+IN_count gender unknown	count gender unknown	IN
+IN_percent other ethnicity	percent other ethnicity	IN
+IN_percent permanent resident alien	percent permanent resident alien	IN
+IN_percent gender unknown	percent gender unknown	IN
+OUT_year	year	OUT
+IN_percent ethnicity total	percent ethnicity total	IN
+IN_count ethnicity total	count ethnicity total	IN
+IN_percent ethnicity unknown	percent ethnicity unknown	IN
+IN_percent citizen status unknown	percent citizen status unknown	IN
+IN_count pacific islander	count pacific islander	IN
+IN_count other ethnicity	count other ethnicity	IN
+OUT_response	response	OUT
+IN_count ethnicity unknown	count ethnicity unknown	IN

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+62_city_council_report_	city council report june 14, 2021	Table
+OUT_operating cost	operating cost	OUT
+OUT_fy 12	fy 12	OUT
+OUT_qualifier	qualifier	OUT
+IN_primary program type	primary program type	IN
+OUT_course category	course category	OUT
+OUT_subject	subject	OUT
+OUT_program type	program type	OUT
+OUT_utah	utah	OUT
+OUT_utah	utah	OUT
+OUT_language	language	OUT
+OUT_sign up today!	sign up today!	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_librarians	librarians	OUT
+OUT_dsu	dsu	OUT
+OUT_description	description	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_sam link	sam link	OUT
+OUT_counties	counties	OUT
+OUT_subcategory	subcategory	OUT
+OUT_referrals	referrals	OUT
+OUT_sample site	sample site	OUT
+OUT_central office support	central office support	OUT
+OUT_school2 grades	school2 grades	OUT
+OUT_grade	grade	OUT
+IN_partially receiving	partially receiving	IN
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_school level	school level	OUT
+IN_not receiving	not receiving	IN
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_f status health teachers	f status health teachers	OUT
+OUT_fall term	fall term	OUT
+OUT_ushe total	ushe total	OUT
+OUT_graduation rate historic avg similar schls	graduation rate historic avg similar schls	OUT
+IN_fully receiving	fully receiving	IN
+OUT_head count	head count	OUT
+OUT_scores	scores	OUT
+OUT_total	total	OUT
+IN_percent fully receiving	percent fully receiving	IN
+OUT_count hispanic latino	count hispanic latino	OUT
+OUT_ecers oberservation average score	ecers oberservation average score	OUT
+OUT_percent scoring 65 or above	percent scoring 65 or above	OUT
+OUT_graduation rate 2014	graduation rate 2014	OUT
+OUT_school name	school name	OUT
+OUT_q6 2	q6 2	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+OUT_num of ap test takers	num of ap test takers	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_preschool age	preschool age	OUT
+OUT_num level 3	num level 3	OUT
+OUT_category	category	OUT
+IN_percent partially receiving	percent partially receiving	IN
+OUT_demographic category	demographic category	OUT
+IN_percent not receiving	percent not receiving	IN

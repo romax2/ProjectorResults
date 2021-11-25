@@ -1,0 +1,62 @@
+stc_label	sentence	category
+86_per_capita_personal_	per capita personal income by counties in utah 2012-14	Table
+OUT_eligible	eligible	OUT
+IN_per capita personal income 2014	per capita personal income 2014	IN
+IN_per capita personal income 2013	per capita personal income 2013	IN
+OUT_q21 c3 r1	q21 c3 r1	OUT
+IN_per capita personal income 2012	per capita personal income 2012	IN
+OUT_number of students	number of students	OUT
+OUT_number of students	number of students	OUT
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+OUT_subject	subject	OUT
+OUT_headcount type	headcount type	OUT
+OUT_operating cost	operating cost	OUT
+OUT_date	date	OUT
+OUT_primary program type	primary program type	OUT
+OUT_number of offers	number of offers	OUT
+OUT_tap college code	tap college code	OUT
+OUT_language	language	OUT
+OUT_school	school	OUT
+OUT_district name	district name	OUT
+OUT_code	code	OUT
+IN_county	county	IN
+OUT_dsu	dsu	OUT
+OUT_nation	nation	OUT
+OUT_the geom	the geom	OUT
+OUT_opt code	opt code	OUT
+OUT_program	program	OUT
+OUT_shape st le	shape st le	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_section	section	OUT
+OUT_title	title	OUT
+OUT_college region name	college region name	OUT
+OUT_metric value	metric value	OUT
+OUT_percentage	percentage	OUT
+OUT_school dbn	school dbn	OUT
+OUT_total communication score	total communication score	OUT
+OUT_growth math all students possible	growth math all students possible	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+IN_percent rank 2014	percent rank 2014	IN
+IN_percent change 2013	percent change 2013	IN
+IN_percent change 2014	percent change 2014	IN
+OUT_percent hispanic latino	percent hispanic latino	OUT
+OUT_quality review rating	quality review rating	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_level 4 %	level 4 %	OUT
+OUT_level 4 %	level 4 %	OUT
+OUT_level 3: #	level 3: #	OUT
+OUT_rigorous instruction score	rigorous instruction score	OUT
+IN_state rank 2014	state rank 2014	IN
+OUT_level 1 %	level 1 %	OUT
+OUT_total grads num	total grads num	OUT
+OUT_num level 4	num level 4	OUT
+OUT_num level 3	num level 3	OUT
+OUT_school3 name	school3 name	OUT
+OUT_long- term disability	long- term disability	OUT
+OUT_in effect as of 1/1/2014?	in effect as of 1/1/2014?	OUT
+OUT_student category	student category	OUT
