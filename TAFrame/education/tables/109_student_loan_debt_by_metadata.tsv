@@ -1,0 +1,62 @@
+stc_label	sentence	category
+109_student_loan_debt_by	student loan debt by utah college 2020	Table
+OUT_special ed resource membership	special ed resource membership	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_number of students	number of students	OUT
+OUT_classification of instructional program	classification of instructional program	OUT
+OUT_number of classes	number of classes	OUT
+OUT_count of offers	count of offers	OUT
+OUT_charter school	charter school	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_school principals & assistant principals	school principals & assistant principals	OUT
+OUT_sector type	sector type	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_county name	county name	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_soc. sec.	soc. sec.	OUT
+IN_control	control	IN
+IN_md earn wne	md earn wne	IN
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_count of students	count of students	OUT
+OUT_college or institution name	college or institution name	OUT
+OUT_school district	school district	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_program code	program code	OUT
+OUT_district	district	OUT
+IN_main	main	IN
+OUT_the geom	the geom	OUT
+OUT_pct stu safe 2014	pct stu safe 2014	OUT
+IN_debtpayment10 yr	debtpayment10 yr	IN
+OUT_institution or organization	institution or organization	OUT
+OUT_neighbor 6	neighbor 6	OUT
+OUT_longitude	longitude	OUT
+OUT_district number	district number	OUT
+OUT_subcategory	subcategory	OUT
+IN_count	count	IN
+OUT_site borough	site borough	OUT
+OUT_network nam	network nam	OUT
+OUT_school level	school level	OUT
+OUT_headcount type	headcount type	OUT
+OUT_state student count	state student count	OUT
+OUT_head count	head count	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_percent english language learners	percent english language learners	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_overall score	overall score	OUT
+OUT_student satisfaction 2012	student satisfaction 2012	OUT
+OUT_graduation rate 2013	graduation rate 2013	OUT
+OUT_level4 n	level4 n	OUT
+OUT_level3 n	level3 n	OUT
+OUT_school name	school name	OUT
+OUT_year	year	OUT
+OUT_qr high expectations	qr high expectations	OUT
+OUT_level 3 #	level 3 #	OUT
+OUT_level 2 #	level 2 #	OUT
+OUT_number tested	number tested	OUT
+OUT_number tested	number tested	OUT
+OUT_long- term disability	long- term disability	OUT

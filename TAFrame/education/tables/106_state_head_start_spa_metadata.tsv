@@ -1,0 +1,62 @@
+stc_label	sentence	category
+106_state_head_start_spa	state head start spaces by town sfy2019	Table
+IN_state head start # of funded spaces	state head start # of funded spaces	IN
+IN_town	town	IN
+IN_town code	town code	IN
+OUT_zip	zip	OUT
+OUT_program	program	OUT
+OUT_program	program	OUT
+OUT_record type description	record type description	OUT
+OUT_debtpayment10 yr	debtpayment10 yr	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_county	county	OUT
+OUT_type of institution or organization	type of institution or organization	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_school3 definition	school3 definition	OUT
+OUT_school district	school district	OUT
+OUT_program type	program type	OUT
+OUT_fy 12	fy 12	OUT
+OUT_payments by issuer in 2013	payments by issuer in 2013	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_charter school	charter school	OUT
+OUT_number of students	number of students	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_total open accounts as of 12/31/2013	total open accounts as of 12/31/2013	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_e ls	e ls	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_sam #	sam #	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_not receiving	not receiving	OUT
+OUT_teacher median beginning salary	teacher median beginning salary	OUT
+OUT_literacy	literacy	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_town index	town index	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	OUT
+OUT_category	category	OUT
+OUT_category	category	OUT
+OUT_percent change 2013	percent change 2013	OUT
+OUT_teachers special education	teachers special education	OUT
+OUT_level 3 #	level 3 #	OUT
+OUT_level 3+4: %	level 3+4: %	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_number tested	number tested	OUT
+OUT_scores	scores	OUT
+OUT_demographic	demographic	OUT
+OUT_school year	school year	OUT
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_grade 6	grade 6	OUT
+OUT_cohort year	cohort year	OUT
+OUT_school- year	school- year	OUT
+OUT_school- year	school- year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_total	total	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+100_selected_scholarship	selected scholarship applicants by college: beginning 2014	Table
+IN_headcount type	headcount type	IN
+IN_metric type	metric type	IN
+OUT_q21 c3 r4	q21 c3 r4	OUT
+OUT_school level	school level	OUT
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+OUT_college career rate boro	college career rate boro	OUT
+OUT_month	month	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_sam #	sam #	OUT
+OUT_grade	grade	OUT
+OUT_total passengers	total passengers	OUT
+IN_processing snapshot date	processing snapshot date	IN
+OUT_dental insurance	dental insurance	OUT
+OUT_total field trips	total field trips	OUT
+IN_scholarship name	scholarship name	IN
+OUT_classification of instructional program	classification of instructional program	OUT
+OUT_subject	subject	OUT
+IN_federal school code	federal school code	IN
+OUT_class size	class size	OUT
+IN_sector type	sector type	IN
+OUT_date	date	OUT
+IN_tap college name	tap college name	IN
+OUT_fy 13	fy 13	OUT
+OUT_language	language	OUT
+IN_tap college code	tap college code	IN
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_program code	program code	OUT
+OUT_district	district	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_score	score	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_q12 r1 c3	q12 r1 c3	OUT
+IN_tap sector group	tap sector group	IN
+OUT_teacher attendance rate	teacher attendance rate	OUT
+IN_year	year	IN
+OUT_strong family- community ties - percent positive	strong family- community ties - percent positive	OUT
+OUT_student progress 11-12	student progress 11-12	OUT
+OUT_growth math below proficient	growth math below proficient	OUT
+OUT_grade 3 mid year	grade 3 mid year	OUT
+OUT_q9 2	q9 2	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+OUT_school year	school year	OUT
+OUT_closing the achievement gap points	closing the achievement gap points	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_rigorous instruction score	rigorous instruction score	OUT
+OUT_total safety and respect score	total safety and respect score	OUT
+OUT_category	category	OUT
+OUT_category	category	OUT
+OUT_section	section	OUT
+OUT_section	section	OUT
+OUT_city state zip	city state zip	OUT
+IN_college region name	college region name	IN
+OUT_location name	location name	OUT

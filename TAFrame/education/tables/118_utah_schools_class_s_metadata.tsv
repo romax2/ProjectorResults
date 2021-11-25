@@ -1,0 +1,62 @@
+stc_label	sentence	category
+118_utah_schools_class_s	utah schools class size 2020	Table
+IN_course category	course category	IN
+IN_class size	class size	IN
+OUT_language	language	OUT
+IN_school	school	IN
+IN_core code	core code	IN
+IN_composite school id	composite school id	IN
+OUT_college or institution name	college or institution name	OUT
+OUT_suu	suu	OUT
+IN_grade span	grade span	IN
+OUT_code	code	OUT
+OUT_code	code	OUT
+OUT_subject	subject	OUT
+IN_subject area	subject area	IN
+OUT_nation	nation	OUT
+IN_district id	district id	IN
+IN_composite class nbr	composite class nbr	IN
+OUT_shape st le	shape st le	OUT
+OUT_charter school	charter school	OUT
+OUT_location code	location code	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_subcategory	subcategory	OUT
+OUT_section	section	OUT
+IN_local education agency	local education agency	IN
+IN_course section	course section	IN
+OUT_town code	town code	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_sample date	sample date	OUT
+OUT_number of children in licensed family home	number of children in licensed family home	OUT
+OUT_grade	grade	OUT
+OUT_teachers elementary	teachers elementary	OUT
+OUT_life insurance	life insurance	OUT
+OUT_retirement	retirement	OUT
+OUT_student perf 11-12	student perf 11-12	OUT
+OUT_college career rate boro	college career rate boro	OUT
+OUT_median classroom teacher salary	median classroom teacher salary	OUT
+OUT_cumulative number of sessions	cumulative number of sessions	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_school level	school level	OUT
+OUT_not receiving	not receiving	OUT
+OUT_headcount type	headcount type	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_student satisfaction historic avg similar schls	student satisfaction historic avg similar schls	OUT
+OUT_percentage	percentage	OUT
+OUT_school name	school name	OUT
+OUT_level 4: %	level 4: %	OUT
+OUT_q11 r1 c3	q11 r1 c3	OUT
+IN_school year	school year	IN
+OUT_year	year	OUT
+OUT_number tested	number tested	OUT
+OUT_category	category	OUT
+IN_lea type	lea type	IN
+OUT_response	response	OUT
+OUT_response	response	OUT
+IN_is dual immersion	is dual immersion	IN
+OUT_community school district	community school district	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+111_teacher_and_administ	teacher and administrator median salary by school district	Table
+IN_teacher median beginning salary	teacher median beginning salary	IN
+IN_teacher median salary	teacher median salary	IN
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+IN_school administrators' median salary	school administrators' median salary	IN
+OUT_rank	rank	OUT
+IN_total benefits	total benefits	IN
+OUT_total number of children	total number of children	OUT
+IN_unemployment insurance	unemployment insurance	IN
+IN_total compensation	total compensation	IN
+IN_retirement	retirement	IN
+IN_life insurance	life insurance	IN
+OUT_work type	work type	OUT
+IN_health insurance	health insurance	IN
+OUT_operating cost per student	operating cost per student	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_grade	grade	OUT
+OUT_headcount type	headcount type	OUT
+OUT_number of children in licensed family homes	number of children in licensed family homes	OUT
+IN_industrial insurance	industrial insurance	IN
+OUT_sum of f status and itinerant	sum of f status and itinerant	OUT
+OUT_sum of f status and itinerant	sum of f status and itinerant	OUT
+IN_dental insurance	dental insurance	IN
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_primary program type	primary program type	OUT
+OUT_program type	program type	OUT
+IN_soc. sec.	soc. sec.	IN
+OUT_ytd	ytd	OUT
+OUT_control	control	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT
+OUT_program code	program code	OUT
+IN_district	district	IN
+OUT_main	main	OUT
+OUT_time	time	OUT
+OUT_record type description	record type description	OUT
+OUT_program	program	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_ifs ps - individual family service plans	ifs ps - individual family service plans	OUT
+OUT_ifs ps - individual family service plans	ifs ps - individual family service plans	OUT
+OUT_town code	town code	OUT
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_state student count	state student count	OUT
+OUT_teachers special education	teachers special education	OUT
+OUT_head count	head count	OUT
+OUT_preschool age	preschool age	OUT
+OUT_code type	code type	OUT
+OUT_growth	growth	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_class emotional support score	class emotional support score	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_parent response rate	parent response rate	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_level4 n	level4 n	OUT
+OUT_grade 1	grade 1	OUT
+OUT_number tested	number tested	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_category	category	OUT
+IN_long- term disability	long- term disability	IN

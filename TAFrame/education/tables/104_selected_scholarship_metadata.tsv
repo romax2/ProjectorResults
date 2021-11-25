@@ -1,0 +1,62 @@
+stc_label	sentence	category
+104_selected_scholarship	selected scholarship recipients by gender, income, or region: beginning 2014	Table
+IN_headcount type	headcount type	IN
+IN_metric type	metric type	IN
+OUT_grade 2 regular membership	grade 2 regular membership	OUT
+OUT_health insurance	health insurance	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_college ready 10-11	college ready 10-11	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_leaders and specialists	leaders and specialists	OUT
+OUT_total field trips	total field trips	OUT
+OUT_total field trips	total field trips	OUT
+IN_scholarship name	scholarship name	IN
+OUT_number of students	number of students	OUT
+OUT_subject	subject	OUT
+OUT_county name	county name	OUT
+OUT_utah	utah	OUT
+OUT_school	school	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT
+IN_metric value	metric value	IN
+OUT_description of code	description of code	OUT
+OUT_district	district	OUT
+OUT_librarians	librarians	OUT
+OUT_county	county	OUT
+OUT_college ipeds id	college ipeds id	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_the geom	the geom	OUT
+OUT_num of ap exams passed	num of ap exams passed	OUT
+OUT_school- year	school- year	OUT
+OUT_school- year	school- year	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_college career rate 2014	college career rate 2014	OUT
+IN_year	year	IN
+OUT_pre- k students	pre- k students	OUT
+OUT_total communication score	total communication score	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_effective school leadership score	effective school leadership score	OUT
+OUT_grade 3 mid year	grade 3 mid year	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_class most recent assessment year	class most recent assessment year	OUT
+OUT_q16 c3 r3	q16 c3 r3	OUT
+OUT_language proficient	language proficient	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_progress grade	progress grade	OUT
+OUT_progress grade	progress grade	OUT
+OUT_grade 2	grade 2	OUT
+OUT_grade 6	grade 6	OUT
+OUT_college name	college name	OUT
+OUT_district number	district number	OUT
+OUT_student category	student category	OUT
+OUT_family guide name	family guide name	OUT
+OUT_section	section	OUT
+OUT_course section	course section	OUT
+OUT_eligible stop to school students	eligible stop to school students	OUT
+OUT_town	town	OUT
+OUT_town	town	OUT
+OUT_location name	location name	OUT

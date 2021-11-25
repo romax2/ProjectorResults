@@ -1,0 +1,62 @@
+stc_label	sentence	category
+102_selected_scholarship	selected scholarship programs by metric type: beginning 2014	Table
+OUT_grade 3 regular membership	grade 3 regular membership	OUT
+OUT_retirement	retirement	OUT
+OUT_student perf 10-11	student perf 10-11	OUT
+OUT_grade	grade	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_number of classes	number of classes	OUT
+IN_processing snapshot date	processing snapshot date	IN
+OUT_median classroom teacher salary	median classroom teacher salary	OUT
+IN_scholarship name	scholarship name	IN
+OUT_kindergarten	kindergarten	OUT
+OUT_science	science	OUT
+IN_federal school code	federal school code	IN
+IN_sector type	sector type	IN
+OUT_class size	class size	OUT
+IN_tap college name	tap college name	IN
+OUT_primary program type	primary program type	OUT
+IN_metric type	metric type	IN
+IN_tap college code	tap college code	IN
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_name	name	OUT
+OUT_oid	oid	OUT
+OUT_subject area	subject area	OUT
+OUT_organization code	organization code	OUT
+IN_headcount type	headcount type	IN
+IN_tap sector group	tap sector group	IN
+OUT_neighbor 9	neighbor 9	OUT
+OUT_course section	course section	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_town code	town code	OUT
+IN_college region name	college region name	IN
+OUT_count other citizen status	count other citizen status	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_lea	lea	OUT
+IN_metric value	metric value	IN
+OUT_q15 c3 r4	q15 c3 r4	OUT
+OUT_overall possible	overall possible	OUT
+OUT_site supportive environment - survey percent positive	site supportive environment - survey percent positive	OUT
+OUT_strong family- community ties score	strong family- community ties score	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_graduation 2010-11	graduation 2010-11	OUT
+IN_year	year	IN
+OUT_quality review year	quality review year	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_percent other ethnicity	percent other ethnicity	OUT
+OUT_q16 c3 r2	q16 c3 r2	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_grade 3	grade 3	OUT
+OUT_grade 3	grade 3	OUT
+OUT_grade 1	grade 1	OUT
+OUT_grade 1	grade 1	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_college name	college name	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_category	category	OUT
+OUT_long- term disability	long- term disability	OUT
+OUT_community school district	community school district	OUT

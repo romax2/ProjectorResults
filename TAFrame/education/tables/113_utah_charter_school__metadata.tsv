@@ -1,0 +1,62 @@
+stc_label	sentence	category
+113_utah_charter_school_	utah charter school retention_re-enrollment rates 2013-2019	Table
+OUT_graduation rate 2012	graduation rate 2012	OUT
+OUT_ecers- r language reasoning score	ecers- r language reasoning score	OUT
+OUT_total engagement score	total engagement score	OUT
+OUT_number scoring 65 or above	number scoring 65 or above	OUT
+OUT_ecers- r program structure score	ecers- r program structure score	OUT
+OUT_pct level 1	pct level 1	OUT
+OUT_level 3 or higher	level 3 or higher	OUT
+OUT_level4 n	level4 n	OUT
+OUT_total academic expectations score	total academic expectations score	OUT
+OUT_cohort year	cohort year	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_class most recent assessment year	class most recent assessment year	OUT
+OUT_school name	school name	OUT
+OUT_number tested	number tested	OUT
+OUT_school year	school year	OUT
+OUT_q8 2	q8 2	OUT
+OUT_year	year	OUT
+OUT_student category	student category	OUT
+OUT_score	score	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_response	response	OUT
+OUT_response	response	OUT
+OUT_discipline	discipline	OUT
+OUT_metric type	metric type	OUT
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+OUT_total compensation	total compensation	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_number of children in licensed family home	number of children in licensed family home	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+IN_meet 2018 annual	meet 2018 annual	IN
+IN_charter school	charter school	IN
+OUT_composite class nbr	composite class nbr	OUT
+OUT_subject	subject	OUT
+IN_five yr ave	five yr ave	IN
+OUT_sample site	sample site	OUT
+OUT_sample site	sample site	OUT
+OUT_math	math	OUT
+OUT_city state zip	city state zip	OUT
+OUT_group	group	OUT
+OUT_contact hrs:	contact hrs:	OUT
+OUT_district number	district number	OUT
+OUT_zip	zip	OUT
+OUT_site name	site name	OUT
+OUT_subject area	subject area	OUT
+OUT_main	main	OUT
+OUT_lookup	lookup	OUT
+OUT_program category	program category	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_service category	service category	OUT
+OUT_service category	service category	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT
+OUT_md earn wne	md earn wne	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_location	location	OUT
+OUT_school district	school district	OUT

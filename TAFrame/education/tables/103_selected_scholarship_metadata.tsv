@@ -1,0 +1,62 @@
+stc_label	sentence	category
+103_selected_scholarship	selected scholarship recipients by college: beginning 2014	Table
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_sat math avg. score	sat math avg. score	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_total enrolled students	total enrolled students	OUT
+IN_year	year	IN
+OUT_q12 r3 c3	q12 r3 c3	OUT
+OUT_percent in temp housing	percent in temp housing	OUT
+OUT_percent asian	percent asian	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+OUT_class classroom organization score	class classroom organization score	OUT
+OUT_q14 c3 r4	q14 c3 r4	OUT
+OUT_school year	school year	OUT
+OUT_school name	school name	OUT
+OUT_q17 c3 r4	q17 c3 r4	OUT
+OUT_literacy	literacy	OUT
+OUT_literacy	literacy	OUT
+OUT_literacy	literacy	OUT
+OUT_feeder school name	feeder school name	OUT
+IN_headcount type	headcount type	IN
+IN_metric type	metric type	IN
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+OUT_principal	principal	OUT
+OUT_location name	location name	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_itinerant health teachers	itinerant health teachers	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_grade 10 regular membership	grade 10 regular membership	OUT
+OUT_type of school	type of school	OUT
+OUT_lgbtqgnc training - teachers	lgbtqgnc training - teachers	OUT
+OUT_u of u	u of u	OUT
+IN_scholarship name	scholarship name	IN
+OUT_charter school	charter school	OUT
+OUT_charter school	charter school	OUT
+OUT_subject	subject	OUT
+IN_federal school code	federal school code	IN
+OUT_status	status	OUT
+IN_sector type	sector type	IN
+IN_tap college name	tap college name	IN
+OUT_fy 12	fy 12	OUT
+OUT_language	language	OUT
+IN_tap college code	tap college code	IN
+OUT_school	school	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_description	description	OUT
+OUT_program	program	OUT
+OUT_school4 primary address	school4 primary address	OUT
+IN_tap sector group	tap sector group	IN
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_section	section	OUT
+OUT_time	time	OUT
+OUT_city	city	OUT
+OUT_town	town	OUT
+IN_college region name	college region name	IN

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+121_watershed_water_qual	watershed water quality - wastewater qualifiers	Table
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_number tested	number tested	OUT
+OUT_pct level 1	pct level 1	OUT
+OUT_ecers- r space and furnishings score	ecers- r space and furnishings score	OUT
+OUT_school year	school year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_science proficient	science proficient	OUT
+OUT_ecers- r program structure score	ecers- r program structure score	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_percent scoring 80 or above	percent scoring 80 or above	OUT
+OUT_percent scoring 80 or above	percent scoring 80 or above	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_state rank 2014	state rank 2014	OUT
+OUT_site strong family ties - survey percent positive	site strong family ties - survey percent positive	OUT
+OUT_level3+4 n	level3+4 n	OUT
+OUT_q14 c3 r3	q14 c3 r3	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	OUT
+OUT_total	total	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_code type	code type	OUT
+OUT_location name	location name	OUT
+OUT_location name	location name	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_headcount type	headcount type	OUT
+OUT_school yea	school yea	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_student perf 11-12	student perf 11-12	OUT
+OUT_count of students	count of students	OUT
+OUT_count of students	count of students	OUT
+OUT_grade	grade	OUT
+IN_sample date	sample date	IN
+OUT_number of sessions	number of sessions	OUT
+OUT_town	town	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_contact hrs:	contact hrs:	OUT
+IN_sample site	sample site	IN
+OUT_location category description	location category description	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_main	main	OUT
+OUT_count of offers	count of offers	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+IN_sample id	sample id	IN
+OUT_subject	subject	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_fy 15	fy 15	OUT
+OUT_course category	course category	OUT
+IN_qualifier	qualifier	IN
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_fy 12	fy 12	OUT
+OUT_tap college name	tap college name	OUT

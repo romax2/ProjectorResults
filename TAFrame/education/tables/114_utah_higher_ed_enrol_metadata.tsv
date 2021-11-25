@@ -1,0 +1,62 @@
+stc_label	sentence	category
+114_utah_higher_ed_enrol	utah higher ed enrollment projections, 2014-2024	Table
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_total student response rate	total student response rate	OUT
+OUT_total parent response rate	total parent response rate	OUT
+OUT_grade 3 mid year	grade 3 mid year	OUT
+OUT_growth science below proficient possible	growth science below proficient possible	OUT
+OUT_percent self- contained	percent self- contained	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_grade 2	grade 2	OUT
+OUT_progress grade	progress grade	OUT
+OUT_percent proficient	percent proficient	OUT
+OUT_school type	school type	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_ecers- r observation average score	ecers- r observation average score	OUT
+OUT_overall possible	overall possible	OUT
+OUT_students meeting all four ccr benchmarks act	students meeting all four ccr benchmarks act	OUT
+OUT_school dbn	school dbn	OUT
+IN_year	year	IN
+OUT_long- term disability	long- term disability	OUT
+OUT_student category	student category	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_f status health teachers	f status health teachers	OUT
+OUT_discipline	discipline	OUT
+OUT_rank	rank	OUT
+OUT_count	count	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_grade	grade	OUT
+IN_u of u	u of u	IN
+OUT_number of classes	number of classes	OUT
+OUT_grade level	grade level	OUT
+OUT_subject	subject	OUT
+IN_snow	snow	IN
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_town code	town code	OUT
+OUT_class size	class size	OUT
+OUT_referrals	referrals	OUT
+OUT_family guide name	family guide name	OUT
+OUT_the geom	the geom	OUT
+OUT_primary program type	primary program type	OUT
+OUT_program type	program type	OUT
+OUT_ytd	ytd	OUT
+IN_dsu	dsu	IN
+IN_suu	suu	IN
+OUT_program category	program category	OUT
+OUT_county	county	OUT
+OUT_name	name	OUT
+OUT_rec'd svcs	rec'd svcs	OUT
+OUT_fy	fy	OUT
+OUT_district	district	OUT
+OUT_fy 14	fy 14	OUT
+OUT_qualifier	qualifier	OUT
+OUT_school	school	OUT
+IN_usu	usu	IN
+OUT_district name	district name	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+117_utah_school_district	utah school district average membership hours 2019	Table
+IN_special ed self- contained membership	special ed self- contained membership	IN
+OUT_students	students	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+IN_total k-12 regular membership plus self contained	total k-12 regular membership plus self contained	IN
+IN_grade 10 regular membership	grade 10 regular membership	IN
+OUT_number of classes	number of classes	OUT
+IN_grade 8 regular membership	grade 8 regular membership	IN
+IN_kindergarten regular membership	kindergarten regular membership	IN
+IN_special ed resource membership	special ed resource membership	IN
+OUT_staff completing training	staff completing training	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+IN_grade 7 regular membership	grade 7 regular membership	IN
+IN_grade 9 regular membership	grade 9 regular membership	IN
+OUT_dental insurance	dental insurance	OUT
+IN_grade 11 regular membership	grade 11 regular membership	IN
+OUT_total field trips	total field trips	OUT
+IN_grade 5 regular membership	grade 5 regular membership	IN
+IN_grade 12 regular membership	grade 12 regular membership	IN
+IN_grade 1 regular membership	grade 1 regular membership	IN
+IN_grade 3 regular membership	grade 3 regular membership	IN
+OUT_health insurance	health insurance	OUT
+IN_grade 6 regular membership	grade 6 regular membership	IN
+IN_grade 4 regular membership	grade 4 regular membership	IN
+IN_grade 2 regular membership	grade 2 regular membership	IN
+OUT_count of students	count of students	OUT
+OUT_subject	subject	OUT
+OUT_core subject	core subject	OUT
+OUT_class size	class size	OUT
+OUT_program type	program type	OUT
+OUT_fy 15	fy 15	OUT
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+OUT_total vehicles	total vehicles	OUT
+IN_district	district	IN
+OUT_code	code	OUT
+OUT_other support	other support	OUT
+OUT_record type description	record type description	OUT
+OUT_program	program	OUT
+OUT_family guide name	family guide name	OUT
+OUT_city	city	OUT
+OUT_total number of children	total number of children	OUT
+OUT_link to school's my schools page	link to school's my schools page	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+OUT_regents exam	regents exam	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_early drop-off available	early drop-off available	OUT
+OUT_student response rate	student response rate	OUT
+OUT_percent rank 2014	percent rank 2014	OUT
+OUT_parent response rate	parent response rate	OUT
+OUT_percent change 2014	percent change 2014	OUT
+OUT_ecers- r most recent assessment year	ecers- r most recent assessment year	OUT
+OUT_level3 n	level3 n	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_school year	school year	OUT
+OUT_level 1 %	level 1 %	OUT
+OUT_enrollment	enrollment	OUT
+OUT_school age	school age	OUT

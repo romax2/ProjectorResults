@@ -1,0 +1,62 @@
+stc_label	sentence	category
+98_schools_(deprecated_	schools (deprecated 2012)	Table
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_ecers program structure score	ecers program structure score	OUT
+OUT_grade 5	grade 5	OUT
+IN_school name	school name	IN
+OUT_number tested	number tested	OUT
+OUT_q4 2	q4 2	OUT
+IN_school4 name	school4 name	IN
+IN_school3 name	school3 name	IN
+OUT_growth	growth	OUT
+OUT_q12 r2 c3	q12 r2 c3	OUT
+OUT_literacy	literacy	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_q15 c3 r4	q15 c3 r4	OUT
+IN_school2 name	school2 name	IN
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_count	count	OUT
+IN_school4 grades	school4 grades	IN
+OUT_student perf 11-12	student perf 11-12	OUT
+OUT_grade 1 regular membership	grade 1 regular membership	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_student perf 10-11	student perf 10-11	OUT
+IN_school2 grades	school2 grades	IN
+IN_school3 grades	school3 grades	IN
+OUT_q23 c3 r4	q23 c3 r4	OUT
+OUT_network num	network num	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_core subject	core subject	OUT
+OUT_subject	subject	OUT
+IN_school3 primary address	school3 primary address	IN
+IN_school2 primary address	school2 primary address	IN
+IN_school3 secondary address	school3 secondary address	IN
+IN_school4 primary address	school4 primary address	IN
+IN_school2 secondary address	school2 secondary address	IN
+OUT_federal school code	federal school code	OUT
+OUT_federal school code	federal school code	OUT
+IN_school4 secondary address	school4 secondary address	IN
+OUT_group	group	OUT
+OUT_class size	class size	OUT
+OUT_latitude	latitude	OUT
+IN_primary address	primary address	IN
+OUT_sector type	sector type	OUT
+IN_grades	grades	IN
+IN_second address	second address	IN
+OUT_subject area	subject area	OUT
+OUT_description	description	OUT
+OUT_md earn wne p10	md earn wne p10	OUT
+OUT_composite school id	composite school id	OUT
+OUT_program code	program code	OUT
+OUT_rec'd svcs	rec'd svcs	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_fy 12	fy 12	OUT
+OUT_entity name	entity name	OUT
+OUT_entity name	entity name	OUT
+IN_school4 definition	school4 definition	IN
+IN_definition	definition	IN
+IN_school2 definition	school2 definition	IN
+IN_school3 definition	school3 definition	IN

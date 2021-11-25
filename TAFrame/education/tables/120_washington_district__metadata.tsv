@@ -1,0 +1,62 @@
+stc_label	sentence	category
+120_washington_district_	washington district sage scores 2015	Table
+OUT_core subject	core subject	OUT
+OUT_subject	subject	OUT
+IN_mathematics	mathematics	IN
+OUT_new accounts opened in 2013	new accounts opened in 2013	OUT
+OUT_county name	county name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_program type	program type	OUT
+OUT_usu	usu	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of sessions	number of sessions	OUT
+IN_school	school	IN
+OUT_type	type	OUT
+OUT_service category	service category	OUT
+OUT_program category	program category	OUT
+IN_district	district	IN
+OUT_sample date	sample date	OUT
+OUT_dsu	dsu	OUT
+OUT_nation	nation	OUT
+OUT_grade	grade	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_city	city	OUT
+OUT_town code	town code	OUT
+OUT_network nam	network nam	OUT
+OUT_link	link	OUT
+OUT_central office support	central office support	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_month	month	OUT
+OUT_total number of children	total number of children	OUT
+OUT_graduate full- time	graduate full- time	OUT
+OUT_graduate part- time	graduate part- time	OUT
+OUT_college career rate historic avg similar schls	college career rate historic avg similar schls	OUT
+OUT_fall term	fall term	OUT
+OUT_graduation rate historic avg similar schls	graduation rate historic avg similar schls	OUT
+OUT_sat writing avg. score	sat writing avg. score	OUT
+OUT_number of graduates that completed 2+ credits in arts	number of graduates that completed 2+ credits in arts	OUT
+IN_literacy	literacy	IN
+OUT_q18 c3 r4	q18 c3 r4	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_progress rpt 10-11	progress rpt 10-11	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_school dbn	school dbn	OUT
+OUT_level3+4 n	level3+4 n	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_ecers- r most recent assessment year	ecers- r most recent assessment year	OUT
+OUT_strong family- community ties score	strong family- community ties score	OUT
+OUT_kindergarten students	kindergarten students	OUT
+OUT_rigorous instruction - percent positive	rigorous instruction - percent positive	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_level 3+4 #	level 3+4 #	OUT
+OUT_level 2 %	level 2 %	OUT
+OUT_school year	school year	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_grade 3	grade 3	OUT
+OUT_number tested	number tested	OUT
+OUT_grade 5	grade 5	OUT
+OUT_total grads num	total grads num	OUT
+OUT_grade 6	grade 6	OUT

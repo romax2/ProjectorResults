@@ -1,0 +1,62 @@
+stc_label	sentence	category
+110_students_receiving_r	students receiving recommended special education programs by program type	Table
+OUT_federal school code	federal school code	OUT
+OUT_secondary couselors	secondary couselors	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+IN_primary program type	primary program type	IN
+OUT_qualifier	qualifier	OUT
+OUT_ytd	ytd	OUT
+OUT_control	control	OUT
+OUT_number of students	number of students	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_district name	district name	OUT
+OUT_program category	program category	OUT
+OUT_district	district	OUT
+IN_school district	school district	IN
+OUT_code	code	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_sum of f status and itinerant	sum of f status and itinerant	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_subject area	subject area	OUT
+OUT_the geom	the geom	OUT
+OUT_district number	district number	OUT
+OUT_town code	town code	OUT
+OUT_town code	town code	OUT
+OUT_link	link	OUT
+OUT_grade	grade	OUT
+OUT_college enroll 2011-12	college enroll 2011-12	OUT
+IN_partially receiving	partially receiving	IN
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+OUT_school level	school level	OUT
+IN_not receiving	not receiving	IN
+OUT_location name	location name	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_student count	student count	OUT
+IN_fully receiving	fully receiving	IN
+OUT_code type	code type	OUT
+OUT_total	total	OUT
+OUT_total	total	OUT
+IN_percent fully receiving	percent fully receiving	IN
+OUT_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_overall score	overall score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_q16 c3 r2	q16 c3 r2	OUT
+OUT_number scoring 65 or above	number scoring 65 or above	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_preschool age	preschool age	OUT
+OUT_grade 1	grade 1	OUT
+OUT_num level 1	num level 1	OUT
+OUT_grade 3	grade 3	OUT
+OUT_category	category	OUT
+OUT_college name	college name	OUT
+OUT_cohort	cohort	OUT
+IN_percent partially receiving	percent partially receiving	IN
+IN_percent not receiving	percent not receiving	IN

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+116_utah_libraries_propo	utah libraries proposed tax rates 2012	Table
+IN_proposed tax rate	proposed tax rate	IN
+OUT_lea	lea	OUT
+OUT_metric type	metric type	OUT
+OUT_metric value	metric value	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_regents exam	regents exam	OUT
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_total	total	OUT
+OUT_percentage	percentage	OUT
+OUT_college career rate 2014	college career rate 2014	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_total engagement score	total engagement score	OUT
+OUT_progress rpt 11-12	progress rpt 11-12	OUT
+OUT_level3 n	level3 n	OUT
+OUT_level 3 or higher	level 3 or higher	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_level 4 #	level 4 #	OUT
+OUT_grade 3	grade 3	OUT
+OUT_q3 2	q3 2	OUT
+OUT_pct level 3	pct level 3	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_category	category	OUT
+OUT_school age	school age	OUT
+OUT_total benefits	total benefits	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_retirement	retirement	OUT
+OUT_count of students	count of students	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_sam #	sam #	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_k	k	OUT
+OUT_subject	subject	OUT
+OUT_operating cost	operating cost	OUT
+OUT_language	language	OUT
+OUT_language	language	OUT
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+OUT_program category	program category	OUT
+OUT_program code	program code	OUT
+IN_entity name	entity name	IN
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+IN_county	county	IN
+OUT_main	main	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_longitude	longitude	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_sample site	sample site	OUT
+OUT_city	city	OUT
+OUT_town code	town code	OUT
