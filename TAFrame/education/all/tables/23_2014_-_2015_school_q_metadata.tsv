@@ -1,0 +1,62 @@
+stc_label	sentence	category
+23_2014_-_2015_school_q	2014 - 2015 school quality report results for early childhood	Table
+IN_effective school leadership - percent positive	effective school leadership - percent positive	IN
+IN_quality review - how effective is the teaching and learning?	quality review - how effective is the teaching and learning?	IN
+IN_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	IN
+IN_collaborative teachers - percent positive	collaborative teachers - percent positive	IN
+IN_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	IN
+IN_quality review - how clearly are high expectations communicated to students and staff?	quality review - how clearly are high expectations communicated to students and staff?	IN
+IN_strong family- community ties - percent positive	strong family- community ties - percent positive	IN
+IN_percent hra eligible	percent hra eligible	IN
+IN_percent english language learners	percent english language learners	IN
+IN_rigorous instruction - percent positive	rigorous instruction - percent positive	IN
+IN_quality review - how well do teachers work with each other?	quality review - how well do teachers work with each other?	IN
+IN_percent self- contained	percent self- contained	IN
+IN_percent students with disabilities	percent students with disabilities	IN
+IN_trust - percent positive	trust - percent positive	IN
+IN_percent in temp housing	percent in temp housing	IN
+IN_supportive environment - percent positive	supportive environment - percent positive	IN
+IN_years of principal experience at this school	years of principal experience at this school	IN
+IN_teacher attendance rate	teacher attendance rate	IN
+IN_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	IN
+IN_percent of students chronically absent	percent of students chronically absent	IN
+OUT_quality review year	quality review year	OUT
+OUT_quality review year	quality review year	OUT
+IN_quality review - dates of review	quality review - dates of review	IN
+IN_student attendance rate	student attendance rate	IN
+IN_percent black	percent black	IN
+IN_percent white	percent white	IN
+IN_percent asian	percent asian	IN
+IN_economic need index	economic need index	IN
+IN_percent hispanic	percent hispanic	IN
+OUT_growth language all students possible	growth language all students possible	OUT
+IN_school type	school type	IN
+OUT_ytd % attendance	ytd % attendance	OUT
+IN_school name	school name	IN
+IN_enrollment	enrollment	IN
+OUT_category	category	OUT
+OUT_score	score	OUT
+OUT_q14 c3 r1	q14 c3 r1	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+OUT_q21 c3 r4	q21 c3 r4	OUT
+OUT_grade 3 regular membership	grade 3 regular membership	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_sample date	sample date	OUT
+OUT_q23 c3 r2	q23 c3 r2	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_total field trips	total field trips	OUT
+OUT_number of students	number of students	OUT
+OUT_subject	subject	OUT
+OUT_central office support	central office support	OUT
+OUT_municipality	municipality	OUT
+OUT_shape st le	shape st le	OUT
+OUT_the geom	the geom	OUT
+OUT_primary program type	primary program type	OUT
+OUT_location code	location code	OUT
+OUT_ytd	ytd	OUT
+OUT_tap college code	tap college code	OUT
+OUT_district	district	OUT
+OUT_total vehicles	total vehicles	OUT

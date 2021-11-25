@@ -1,0 +1,62 @@
+stc_label	sentence	category
+28_2014-2015_class_size	2014-2015 class size report city level distribution	Table
+IN_core subject	core subject	IN
+IN_subject	subject	IN
+OUT_kindergarten	kindergarten	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_operating cost	operating cost	OUT
+OUT_mathematics	mathematics	OUT
+IN_class size	class size	IN
+OUT_charter school	charter school	OUT
+IN_number of students	number of students	IN
+IN_program type	program type	IN
+IN_grade level	grade level	IN
+IN_number of classes	number of classes	IN
+OUT_language	language	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_school	school	OUT
+OUT_sample id	sample id	OUT
+IN_service category	service category	IN
+OUT_total vehicles	total vehicles	OUT
+OUT_entity name	entity name	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_librarian parapros	librarian parapros	OUT
+OUT_grade	grade	OUT
+OUT_grade	grade	OUT
+OUT_school2 primary address	school2 primary address	OUT
+OUT_section	section	OUT
+OUT_town code	town code	OUT
+OUT_town or city	town or city	OUT
+OUT_town	town	OUT
+OUT_central office support	central office support	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_life insurance	life insurance	OUT
+OUT_count	count	OUT
+OUT_college region name	college region name	OUT
+OUT_per capita personal income 2013	per capita personal income 2013	OUT
+OUT_metric type	metric type	OUT
+OUT_graduate part- time	graduate part- time	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_head count	head count	OUT
+OUT_regents exam	regents exam	OUT
+OUT_total teacher response rate	total teacher response rate	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_collaborative teachers score	collaborative teachers score	OUT
+OUT_level4 n	level4 n	OUT
+OUT_growth science below proficient	growth science below proficient	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_grade 3 mid year	grade 3 mid year	OUT
+OUT_level 3+4 %	level 3+4 %	OUT
+OUT_level 4: #	level 4: #	OUT
+OUT_year	year	OUT
+OUT_year	year	OUT
+OUT_school year	school year	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_response	response	OUT
+OUT_community school district	community school district	OUT

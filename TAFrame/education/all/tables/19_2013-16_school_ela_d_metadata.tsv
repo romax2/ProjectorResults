@@ -1,0 +1,62 @@
+stc_label	sentence	category
+19_2013-16_school_ela_d	2013-16 school ela data files by grade - ell	Table
+OUT_institution or organization	institution or organization	OUT
+OUT_ind inc avg	ind inc avg	OUT
+OUT_shape st le	shape st le	OUT
+OUT_nation	nation	OUT
+OUT_county	county	OUT
+OUT_suu	suu	OUT
+OUT_type of institution or organization	type of institution or organization	OUT
+OUT_fy 11	fy 11	OUT
+OUT_city	city	OUT
+OUT_town	town	OUT
+OUT_fy 15	fy 15	OUT
+OUT_lgbtqgnc training - other	lgbtqgnc training - other	OUT
+OUT_science	science	OUT
+OUT_core subject	core subject	OUT
+OUT_count receives public assistance	count receives public assistance	OUT
+OUT_unemploy-ment insurance	unemploy-ment insurance	OUT
+OUT_grade level	grade level	OUT
+OUT_grade level	grade level	OUT
+OUT_number of classes	number of classes	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+IN_grade	grade	IN
+OUT_staff completing training	staff completing training	OUT
+OUT_teachers elementary	teachers elementary	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_count of testers	count of testers	OUT
+OUT_retirement	retirement	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_teacher median beginning salary	teacher median beginning salary	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_evaluations	evaluations	OUT
+OUT_mid num	mid num	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_q12 r1 c3	q12 r1 c3	OUT
+OUT_code type	code type	OUT
+OUT_total graduates ushe	total graduates ushe	OUT
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_q5 2	q5 2	OUT
+IN_school name	school name	IN
+IN_level 2: %	level 2: %	IN
+IN_level 4: %	level 4: %	IN
+OUT_feeder school name	feeder school name	OUT
+IN_level 3+4: %	level 3+4: %	IN
+IN_level 1: %	level 1: %	IN
+IN_level 3: %	level 3: %	IN
+IN_level 3+4: #	level 3+4: #	IN
+IN_level 4: #	level 4: #	IN
+IN_level 2: #	level 2: #	IN
+IN_level 1: #	level 1: #	IN
+IN_level 3: #	level 3: #	IN
+IN_category	category	IN
+IN_mean scale score	mean scale score	IN
+IN_number tested	number tested	IN
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_grade 4	grade 4	OUT
+IN_year	year	IN

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+45_2018-19_guidance_cou	2018-19 guidance counselor report - post secondary planning	Table
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_math	math	OUT
+OUT_college or institution type	college or institution type	OUT
+OUT_number of classes	number of classes	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_school	school	OUT
+OUT_grade	grade	OUT
+OUT_enrollment type description	enrollment type description	OUT
+IN_staff completing training	staff completing training	IN
+OUT_code	code	OUT
+OUT_student perf 10-11	student perf 10-11	OUT
+OUT_location	location	OUT
+OUT_location	location	OUT
+OUT_opt code	opt code	OUT
+OUT_pct stu enough variety 2014	pct stu enough variety 2014	OUT
+OUT_longitude	longitude	OUT
+OUT_health insurance	health insurance	OUT
+OUT_location code	location code	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_town or city	town or city	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_college region name	college region name	OUT
+OUT_per capita personal income 2014	per capita personal income 2014	OUT
+OUT_metric type	metric type	OUT
+IN_total trained	total trained	IN
+OUT_fall term	fall term	OUT
+OUT_graduation rate historic avg similar schls	graduation rate historic avg similar schls	OUT
+OUT_metric value	metric value	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_literacy	literacy	OUT
+OUT_literacy	literacy	OUT
+OUT_full-time equivalent enrollment	full-time equivalent enrollment	OUT
+OUT_total	total	OUT
+OUT_progress rpt 10-11	progress rpt 10-11	OUT
+OUT_q17 c3 r3	q17 c3 r3	OUT
+OUT_student satisfaction 2013	student satisfaction 2013	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_class most recent assessment year	class most recent assessment year	OUT
+OUT_class most recent assessment year	class most recent assessment year	OUT
+IN_school name	school name	IN
+OUT_level2 n	level2 n	OUT
+OUT_q3 2	q3 2	OUT
+OUT_year	year	OUT
+OUT_preschool age	preschool age	OUT
+OUT_ecers- r interaction score	ecers- r interaction score	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_num level 1	num level 1	OUT
+OUT_school age	school age	OUT
+OUT_school age	school age	OUT
+OUT_long- term disability	long- term disability	OUT
+OUT_in effect as of 1/1/2014?	in effect as of 1/1/2014?	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+47_2019_public_data_fil	2019 public data file - parents	Table
+OUT_fy 11	fy 11	OUT
+OUT_program category	program category	OUT
+OUT_entity name	entity name	OUT
+OUT_district	district	OUT
+OUT_name	name	OUT
+OUT_location	location	OUT
+OUT_unique destinations	unique destinations	OUT
+OUT_institution or organization	institution or organization	OUT
+OUT_usu	usu	OUT
+OUT_usu	usu	OUT
+OUT_geographic unit	geographic unit	OUT
+OUT_record type description	record type description	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_city	city	OUT
+OUT_location category description	location category description	OUT
+OUT_site street address	site street address	OUT
+OUT_tap college name	tap college name	OUT
+OUT_date	date	OUT
+OUT_class size	class size	OUT
+OUT_class size	class size	OUT
+OUT_state operating cost	state operating cost	OUT
+OUT_group	group	OUT
+OUT_math	math	OUT
+OUT_core subject	core subject	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_grade 7 regular membership	grade 7 regular membership	OUT
+OUT_grade 5 regular membership	grade 5 regular membership	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_count of testers	count of testers	OUT
+OUT_eligible	eligible	OUT
+OUT_retirement	retirement	OUT
+OUT_not receiving	not receiving	OUT
+OUT_school administrators' median salary	school administrators' median salary	OUT
+OUT_location name	location name	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_graduation rate historic avg similar schls	graduation rate historic avg similar schls	OUT
+OUT_literacy	literacy	OUT
+OUT_q15 c3 r3	q15 c3 r3	OUT
+OUT_head count	head count	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_progress rpt 11-12	progress rpt 11-12	OUT
+IN_total parent response ratem %	total parent response ratem %	IN
+OUT_level4 n	level4 n	OUT
+IN_total student response rate %	total student response rate %	IN
+IN_total teacher response rate %	total teacher response rate %	IN
+OUT_percent gender total	percent gender total	OUT
+IN_school name	school name	IN
+OUT_total	total	OUT
+IN_strong family- community ties score	strong family- community ties score	IN
+IN_collaborative teachers score	collaborative teachers score	IN
+IN_effective school leadership score	effective school leadership score	IN
+IN_supportive environment score	supportive environment score	IN
+OUT_level 4 %	level 4 %	OUT
+OUT_pct level 1	pct level 1	OUT
+OUT_feeder school name	feeder school name	OUT
+IN_trust score	trust score	IN
+OUT_school year	school year	OUT
+IN_rigorous instruction score	rigorous instruction score	IN
+OUT_year	year	OUT
+OUT_long- term disability	long- term disability	OUT

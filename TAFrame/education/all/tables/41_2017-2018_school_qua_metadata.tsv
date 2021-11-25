@@ -1,0 +1,62 @@
+stc_label	sentence	category
+41_2017-2018_school_qua	2017-2018 school quality report - pre-k programs	Table
+IN_quality review - how well do teachers work with each other	quality review - how well do teachers work with each other	IN
+IN_collaborative teachers - survey percent positive	collaborative teachers - survey percent positive	IN
+OUT_total teacher response rate %	total teacher response rate %	OUT
+IN_class instructional support rating	class instructional support rating	IN
+IN_class emotional support rating	class emotional support rating	IN
+IN_class instructional support score	class instructional support score	IN
+IN_survey - guardian response rate	survey - guardian response rate	IN
+IN_class classroom organization score	class classroom organization score	IN
+IN_class emotional support score	class emotional support score	IN
+IN_ecers language reasoning rating	ecers language reasoning rating	IN
+IN_ecers activities rating	ecers activities rating	IN
+IN_ecers personal care routines rating	ecers personal care routines rating	IN
+IN_quality review - dates of review	quality review - dates of review	IN
+IN_ecers interaction rating	ecers interaction rating	IN
+IN_site effective leadership - survey percent positive	site effective leadership - survey percent positive	IN
+IN_site strong family ties - survey percent positive	site strong family ties - survey percent positive	IN
+IN_ecers program structure rating	ecers program structure rating	IN
+IN_ecers language reasoning score	ecers language reasoning score	IN
+IN_early drop-off available	early drop-off available	IN
+IN_ecers interaction score	ecers interaction score	IN
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+IN_ecers program structure score	ecers program structure score	IN
+OUT_student satisfaction 2013	student satisfaction 2013	OUT
+IN_ecers oberservation average score	ecers oberservation average score	IN
+IN_ecers personal care routines score	ecers personal care routines score	IN
+IN_ecers space/ furnishings rating	ecers space/ furnishings rating	IN
+IN_class most recent assessment year	class most recent assessment year	IN
+IN_ecers activities score	ecers activities score	IN
+IN_ecers observation average score	ecers observation average score	IN
+IN_ecers space/ furnishings score	ecers space/ furnishings score	IN
+OUT_cohort year	cohort year	OUT
+IN_site supportive environment - survey percent positive	site supportive environment - survey percent positive	IN
+IN_ecers most recent assessment year	ecers most recent assessment year	IN
+IN_site trust - survey percent positive	site trust - survey percent positive	IN
+IN_survey - # of guardian responses	survey - # of guardian responses	IN
+IN_class classrooom organization rating	class classrooom organization rating	IN
+OUT_school year	school year	OUT
+OUT_pre- k students	pre- k students	OUT
+IN_enrollment	enrollment	IN
+OUT_demographic	demographic	OUT
+IN_length of pre- k day	length of pre- k day	IN
+OUT_category	category	OUT
+OUT_total	total	OUT
+IN_dual language	dual language	IN
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+IN_late pick- up available	late pick- up available	IN
+OUT_type of school	type of school	OUT
+OUT_number of children in licensed family home	number of children in licensed family home	OUT
+IN_daily start time	daily start time	IN
+OUT_town code	town code	OUT
+IN_site address 1	site address 1	IN
+OUT_sample site	sample site	OUT
+IN_city state zip	city state zip	IN
+IN_site id	site id	IN
+OUT_room:	room:	OUT
+OUT_ontrack year1 historic avg similar schls	ontrack year1 historic avg similar schls	OUT
+IN_program type	program type	IN
+IN_program code	program code	IN
+IN_name	name	IN
+IN_meals	meals	IN

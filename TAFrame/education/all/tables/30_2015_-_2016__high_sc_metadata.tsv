@@ -1,0 +1,62 @@
+stc_label	sentence	category
+30_2015_-_2016__high_sc	2015 - 2016  high school discharges	Table
+OUT_num level 1	num level 1	OUT
+OUT_ecers- r interaction score	ecers- r interaction score	OUT
+OUT_graduation rate 2013	graduation rate 2013	OUT
+OUT_grade 6	grade 6	OUT
+OUT_growth language below proficient possible	growth language below proficient possible	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+IN_school name	school name	IN
+OUT_school year	school year	OUT
+IN_total enrolled students	total enrolled students	IN
+OUT_college name	college name	OUT
+OUT_college career readiness act possible	college career readiness act possible	OUT
+OUT_demographic	demographic	OUT
+OUT_elem num	elem num	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_year	year	OUT
+IN_student category	student category	IN
+IN_code type	code type	IN
+OUT_preschool age	preschool age	OUT
+OUT_enrollment type code	enrollment type code	OUT
+OUT_q18 c3 r1	q18 c3 r1	OUT
+OUT_fall term	fall term	OUT
+OUT_fall term	fall term	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_total part time and full time health teachers	total part time and full time health teachers	OUT
+OUT_headcount type	headcount type	OUT
+OUT_discipline	discipline	OUT
+OUT_graduate full- time	graduate full- time	OUT
+OUT_eligible door to door students	eligible door to door students	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+IN_count of students	count of students	IN
+OUT_health insurance	health insurance	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_grade 5 regular membership	grade 5 regular membership	OUT
+OUT_sam #	sam #	OUT
+OUT_total k-12 regular membership plus self contained	total k-12 regular membership plus self contained	OUT
+OUT_total open accounts as of 12/31/2013	total open accounts as of 12/31/2013	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_meet 2018 annual	meet 2018 annual	OUT
+OUT_total field trips	total field trips	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_core subject	core subject	OUT
+OUT_town code	town code	OUT
+OUT_college	college	OUT
+OUT_contact hrs:	contact hrs:	OUT
+OUT_subcategory	subcategory	OUT
+OUT_record type description	record type description	OUT
+OUT_subject area	subject area	OUT
+IN_geographic unit	geographic unit	IN
+OUT_credit card issuer	credit card issuer	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_fy	fy	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_lgbtqgnc training - admin	lgbtqgnc training - admin	OUT
+OUT_service category	service category	OUT
+OUT_usu	usu	OUT

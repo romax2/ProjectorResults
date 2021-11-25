@@ -1,0 +1,62 @@
+stc_label	sentence	category
+46_2019_fall_admission_	2019 fall admission ll1486 part ii	Table
+OUT_sample date	sample date	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_count of students	count of students	OUT
+OUT_u of u	u of u	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_count of testers	count of testers	OUT
+OUT_total compensation	total compensation	OUT
+OUT_number of children in unlicensed relative care	number of children in unlicensed relative care	OUT
+OUT_grades	grades	OUT
+OUT_class size	class size	OUT
+OUT_elementary counselors	elementary counselors	OUT
+OUT_county name	county name	OUT
+OUT_number of offers	number of offers	OUT
+OUT_elem name	elem name	OUT
+OUT_school	school	OUT
+IN_school district	school district	IN
+OUT_college or institution name	college or institution name	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_fy 11	fy 11	OUT
+OUT_district	district	OUT
+OUT_district	district	OUT
+OUT_name	name	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_pct stu safe 2014	pct stu safe 2014	OUT
+OUT_sam link	sam link	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_town	town	OUT
+OUT_town or city	town or city	OUT
+OUT_graduation rate boro	graduation rate boro	OUT
+OUT_location name	location name	OUT
+OUT_discipline	discipline	OUT
+OUT_fall term	fall term	OUT
+OUT_sat writing avg. score	sat writing avg. score	OUT
+OUT_score	score	OUT
+OUT_infant/ toddler	infant/ toddler	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+IN_pre- k students	pre- k students	IN
+OUT_total communication score	total communication score	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_grade 3 end year	grade 3 end year	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+OUT_year	year	OUT
+IN_kindergarten students	kindergarten students	IN
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_school type	school type	OUT
+OUT_num of sat test takers	num of sat test takers	OUT
+OUT_low grade	low grade	OUT
+OUT_length of pre- k day	length of pre- k day	OUT
+OUT_school year	school year	OUT
+OUT_num level 1	num level 1	OUT
+OUT_q1 2	q1 2	OUT
+IN_grade 6	grade 6	IN
+IN_category	category	IN
+OUT_student category	student category	OUT

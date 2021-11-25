@@ -1,0 +1,62 @@
+stc_label	sentence	category
+26_2014-15_to_2016-17_s	2014-15 to 2016-17 school- level nyc regents report for all variables	Table
+OUT_grade 4	grade 4	OUT
+IN_demographic variable	demographic variable	IN
+OUT_grade 3	grade 3	OUT
+IN_percent scoring below 65	percent scoring below 65	IN
+IN_number scoring below 65	number scoring below 65	IN
+IN_total tested	total tested	IN
+IN_number scoring 65 or above	number scoring 65 or above	IN
+IN_percent scoring 65 or above	percent scoring 65 or above	IN
+IN_number scoring 80 or above	number scoring 80 or above	IN
+IN_demographic category	demographic category	IN
+IN_percent scoring 80 or above	percent scoring 80 or above	IN
+IN_school type	school type	IN
+OUT_overall possible	overall possible	OUT
+IN_school name	school name	IN
+IN_year	year	IN
+IN_mean score	mean score	IN
+IN_school dbn	school dbn	IN
+IN_percent scoring cr	percent scoring cr	IN
+OUT_feeder school name	feeder school name	OUT
+IN_regents exam	regents exam	IN
+OUT_score	score	OUT
+OUT_q18 c3 r4	q18 c3 r4	OUT
+OUT_literacy	literacy	OUT
+OUT_scores	scores	OUT
+OUT_q15 c3 r4	q15 c3 r4	OUT
+OUT_fall term	fall term	OUT
+OUT_discipline	discipline	OUT
+OUT_location name	location name	OUT
+OUT_per capita personal income 2012	per capita personal income 2012	OUT
+IN_school level	school level	IN
+OUT_retirement	retirement	OUT
+OUT_total compensation	total compensation	OUT
+IN_number scoring cr	number scoring cr	IN
+OUT_operating cost per student	operating cost per student	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_grade 10 regular membership	grade 10 regular membership	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_subject	subject	OUT
+OUT_subject	subject	OUT
+OUT_five yr ave	five yr ave	OUT
+OUT_city	city	OUT
+OUT_city	city	OUT
+OUT_title	title	OUT
+OUT_math	math	OUT
+OUT_neighbor 5	neighbor 5	OUT
+OUT_zip	zip	OUT
+OUT_district number	district number	OUT
+OUT_district number	district number	OUT
+OUT_class size	class size	OUT
+OUT_subcategory	subcategory	OUT
+OUT_lang. arts	lang. arts	OUT
+OUT_description	description	OUT
+OUT_classroom parapros	classroom parapros	OUT
+OUT_district	district	OUT
+OUT_utah	utah	OUT
+OUT_fy 15	fy 15	OUT
+OUT_qualifier	qualifier	OUT
+OUT_county name	county name	OUT

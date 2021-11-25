@@ -1,0 +1,62 @@
+stc_label	sentence	category
+35_2015-16_guidance_cou	2015-16 guidance counselor post secondary planning	Table
+OUT_core subject	core subject	OUT
+OUT_tap college name	tap college name	OUT
+OUT_mathematics	mathematics	OUT
+OUT_charter school	charter school	OUT
+OUT_language	language	OUT
+OUT_language	language	OUT
+OUT_number of students	number of students	OUT
+OUT_sample id	sample id	OUT
+OUT_district	district	OUT
+OUT_program code	program code	OUT
+OUT_program code	program code	OUT
+OUT_name	name	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_number of children in licensed family homes	number of children in licensed family homes	OUT
+OUT_number of children in unlicesed relative care	number of children in unlicesed relative care	OUT
+OUT_record type description	record type description	OUT
+OUT_program	program	OUT
+OUT_program	program	OUT
+OUT_pct stu enough variety 2014	pct stu enough variety 2014	OUT
+OUT_longitude	longitude	OUT
+OUT_family guide name	family guide name	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_state head start # of funded spaces	state head start # of funded spaces	OUT
+OUT_grade	grade	OUT
+IN_staff completing training	staff completing training	IN
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_health insurance	health insurance	OUT
+OUT_count of students	count of students	OUT
+OUT_q20 c3 r4	q20 c3 r4	OUT
+OUT_month	month	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_median beginning salary	median beginning salary	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_graduate full- time	graduate full- time	OUT
+OUT_proposed tax rate	proposed tax rate	OUT
+IN_location name	location name	IN
+OUT_head count	head count	OUT
+OUT_regents exam	regents exam	OUT
+OUT_total reading % goal range	total reading % goal range	OUT
+IN_school- year	school- year	IN
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_ecers- r observation average score	ecers- r observation average score	OUT
+OUT_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	OUT
+OUT_progress rpt 11-12	progress rpt 11-12	OUT
+OUT_mean score	mean score	OUT
+OUT_ytd enrollment	ytd enrollment	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_school name	school name	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+OUT_percent proficient	percent proficient	OUT
+OUT_level 2: #	level 2: #	OUT
+OUT_year	year	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_category	category	OUT
+OUT_total grads num	total grads num	OUT
+OUT_school age	school age	OUT
+OUT_eligible stop to school students	eligible stop to school students	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+6_2010-2011_class_size	2010-2011 class size - citywide distribution	Table
+IN_class size	class size	IN
+OUT_group	group	OUT
+OUT_fy 14	fy 14	OUT
+IN_core subject	core subject	IN
+IN_program type	program type	IN
+OUT_utah	utah	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+IN_service category	service category	IN
+OUT_enrollment type description	enrollment type description	OUT
+OUT_entity name	entity name	OUT
+OUT_district	district	OUT
+IN_number of students	number of students	IN
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_the geom	the geom	OUT
+OUT_classroom parapros	classroom parapros	OUT
+OUT_program	program	OUT
+OUT_network num	network num	OUT
+IN_grade level	grade level	IN
+IN_number of classes	number of classes	IN
+OUT_zip	zip	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_title	title	OUT
+OUT_town code	town code	OUT
+OUT_number of children in licensed family home	number of children in licensed family home	OUT
+OUT_grade 10 regular membership	grade 10 regular membership	OUT
+OUT_grade 10 regular membership	grade 10 regular membership	OUT
+OUT_eligible	eligible	OUT
+OUT_total benefits	total benefits	OUT
+OUT_teacher median beginning salary	teacher median beginning salary	OUT
+OUT_headcount type	headcount type	OUT
+OUT_location name	location name	OUT
+OUT_student satisfaction historic avg similar schls	student satisfaction historic avg similar schls	OUT
+OUT_head count	head count	OUT
+OUT_mid num	mid num	OUT
+OUT_sat writing avg. score	sat writing avg. score	OUT
+OUT_num of ap total exams taken	num of ap total exams taken	OUT
+OUT_regents exam	regents exam	OUT
+OUT_literacy	literacy	OUT
+OUT_school- year	school- year	OUT
+OUT_school- year	school- year	OUT
+IN_percent of students in program / grade / subject	percent of students in program / grade / subject	IN
+OUT_total	total	OUT
+OUT_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	OUT
+OUT_quality review - how thoughtful is the schoolâ€™s approach to teacher development and evaluation?	quality review - how thoughtful is the schoolâ€™s approach to teacher development and evaluation?	OUT
+OUT_student progress 10-11	student progress 10-11	OUT
+OUT_quality review year	quality review year	OUT
+OUT_ecers- r language reasoning score	ecers- r language reasoning score	OUT
+OUT_school name	school name	OUT
+OUT_school name	school name	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_pct level 4	pct level 4	OUT
+OUT_year	year	OUT
+OUT_grade 2	grade 2	OUT
+OUT_num level 1	num level 1	OUT
+OUT_num level 1	num level 1	OUT
+OUT_grade 6	grade 6	OUT
+OUT_demographic variable	demographic variable	OUT
+OUT_demographic	demographic	OUT
+OUT_response	response	OUT

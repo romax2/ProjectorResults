@@ -1,0 +1,62 @@
+stc_label	sentence	category
+38_2016_-_2017_school_q	2016 - 2017 school quality report results for early childhood	Table
+IN_effective school leadership - percent positive	effective school leadership - percent positive	IN
+IN_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	IN
+IN_effective school leadership rating	effective school leadership rating	IN
+IN_quality review - how effective is the teaching and learning?	quality review - how effective is the teaching and learning?	IN
+IN_quality review - how well are school decisions evaluated and adjusted?	quality review - how well are school decisions evaluated and adjusted?	IN
+IN_collaborative teachers - percent positive	collaborative teachers - percent positive	IN
+IN_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	IN
+IN_quality review - how safe and inclusive is the school while supporting social-emotional growth?	quality review - how safe and inclusive is the school while supporting social-emotional growth?	IN
+IN_strong family- community ties rating	strong family- community ties rating	IN
+IN_quality review - how clearly are high expectations communicated to students and staff?	quality review - how clearly are high expectations communicated to students and staff?	IN
+IN_quality review - how thoughtful is the schoolâ€™s approach to teacher development and evaluation?	quality review - how thoughtful is the schoolâ€™s approach to teacher development and evaluation?	IN
+IN_quality review - how well does the school identify, track, and meet its goals?	quality review - how well does the school identify, track, and meet its goals?	IN
+IN_percent english language learners	percent english language learners	IN
+IN_strong family- community ties - percent positive	strong family- community ties - percent positive	IN
+IN_percent hra eligible	percent hra eligible	IN
+IN_percent self- contained	percent self- contained	IN
+IN_rigorous instruction - percent positive	rigorous instruction - percent positive	IN
+IN_percent students with disabilities	percent students with disabilities	IN
+IN_quality review - how well do teachers work with each other?	quality review - how well do teachers work with each other?	IN
+IN_percent in temp housing	percent in temp housing	IN
+IN_collaborative teachers rating	collaborative teachers rating	IN
+IN_supportive environment rating	supportive environment rating	IN
+IN_trust - percent positive	trust - percent positive	IN
+IN_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	IN
+IN_teacher attendance rate	teacher attendance rate	IN
+IN_supportive environment - percent positive	supportive environment - percent positive	IN
+IN_years of principal experience at this school	years of principal experience at this school	IN
+IN_rigorous instruction rating	rigorous instruction rating	IN
+IN_quality review - dates of review	quality review - dates of review	IN
+IN_quality review - how well does the school allocate and manage resources?	quality review - how well does the school allocate and manage resources?	IN
+IN_student attendance rate	student attendance rate	IN
+IN_percent white	percent white	IN
+IN_percent black	percent black	IN
+IN_percent asian	percent asian	IN
+IN_economic need index	economic need index	IN
+IN_percent hispanic	percent hispanic	IN
+IN_trust rating	trust rating	IN
+OUT_num level 4	num level 4	OUT
+IN_school type	school type	IN
+IN_school name	school name	IN
+OUT_school year	school year	OUT
+IN_enrollment	enrollment	IN
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_response	response	OUT
+OUT_metric value	metric value	OUT
+OUT_headcount type	headcount type	OUT
+OUT_metric type	metric type	OUT
+OUT_total number of children	total number of children	OUT
+OUT_month	month	OUT
+OUT_month	month	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_core subject	core subject	OUT
+OUT_sector type	sector type	OUT
+OUT_the geom	the geom	OUT
+OUT_see footnotes re: totals	see footnotes re: totals	OUT
+OUT_fy	fy	OUT
+OUT_district	district	OUT
+OUT_number of offers	number of offers	OUT
+OUT_school	school	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+33_2015_-_2016_school_q	2015 - 2016 school quality report results for early childhood	Table
+IN_effective school leadership - percent positive	effective school leadership - percent positive	IN
+IN_effective school leadership rating	effective school leadership rating	IN
+IN_quality review - how well does the school assess what students are learning?	quality review - how well does the school assess what students are learning?	IN
+IN_quality review - how effective is the teaching and learning?	quality review - how effective is the teaching and learning?	IN
+IN_collaborative teachers - percent positive	collaborative teachers - percent positive	IN
+IN_quality review - how interesting and challenging is the curriculum?	quality review - how interesting and challenging is the curriculum?	IN
+IN_strong family- community ties rating	strong family- community ties rating	IN
+IN_quality review - how clearly are high expectations communicated to students and staff?	quality review - how clearly are high expectations communicated to students and staff?	IN
+IN_percent english language learners	percent english language learners	IN
+IN_percent hra eligible	percent hra eligible	IN
+IN_strong family- community ties - percent positive	strong family- community ties - percent positive	IN
+IN_rigorous instruction - percent positive	rigorous instruction - percent positive	IN
+IN_percent self- contained	percent self- contained	IN
+IN_percent students with disabilities	percent students with disabilities	IN
+IN_quality review - how well do teachers work with each other?	quality review - how well do teachers work with each other?	IN
+IN_collaborative teachers rating	collaborative teachers rating	IN
+IN_percent in temp housing	percent in temp housing	IN
+IN_supportive environment rating	supportive environment rating	IN
+IN_trust - percent positive	trust - percent positive	IN
+IN_supportive environment - percent positive	supportive environment - percent positive	IN
+IN_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	IN
+IN_teacher attendance rate	teacher attendance rate	IN
+IN_years of principal experience at this school	years of principal experience at this school	IN
+OUT_mean scale score	mean scale score	OUT
+IN_rigorous instruction rating	rigorous instruction rating	IN
+IN_quality review - dates of review	quality review - dates of review	IN
+IN_student attendance rate	student attendance rate	IN
+IN_percent white	percent white	IN
+IN_percent black	percent black	IN
+IN_percent asian	percent asian	IN
+IN_economic need index	economic need index	IN
+OUT_student satisfaction 2013	student satisfaction 2013	OUT
+IN_percent hispanic	percent hispanic	IN
+IN_trust rating	trust rating	IN
+OUT_state rank 2014	state rank 2014	OUT
+IN_school type	school type	IN
+OUT_grade 5	grade 5	OUT
+OUT_grade 3 begin year	grade 3 begin year	OUT
+IN_school name	school name	IN
+IN_enrollment	enrollment	IN
+OUT_score	score	OUT
+OUT_stem graduates ushe	stem graduates ushe	OUT
+OUT_evaluations	evaluations	OUT
+OUT_college ready 11-12	college ready 11-12	OUT
+OUT_count of testers	count of testers	OUT
+OUT_life insurance	life insurance	OUT
+OUT_feeder school dbn	feeder school dbn	OUT
+OUT_lgbtqgnc training - teachers	lgbtqgnc training - teachers	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_town code	town code	OUT
+OUT_sample site	sample site	OUT
+OUT_site borough	site borough	OUT
+OUT_neighbor 9	neighbor 9	OUT
+OUT_record type description	record type description	OUT
+OUT_librarian parapros	librarian parapros	OUT
+OUT_rec'd svcs	rec'd svcs	OUT
+OUT_fy 14	fy 14	OUT
+OUT_district	district	OUT
+OUT_fy 13	fy 13	OUT
+OUT_county name	county name	OUT

@@ -1,0 +1,62 @@
+stc_label	sentence	category
+29_2014-2015_doe_high_s	2014-2015 doe high school performance-directory	Table
+OUT_county	county	OUT
+OUT_link to schoolâ€™s virtual opportunities	link to schoolâ€™s virtual opportunities	OUT
+OUT_dsu	dsu	OUT
+OUT_dsu	dsu	OUT
+OUT_school	school	OUT
+OUT_school	school	OUT
+OUT_number of children in licensed or regulated centers, group, and youth camps	number of children in licensed or regulated centers, group, and youth camps	OUT
+OUT_location	location	OUT
+OUT_sign up today!	sign up today!	OUT
+OUT_language	language	OUT
+OUT_latitude	latitude	OUT
+OUT_room:	room:	OUT
+OUT_primary program type	primary program type	OUT
+OUT_town code	town code	OUT
+OUT_town	town	OUT
+IN_ontrack year1 historic avg similar schls	ontrack year1 historic avg similar schls	IN
+OUT_elementary counselors	elementary counselors	OUT
+OUT_type of school	type of school	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_number scoring cr	number scoring cr	OUT
+OUT_number scoring cr	number scoring cr	OUT
+OUT_total number of children . distinct count, not the sum of columns.	total number of children . distinct count, not the sum of columns.	OUT
+OUT_total teacher benefits	total teacher benefits	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_total number of children	total number of children	OUT
+OUT_metric type	metric type	OUT
+OUT_undergraduate part- time	undergraduate part- time	OUT
+IN_college career rate historic avg similar schls	college career rate historic avg similar schls	IN
+OUT_total trained	total trained	OUT
+OUT_full time health teachers	full time health teachers	OUT
+IN_student satisfaction historic avg similar schls	student satisfaction historic avg similar schls	IN
+OUT_fall term	fall term	OUT
+OUT_fall term	fall term	OUT
+OUT_metric value	metric value	OUT
+IN_graduation rate historic avg similar schls	graduation rate historic avg similar schls	IN
+OUT_ytd % attendance	ytd % attendance	OUT
+OUT_ytd % attendance	ytd % attendance	OUT
+IN_student satisfaction 2012	student satisfaction 2012	IN
+IN_student satisfaction 2013	student satisfaction 2013	IN
+OUT_total enrolled students	total enrolled students	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_percent self- contained	percent self- contained	OUT
+OUT_ecers- r most recent assessment year	ecers- r most recent assessment year	OUT
+IN_quality review year	quality review year	IN
+OUT_school name	school name	OUT
+OUT_percent scoring below 65	percent scoring below 65	OUT
+OUT_overall points	overall points	OUT
+OUT_stem % of total graduates	stem % of total graduates	OUT
+OUT_total	total	OUT
+IN_graduation rate 2013	graduation rate 2013	IN
+IN_graduation rate 2012	graduation rate 2012	IN
+IN_quality review rating	quality review rating	IN
+IN_college career rate 2013	college career rate 2013	IN
+IN_college career rate 2012	college career rate 2012	IN
+OUT_number tested	number tested	OUT
+OUT_school year	school year	OUT
+OUT_school year	school year	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_school age	school age	OUT
+OUT_response	response	OUT

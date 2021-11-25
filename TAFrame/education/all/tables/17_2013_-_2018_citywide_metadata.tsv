@@ -1,0 +1,62 @@
+stc_label	sentence	category
+17_2013_-_2018_citywide	2013 - 2018 citywide math results	Table
+OUT_percent hra eligible	percent hra eligible	OUT
+IN_level 4 #	level 4 #	IN
+IN_level 3 #	level 3 #	IN
+IN_level 4 %	level 4 %	IN
+IN_level 2 #	level 2 #	IN
+IN_level 3 %	level 3 %	IN
+IN_level 1 #	level 1 #	IN
+IN_level 1 %	level 1 %	IN
+IN_level 2 %	level 2 %	IN
+IN_level 3+4 %	level 3+4 %	IN
+IN_mean scale score	mean scale score	IN
+IN_level 3+4 #	level 3+4 #	IN
+OUT_percent other ethnicity	percent other ethnicity	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_percent fully receiving	percent fully receiving	OUT
+OUT_ecers- r most recent assessment year	ecers- r most recent assessment year	OUT
+IN_number tested	number tested	IN
+OUT_demographic	demographic	OUT
+OUT_enrollment	enrollment	OUT
+OUT_percentage	percentage	OUT
+IN_year	year	IN
+OUT_q6 2	q6 2	OUT
+IN_category	category	IN
+OUT_code type	code type	OUT
+OUT_student category	student category	OUT
+OUT_score	score	OUT
+OUT_score	score	OUT
+OUT_exited to ecse - early childhood special education	exited to ecse - early childhood special education	OUT
+OUT_head count	head count	OUT
+OUT_total teacher compensation	total teacher compensation	OUT
+OUT_count	count	OUT
+OUT_count of testers	count of testers	OUT
+OUT_staff completing training	staff completing training	OUT
+IN_grade	grade	IN
+OUT_sample date	sample date	OUT
+OUT_network num	network num	OUT
+OUT_grade level	grade level	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_ontrack year1 boro	ontrack year1 boro	OUT
+OUT_mathematics	mathematics	OUT
+OUT_core subject	core subject	OUT
+OUT_town code	town code	OUT
+OUT_town	town	OUT
+OUT_city	city	OUT
+OUT_section	section	OUT
+OUT_latitude	latitude	OUT
+OUT_subcategory	subcategory	OUT
+OUT_opt code	opt code	OUT
+OUT_opt code	opt code	OUT
+OUT_the geom	the geom	OUT
+OUT_primary program type	primary program type	OUT
+OUT_enrollment type description	enrollment type description	OUT
+OUT_neighbor 0	neighbor 0	OUT
+OUT_ytd	ytd	OUT
+OUT_code	code	OUT
+OUT_fy 14	fy 14	OUT
+OUT_number of offers	number of offers	OUT
+OUT_total vehicles	total vehicles	OUT
+OUT_soc. sec.	soc. sec.	OUT
+OUT_county name	county name	OUT

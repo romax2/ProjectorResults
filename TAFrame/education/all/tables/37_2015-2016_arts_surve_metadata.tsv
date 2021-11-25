@@ -1,0 +1,62 @@
+stc_label	sentence	category
+37_2015-2016_arts_surve	2015-2016 arts survey data	Table
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_growth math all students	growth math all students	OUT
+OUT_level4 n	level4 n	OUT
+OUT_level2 n	level2 n	OUT
+OUT_percent of students in program / grade / subject	percent of students in program / grade / subject	OUT
+OUT_mean score	mean score	OUT
+IN_q4 2	q4 2	IN
+IN_q5 2	q5 2	IN
+IN_q16 2	q16 2	IN
+IN_q7 2	q7 2	IN
+IN_q9 2	q9 2	IN
+IN_q3 2	q3 2	IN
+IN_q6 2	q6 2	IN
+IN_q13 2	q13 2	IN
+IN_q1 2	q1 2	IN
+OUT_category	category	OUT
+IN_q22 2	q22 2	IN
+OUT_score	score	OUT
+IN_q17 c3 r4	q17 c3 r4	IN
+IN_q17 c3 r2	q17 c3 r2	IN
+OUT_regents exam	regents exam	OUT
+IN_q17 c3 r3	q17 c3 r3	IN
+IN_q17 c3 r1	q17 c3 r1	IN
+IN_q18 c3 r4	q18 c3 r4	IN
+IN_q18 c3 r2	q18 c3 r2	IN
+IN_q18 c3 r3	q18 c3 r3	IN
+IN_q15 c3 r2	q15 c3 r2	IN
+IN_q18 c3 r1	q18 c3 r1	IN
+IN_q11 r1 c3	q11 r1 c3	IN
+IN_q15 c3 r4	q15 c3 r4	IN
+IN_q11 r2 c3	q11 r2 c3	IN
+IN_q19 2	q19 2	IN
+IN_q15 c3 r3	q15 c3 r3	IN
+IN_q11 r3 c3	q11 r3 c3	IN
+IN_q11 r4 c3	q11 r4 c3	IN
+IN_q15 c3 r1	q15 c3 r1	IN
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+IN_q21 c3 r4	q21 c3 r4	IN
+IN_q21 c3 r2	q21 c3 r2	IN
+IN_q21 c3 r3	q21 c3 r3	IN
+IN_q20 c3 r2	q20 c3 r2	IN
+IN_q20 c3 r4	q20 c3 r4	IN
+IN_q21 c3 r1	q21 c3 r1	IN
+IN_q20 c3 r3	q20 c3 r3	IN
+OUT_health insurance	health insurance	OUT
+IN_q20 c3 r1	q20 c3 r1	IN
+OUT_grade 10 regular membership	grade 10 regular membership	OUT
+IN_q23 c3 r2	q23 c3 r2	IN
+IN_q23 c3 r4	q23 c3 r4	IN
+IN_q23 c3 r3	q23 c3 r3	IN
+IN_q23 c3 r1	q23 c3 r1	IN
+OUT_city	city	OUT
+OUT_subject area	subject area	OUT
+OUT_dsu	dsu	OUT
+OUT_code	code	OUT
+OUT_district	district	OUT
+OUT_total vehicles	total vehicles	OUT
+OUT_number of children in licensed and regulated centers	number of children in licensed and regulated centers	OUT
+OUT_school	school	OUT
