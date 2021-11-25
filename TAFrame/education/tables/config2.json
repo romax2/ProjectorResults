@@ -1,0 +1,283 @@
+{
+    "embeddings": [{
+            "tensorName": "0_2006_-_2012__math_te",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/0_2006_-_2012__math_te_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/0_2006_-_2012__math_te_metadata.tsv"
+        }, {
+            "tensorName": "1_2006_-_2012_math_tes",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/1_2006_-_2012_math_tes_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/1_2006_-_2012_math_tes_metadata.tsv"
+        }, {
+            "tensorName": "2_2009_-_2010_school_a",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/2_2009_-_2010_school_a_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/2_2009_-_2010_school_a_metadata.tsv"
+        }, {
+            "tensorName": "3_2010_-_2011_graduati",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/3_2010_-_2011_graduati_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/3_2010_-_2011_graduati_metadata.tsv"
+        }, {
+            "tensorName": "4_2010_-_2011_graduati",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/4_2010_-_2011_graduati_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/4_2010_-_2011_graduati_metadata.tsv"
+        }, {
+            "tensorName": "5_2010_-_2011_school_a",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/5_2010_-_2011_school_a_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/5_2010_-_2011_school_a_metadata.tsv"
+        }, {
+            "tensorName": "6_2010-2011_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/6_2010-2011_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/6_2010-2011_class_size_metadata.tsv"
+        }, {
+            "tensorName": "7_2011_-_2012_d75_prog",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/7_2011_-_2012_d75_prog_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/7_2011_-_2012_d75_prog_metadata.tsv"
+        }, {
+            "tensorName": "8_2011-2012_nyc_family",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/8_2011-2012_nyc_family_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/8_2011-2012_nyc_family_metadata.tsv"
+        }, {
+            "tensorName": "9_2012__ap_results",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/9_2012__ap_results_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/9_2012__ap_results_metadata.tsv"
+        }, {
+            "tensorName": "10_2012_nyc_district_75",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/10_2012_nyc_district_75_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/10_2012_nyc_district_75_metadata.tsv"
+        }, {
+            "tensorName": "11_2012_nyc_general_edu",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/11_2012_nyc_general_edu_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/11_2012_nyc_general_edu_metadata.tsv"
+        }, {
+            "tensorName": "12_2012_sat_results",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/12_2012_sat_results_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/12_2012_sat_results_metadata.tsv"
+        }, {
+            "tensorName": "13_2012-2013_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/13_2012-2013_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/13_2012-2013_class_size_metadata.tsv"
+        }, {
+            "tensorName": "14_2013_-_2014_arts_rep",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/14_2013_-_2014_arts_rep_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/14_2013_-_2014_arts_rep_metadata.tsv"
+        }, {
+            "tensorName": "15_2013_-_2014_doe_high",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/15_2013_-_2014_doe_high_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/15_2013_-_2014_doe_high_metadata.tsv"
+        }, {
+            "tensorName": "16_2013_-_2015__nyc_res",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/16_2013_-_2015__nyc_res_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/16_2013_-_2015__nyc_res_metadata.tsv"
+        }, {
+            "tensorName": "17_2013_-_2018_citywide",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/17_2013_-_2018_citywide_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/17_2013_-_2018_citywide_metadata.tsv"
+        }, {
+            "tensorName": "18_2013_-_2018_school_e",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/18_2013_-_2018_school_e_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/18_2013_-_2018_school_e_metadata.tsv"
+        }, {
+            "tensorName": "19_2013-16_school_ela_d",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/19_2013-16_school_ela_d_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/19_2013-16_school_ela_d_metadata.tsv"
+        }, {
+            "tensorName": "20_2013-2014_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/20_2013-2014_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/20_2013-2014_class_size_metadata.tsv"
+        }, {
+            "tensorName": "21_2013-2017_citywide_m",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/21_2013-2017_citywide_m_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/21_2013-2017_citywide_m_metadata.tsv"
+        }, {
+            "tensorName": "22_2013-2017_ela_test_r",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/22_2013-2017_ela_test_r_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/22_2013-2017_ela_test_r_metadata.tsv"
+        }, {
+            "tensorName": "23_2014_-_2015_school_q",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/23_2014_-_2015_school_q_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/23_2014_-_2015_school_q_metadata.tsv"
+        }, {
+            "tensorName": "24_2014_-_2017_regents",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/24_2014_-_2017_regents_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/24_2014_-_2017_regents_metadata.tsv"
+        }, {
+            "tensorName": "25_2014_-15_guidance_co",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/25_2014_-15_guidance_co_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/25_2014_-15_guidance_co_metadata.tsv"
+        }, {
+            "tensorName": "26_2014-15_to_2016-17_s",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/26_2014-15_to_2016-17_s_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/26_2014-15_to_2016-17_s_metadata.tsv"
+        }, {
+            "tensorName": "27_2014-2015_arts_surve",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/27_2014-2015_arts_surve_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/27_2014-2015_arts_surve_metadata.tsv"
+        }, {
+            "tensorName": "28_2014-2015_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/28_2014-2015_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/28_2014-2015_class_size_metadata.tsv"
+        }, {
+            "tensorName": "29_2014-2015_doe_high_s",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/29_2014-2015_doe_high_s_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/29_2014-2015_doe_high_s_metadata.tsv"
+        }, {
+            "tensorName": "30_2015_-_2016__high_sc",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/30_2015_-_2016__high_sc_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/30_2015_-_2016__high_sc_metadata.tsv"
+        }, {
+            "tensorName": "31_2015_-_2016_discharg",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/31_2015_-_2016_discharg_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/31_2015_-_2016_discharg_metadata.tsv"
+        }, {
+            "tensorName": "32_2015_-_2016_discharg",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/32_2015_-_2016_discharg_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/32_2015_-_2016_discharg_metadata.tsv"
+        }, {
+            "tensorName": "33_2015_-_2016_school_q",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/33_2015_-_2016_school_q_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/33_2015_-_2016_school_q_metadata.tsv"
+        }, {
+            "tensorName": "34_2015_school_allocati",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/34_2015_school_allocati_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/34_2015_school_allocati_metadata.tsv"
+        }, {
+            "tensorName": "35_2015-16_guidance_cou",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/35_2015-16_guidance_cou_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/35_2015-16_guidance_cou_metadata.tsv"
+        }, {
+            "tensorName": "36_2015-16_local_law_15",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/36_2015-16_local_law_15_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/36_2015-16_local_law_15_metadata.tsv"
+        }, {
+            "tensorName": "37_2015-2016_arts_surve",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/37_2015-2016_arts_surve_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/37_2015-2016_arts_surve_metadata.tsv"
+        }, {
+            "tensorName": "38_2016_-_2017_school_q",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/38_2016_-_2017_school_q_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/38_2016_-_2017_school_q_metadata.tsv"
+        }, {
+            "tensorName": "39_2016_doe_high_school",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/39_2016_doe_high_school_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/39_2016_doe_high_school_metadata.tsv"
+        }, {
+            "tensorName": "40_2017_\u00e2\u20ac\u201c_2018_antici",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/40_2017_\u00e2\u20ac\u201c_2018_antici_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/40_2017_\u00e2\u20ac\u201c_2018_antici_metadata.tsv"
+        }, {
+            "tensorName": "41_2017-2018_school_qua",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/41_2017-2018_school_qua_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/41_2017-2018_school_qua_metadata.tsv"
+        }, {
+            "tensorName": "42_2017-2018_shsat_admi",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/42_2017-2018_shsat_admi_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/42_2017-2018_shsat_admi_metadata.tsv"
+        }, {
+            "tensorName": "43_2018_-_2019_students",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/43_2018_-_2019_students_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/43_2018_-_2019_students_metadata.tsv"
+        }, {
+            "tensorName": "44_2018_-_2020_class_an",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/44_2018_-_2020_class_an_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/44_2018_-_2020_class_an_metadata.tsv"
+        }, {
+            "tensorName": "45_2018-19_guidance_cou",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/45_2018-19_guidance_cou_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/45_2018-19_guidance_cou_metadata.tsv"
+        }, {
+            "tensorName": "46_2019_fall_admission_",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/46_2019_fall_admission__embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/46_2019_fall_admission__metadata.tsv"
+        }, {
+            "tensorName": "47_2019_public_data_fil",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/47_2019_public_data_fil_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/47_2019_public_data_fil_metadata.tsv"
+        }, {
+            "tensorName": "48_2019-_2020_submissio",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/48_2019-_2020_submissio_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/48_2019-_2020_submissio_metadata.tsv"
+        }, {
+            "tensorName": "49_2020-2021_shsat_admi",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/49_2020-2021_shsat_admi_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/49_2020-2021_shsat_admi_metadata.tsv"
+        }, {
+            "tensorName": "50_administrator_and_te",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/50_administrator_and_te_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/50_administrator_and_te_metadata.tsv"
+        }, {
+            "tensorName": "51_administrator_and_te",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/51_administrator_and_te_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/51_administrator_and_te_metadata.tsv"
+        }, {
+            "tensorName": "52_administrator_and_te",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/52_administrator_and_te_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/52_administrator_and_te_metadata.tsv"
+        }, {
+            "tensorName": "53_ashland",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/53_ashland_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/53_ashland_metadata.tsv"
+        }, {
+            "tensorName": "54_average_salary_by_co",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/54_average_salary_by_co_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/54_average_salary_by_co_metadata.tsv"
+        }, {
+            "tensorName": "55_beaver_school_distri",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/55_beaver_school_distri_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/transport/tables/55_beaver_school_distri_metadata.tsv"
+        }]
+}
