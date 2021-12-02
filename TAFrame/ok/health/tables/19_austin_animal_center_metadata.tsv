@@ -1,0 +1,202 @@
+stc_label	sentence	category
+19_austin_animal_center	austin animal center intakes	Table
+IN_intake condition	intake condition	IN
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_call to door interval target	call to door interval target	OUT
+IN_name	name	IN
+OUT_completers - age	completers - age	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_last name	last name	OUT
+OUT_county name	county name	OUT
+OUT_confirmed	confirmed	OUT
+OUT_dependency	dependency	OUT
+OUT_name of study	name of study	OUT
+OUT_end time period	end time period	OUT
+IN_month year	month year	IN
+OUT_total non critical	total non critical	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_warning	warning	OUT
+OUT_number of programs	number of programs	OUT
+IN_intake type	intake type	IN
+OUT_pe	pe	OUT
+OUT_first	first	OUT
+OUT_date	date	OUT
+OUT_quarter	quarter	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_state name	state name	OUT
+OUT_drug type	drug type	OUT
+OUT_rate	rate	OUT
+OUT_small area code	small area code	OUT
+OUT_low cost	low cost	OUT
+OUT_menthol	menthol	OUT
+OUT_county fips code	county fips code	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+IN_date time	date time	IN
+OUT_beginning time period	beginning time period	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_the geom	the geom	OUT
+OUT_month	month	OUT
+OUT_office visit type	office visit type	OUT
+OUT_data as of	data as of	OUT
+OUT_additional information	additional information	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_language	language	OUT
+IN_found location	found location	IN
+OUT_first name	first name	OUT
+OUT_department name	department name	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_crowded housing	crowded housing	OUT
+OUT_description of dog	description of dog	OUT
+IN_color	color	IN
+OUT_community registry	community registry	OUT
+IN_breed	breed	IN
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_health zone of residence	health zone of residence	OUT
+IN_animal id	animal id	IN
+OUT_date opened	date opened	OUT
+OUT_zone	zone	OUT
+IN_animal type	animal type	IN
+IN_sex upon intake	sex upon intake	IN
+OUT_2013 box elder	2013 box elder	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_2017	2017	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_age group	age group	OUT
+OUT_health care provider	health care provider	OUT
+OUT_title	title	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_shelter	shelter	OUT
+OUT_activity date	activity date	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_population	population	OUT
+OUT_2018	2018	OUT
+IN_age upon intake	age upon intake	IN
+OUT_b- pinene	b- pinene	OUT
+OUT_gender	gender	OUT
+OUT_producer	producer	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_demographic	demographic	OUT
+OUT_prevalence	prevalence	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_sex	sex	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_referral type	referral type	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_program identifier	program identifier	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2014	2014	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_dme	dme	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012	2012	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2013	2013	OUT
+OUT_billing npi	billing npi	OUT
+OUT_breast cancer in females	breast cancer in females	OUT
+OUT_postal code	postal code	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_low birth weight	low birth weight	OUT
+OUT_fertility rate 2000	fertility rate 2000	OUT
+OUT_births 2000	births 2000	OUT
+OUT_percent 1999	percent 1999	OUT
+OUT_percent 2006	percent 2006	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_vendor id	vendor id	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_recipient state	recipient state	OUT
+OUT_form of payment or transfer of value	form of payment or transfer of value	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_recipient country	recipient country	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_store type	store type	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_hours	hours	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_process description	process description	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_average age of death	average age of death	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_incident address street name	incident address street name	OUT
+OUT_l- fenchone	l- fenchone	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_begin date	begin date	OUT
+OUT_state	state	OUT
+OUT_fenchone	fenchone	OUT
+OUT_hours wednesday	hours wednesday	OUT
+OUT_hours monday	hours monday	OUT
+OUT_address	address	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_phone number	phone number	OUT
+OUT_fips	fips	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_street address	street address	OUT
+OUT_primary site	primary site	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_indiana	indiana	OUT
+OUT_minnesota	minnesota	OUT
+OUT_maine	maine	OUT
+OUT_processing date	processing date	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_score	score	OUT
+OUT_measure id	measure id	OUT
+OUT_missouri	missouri	OUT
+OUT_arizona	arizona	OUT
+OUT_site name	site name	OUT
+OUT_borough	borough	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_sir icon	sir icon	OUT
+OUT_province state	province state	OUT
+OUT_zip code	zip code	OUT
+OUT_provider number	provider number	OUT
+OUT_washington	washington	OUT
+OUT_new york	new york	OUT
+OUT_oklahoma	oklahoma	OUT
+OUT_access point type	access point type	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_utah	utah	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_central line days	central line days	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_counties	counties	OUT
+OUT_facility name	facility name	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_county	county	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_zip codes	zip codes	OUT
+OUT_community area	community area	OUT
+OUT_procedure type	procedure type	OUT
+OUT_community area number	community area number	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_community area name	community area name	OUT
+OUT_school districts	school districts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_latitude	latitude	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_weighted outcome domain score	weighted outcome domain score	OUT
+OUT_correction date	correction date	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_location	location	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_planning regions	planning regions	OUT
+OUT_utah house districts	utah house districts	OUT

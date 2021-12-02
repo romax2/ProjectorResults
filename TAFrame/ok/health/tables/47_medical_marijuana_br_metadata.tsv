@@ -1,0 +1,202 @@
+stc_label	sentence	category
+47_medical_marijuana_br	medical marijuana brand registry	Table
+OUT_condition	condition	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_dme	dme	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_amount	amount	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_dollar amount invested	dollar amount invested	OUT
+OUT_practice city name	practice city name	OUT
+IN_producer	producer	IN
+OUT_any current supply of gowns	any current supply of gowns	OUT
+OUT_primary drug	primary drug	OUT
+OUT_title	title	OUT
+OUT_paid per service	paid per service	OUT
+OUT_services rendered	services rendered	OUT
+OUT_organization name	organization name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_description	description	OUT
+OUT_drug type	drug type	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_date	date	OUT
+OUT_quarter	quarter	OUT
+OUT_fiscal year end	fiscal year end	OUT
+IN_b- myrcene	b- myrcene	IN
+IN_terpineol	terpineol	IN
+OUT_ages served	ages served	OUT
+OUT_pos category	pos category	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_confirmed	confirmed	OUT
+OUT_name of study	name of study	OUT
+IN_b- terpinene	b- terpinene	IN
+OUT_for more information	for more information	OUT
+OUT_context of research	context of research	OUT
+OUT_intake condition	intake condition	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_county name	county name	OUT
+OUT_last name	last name	OUT
+OUT_warning	warning	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_state name	state name	OUT
+IN_menthol	menthol	IN
+IN_b- caryophyllene	b- caryophyllene	IN
+OUT_number of employees	number of employees	OUT
+OUT_week ending	week ending	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_record type	record type	OUT
+OUT_serial number	serial number	OUT
+OUT_month	month	OUT
+IN_terpinolene	terpinolene	IN
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_language	language	OUT
+OUT_organization	organization	OUT
+OUT_first name	first name	OUT
+OUT_found location	found location	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_color	color	OUT
+OUT_community registry	community registry	OUT
+IN_pulegol	pulegol	IN
+OUT_health zone of residence	health zone of residence	OUT
+IN_b- eudesmol	b- eudesmol	IN
+OUT_sex upon intake	sex upon intake	OUT
+IN_carene	carene	IN
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+IN_fenchol	fenchol	IN
+OUT_check out da	check out da	OUT
+IN_geraniol	geraniol	IN
+OUT_health care provider	health care provider	OUT
+OUT_2017	2017	OUT
+OUT_age group	age group	OUT
+IN_a- terpinene	a- terpinene	IN
+OUT_shelter	shelter	OUT
+IN_cedrol	cedrol	IN
+OUT_age	age	OUT
+IN_b- pinene	b- pinene	IN
+OUT_population	population	OUT
+OUT_2018	2018	OUT
+OUT_region	region	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_prevalence	prevalence	OUT
+IN_a- phellandrene	a- phellandrene	IN
+OUT_diabetes rate	diabetes rate	OUT
+OUT_sex	sex	OUT
+IN_eucalyptol	eucalyptol	IN
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_food insecure population	food insecure population	OUT
+IN_a- pinene	a- pinene	IN
+OUT_food insecure percentage	food insecure percentage	OUT
+IN_a- cedrene	a- cedrene	IN
+IN_guaiol	guaiol	IN
+OUT_2006	2006	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2007 us	2007 us	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+IN_nerol	nerol	IN
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2008	2008	OUT
+OUT_legal business name	legal business name	OUT
+OUT_2007	2007	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_physician last name	physician last name	OUT
+OUT_fax #	fax #	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_2000	2000	OUT
+OUT_recipient city	recipient city	OUT
+OUT_all ages	all ages	OUT
+OUT_years averaged	years averaged	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_births 2007	births 2007	OUT
+OUT_percent 2004 upper ci	percent 2004 upper ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_fertility rate 2009 lower ci	fertility rate 2009 lower ci	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+IN_limonene	limonene	IN
+OUT_hours	hours	OUT
+OUT_complaint status	complaint status	OUT
+OUT_total performance score	total performance score	OUT
+OUT_incident address	incident address	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_unweighted patient experience of care domain score	unweighted patient experience of care domain score	OUT
+OUT_provider business address	provider business address	OUT
+OUT_address 1	address 1	OUT
+OUT_hours wednesday	hours wednesday	OUT
+OUT_phone	phone	OUT
+IN_isoborneol	isoborneol	IN
+OUT_street address	street address	OUT
+OUT_address	address	OUT
+OUT_inspection date	inspection date	OUT
+OUT_location	location	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_city	city	OUT
+OUT_facility name	facility name	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_full address	full address	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_provider name	provider name	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider city	provider city	OUT
+OUT_provider state	provider state	OUT
+OUT_procedure type	procedure type	OUT
+OUT_access point type	access point type	OUT
+OUT_begin date	begin date	OUT
+OUT_community area name	community area name	OUT
+OUT_census tracts	census tracts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_wards	wards	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_zip code	zip code	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_central line days	central line days	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_community area number	community area number	OUT
+OUT_observed infections	observed infections	OUT
+OUT_measure id	measure id	OUT
+OUT_st	st	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_community area	community area	OUT
+IN_camphor	camphor	IN
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_county	county	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_sir icon	sir icon	OUT
+OUT_us states	us states	OUT
+OUT_counties	counties	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_unknown age	unknown age	OUT
+OUT_sir	sir	OUT
+OUT_louisiana	louisiana	OUT
+IN_camphene	camphene	IN
+OUT_vermont	vermont	OUT
+OUT_connecticut	connecticut	OUT
+OUT_new hampshire	new hampshire	OUT
+IN_borneol	borneol	IN
+IN_fenchone	fenchone	IN
+IN_l- fenchone	l- fenchone	IN
+OUT_fips	fips	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_long	long	OUT

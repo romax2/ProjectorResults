@@ -1,0 +1,202 @@
+stc_label	sentence	category
+43_hospital_value_based	hospital value based purchasing scores from medicare for utah hospitals	Table
+IN_hospital name	hospital name	IN
+OUT_number of clinics	number of clinics	OUT
+IN_location 1	location 1	IN
+IN_municipalities	municipalities	IN
+OUT_community area	community area	OUT
+IN_school districts	school districts	IN
+IN_zip codes	zip codes	IN
+IN_provider number	provider number	IN
+OUT_provider address	provider address	OUT
+OUT_community area number	community area number	OUT
+IN_counties	counties	IN
+OUT_latitude	latitude	OUT
+IN_zip code	zip code	IN
+IN_weighted efficiency domain score	weighted efficiency domain score	IN
+OUT_county	county	OUT
+OUT_community area name	community area name	OUT
+OUT_district of columbia	district of columbia	OUT
+IN_location	location	IN
+OUT_hospital	hospital	OUT
+OUT_access point type	access point type	OUT
+OUT_location name	location name	OUT
+IN_unweighted normalized efficiency domain score	unweighted normalized efficiency domain score	IN
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_maryland	maryland	OUT
+OUT_arizona	arizona	OUT
+OUT_georgia	georgia	OUT
+OUT_oregon	oregon	OUT
+OUT_tennessee	tennessee	OUT
+OUT_illinois	illinois	OUT
+IN_weighted clinical process of care domain score	weighted clinical process of care domain score	IN
+IN_unweighted normalized clinical process of care domain score	unweighted normalized clinical process of care domain score	IN
+OUT_fips	fips	OUT
+OUT_alabama	alabama	OUT
+OUT_bin	bin	OUT
+IN_weighted patient experience of care domain score	weighted patient experience of care domain score	IN
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+IN_weighted outcome domain score	weighted outcome domain score	IN
+OUT_primary site	primary site	OUT
+IN_unweighted normalized outcome domain score	unweighted normalized outcome domain score	IN
+OUT_area name	area name	OUT
+OUT_address	address	OUT
+IN_unweighted patient experience of care domain score	unweighted patient experience of care domain score	IN
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_measure description	measure description	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_number of all beds	number of all beds	OUT
+OUT_incident address street name	incident address street name	OUT
+IN_total performance score	total performance score	IN
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_percent 2004 lower ci	percent 2004 lower ci	OUT
+OUT_serial number	serial number	OUT
+OUT_percent 2003	percent 2003	OUT
+OUT_percent 2009	percent 2009	OUT
+OUT_births 2008	births 2008	OUT
+OUT_births 2006	births 2006	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_2005	2005	OUT
+OUT_2003	2003	OUT
+OUT_2001	2001	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_amount	amount	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_npi	npi	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2010	2010	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_per capita income	per capita income	OUT
+OUT_2014	2014	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_check in dat	check in dat	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_independent living	independent living	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_any current supply of surgical masks	any current supply of surgical masks	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_2016	2016	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_program identifier	program identifier	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_manner of death	manner of death	OUT
+OUT_sex	sex	OUT
+OUT_prevalence	prevalence	OUT
+OUT_demographic	demographic	OUT
+OUT_race	race	OUT
+OUT_gender	gender	OUT
+OUT_2018	2018	OUT
+OUT_age	age	OUT
+OUT_shelter	shelter	OUT
+OUT_veteran status	veteran status	OUT
+OUT_protocol	protocol	OUT
+OUT_age group	age group	OUT
+OUT_death year	death year	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_check out da	check out da	OUT
+OUT_minutes	minutes	OUT
+OUT_demographic type	demographic type	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_animal type	animal type	OUT
+OUT_activity date	activity date	OUT
+OUT_program year	program year	OUT
+OUT_fy month order	fy month order	OUT
+OUT_primary drug	primary drug	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_adm count	adm count	OUT
+OUT_services rendered	services rendered	OUT
+OUT_date opened	date opened	OUT
+OUT_language	language	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_category	category	OUT
+OUT_month	month	OUT
+OUT_pe desc	pe desc	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_frequency	frequency	OUT
+OUT_study phase	study phase	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_date time	date time	OUT
+OUT_week ending	week ending	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_office visit type	office visit type	OUT
+OUT_reporting period	reporting period	OUT
+OUT_small area code	small area code	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_description	description	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_month year	month year	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_warning	warning	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_town	town	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_completers - age	completers - age	OUT
+OUT_calls	calls	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_quarter	quarter	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_date	date	OUT
+IN_county name	county name	IN
+OUT_intake condition	intake condition	OUT
+OUT_pe	pe	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_total rate	total rate	OUT

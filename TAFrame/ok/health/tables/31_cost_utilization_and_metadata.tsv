@@ -1,0 +1,202 @@
+stc_label	sentence	category
+31_cost_utilization_and	cost utilization and quality data medicare counties in utah 2007	Table
+OUT_tennessee	tennessee	OUT
+IN_counties	counties	IN
+OUT_missouri	missouri	OUT
+IN_school districts	school districts	IN
+OUT_community area	community area	OUT
+IN_county	county	IN
+IN_municipalities	municipalities	IN
+IN_location 1	location 1	IN
+OUT_camphor	camphor	OUT
+OUT_latitude	latitude	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_community area name	community area name	OUT
+OUT_number of clinics	number of clinics	OUT
+IN_zip codes	zip codes	IN
+OUT_provider state	provider state	OUT
+OUT_provider zip code	provider zip code	OUT
+IN_percent male	percent male	IN
+OUT_zip code	zip code	OUT
+IN_percent female	percent female	IN
+OUT_provider city	provider city	OUT
+OUT_access point type	access point type	OUT
+OUT_provider name	provider name	OUT
+IN_percent hispanic	percent hispanic	IN
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_location name	location name	OUT
+OUT_longitude	longitude	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_bin	bin	OUT
+IN_average age	average age	IN
+OUT_processing date	processing date	OUT
+OUT_area name	area name	OUT
+OUT_site name	site name	OUT
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+OUT_phone number	phone number	OUT
+OUT_hours tuesday	hours tuesday	OUT
+OUT_hours thursday	hours thursday	OUT
+OUT_l- fenchone	l- fenchone	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+OUT_average age of death	average age of death	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_incident address	incident address	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_product indicator	product indicator	OUT
+OUT_recipient city	recipient city	OUT
+OUT_recipient country	recipient country	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician last name	physician last name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_recipient postal code	recipient postal code	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_percent 2006 upper ci	percent 2006 upper ci	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_births 2002	births 2002	OUT
+OUT_percent 2002 lower ci	percent 2002 lower ci	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_births 2003	births 2003	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_percent 2007	percent 2007	OUT
+OUT_percent 2008 upper ci	percent 2008 upper ci	OUT
+OUT_percent 2000	percent 2000	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_years averaged	years averaged	OUT
+OUT_25 to 29 years old	25 to 29 years old	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_birth rate	birth rate	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2001	2001	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_amount	amount	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_any current supply of gowns	any current supply of gowns	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_amount paid	amount paid	OUT
+OUT_2010	2010	OUT
+OUT_total denominator	total denominator	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2012	2012	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_per capita income	per capita income	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2015	2015	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_disease	disease	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_gender	gender	OUT
+OUT_age	age	OUT
+OUT_veteran status	veteran status	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_age group	age group	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_protocol	protocol	OUT
+OUT_carene	carene	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_minutes	minutes	OUT
+OUT_residential	residential	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_program year	program year	OUT
+OUT_sliding fee	sliding fee	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_group home	group home	OUT
+OUT_foster care	foster care	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_adm count	adm count	OUT
+OUT_found location	found location	OUT
+OUT_first name	first name	OUT
+OUT_services rendered	services rendered	OUT
+OUT_unknown	unknown	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_month	month	OUT
+OUT_number of employees	number of employees	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_week ending	week ending	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_quarter number	quarter number	OUT
+OUT_small area code	small area code	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_terms of interest	terms of interest	OUT
+OUT_state name	state name	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_number of programs	number of programs	OUT
+OUT_completers	completers	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_for more information	for more information	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_month year	month year	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_warning	warning	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_completers - age	completers - age	OUT
+OUT_last name	last name	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_town	town	OUT
+OUT_county fips code	county fips code	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_quarter	quarter	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_file date	file date	OUT
+OUT_intake condition	intake condition	OUT
+OUT_pos category	pos category	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_date	date	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_total rate	total rate	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

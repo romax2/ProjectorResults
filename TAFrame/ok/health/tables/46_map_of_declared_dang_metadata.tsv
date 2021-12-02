@@ -1,0 +1,202 @@
+stc_label	sentence	category
+46_map_of_declared_dang	map of declared dangerous dogs	Table
+OUT_longitude	longitude	OUT
+IN_location	location	IN
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_number of ventilators in facility	number of ventilators in facility	OUT
+IN_address	address	IN
+OUT_provider name	provider name	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_primary site	primary site	OUT
+OUT_bin	bin	OUT
+OUT_zip	zip	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_procedure type	procedure type	OUT
+OUT_hospital name	hospital name	OUT
+IN_zip codes	zip codes	IN
+OUT_community board	community board	OUT
+IN_zip code	zip code	IN
+OUT_benchmark icon	benchmark icon	OUT
+OUT_community area name	community area name	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_area name	area name	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_observed infections	observed infections	OUT
+OUT_catheter days	catheter days	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_location 1	location 1	OUT
+OUT_measure description	measure description	OUT
+OUT_county	county	OUT
+OUT_access type	access type	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_phone	phone	OUT
+OUT_community area	community area	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_website	website	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_washington	washington	OUT
+OUT_rhode island	rhode island	OUT
+OUT_colorado	colorado	OUT
+OUT_us states	us states	OUT
+OUT_new mexico	new mexico	OUT
+OUT_fips	fips	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+OUT_2011 deaths	2011 deaths	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_complaint number	complaint number	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_incident address	incident address	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_store type	store type	OUT
+OUT_fax	fax	OUT
+OUT_recipient city	recipient city	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_percent 2005 lower ci	percent 2005 lower ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_fertility rate 2001 upper ci	fertility rate 2001 upper ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_percent 2004 upper ci	percent 2004 upper ci	OUT
+OUT_fertility rate 2007	fertility rate 2007	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_percent 2009 upper ci	percent 2009 upper ci	OUT
+OUT_percent 1999 lower ci	percent 1999 lower ci	OUT
+OUT_percent 2002 upper ci	percent 2002 upper ci	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_payment type	payment type	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_2005	2005	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2003	2003	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_amount paid	amount paid	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2014	2014	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_gonorrhea in males	gonorrhea in males	OUT
+OUT_2015	2015	OUT
+OUT_check in dat	check in dat	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_lung cancer	lung cancer	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_demographics	demographics	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_demographic	demographic	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_prenatal care beginning in first trimester	prenatal care beginning in first trimester	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_deleted	deleted	OUT
+OUT_cedrol	cedrol	OUT
+OUT_shelter	shelter	OUT
+OUT_veteran status	veteran status	OUT
+OUT_minutes	minutes	OUT
+OUT_age group	age group	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_program year	program year	OUT
+OUT_fy month order	fy month order	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_primary drug	primary drug	OUT
+OUT_demographic type	demographic type	OUT
+OUT_paid per service	paid per service	OUT
+OUT_year	year	OUT
+OUT_title	title	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_services rendered	services rendered	OUT
+OUT_group home	group home	OUT
+OUT_date opened	date opened	OUT
+IN_description of dog	description of dog	IN
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_color	color	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_adm count	adm count	OUT
+IN_first name	first name	IN
+OUT_terpinolene	terpinolene	OUT
+OUT_language	language	OUT
+OUT_date closed	date closed	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_total critical	total critical	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_department name	department name	OUT
+OUT_org name	org name	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_office visit type	office visit type	OUT
+OUT_frequency	frequency	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_context of research	context of research	OUT
+OUT_recovered	recovered	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_county fips code	county fips code	OUT
+OUT_town	town	OUT
+OUT_end time period	end time period	OUT
+OUT_warning	warning	OUT
+IN_single member council districts	single member council districts	IN
+OUT_fiscal year end	fiscal year end	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_date	date	OUT
+OUT_calls	calls	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_pos category	pos category	OUT
+IN_last name	last name	IN
+OUT_total expenditure	total expenditure	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_county name	county name	OUT

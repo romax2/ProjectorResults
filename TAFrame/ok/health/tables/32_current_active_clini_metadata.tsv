@@ -1,0 +1,202 @@
+stc_label	sentence	category
+32_current_active_clini	current active clinical trials - roswell park cancer institute	Table
+OUT_license #	license #	OUT
+OUT_cost	cost	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_brief description	brief description	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_npi	npi	OUT
+OUT_program identifier	program identifier	OUT
+IN_protocol	protocol	IN
+OUT_practice city name	practice city name	OUT
+OUT_amount	amount	OUT
+IN_title	title	IN
+IN_date opened	date opened	IN
+OUT_plan selections	plan selections	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+IN_date closed	date closed	IN
+OUT_office visit type	office visit type	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_notes	notes	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_description	description	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_other insurances	other insurances	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_source	source	OUT
+OUT_drug type	drug type	OUT
+OUT_date	date	OUT
+OUT_payment type	payment type	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_file date	file date	OUT
+OUT_ages served	ages served	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_low cost	low cost	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+IN_principal investigator	principal investigator	IN
+OUT_last name	last name	OUT
+OUT_month year	month year	OUT
+OUT_rate	rate	OUT
+OUT_state name	state name	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_menthol	menthol	OUT
+OUT_week ending	week ending	OUT
+IN_study phase	study phase	IN
+OUT_agency	agency	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_date time	date time	OUT
+OUT_month	month	OUT
+OUT_unknown	unknown	OUT
+OUT_adm year	adm year	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_language	language	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_community registry	community registry	OUT
+OUT_color	color	OUT
+OUT_adm count	adm count	OUT
+OUT_fenchol	fenchol	OUT
+OUT_zone	zone	OUT
+OUT_animal type	animal type	OUT
+OUT_year	year	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_record type	record type	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_serial number	serial number	OUT
+OUT_age	age	OUT
+OUT_population	population	OUT
+OUT_gender	gender	OUT
+OUT_race	race	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_sex	sex	OUT
+OUT_demographics	demographics	OUT
+OUT_cancer	cancer	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_independent living	independent living	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_vendor	vendor	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2011 us	2011 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2008	2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2001	2001	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_2003	2003	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_teen birth rate	teen birth rate	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_fax #	fax #	OUT
+OUT_physician first name	physician first name	OUT
+OUT_recipient country	recipient country	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_years averaged	years averaged	OUT
+OUT_fax	fax	OUT
+OUT_fertility rate 2000	fertility rate 2000	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_percent 2009 upper ci	percent 2009 upper ci	OUT
+OUT_births 2004	births 2004	OUT
+OUT_fertility rate 2005	fertility rate 2005	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2004 lower ci	fertility rate 2004 lower ci	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_process description	process description	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_total performance score	total performance score	OUT
+OUT_state	state	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_parking	parking	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_address	address	OUT
+IN_primary site	primary site	IN
+OUT_phone	phone	OUT
+OUT_survey date	survey date	OUT
+OUT_inspection date	inspection date	OUT
+OUT_address 1	address 1	OUT
+OUT_unweighted normalized clinical process of care domain score	unweighted normalized clinical process of care domain score	OUT
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+OUT_weighted clinical process of care domain score	weighted clinical process of care domain score	OUT
+OUT_location name	location name	OUT
+OUT_city	city	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_location	location	OUT
+OUT_planning regions	planning regions	OUT
+OUT_town index	town index	OUT
+OUT_facility name	facility name	OUT
+OUT_facility id	facility id	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_bin	bin	OUT
+OUT_score	score	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_zip	zip	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider address	provider address	OUT
+OUT_zip code	zip code	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_community area name	community area name	OUT
+OUT_hospital name	hospital name	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_measure start date	measure start date	OUT
+OUT_st	st	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_catheter days	catheter days	OUT
+OUT_central line days	central line days	OUT
+OUT_community area number	community area number	OUT
+OUT_municipalities	municipalities	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_location 1	location 1	OUT
+OUT_community area	community area	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_sir icon	sir icon	OUT
+OUT_county	county	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_sir	sir	OUT
+OUT_counties	counties	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_percent male	percent male	OUT
+OUT_delaware	delaware	OUT
+OUT_louisiana	louisiana	OUT
+OUT_maryland	maryland	OUT
+OUT_minnesota	minnesota	OUT
+OUT_iowa	iowa	OUT
+OUT_nebraska	nebraska	OUT
+OUT_new mexico	new mexico	OUT
+OUT_maine	maine	OUT
+OUT_fips	fips	OUT
+OUT_2010 deaths	2010 deaths	OUT

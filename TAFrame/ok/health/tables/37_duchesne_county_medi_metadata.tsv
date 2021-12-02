@@ -1,0 +1,202 @@
+stc_label	sentence	category
+37_duchesne_county_medi	duchesne county medicare cost data 2007-2013	Table
+IN_2009 duchesne	2009 duchesne	IN
+IN_2008 duchesne	2008 duchesne	IN
+OUT_census tract	census tract	OUT
+OUT_2009	2009	OUT
+OUT_cases 2007	cases 2007	OUT
+IN_2007 duchesne	2007 duchesne	IN
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2002	2002	OUT
+OUT_2008	2008	OUT
+IN_2011 duchesne	2011 duchesne	IN
+IN_2010 duchesne	2010 duchesne	IN
+OUT_2003	2003	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+IN_2013 duchesne	2013 duchesne	IN
+OUT_cases 2009	cases 2009	OUT
+IN_2008 us	2008 us	IN
+OUT_2005	2005	OUT
+IN_2009 us	2009 us	IN
+IN_2007 us	2007 us	IN
+IN_2012 duchesne	2012 duchesne	IN
+IN_2010 us	2010 us	IN
+IN_2013 us	2013 us	IN
+IN_2012 us	2012 us	IN
+IN_2011 us	2011 us	IN
+OUT_a- cedrene	a- cedrene	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_disease	disease	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+IN_demographics	demographics	IN
+OUT_low birth weight	low birth weight	OUT
+OUT_sex	sex	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_demographic	demographic	OUT
+OUT_race	race	OUT
+OUT_years averaged	years averaged	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_age group	age group	OUT
+OUT_2017	2017	OUT
+OUT_year	year	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_residential	residential	OUT
+OUT_animal id	animal id	OUT
+OUT_group home	group home	OUT
+OUT_community registry	community registry	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_color	color	OUT
+OUT_births 2008	births 2008	OUT
+OUT_organization	organization	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_date time	date time	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_quarter number	quarter number	OUT
+OUT_number of employees	number of employees	OUT
+OUT_small area code	small area code	OUT
+OUT_state name	state name	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_fertility rate 2008 lower ci	fertility rate 2008 lower ci	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2005 lower ci	fertility rate 2005 lower ci	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_month year	month year	OUT
+OUT_end time period	end time period	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_first	first	OUT
+OUT_calls	calls	OUT
+OUT_county name	county name	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_network	network	OUT
+OUT_b- terpinene	b- terpinene	OUT
+OUT_employee category	employee category	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_confirmed	confirmed	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_dependency	dependency	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_file date	file date	OUT
+OUT_date	date	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_town	town	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_county fips code	county fips code	OUT
+OUT_program	program	OUT
+OUT_notes	notes	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_organization name	organization name	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_services rendered	services rendered	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_program year	program year	OUT
+OUT_minutes	minutes	OUT
+OUT_producer	producer	OUT
+OUT_dollar amount invested	dollar amount invested	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_referral type	referral type	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_expiration date	expiration date	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_amount	amount	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_active	active	OUT
+OUT_unit values	unit values	OUT
+OUT_payment type	payment type	OUT
+OUT_record type	record type	OUT
+OUT_vendor	vendor	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_recipient city	recipient city	OUT
+OUT_product indicator	product indicator	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_2013 deaths	2013 deaths	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_2010 population	2010 population	OUT
+OUT_percent male	percent male	OUT
+OUT_fips	fips	OUT
+OUT_iowa	iowa	OUT
+OUT_california	california	OUT
+OUT_georgia	georgia	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_oregon	oregon	OUT
+OUT_missouri	missouri	OUT
+OUT_florida	florida	OUT
+OUT_alaska	alaska	OUT
+OUT_unknown age	unknown age	OUT
+OUT_sir	sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_us states	us states	OUT
+OUT_province state	province state	OUT
+OUT_access type	access type	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_school districts	school districts	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_community area	community area	OUT
+OUT_st	st	OUT
+OUT_observed bsi	observed bsi	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_central line days	central line days	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_zip code	zip code	OUT
+OUT_latitude	latitude	OUT
+OUT_wards	wards	OUT
+OUT_location 2	location 2	OUT
+OUT_hospital name	hospital name	OUT
+OUT_score	score	OUT
+OUT_provider state	provider state	OUT
+OUT_zip codes	zip codes	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_hospital location	hospital location	OUT
+OUT_community areas	community areas	OUT
+OUT_town index	town index	OUT
+OUT_facility id	facility id	OUT
+OUT_area name	area name	OUT
+OUT_patient days	patient days	OUT
+OUT_facility name	facility name	OUT
+OUT_city	city	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_location	location	OUT
+OUT_overall rating	overall rating	OUT
+OUT_phone number	phone number	OUT
+OUT_location name	location name	OUT
+OUT_phone	phone	OUT
+OUT_address	address	OUT
+OUT_street address	street address	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_address 1	address 1	OUT
+OUT_provider business address	provider business address	OUT
+OUT_website	website	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+OUT_process description	process description	OUT
+OUT_complaint type 311	complaint type 311	OUT

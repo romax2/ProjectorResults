@@ -1,0 +1,202 @@
+stc_label	sentence	category
+14_admissions_to_dmhas_	admissions to dmhas addiction treatment by town, year, month, and primary drug	Table
+OUT_total plan selections	total plan selections	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_plan selections	plan selections	OUT
+OUT_org name	org name	OUT
+IN_fiscal year	fiscal year	IN
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_notes	notes	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_total entry	total entry	OUT
+OUT_county fips code	county fips code	OUT
+IN_fy month order	fy month order	IN
+OUT_drug type	drug type	OUT
+OUT_program year	program year	OUT
+IN_town	town	IN
+IN_primary drug	primary drug	IN
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_date	date	OUT
+OUT_source	source	OUT
+OUT_last	last	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_capacity under 3	capacity under 3	OUT
+OUT_protocol	protocol	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_ages served	ages served	OUT
+OUT_terpineol	terpineol	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_county name	county name	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+OUT_brief description	brief description	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_first	first	OUT
+OUT_end time period	end time period	OUT
+IN_month year	month year	IN
+OUT_number of programs	number of programs	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_state name	state name	OUT
+OUT_medicare	medicare	OUT
+OUT_rate	rate	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+IN_adm month	adm month	IN
+OUT_completers - gender	completers - gender	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_month	month	OUT
+IN_adm year	adm year	IN
+OUT_unknown	unknown	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_email	email	OUT
+OUT_first name	first name	OUT
+OUT_average call to door interval	average call to door interval	OUT
+IN_adm count	adm count	IN
+OUT_community registry	community registry	OUT
+OUT_submitted data	submitted data	OUT
+OUT_foster care	foster care	OUT
+OUT_condition	condition	OUT
+OUT_zone	zone	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_check out da	check out da	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_geraniol	geraniol	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_veteran status	veteran status	OUT
+OUT_npi	npi	OUT
+OUT_id	id	OUT
+OUT_population	population	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_demographic	demographic	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_sex	sex	OUT
+OUT_demographics	demographics	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_2015	2015	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2010	2010	OUT
+OUT_2008	2008	OUT
+OUT_2007	2007	OUT
+OUT_2009	2009	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_payment type	payment type	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_2002	2002	OUT
+OUT_2001	2001	OUT
+OUT_2003	2003	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_drug cost	drug cost	OUT
+OUT_years averaged	years averaged	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_vendor	vendor	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_legal operator	legal operator	OUT
+OUT_births 2008	births 2008	OUT
+OUT_percent 2000 upper ci	percent 2000 upper ci	OUT
+OUT_percent 1999 upper ci	percent 1999 upper ci	OUT
+OUT_percent 2003	percent 2003	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_fertility rate 2001 upper ci	fertility rate 2001 upper ci	OUT
+OUT_recipient postal code	recipient postal code	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_fax #	fax #	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_hours	hours	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_process description	process description	OUT
+OUT_incident address	incident address	OUT
+OUT_total performance score	total performance score	OUT
+OUT_state	state	OUT
+OUT_parking	parking	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_city 1	city 1	OUT
+OUT_80 to 84 years old	80 to 84 years old	OUT
+OUT_website	website	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_provider business address	provider business address	OUT
+OUT_overall rating	overall rating	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_street address	street address	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_site name	site name	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_planning regions	planning regions	OUT
+OUT_city	city	OUT
+OUT_location	location	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_facility name	facility name	OUT
+OUT_site address	site address	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_provider name	provider name	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_full address	full address	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_access point type	access point type	OUT
+OUT_zip codes	zip codes	OUT
+OUT_hospital location	hospital location	OUT
+OUT_procedure type	procedure type	OUT
+OUT_zip	zip	OUT
+OUT_zip code	zip code	OUT
+OUT_wards	wards	OUT
+OUT_hospital name	hospital name	OUT
+OUT_provider number	provider number	OUT
+OUT_measure id	measure id	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_central line days	central line days	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_municipalities	municipalities	OUT
+OUT_community area number	community area number	OUT
+OUT_location 1	location 1	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_observed infections	observed infections	OUT
+OUT_community area	community area	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_sir icon	sir icon	OUT
+OUT_county	county	OUT
+OUT_borough	borough	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties	counties	OUT
+OUT_sir	sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_new york	new york	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_utah	utah	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_borneol	borneol	OUT
+OUT_below poverty level	below poverty level	OUT
+OUT_connecticut	connecticut	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_kentucky	kentucky	OUT
+OUT_california	california	OUT
+OUT_new mexico	new mexico	OUT
+OUT_average age	average age	OUT
+OUT_2010 population	2010 population	OUT

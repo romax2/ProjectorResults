@@ -1,0 +1,202 @@
+stc_label	sentence	category
+35_dohmh_indoor_environ	dohmh indoor environmental complaints	Table
+OUT_beginning time period	beginning time period	OUT
+OUT_agency	agency	OUT
+OUT_frequency	frequency	OUT
+OUT_small area code	small area code	OUT
+OUT_intake type	intake type	OUT
+OUT_date time	date time	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_month	month	OUT
+OUT_rate	rate	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_found location	found location	OUT
+OUT_state name	state name	OUT
+OUT_unknown	unknown	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_community registry	community registry	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_warning	warning	OUT
+OUT_completers - age	completers - age	OUT
+OUT_agency id	agency id	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_county name	county name	OUT
+OUT_network	network	OUT
+OUT_name	name	OUT
+OUT_relative care	relative care	OUT
+OUT_eeo category	eeo category	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_year	year	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_carene	carene	OUT
+OUT_geraniol	geraniol	OUT
+OUT_file date	file date	OUT
+OUT_check out da	check out da	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_veteran status	veteran status	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_date	date	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_b- pinene	b- pinene	OUT
+OUT_gender	gender	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_date closed	date closed	OUT
+OUT_stroke	stroke	OUT
+OUT_office visit type	office visit type	OUT
+OUT_additional information	additional information	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_sex	sex	OUT
+OUT_total numerator	total numerator	OUT
+OUT_qm rating	qm rating	OUT
+OUT_demographics	demographics	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_plan selections	plan selections	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2014	2014	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_role description	role description	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_total entry	total entry	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_primary drug	primary drug	OUT
+OUT_2013 us	2013 us	OUT
+OUT_program year	program year	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_total capacity	total capacity	OUT
+OUT_2010 us	2010 us	OUT
+OUT_minutes	minutes	OUT
+OUT_producer	producer	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2011	2011	OUT
+IN_deleted	deleted	IN
+OUT_2010	2010	OUT
+OUT_protocol	protocol	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2008 carbon	2008 carbon	OUT
+IN_descriptor 1 311	descriptor 1 311	IN
+OUT_2007	2007	OUT
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_cost	cost	OUT
+IN_census tract	census tract	IN
+OUT_cases 2010	cases 2010	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_amount paid	amount paid	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+IN_date received	date received	IN
+OUT_outlier effective date	outlier effective date	OUT
+OUT_births 2007	births 2007	OUT
+OUT_percent 2006	percent 2006	OUT
+OUT_percent 1999 upper ci	percent 1999 upper ci	OUT
+OUT_payment type	payment type	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_vendor id	vendor id	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_fax #	fax #	OUT
+OUT_physician first name	physician first name	OUT
+OUT_fax	fax	OUT
+OUT_hours	hours	OUT
+IN_complaint type 311	complaint type 311	IN
+OUT_restaurant name	restaurant name	OUT
+IN_incident address	incident address	IN
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_average age of death	average age of death	OUT
+IN_complaint number	complaint number	IN
+OUT_l- fenchone	l- fenchone	OUT
+OUT_2015 deaths	2015 deaths	OUT
+IN_incident address street name	incident address street name	IN
+OUT_begin time	begin time	OUT
+OUT_tennessee	tennessee	OUT
+OUT_maine	maine	OUT
+OUT_new mexico	new mexico	OUT
+OUT_maryland	maryland	OUT
+OUT_vermont	vermont	OUT
+IN_bbl	bbl	IN
+OUT_access type	access type	OUT
+OUT_wyoming	wyoming	OUT
+OUT_utah	utah	OUT
+OUT_sir icon	sir icon	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_counties	counties	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_2016 sir	2016 sir	OUT
+IN_council district	council district	IN
+OUT_benchmark icon	benchmark icon	OUT
+OUT_predicted infections	predicted infections	OUT
+IN_complaint status	complaint status	IN
+OUT_us states	us states	OUT
+OUT_county	county	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_hospital	hospital	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_main phone	main phone	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_observed infections	observed infections	OUT
+OUT_provider id	provider id	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_school districts	school districts	OUT
+IN_incident address street number	incident address street number	IN
+IN_incident address borough	incident address borough	IN
+IN_bin	bin	IN
+OUT_provider city	provider city	OUT
+OUT_address	address	OUT
+IN_community board	community board	IN
+OUT_community area number	community area number	OUT
+OUT_zip code	zip code	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_phone	phone	OUT
+OUT_provider state	provider state	OUT
+OUT_municipalities	municipalities	OUT
+IN_latitude	latitude	IN
+OUT_location 1	location 1	OUT
+OUT_census tracts	census tracts	OUT
+OUT_access point type	access point type	OUT
+OUT_hospital name	hospital name	OUT
+OUT_measure end date	measure end date	OUT
+OUT_town index	town index	OUT
+OUT_zip codes	zip codes	OUT
+OUT_city	city	OUT
+OUT_location 2	location 2	OUT
+OUT_hours of operation	hours of operation	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_facility name	facility name	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_full address	full address	OUT
+OUT_street address	street address	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_process description	process description	OUT
+IN_incident address zip	incident address zip	IN
+OUT_location	location	OUT
+OUT_location name	location name	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_address 1	address 1	OUT
+IN_longitude	longitude	IN
+OUT_weighted patient experience of care domain score	weighted patient experience of care domain score	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_measure description	measure description	OUT
+OUT_state	state	OUT

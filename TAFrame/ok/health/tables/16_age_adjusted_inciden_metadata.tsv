@@ -1,0 +1,202 @@
+stc_label	sentence	category
+16_age_adjusted_inciden	age adjusted incidence rates of bladder cancer per 100,000 all states-test	Table
+IN_massachusetts	massachusetts	IN
+IN_delaware	delaware	IN
+IN_vermont	vermont	IN
+IN_rhode island	rhode island	IN
+IN_pennsylvania	pennsylvania	IN
+IN_nevada	nevada	IN
+IN_hawaii	hawaii	IN
+IN_oklahoma	oklahoma	IN
+IN_utah	utah	IN
+IN_mississippi	mississippi	IN
+IN_arizona	arizona	IN
+OUT_school districts	school districts	OUT
+IN_idaho	idaho	IN
+IN_maryland	maryland	IN
+IN_virginia	virginia	IN
+IN_missouri	missouri	IN
+IN_connecticut	connecticut	IN
+IN_new hampshire	new hampshire	IN
+OUT_counties	counties	OUT
+IN_wyoming	wyoming	IN
+IN_georgia	georgia	IN
+IN_south dakota	south dakota	IN
+IN_new york	new york	IN
+IN_washington	washington	IN
+IN_maine	maine	IN
+IN_west virginia	west virginia	IN
+IN_north dakota	north dakota	IN
+IN_arkansas	arkansas	IN
+IN_district of columbia	district of columbia	IN
+IN_tennessee	tennessee	IN
+IN_alaska	alaska	IN
+IN_wisconsin	wisconsin	IN
+IN_oregon	oregon	IN
+IN_ohio	ohio	IN
+IN_kentucky	kentucky	IN
+IN_nebraska	nebraska	IN
+IN_illinois	illinois	IN
+IN_montana	montana	IN
+IN_california	california	IN
+OUT_2016 sir	2016 sir	OUT
+IN_texas	texas	IN
+IN_iowa	iowa	IN
+IN_north carolina	north carolina	IN
+IN_new jersey	new jersey	IN
+IN_indiana	indiana	IN
+OUT_location 1	location 1	OUT
+IN_new mexico	new mexico	IN
+IN_colorado	colorado	IN
+OUT_sir	sir	OUT
+IN_alabama	alabama	IN
+OUT_municipalities	municipalities	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+IN_south carolina	south carolina	IN
+OUT_sir interpretation	sir interpretation	OUT
+OUT_county	county	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_sir icon	sir icon	OUT
+OUT_hospital location	hospital location	OUT
+OUT_central line days	central line days	OUT
+OUT_community area	community area	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_fips	fips	OUT
+OUT_hospital name	hospital name	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_latitude	latitude	OUT
+OUT_observed bsi	observed bsi	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_patient days	patient days	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_procedure type	procedure type	OUT
+OUT_zip codes	zip codes	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_zip code	zip code	OUT
+OUT_provider name	provider name	OUT
+OUT_percent male	percent male	OUT
+OUT_planning regions	planning regions	OUT
+OUT_facility name	facility name	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_location	location	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_city	city	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_correction date	correction date	OUT
+OUT_town index	town index	OUT
+OUT_hours of operation	hours of operation	OUT
+OUT_provider business address	provider business address	OUT
+OUT_processing date	processing date	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_health inspection rating	health inspection rating	OUT
+OUT_phone number	phone number	OUT
+OUT_area name	area name	OUT
+OUT_2014 deaths	2014 deaths	OUT
+OUT_survey date	survey date	OUT
+OUT_address	address	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_website	website	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_state	state	OUT
+OUT_total performance score	total performance score	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_store type	store type	OUT
+OUT_fax	fax	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_legal business name	legal business name	OUT
+OUT_fertility rate 2009 lower ci	fertility rate 2009 lower ci	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_record type	record type	OUT
+OUT_percent 1999 upper ci	percent 1999 upper ci	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_percent 2000 upper ci	percent 2000 upper ci	OUT
+OUT_births 2008	births 2008	OUT
+OUT_years averaged	years averaged	OUT
+OUT_25 to 29 years old	25 to 29 years old	OUT
+OUT_2000	2000	OUT
+OUT_teen birth rate	teen birth rate	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_2007	2007	OUT
+OUT_2008	2008	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2010	2010	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_condition	condition	OUT
+OUT_billing npi	billing npi	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_independent living	independent living	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_cancer	cancer	OUT
+OUT_demographics	demographics	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_last update	last update	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_race	race	OUT
+OUT_deaths	deaths	OUT
+OUT_veteran status	veteran status	OUT
+OUT_health care provider	health care provider	OUT
+OUT_death year	death year	OUT
+OUT_demographic type	demographic type	OUT
+IN_year	year	IN
+OUT_producer	producer	OUT
+OUT_animal id	animal id	OUT
+OUT_fy month order	fy month order	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_primary drug	primary drug	OUT
+OUT_total entry	total entry	OUT
+OUT_paid per service	paid per service	OUT
+OUT_role description	role description	OUT
+OUT_end time	end time	OUT
+OUT_description of dog	description of dog	OUT
+OUT_unknown	unknown	OUT
+OUT_plan selections	plan selections	OUT
+OUT_residents weekly all deaths	residents weekly all deaths	OUT
+OUT_pe desc	pe desc	OUT
+OUT_number of employees	number of employees	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_agency	agency	OUT
+OUT_assault	assault	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_rate	rate	OUT
+OUT_context of research	context of research	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_notes	notes	OUT
+OUT_recovered	recovered	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_last name	last name	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_county fips code	county fips code	OUT
+OUT_town	town	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_last	last	OUT
+OUT_county name	county name	OUT
+OUT_date	date	OUT
+OUT_pe	pe	OUT

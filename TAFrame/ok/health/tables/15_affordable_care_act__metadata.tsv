@@ -1,0 +1,202 @@
+stc_label	sentence	category
+15_affordable_care_act_	affordable care act enrollment by zip code utah dec 2014	Table
+IN_zip code	zip code	IN
+OUT_zip codes	zip codes	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_provider city	provider city	OUT
+OUT_provider address	provider address	OUT
+OUT_hospital name	hospital name	OUT
+OUT_location	location	OUT
+OUT_provider number	provider number	OUT
+OUT_community area name	community area name	OUT
+OUT_community area	community area	OUT
+OUT_census tracts	census tracts	OUT
+OUT_procedure type	procedure type	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_city	city	OUT
+OUT_street address	street address	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_central line days	central line days	OUT
+OUT_location 1	location 1	OUT
+OUT_hours of operation	hours of operation	OUT
+OUT_site address	site address	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_municipalities	municipalities	OUT
+OUT_wards	wards	OUT
+OUT_access point type	access point type	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_school districts	school districts	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_province state	province state	OUT
+OUT_county	county	OUT
+OUT_access type	access type	OUT
+OUT_counties	counties	OUT
+OUT_correction date	correction date	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_processing date	processing date	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_lat	lat	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_observed infections	observed infections	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_bbl	bbl	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_site name	site name	OUT
+OUT_new jersey	new jersey	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_vermont	vermont	OUT
+OUT_missouri	missouri	OUT
+OUT_maine	maine	OUT
+OUT_oregon	oregon	OUT
+OUT_area name	area name	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_percent male	percent male	OUT
+OUT_fips	fips	OUT
+OUT_phone	phone	OUT
+OUT_below poverty level	below poverty level	OUT
+OUT_website	website	OUT
+OUT_measure description	measure description	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_2010 population	2010 population	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_complaint status	complaint status	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_long	long	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_fax	fax	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_percent 2006 lower ci	percent 2006 lower ci	OUT
+OUT_births 1999	births 1999	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_percent 2002 lower ci	percent 2002 lower ci	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2002 upper ci	percent 2002 upper ci	OUT
+OUT_percent 2000 upper ci	percent 2000 upper ci	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_2001	2001	OUT
+OUT_2002	2002	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_2007	2007	OUT
+OUT_2008	2008	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_2013	2013	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_2007 us	2007 us	OUT
+OUT_billing npi	billing npi	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2013 us	2013 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2014	2014	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_gonorrhea in males	gonorrhea in males	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2012 carbon	2012 carbon	OUT
+OUT_independent living	independent living	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_any current supply of surgical masks	any current supply of surgical masks	OUT
+OUT_disease	disease	OUT
+OUT_program identifier	program identifier	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_last update	last update	OUT
+OUT_prevalence	prevalence	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_outlier	outlier	OUT
+OUT_gender	gender	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_shelter	shelter	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_minutes	minutes	OUT
+OUT_year	year	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_zone	zone	OUT
+OUT_relative care	relative care	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_pulegol	pulegol	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_group home	group home	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_adm count	adm count	OUT
+IN_plan selections	plan selections	IN
+OUT_language	language	OUT
+OUT_research information link	research information link	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_number of employees	number of employees	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_frequency	frequency	OUT
+OUT_date closed	date closed	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_organization name	organization name	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_office visit type	office visit type	OUT
+OUT_service desc	service desc	OUT
+OUT_quarter number	quarter number	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+IN_state name	state name	IN
+OUT_number of programs	number of programs	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_end time period	end time period	OUT
+OUT_month year	month year	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_warning	warning	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_calls	calls	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_b- terpinene	b- terpinene	OUT
+OUT_quarter	quarter	OUT
+OUT_file date	file date	OUT
+OUT_employee category	employee category	OUT
+OUT_date	date	OUT
+OUT_pos category	pos category	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_total rate	total rate	OUT

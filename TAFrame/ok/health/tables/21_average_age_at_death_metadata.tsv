@@ -1,0 +1,202 @@
+stc_label	sentence	category
+21_average_age_at_death	average age at death in travis county by zip code, 2011-2015	Table
+OUT_2010 deaths	2010 deaths	OUT
+OUT_percent male	percent male	OUT
+OUT_fips	fips	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_ohio	ohio	OUT
+OUT_minnesota	minnesota	OUT
+OUT_texas	texas	OUT
+OUT_maryland	maryland	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_missouri	missouri	OUT
+OUT_florida	florida	OUT
+OUT_new york	new york	OUT
+OUT_oregon	oregon	OUT
+OUT_counties	counties	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_county	county	OUT
+OUT_community area	community area	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_access type	access type	OUT
+IN_zip code	zip code	IN
+OUT_provider zip code	provider zip code	OUT
+OUT_province state	province state	OUT
+OUT_school districts	school districts	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_2016 deaths	2016 deaths	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_bbl	bbl	OUT
+OUT_zip	zip	OUT
+OUT_zip codes	zip codes	OUT
+OUT_observed infections	observed infections	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_sir icon	sir icon	OUT
+OUT_municipalities	municipalities	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_latitude	latitude	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_central line days	central line days	OUT
+OUT_hospital name	hospital name	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_st	st	OUT
+OUT_community areas	community areas	OUT
+OUT_location 1	location 1	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_area name	area name	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_provider name	provider name	OUT
+OUT_patient days	patient days	OUT
+OUT_city	city	OUT
+OUT_location	location	OUT
+OUT_bin	bin	OUT
+OUT_street address	street address	OUT
+OUT_phone number	phone number	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_primary site	primary site	OUT
+OUT_website	website	OUT
+IN_average age of death	average age of death	IN
+OUT_measure description	measure description	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_state	state	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_complaint number	complaint number	OUT
+OUT_rn staffing rating	rn staffing rating	OUT
+OUT_hours	hours	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_limonene	limonene	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_date of payment	date of payment	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_vendor	vendor	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 1999 upper ci	fertility rate 1999 upper ci	OUT
+OUT_fertility rate 2002 upper ci	fertility rate 2002 upper ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_births 2004	births 2004	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_percent 2002 upper ci	percent 2002 upper ci	OUT
+OUT_drug cost	drug cost	OUT
+OUT_percent 2009	percent 2009	OUT
+OUT_births 2008	births 2008	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_all ages	all ages	OUT
+OUT_payment type	payment type	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2003	2003	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_2010	2010	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_npi	npi	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_billing npi	billing npi	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_disease	disease	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_demographics	demographics	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_stroke	stroke	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_race	race	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_id	id	OUT
+OUT_age	age	OUT
+OUT_shelter	shelter	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_2017	2017	OUT
+OUT_check out da	check out da	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_relative care	relative care	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_pulegol	pulegol	OUT
+IN_community registry	community registry	IN
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_found location	found location	OUT
+OUT_first name	first name	OUT
+OUT_organization	organization	OUT
+OUT_language	language	OUT
+IN_neighborhood planning areas	neighborhood planning areas	IN
+OUT_producer	producer	OUT
+OUT_unknown	unknown	OUT
+OUT_adm year	adm year	OUT
+OUT_total critical	total critical	OUT
+OUT_month	month	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_date time	date time	OUT
+OUT_agency	agency	OUT
+OUT_total entry	total entry	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_reporting period	reporting period	OUT
+OUT_services rendered	services rendered	OUT
+OUT_date opened	date opened	OUT
+OUT_number of programs	number of programs	OUT
+OUT_month year	month year	OUT
+OUT_date closed	date closed	OUT
+OUT_context of research	context of research	OUT
+OUT_warning	warning	OUT
+OUT_completers - age	completers - age	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_department name	department name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_office visit type	office visit type	OUT
+OUT_qm rating	qm rating	OUT
+OUT_county name	county name	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+IN_boundaries single member districts	boundaries single member districts	IN
+OUT_name	name	OUT
+OUT_intake condition	intake condition	OUT
+IN_single member council districts	single member council districts	IN
+OUT_notes	notes	OUT
+OUT_employee category	employee category	OUT
+OUT_confirmed	confirmed	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_pos category	pos category	OUT
+OUT_total non critical	total non critical	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_county fips code	county fips code	OUT
+OUT_date	date	OUT
+OUT_drug type	drug type	OUT

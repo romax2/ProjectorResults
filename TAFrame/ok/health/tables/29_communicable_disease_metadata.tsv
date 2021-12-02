@@ -1,0 +1,202 @@
+stc_label	sentence	category
+29_communicable_disease	communicable disease clinic patient visits per month	Table
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_beginning time period	beginning time period	OUT
+IN_month	month	IN
+IN_std clinic patients	std clinic patients	IN
+OUT_terpinolene	terpinolene	OUT
+OUT_agency	agency	OUT
+OUT_number of fbi critical	number of fbi critical	OUT
+OUT_date time	date time	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_study phase	study phase	OUT
+OUT_group home	group home	OUT
+OUT_community registry	community registry	OUT
+OUT_pulegol	pulegol	OUT
+OUT_small area code	small area code	OUT
+OUT_rate	rate	OUT
+OUT_relative care	relative care	OUT
+OUT_animal type	animal type	OUT
+OUT_state name	state name	OUT
+IN_year	year	IN
+OUT_end date	end date	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_health care provider	health care provider	OUT
+OUT_description of dog	description of dog	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_county name	county name	OUT
+OUT_id	id	OUT
+OUT_deaths	deaths	OUT
+OUT_2018	2018	OUT
+OUT_network	network	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_name	name	OUT
+OUT_b- pinene	b- pinene	OUT
+OUT_region	region	OUT
+OUT_b- terpinene	b- terpinene	OUT
+OUT_outlier	outlier	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_dependency	dependency	OUT
+OUT_file date	file date	OUT
+OUT_stroke	stroke	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_sex	sex	OUT
+OUT_date	date	OUT
+OUT_last	last	OUT
+OUT_demographics	demographics	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_disease	disease	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_description	description	OUT
+IN_fiscal year	fiscal year	IN
+OUT_date closed	date closed	OUT
+OUT_2015	2015	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_organization name	organization name	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2006	2006	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2012	2012	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_2009 us	2009 us	OUT
+OUT_title	title	OUT
+OUT_2008 us	2008 us	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_producer	producer	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_2008	2008	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_referral type	referral type	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2002	2002	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_2003	2003	OUT
+OUT_dme	dme	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2005	2005	OUT
+OUT_email	email	OUT
+OUT_expiration date	expiration date	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_percent 2000	percent 2000	OUT
+OUT_date received	date received	OUT
+OUT_active	active	OUT
+OUT_births 2009	births 2009	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_percent 2007	percent 2007	OUT
+OUT_percent 2001 upper ci	percent 2001 upper ci	OUT
+OUT_percent 2003 upper ci	percent 2003 upper ci	OUT
+OUT_births 2002	births 2002	OUT
+OUT_percent 2005 upper ci	percent 2005 upper ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_fertility rate 2004 lower ci	fertility rate 2004 lower ci	OUT
+OUT_measure response	measure response	OUT
+OUT_legal operator	legal operator	OUT
+OUT_recipient province	recipient province	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_fax #	fax #	OUT
+OUT_recipient city	recipient city	OUT
+OUT_product indicator	product indicator	OUT
+OUT_fax	fax	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_incident address	incident address	OUT
+IN_refugee clinic patients	refugee clinic patients	IN
+OUT_2013 deaths	2013 deaths	OUT
+OUT_average age	average age	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_percent female	percent female	OUT
+OUT_fips	fips	OUT
+OUT_borneol	borneol	OUT
+OUT_iowa	iowa	OUT
+OUT_oregon	oregon	OUT
+OUT_vermont	vermont	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_missouri	missouri	OUT
+OUT_unknown age	unknown age	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_access type	access type	OUT
+OUT_louisiana	louisiana	OUT
+OUT_sir	sir	OUT
+OUT_new york	new york	OUT
+OUT_lat	lat	OUT
+OUT_sir icon	sir icon	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_county	county	OUT
+OUT_measure id	measure id	OUT
+OUT_school districts	school districts	OUT
+OUT_observed infections	observed infections	OUT
+OUT_st	st	OUT
+OUT_community area	community area	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_main phone	main phone	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_zip	zip	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_community area number	community area number	OUT
+OUT_zip code	zip code	OUT
+OUT_bin	bin	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_provider address	provider address	OUT
+OUT_provider city	provider city	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_municipalities	municipalities	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_latitude	latitude	OUT
+OUT_location 1	location 1	OUT
+OUT_overall rating	overall rating	OUT
+OUT_hospital name	hospital name	OUT
+OUT_address	address	OUT
+OUT_hours monday	hours monday	OUT
+OUT_town index	town index	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider name	provider name	OUT
+OUT_location 2	location 2	OUT
+OUT_phone	phone	OUT
+OUT_facility id	facility id	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_phone number	phone number	OUT
+OUT_city	city	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_website	website	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_processing date	processing date	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_street address	street address	OUT
+IN_tb clinic patients	tb clinic patients	IN
+OUT_location	location	OUT
+OUT_planning regions	planning regions	OUT
+OUT_address 1	address 1	OUT
+OUT_correction date	correction date	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_weighted clinical process of care domain score	weighted clinical process of care domain score	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_weighted outcome domain score	weighted outcome domain score	OUT
+OUT_measure description	measure description	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_process description	process description	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+20_austin_public_health	austin public health subset of city of austin demographics current representation by quarter	Table
+OUT_month	month	OUT
+OUT_date time	date time	OUT
+OUT_category	category	OUT
+OUT_first name	first name	OUT
+OUT_agency	agency	OUT
+OUT_assault	assault	OUT
+OUT_reporting period	reporting period	OUT
+IN_quarter number	quarter number	IN
+OUT_unknown	unknown	OUT
+OUT_community registry	community registry	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_state name	state name	OUT
+OUT_b- eudesmol	b- eudesmol	OUT
+IN_number of employees	number of employees	IN
+IN_eeo category	eeo category	IN
+OUT_2010 box elder	2010 box elder	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_special study	special study	OUT
+OUT_carene	carene	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+IN_eeo category description	eeo category description	IN
+OUT_completers - age	completers - age	OUT
+OUT_age group	age group	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_warning	warning	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county name	county name	OUT
+OUT_description of dog	description of dog	OUT
+OUT_intake condition	intake condition	OUT
+OUT_name	name	OUT
+OUT_2018	2018	OUT
+OUT_age upon intake	age upon intake	OUT
+IN_employee category	employee category	IN
+IN_gender	gender	IN
+OUT_name of study	name of study	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_dependency	dependency	OUT
+OUT_outlier	outlier	OUT
+OUT_file date	file date	OUT
+OUT_prevalence	prevalence	OUT
+OUT_pe	pe	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_medicaid	medicaid	OUT
+OUT_sex	sex	OUT
+OUT_date	date	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_demographics	demographics	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+IN_ethnicity	ethnicity	IN
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_recovered	recovered	OUT
+IN_fiscal year	fiscal year	IN
+OUT_building floor suite	building floor suite	OUT
+OUT_qm rating	qm rating	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_terms of interest	terms of interest	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_organization name	organization name	OUT
+IN_department name	department name	IN
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_2011 us	2011 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_plan selections	plan selections	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2011	2011	OUT
+OUT_title	title	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2013	2013	OUT
+OUT_program year	program year	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_deleted	deleted	OUT
+OUT_2008	2008	OUT
+OUT_2007	2007	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_cost	cost	OUT
+OUT_dme	dme	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_email	email	OUT
+OUT_2000	2000	OUT
+OUT_required documents	required documents	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_submitted data	submitted data	OUT
+OUT_condition	condition	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_years averaged	years averaged	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_amount	amount	OUT
+OUT_active	active	OUT
+OUT_births 2006	births 2006	OUT
+OUT_births 2007	births 2007	OUT
+OUT_unit values	unit values	OUT
+OUT_percent 2002 upper ci	percent 2002 upper ci	OUT
+OUT_percent 2001 lower ci	percent 2001 lower ci	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_fertility rate 2002	fertility rate 2002	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_fertility rate 2007 lower ci	fertility rate 2007 lower ci	OUT
+OUT_fertility rate 1999 lower ci	fertility rate 1999 lower ci	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_nerol	nerol	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_date of payment	date of payment	OUT
+OUT_recipient state	recipient state	OUT
+OUT_store type	store type	OUT
+OUT_hours	hours	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_incident address	incident address	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_average age	average age	OUT
+OUT_begin time	begin time	OUT
+OUT_incident address street name	incident address street name	OUT
+OUT_fenchone	fenchone	OUT
+OUT_alabama	alabama	OUT
+OUT_nebraska	nebraska	OUT
+OUT_new jersey	new jersey	OUT
+OUT_oregon	oregon	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_colorado	colorado	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_arkansas	arkansas	OUT
+OUT_unknown age	unknown age	OUT
+OUT_delaware	delaware	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_lat	lat	OUT
+OUT_sir	sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_sir icon	sir icon	OUT
+OUT_counties	counties	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_measure id	measure id	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_st	st	OUT
+OUT_observed bsi	observed bsi	OUT
+OUT_observed infections	observed infections	OUT
+OUT_provider number	provider number	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_central line days	central line days	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_zip code	zip code	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_wards	wards	OUT
+OUT_location 1	location 1	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_provider city	provider city	OUT
+OUT_access point type	access point type	OUT
+OUT_score	score	OUT
+OUT_provider address	provider address	OUT
+OUT_municipalities	municipalities	OUT
+OUT_community area name	community area name	OUT
+OUT_hospital name	hospital name	OUT
+OUT_zip codes	zip codes	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_town index	town index	OUT
+OUT_provider name	provider name	OUT
+OUT_facility id	facility id	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_inspection date	inspection date	OUT
+OUT_city	city	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_facility name	facility name	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_hours friday	hours friday	OUT
+OUT_location	location	OUT
+OUT_street address	street address	OUT
+OUT_location name	location name	OUT
+OUT_website	website	OUT
+OUT_planning regions	planning regions	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_total performance score	total performance score	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_measure description	measure description	OUT
+OUT_state	state	OUT
+OUT_process description	process description	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+6_2016_central_line-as	2016 central line-associated bloodstream infections (clabsi) table (original baseline)	Table
+IN_location 1	location 1	IN
+IN_hospital location	hospital location	IN
+OUT_counties	counties	OUT
+IN_central line days	central line days	IN
+OUT_municipalities	municipalities	OUT
+IN_sir interpretation	sir interpretation	IN
+IN_2016 sir	2016 sir	IN
+IN_county	county	IN
+OUT_community area	community area	OUT
+IN_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	IN
+IN_hospital name	hospital name	IN
+OUT_counties in utah	counties in utah	OUT
+OUT_number of clinics	number of clinics	OUT
+IN_sir icon	sir icon	IN
+IN_predicted infections	predicted infections	IN
+IN_observed infections	observed infections	IN
+OUT_provider state	provider state	OUT
+OUT_full address	full address	OUT
+OUT_provider address	provider address	OUT
+OUT_mississippi	mississippi	OUT
+OUT_planning regions	planning regions	OUT
+IN_benchmark icon	benchmark icon	IN
+OUT_zip codes	zip codes	OUT
+OUT_community area name	community area name	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_tennessee	tennessee	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_main phone	main phone	OUT
+OUT_facility name	facility name	OUT
+OUT_illinois	illinois	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_indiana	indiana	OUT
+OUT_new jersey	new jersey	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_zip code	zip code	OUT
+OUT_location	location	OUT
+OUT_score	score	OUT
+OUT_zip	zip	OUT
+OUT_facility id	facility id	OUT
+OUT_access point type	access point type	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_location name	location name	OUT
+OUT_city	city	OUT
+OUT_correction date	correction date	OUT
+OUT_provider business address	provider business address	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_town index	town index	OUT
+OUT_survey type	survey type	OUT
+OUT_street address	street address	OUT
+OUT_phone number	phone number	OUT
+OUT_inspection date	inspection date	OUT
+OUT_area name	area name	OUT
+OUT_address	address	OUT
+OUT_site languages	site languages	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_parking	parking	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_state	state	OUT
+OUT_shortage of clinical staff	shortage of clinical staff	OUT
+OUT_average age of death	average age of death	OUT
+OUT_process description	process description	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_incident address	incident address	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_fax	fax	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician last name	physician last name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_nerol	nerol	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_record type	record type	OUT
+OUT_percent 2003 upper ci	percent 2003 upper ci	OUT
+OUT_percent 2001 lower ci	percent 2001 lower ci	OUT
+OUT_percent 1999	percent 1999	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_date received	date received	OUT
+OUT_2005	2005	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2004	2004	OUT
+OUT_2001	2001	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_census tract	census tract	OUT
+OUT_amount	amount	OUT
+OUT_expiration date	expiration date	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_2008	2008	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_npi	npi	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_amount paid	amount paid	OUT
+OUT_2008 us	2008 us	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_2007 us	2007 us	OUT
+OUT_billing npi	billing npi	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2011 us	2011 us	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_check in dat	check in dat	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_disease	disease	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_race	race	OUT
+OUT_brief description	brief description	OUT
+OUT_age	age	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_veteran status	veteran status	OUT
+OUT_age group	age group	OUT
+OUT_geraniol	geraniol	OUT
+OUT_fenchol	fenchol	OUT
+OUT_check out da	check out da	OUT
+OUT_demographic type	demographic type	OUT
+OUT_carene	carene	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_animal type	animal type	OUT
+OUT_zone	zone	OUT
+OUT_relative care	relative care	OUT
+OUT_fy month order	fy month order	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_foster care	foster care	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_color	color	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_services rendered	services rendered	OUT
+OUT_first name	first name	OUT
+OUT_organization	organization	OUT
+OUT_date opened	date opened	OUT
+OUT_language	language	OUT
+OUT_plan selections	plan selections	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_data as of	data as of	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_month	month	OUT
+OUT_number of employees	number of employees	OUT
+OUT_study phase	study phase	OUT
+OUT_agency	agency	OUT
+OUT_date closed	date closed	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_week ending	week ending	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_state name	state name	OUT
+OUT_number of programs	number of programs	OUT
+OUT_for more information	for more information	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_month year	month year	OUT
+OUT_program	program	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_calls	calls	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_drug type	drug type	OUT
+OUT_quarter	quarter	OUT
+OUT_date	date	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_county name	county name	OUT
+OUT_name	name	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

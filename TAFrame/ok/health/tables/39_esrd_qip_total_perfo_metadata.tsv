@@ -1,0 +1,202 @@
+stc_label	sentence	category
+39_esrd_qip_total_perfo	esrd qip total performance scores dialysis facilities utah 2014	Table
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_hours of operation	hours of operation	OUT
+OUT_location	location	OUT
+OUT_longitude	longitude	OUT
+IN_facility name	facility name	IN
+OUT_location name	location name	OUT
+OUT_facility id	facility id	OUT
+OUT_provider name	provider name	OUT
+OUT_provider state	provider state	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_primary site	primary site	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_correction date	correction date	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip	zip	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_access point type	access point type	OUT
+IN_zip code	zip code	IN
+OUT_community area name	community area name	OUT
+IN_location 2	location 2	IN
+OUT_address	address	OUT
+OUT_hospital	hospital	OUT
+IN_location 1	location 1	IN
+OUT_census tracts	census tracts	OUT
+OUT_community area	community area	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_st	st	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_camphor	camphor	OUT
+OUT_survey date	survey date	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_county	county	OUT
+OUT_province state	province state	OUT
+OUT_counties	counties	OUT
+OUT_coordinates	coordinates	OUT
+OUT_area name	area name	OUT
+OUT_lat	lat	OUT
+IN_national avg total performance score	national avg total performance score	IN
+OUT_counties in utah	counties in utah	OUT
+OUT_nevada	nevada	OUT
+OUT_camphene	camphene	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_oklahoma	oklahoma	OUT
+OUT_arizona	arizona	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_missouri	missouri	OUT
+OUT_oregon	oregon	OUT
+OUT_borneol	borneol	OUT
+OUT_state	state	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_l- fenchone	l- fenchone	OUT
+OUT_number of all beds	number of all beds	OUT
+IN_total performance score	total performance score	IN
+OUT_incident address street name	incident address street name	OUT
+OUT_shape st le	shape st le	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+IN_cms certification number	cms certification number	IN
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician profile id	physician profile id	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 2005 lower ci	fertility rate 2005 lower ci	OUT
+OUT_fertility rate 2008 lower ci	fertility rate 2008 lower ci	OUT
+OUT_fertility rate 1999 lower ci	fertility rate 1999 lower ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2004 upper ci	fertility rate 2004 upper ci	OUT
+OUT_record id	record id	OUT
+OUT_any current supply of ventilator supplies	any current supply of ventilator supplies	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_percent 2005 upper ci	percent 2005 upper ci	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_percent 2002 lower ci	percent 2002 lower ci	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_births 2009	births 2009	OUT
+OUT_percent 1999	percent 1999	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_years averaged	years averaged	OUT
+OUT_25 to 29 years old	25 to 29 years old	OUT
+OUT_low birth weight	low birth weight	OUT
+OUT_unit values	unit values	OUT
+OUT_2005	2005	OUT
+OUT_teen birth rate	teen birth rate	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_amount	amount	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_any current supply of gowns	any current supply of gowns	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2007	2007	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2006	2006	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_2014	2014	OUT
+OUT_a- pinene	a- pinene	OUT
+IN_payment reduction percentage	payment reduction percentage	IN
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_program identifier	program identifier	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_lung cancer	lung cancer	OUT
+OUT_last update	last update	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_sex	sex	OUT
+OUT_prevalence	prevalence	OUT
+OUT_demographic	demographic	OUT
+OUT_race	race	OUT
+OUT_dollar amount invested	dollar amount invested	OUT
+OUT_2018	2018	OUT
+OUT_deaths	deaths	OUT
+OUT_age	age	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_program year	program year	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_check out da	check out da	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_demographic type	demographic type	OUT
+OUT_year	year	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_animal type	animal type	OUT
+OUT_zone	zone	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_residential	residential	OUT
+OUT_group home	group home	OUT
+OUT_date opened	date opened	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_adm count	adm count	OUT
+OUT_organization	organization	OUT
+OUT_data as of	data as of	OUT
+OUT_unknown	unknown	OUT
+OUT_date closed	date closed	OUT
+OUT_category	category	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_month	month	OUT
+OUT_the geom	the geom	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_number of employees	number of employees	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_number of fbi critical	number of fbi critical	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_office visit type	office visit type	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+OUT_week ending	week ending	OUT
+OUT_completers	completers	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_recovered	recovered	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_reporting period	reporting period	OUT
+OUT_small area code	small area code	OUT
+OUT_quarter number	quarter number	OUT
+OUT_rate	rate	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_intake type	intake type	OUT
+OUT_state name	state name	OUT
+OUT_county fips code	county fips code	OUT
+OUT_end time period	end time period	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_month year	month year	OUT
+OUT_warning	warning	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_total non critical	total non critical	OUT
+OUT_date	date	OUT
+OUT_file date	file date	OUT
+OUT_pos category	pos category	OUT
+OUT_last name	last name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_name of study	name of study	OUT
+OUT_confirmed	confirmed	OUT
+IN_network	network	IN
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_county name	county name	OUT

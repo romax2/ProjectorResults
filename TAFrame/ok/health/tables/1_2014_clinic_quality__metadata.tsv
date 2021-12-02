@@ -1,0 +1,202 @@
+stc_label	sentence	category
+1_2014_clinic_quality_	2014 clinic quality comparison for clinics with 5 or more physicians	Table
+OUT_hospital location	hospital location	OUT
+OUT_provider city	provider city	OUT
+IN_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	IN
+OUT_location	location	OUT
+IN_utah house districts	utah house districts	IN
+IN_total # of diabetes patients	total # of diabetes patients	IN
+IN_city	city	IN
+OUT_location 1	location 1	OUT
+IN_zip codes	zip codes	IN
+IN_municipalities	municipalities	IN
+OUT_provider state	provider state	OUT
+OUT_community area	community area	OUT
+OUT_community area number	community area number	OUT
+IN_zip code	zip code	IN
+OUT_central line days	central line days	OUT
+OUT_longitude	longitude	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_county	county	OUT
+IN_provider business address	provider business address	IN
+OUT_sir interpretation	sir interpretation	OUT
+IN_counties	counties	IN
+OUT_benchmark icon	benchmark icon	OUT
+IN_school districts	school districts	IN
+OUT_sir icon	sir icon	OUT
+OUT_correction date	correction date	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_measure id	measure id	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_district of columbia	district of columbia	OUT
+OUT_camphene	camphene	OUT
+OUT_maryland	maryland	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_maine	maine	OUT
+OUT_primary site	primary site	OUT
+OUT_fips	fips	OUT
+OUT_survey date	survey date	OUT
+OUT_incident address borough	incident address borough	OUT
+IN_provider first line business practice location address	provider first line business practice location address	IN
+IN_provider business practice location address state name	provider business practice location address state name	IN
+OUT_state	state	OUT
+OUT_incident address street name	incident address street name	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician last name	physician last name	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_recipient postal code	recipient postal code	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+IN_legal business name	legal business name	IN
+OUT_recipient province	recipient province	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_fertility rate 2003 lower ci	fertility rate 2003 lower ci	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2007 lower ci	fertility rate 2007 lower ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_births 2003	births 2003	OUT
+OUT_percent 2001 upper ci	percent 2001 upper ci	OUT
+OUT_percent 2009	percent 2009	OUT
+OUT_percent 1999	percent 1999	OUT
+OUT_years averaged	years averaged	OUT
+OUT_25 to 29 years old	25 to 29 years old	OUT
+OUT_payment type	payment type	OUT
+OUT_date received	date received	OUT
+OUT_2003	2003	OUT
+OUT_2001	2001	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_2009	2009	OUT
+OUT_2007	2007	OUT
+IN_npi	npi	IN
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_amount paid	amount paid	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_ventilator dependent unit	ventilator dependent unit	OUT
+OUT_2011	2011	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_dme	dme	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2015	2015	OUT
+OUT_check in dat	check in dat	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_total numerator	total numerator	OUT
+OUT_sex	sex	OUT
+IN_diabetes rate	diabetes rate	IN
+OUT_no high school diploma	no high school diploma	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_prevalence	prevalence	OUT
+OUT_outlier	outlier	OUT
+OUT_race	race	OUT
+OUT_2018	2018	OUT
+OUT_population	population	OUT
+OUT_age	age	OUT
+OUT_shelter	shelter	OUT
+OUT_age group	age group	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_minutes	minutes	OUT
+OUT_fenchol	fenchol	OUT
+OUT_special study	special study	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_program year	program year	OUT
+OUT_fy month order	fy month order	OUT
+OUT_zone	zone	OUT
+OUT_primary drug	primary drug	OUT
+OUT_b- eudesmol	b- eudesmol	OUT
+OUT_title	title	OUT
+OUT_residential	residential	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_group home	group home	OUT
+OUT_foster care	foster care	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_color	color	OUT
+OUT_adm count	adm count	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_found location	found location	OUT
+OUT_organization	organization	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_unknown	unknown	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_the geom	the geom	OUT
+OUT_number of employees	number of employees	OUT
+OUT_passed quality assurance check	passed quality assurance check	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_date closed	date closed	OUT
+OUT_frequency	frequency	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+IN_organization name	organization name	IN
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_rate	rate	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_source	source	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_month year	month year	OUT
+OUT_warning	warning	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_county fips code	county fips code	OUT
+OUT_town	town	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_drug type	drug type	OUT
+OUT_calls	calls	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_terpineol	terpineol	OUT
+OUT_date	date	OUT
+OUT_file date	file date	OUT
+OUT_dependency	dependency	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_intake condition	intake condition	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

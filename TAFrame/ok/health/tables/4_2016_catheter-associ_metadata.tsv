@@ -1,0 +1,202 @@
+stc_label	sentence	category
+4_2016_catheter-associ	2016 catheter-associated urinary tract infections (cauti) table (original baseline)	Table
+IN_location 1	location 1	IN
+OUT_utah house districts	utah house districts	OUT
+IN_hospital location	hospital location	IN
+OUT_counties	counties	OUT
+IN_hospital name	hospital name	IN
+OUT_municipalities	municipalities	OUT
+IN_sir interpretation	sir interpretation	IN
+IN_2016 sir	2016 sir	IN
+OUT_community area	community area	OUT
+IN_county	county	IN
+IN_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	IN
+IN_catheter days	catheter days	IN
+IN_sir icon	sir icon	IN
+IN_predicted infections	predicted infections	IN
+OUT_federal provider number	federal provider number	OUT
+OUT_full address	full address	OUT
+OUT_community area number	community area number	OUT
+IN_observed infections	observed infections	IN
+OUT_zip codes	zip codes	OUT
+OUT_provider city	provider city	OUT
+OUT_provider name	provider name	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_nebraska	nebraska	OUT
+IN_benchmark icon	benchmark icon	IN
+OUT_council district	council district	OUT
+OUT_north carolina	north carolina	OUT
+OUT_location	location	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_zip code	zip code	OUT
+OUT_camphene	camphene	OUT
+OUT_access point type	access point type	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_score	score	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_city	city	OUT
+OUT_location name	location name	OUT
+OUT_town index	town index	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_address 1	address 1	OUT
+OUT_processing date	processing date	OUT
+OUT_street address	street address	OUT
+OUT_unknown age	unknown age	OUT
+OUT_site name	site name	OUT
+OUT_site id	site id	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_coordinates	coordinates	OUT
+OUT_city 1	city 1	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_provider first line business practice location address	provider first line business practice location address	OUT
+OUT_state	state	OUT
+OUT_number of all beds	number of all beds	OUT
+OUT_average age of death	average age of death	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_80 to 84 years old	80 to 84 years old	OUT
+OUT_hours	hours	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician last name	physician last name	OUT
+OUT_date of payment	date of payment	OUT
+OUT_legal business name	legal business name	OUT
+OUT_recipient province	recipient province	OUT
+OUT_nerol	nerol	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_legal operator	legal operator	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_fertility rate 2002	fertility rate 2002	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_percent 2003	percent 2003	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_percent 2001 upper ci	percent 2001 upper ci	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_amount	amount	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2009 us	2009 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_ventilator dependent unit	ventilator dependent unit	OUT
+OUT_census tract population	census tract population	OUT
+OUT_billing npi	billing npi	OUT
+OUT_2010 us	2010 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2014	2014	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_demographics	demographics	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_referral type	referral type	OUT
+OUT_prevalence	prevalence	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_gender	gender	OUT
+OUT_age	age	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_protocol	protocol	OUT
+OUT_2017	2017	OUT
+OUT_check out da	check out da	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_producer	producer	OUT
+OUT_minutes	minutes	OUT
+OUT_special study	special study	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_total capacity	total capacity	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_animal type	animal type	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_zone	zone	OUT
+OUT_total entry	total entry	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_breed	breed	OUT
+OUT_group home	group home	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_description of dog	description of dog	OUT
+OUT_found location	found location	OUT
+OUT_first name	first name	OUT
+OUT_date opened	date opened	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_number of employees	number of employees	OUT
+OUT_study phase	study phase	OUT
+OUT_adm month	adm month	OUT
+OUT_date closed	date closed	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_week ending	week ending	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_genders served	genders served	OUT
+OUT_reporting period	reporting period	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_small area code	small area code	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_completers	completers	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_state name	state name	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_program	program	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_warning	warning	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_town	town	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_completers - age	completers - age	OUT
+OUT_last name	last name	OUT
+OUT_calls	calls	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_employee category	employee category	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_intake condition	intake condition	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_total rate	total rate	OUT

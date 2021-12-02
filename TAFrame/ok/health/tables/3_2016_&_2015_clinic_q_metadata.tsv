@@ -1,0 +1,202 @@
+stc_label	sentence	category
+3_2016_&_2015_clinic_q	2016 & 2015 clinic quality comparisons for clinics with five or more service providers	Table
+OUT_hospital location	hospital location	OUT
+IN_utah house districts	utah house districts	IN
+OUT_hospital name	hospital name	OUT
+OUT_location 2	location 2	OUT
+OUT_location 1	location 1	OUT
+OUT_federal provider number	federal provider number	OUT
+IN_zip codes	zip codes	IN
+IN_municipalities	municipalities	IN
+OUT_community area	community area	OUT
+OUT_community area number	community area number	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_provider name	provider name	OUT
+IN_school districts	school districts	IN
+OUT_zip code	zip code	OUT
+OUT_location	location	OUT
+OUT_latitude	latitude	OUT
+OUT_sir interpretation	sir interpretation	OUT
+IN_counties	counties	IN
+OUT_2016 sir	2016 sir	OUT
+OUT_zip	zip	OUT
+OUT_county	county	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_catheter days	catheter days	OUT
+OUT_city	city	OUT
+OUT_location name	location name	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_site address	site address	OUT
+OUT_hospital	hospital	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_longitude	longitude	OUT
+OUT_address 1	address 1	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_texas	texas	OUT
+OUT_processing date	processing date	OUT
+OUT_borneol	borneol	OUT
+OUT_hours saturday	hours saturday	OUT
+OUT_hours tuesday	hours tuesday	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_area name	area name	OUT
+IN_provider postal code	provider postal code	IN
+IN_# of patients who received appropriate treatment	# of patients who received appropriate treatment	IN
+IN_coordinates	coordinates	IN
+IN_measure description	measure description	IN
+OUT_website	website	OUT
+IN_total # of patients who were treated	total # of patients who were treated	IN
+OUT_incident address street number	incident address street number	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+OUT_incident address street name	incident address street name	OUT
+OUT_average age of death	average age of death	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician last name	physician last name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_nerol	nerol	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_fertility rate 2005	fertility rate 2005	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_percent 2009 upper ci	percent 2009 upper ci	OUT
+OUT_percent 2008 lower ci	percent 2008 lower ci	OUT
+OUT_percent 2000	percent 2000	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_all ages	all ages	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2001	2001	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_amount	amount	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2007	2007	OUT
+OUT_2008	2008	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2010	2010	OUT
+OUT_condition	condition	OUT
+IN_billing npi	billing npi	IN
+OUT_census tract population	census tract population	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2012	2012	OUT
+OUT_submitted data	submitted data	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2011 us	2011 us	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_dme	dme	OUT
+OUT_2015	2015	OUT
+OUT_check in dat	check in dat	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_food insecure population	food insecure population	OUT
+IN_provider organization name legal business name	provider organization name legal business name	IN
+OUT_count of suicides	count of suicides	OUT
+OUT_2016	2016	OUT
+OUT_demographics	demographics	OUT
+OUT_sex	sex	OUT
+OUT_a- phellandrene	a- phellandrene	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_outlier	outlier	OUT
+OUT_race	race	OUT
+OUT_gender	gender	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+IN_practice city name	practice city name	IN
+OUT_primary service to community	primary service to community	OUT
+OUT_protocol	protocol	OUT
+OUT_age group	age group	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_minutes	minutes	OUT
+OUT_check out da	check out da	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_animal type	animal type	OUT
+OUT_zone	zone	OUT
+IN_provider other organization name	provider other organization name	IN
+OUT_b- eudesmol	b- eudesmol	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_group home	group home	OUT
+OUT_foster care	foster care	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_first name	first name	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_organization	organization	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_unknown	unknown	OUT
+OUT_month	month	OUT
+OUT_the geom	the geom	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_date closed	date closed	OUT
+OUT_frequency	frequency	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_assault	assault	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_terms of interest	terms of interest	OUT
+IN_reporting period	reporting period	IN
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+IN_rate	rate	IN
+OUT_description	description	OUT
+OUT_intake type	intake type	OUT
+OUT_state name	state name	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_program	program	OUT
+OUT_end time period	end time period	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_month year	month year	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_county fips code	county fips code	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_calls	calls	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_drug type	drug type	OUT
+OUT_quarter	quarter	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total non critical	total non critical	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_date	date	OUT
+OUT_employee category	employee category	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_total rate	total rate	OUT

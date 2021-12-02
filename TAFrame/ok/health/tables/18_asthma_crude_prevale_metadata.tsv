@@ -1,0 +1,202 @@
+stc_label	sentence	category
+18_asthma_crude_prevale	asthma crude prevalence	Table
+OUT_diabetes rate	diabetes rate	OUT
+IN_prevalence	prevalence	IN
+IN_sex	sex	IN
+OUT_lung cancer	lung cancer	OUT
+OUT_cancer	cancer	OUT
+OUT_gender	gender	OUT
+IN_population	population	IN
+OUT_ethnicity	ethnicity	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_a- pinene	a- pinene	OUT
+IN_age group	age group	IN
+OUT_check in dat	check in dat	OUT
+OUT_2014	2014	OUT
+IN_crude prevalence rate	crude prevalence rate	IN
+IN_year	year	IN
+OUT_2012 box elder	2012 box elder	OUT
+OUT_2011 us	2011 us	OUT
+OUT_animal type	animal type	OUT
+OUT_carene	carene	OUT
+IN_zone	zone	IN
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_health care provider	health care provider	OUT
+OUT_animal id	animal id	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012	2012	OUT
+OUT_census tract population	census tract population	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_adm count	adm count	OUT
+OUT_community registry	community registry	OUT
+OUT_2011	2011	OUT
+OUT_color	color	OUT
+OUT_2008 us	2008 us	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_month	month	OUT
+OUT_unknown	unknown	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_study phase	study phase	OUT
+OUT_agency	agency	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_rate	rate	OUT
+OUT_state name	state name	OUT
+OUT_2007	2007	OUT
+OUT_2009	2009	OUT
+OUT_month year	month year	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_end time period	end time period	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_name	name	OUT
+OUT_network	network	OUT
+OUT_intake condition	intake condition	OUT
+OUT_employee category	employee category	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_confirmed	confirmed	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total rate	total rate	OUT
+OUT_date	date	OUT
+OUT_town	town	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_2005	2005	OUT
+OUT_birth rate	birth rate	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_notes	notes	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_date closed	date closed	OUT
+OUT_additional information	additional information	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_organization name	organization name	OUT
+OUT_date opened	date opened	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_free	free	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_total entry	total entry	OUT
+OUT_fy month order	fy month order	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_dme	dme	OUT
+OUT_births 2009	births 2009	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_births 1999	births 1999	OUT
+OUT_fertility rate 2001 upper ci	fertility rate 2001 upper ci	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_postal code	postal code	OUT
+OUT_amount paid	amount paid	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_record type	record type	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_recipient province	recipient province	OUT
+OUT_legal business name	legal business name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_recipient country	recipient country	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_hours	hours	OUT
+OUT_2013 deaths	2013 deaths	OUT
+OUT_rn staffing rating	rn staffing rating	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_2011 deaths	2011 deaths	OUT
+OUT_2010 population	2010 population	OUT
+OUT_fips	fips	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_fenchone	fenchone	OUT
+OUT_iowa	iowa	OUT
+OUT_minnesota	minnesota	OUT
+OUT_shape st le	shape st le	OUT
+OUT_colorado	colorado	OUT
+OUT_washington	washington	OUT
+OUT_new york	new york	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_sir	sir	OUT
+OUT_lat	lat	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties	counties	OUT
+OUT_sir icon	sir icon	OUT
+OUT_county	county	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_community area	community area	OUT
+OUT_measure id	measure id	OUT
+OUT_observed infections	observed infections	OUT
+OUT_hospital	hospital	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_community area number	community area number	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_central line days	central line days	OUT
+OUT_main phone	main phone	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_zip	zip	OUT
+OUT_zip code	zip code	OUT
+OUT_utah senate districts	utah senate districts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_census tracts	census tracts	OUT
+OUT_score	score	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_provider state	provider state	OUT
+OUT_procedure type	procedure type	OUT
+OUT_zip codes	zip codes	OUT
+OUT_hospital location	hospital location	OUT
+OUT_community areas	community areas	OUT
+OUT_town index	town index	OUT
+OUT_full address	full address	OUT
+OUT_patient days	patient days	OUT
+OUT_facility name	facility name	OUT
+OUT_city	city	OUT
+OUT_processing date	processing date	OUT
+OUT_address line 1	address line 1	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_footnote	footnote	OUT
+OUT_location	location	OUT
+OUT_phone number	phone number	OUT
+OUT_hours of operation	hours of operation	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_location name	location name	OUT
+OUT_measure name	measure name	OUT
+OUT_planning regions	planning regions	OUT
+OUT_hours wednesday	hours wednesday	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_unweighted normalized efficiency domain score	unweighted normalized efficiency domain score	OUT
+OUT_city 1	city 1	OUT
+OUT_weighted outcome domain score	weighted outcome domain score	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_parking	parking	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_total performance score	total performance score	OUT
+OUT_state	state	OUT
+OUT_provider first line business practice location address	provider first line business practice location address	OUT
+OUT_process description	process description	OUT

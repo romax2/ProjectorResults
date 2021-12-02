@@ -1,0 +1,202 @@
+stc_label	sentence	category
+38_ems_-_quarterly_clin	ems - quarterly clinical measures - stemi alert	Table
+IN_fiscal quarter start date	fiscal quarter start date	IN
+IN_fiscal quarter end date	fiscal quarter end date	IN
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_quarter	quarter	OUT
+OUT_date	date	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_qm rating	qm rating	OUT
+OUT_total non critical	total non critical	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_recovered	recovered	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+IN_fiscal quarter key	fiscal quarter key	IN
+OUT_date closed	date closed	OUT
+OUT_name	name	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+IN_fiscal quarter	fiscal quarter	IN
+OUT_percent of prescriptions	percent of prescriptions	OUT
+IN_call to door interval target	call to door interval target	IN
+OUT_plan selections	plan selections	OUT
+OUT_date opened	date opened	OUT
+OUT_county name	county name	OUT
+OUT_calls	calls	OUT
+OUT_for more information	for more information	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_services rendered	services rendered	OUT
+OUT_agency id	agency id	OUT
+OUT_last name	last name	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_title	title	OUT
+OUT_intake type	intake type	OUT
+OUT_state name	state name	OUT
+OUT_quarter number	quarter number	OUT
+OUT_menthol	menthol	OUT
+OUT_week ending	week ending	OUT
+OUT_number of employees	number of employees	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_protocol	protocol	OUT
+OUT_frequency	frequency	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_practice city name	practice city name	OUT
+OUT_month	month	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_adm year	adm year	OUT
+OUT_category	category	OUT
+OUT_unknown	unknown	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_contact	contact	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_first name	first name	OUT
+IN_average call to door interval	average call to door interval	IN
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_community registry	community registry	OUT
+OUT_program identifier	program identifier	OUT
+OUT_year	year	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_any current supply of surgical masks	any current supply of surgical masks	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_age group	age group	OUT
+OUT_health care provider	health care provider	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_shelter	shelter	OUT
+OUT_id	id	OUT
+OUT_dme	dme	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_gender	gender	OUT
+OUT_region	region	OUT
+OUT_outlier	outlier	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_submitted data	submitted data	OUT
+OUT_demographics	demographics	OUT
+OUT_disease	disease	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_independent living	independent living	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_amount paid	amount paid	OUT
+OUT_check in dat	check in dat	OUT
+OUT_npi	npi	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_amount	amount	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2007	2007	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_date received	date received	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2001	2001	OUT
+OUT_2004	2004	OUT
+OUT_payment type	payment type	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_vendor id	vendor id	OUT
+OUT_percent 2000 upper ci	percent 2000 upper ci	OUT
+OUT_percent 2006	percent 2006	OUT
+OUT_percent 2009 upper ci	percent 2009 upper ci	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_legal business name	legal business name	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_rn staffing rating	rn staffing rating	OUT
+OUT_incident address	incident address	OUT
+OUT_state	state	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_begin date	begin date	OUT
+OUT_primary site	primary site	OUT
+OUT_phone	phone	OUT
+OUT_address	address	OUT
+OUT_survey date	survey date	OUT
+OUT_phone number	phone number	OUT
+OUT_provider business address	provider business address	OUT
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+OUT_street address	street address	OUT
+OUT_area name	area name	OUT
+OUT_measure name	measure name	OUT
+OUT_site id	site id	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_city	city	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_footnote	footnote	OUT
+OUT_location	location	OUT
+OUT_facility name	facility name	OUT
+OUT_2013 deaths	2013 deaths	OUT
+OUT_score	score	OUT
+OUT_patient days	patient days	OUT
+OUT_access point type	access point type	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_provider address	provider address	OUT
+OUT_zip codes	zip codes	OUT
+OUT_measure start date	measure start date	OUT
+OUT_wards	wards	OUT
+OUT_zip code	zip code	OUT
+OUT_measure id	measure id	OUT
+OUT_community area name	community area name	OUT
+OUT_catheter days	catheter days	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_census tracts	census tracts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_provider id	provider id	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_st	st	OUT
+OUT_community area number	community area number	OUT
+OUT_municipalities	municipalities	OUT
+OUT_observed infections	observed infections	OUT
+OUT_location 1	location 1	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_sir icon	sir icon	OUT
+OUT_community area	community area	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_county	county	OUT
+OUT_fenchone	fenchone	OUT
+OUT_sir	sir	OUT
+OUT_counties	counties	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_district of columbia	district of columbia	OUT
+OUT_utah	utah	OUT
+OUT_percent male	percent male	OUT
+OUT_vermont	vermont	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_missouri	missouri	OUT
+OUT_percent female	percent female	OUT
+OUT_iowa	iowa	OUT
+OUT_new mexico	new mexico	OUT
+OUT_maine	maine	OUT
+OUT_kansas	kansas	OUT
+OUT_fips	fips	OUT
+OUT_average age	average age	OUT
+OUT_2011 deaths	2011 deaths	OUT

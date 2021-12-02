@@ -1,0 +1,202 @@
+stc_label	sentence	category
+8_2016_surgical_site_i	2016 surgical site infections (ssi) following pediatric laminectomy (lam) procedures map (updated baseline)	Table
+IN_location 1	location 1	IN
+IN_2010 senate districts	2010 senate districts	IN
+IN_2010 house districts	2010 house districts	IN
+IN_sir interpretation	sir interpretation	IN
+IN_counties	counties	IN
+OUT_number of clinics	number of clinics	OUT
+IN_2016 sir	2016 sir	IN
+IN_hospital name	hospital name	IN
+IN_county	county	IN
+IN_procedure type	procedure type	IN
+IN_observed infections	observed infections	IN
+IN_predicted infections	predicted infections	IN
+OUT_community area	community area	OUT
+IN_sir icon	sir icon	IN
+OUT_provider address	provider address	OUT
+OUT_provider state	provider state	OUT
+OUT_zip codes	zip codes	OUT
+OUT_delaware	delaware	OUT
+OUT_provider city	provider city	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_facility name	facility name	OUT
+OUT_scope severity code	scope severity code	OUT
+IN_benchmark icon	benchmark icon	IN
+OUT_community area name	community area name	OUT
+OUT_arkansas	arkansas	OUT
+OUT_rhode island	rhode island	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_zip code	zip code	OUT
+OUT_location	location	OUT
+OUT_score	score	OUT
+OUT_facility id	facility id	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_processing date	processing date	OUT
+IN_procedures performed	procedures performed	IN
+OUT_inspection date	inspection date	OUT
+OUT_area name	area name	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_website	website	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_l- fenchone	l- fenchone	OUT
+OUT_state	state	OUT
+OUT_average age of death	average age of death	OUT
+OUT_complaint number	complaint number	OUT
+OUT_80 to 84 years old	80 to 84 years old	OUT
+OUT_hours	hours	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician last name	physician last name	OUT
+OUT_form of payment or transfer of value	form of payment or transfer of value	OUT
+OUT_recipient state	recipient state	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_nerol	nerol	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_percent 2005	percent 2005	OUT
+OUT_fertility rate 2002 upper ci	fertility rate 2002 upper ci	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2007 upper ci	percent 2007 upper ci	OUT
+OUT_percent 2007	percent 2007	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_percent 2008 lower ci	percent 2008 lower ci	OUT
+OUT_percent 2000 lower ci	percent 2000 lower ci	OUT
+OUT_births 2007	births 2007	OUT
+OUT_fertility rate 2000	fertility rate 2000	OUT
+OUT_date received	date received	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2000	2000	OUT
+OUT_teen birth rate	teen birth rate	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2004	2004	OUT
+OUT_2001	2001	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_npi	npi	OUT
+OUT_breast cancer in females	breast cancer in females	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_condition	condition	OUT
+OUT_2007 us	2007 us	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2013 us	2013 us	OUT
+OUT_guaiol	guaiol	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_check in dat	check in dat	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_independent living	independent living	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_stroke	stroke	OUT
+OUT_prevalence	prevalence	OUT
+OUT_race	race	OUT
+OUT_prenatal care beginning in first trimester	prenatal care beginning in first trimester	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_2018	2018	OUT
+OUT_id	id	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_age group	age group	OUT
+OUT_death year	death year	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_demographic type	demographic type	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_zone	zone	OUT
+OUT_relative care	relative care	OUT
+OUT_sliding fee	sliding fee	OUT
+OUT_primary drug	primary drug	OUT
+OUT_residential	residential	OUT
+OUT_total entry	total entry	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_animal id	animal id	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_pulegol	pulegol	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_foster care	foster care	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_color	color	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_first name	first name	OUT
+OUT_plan selections	plan selections	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_unknown	unknown	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_month	month	OUT
+OUT_number of employees	number of employees	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_frequency	frequency	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_organization name	organization name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_low cost	low cost	OUT
+OUT_context of research	context of research	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_intake type	intake type	OUT
+OUT_state name	state name	OUT
+OUT_number of programs	number of programs	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_for more information	for more information	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_program	program	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_month year	month year	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county fips code	county fips code	OUT
+OUT_calls	calls	OUT
+OUT_last name	last name	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_employee category	employee category	OUT
+OUT_date	date	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_county name	county name	OUT
+OUT_name	name	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+28_colorado_telehealth_	colorado telehealth network - ctn 1 connection locations	Table
+OUT_state	state	OUT
+OUT_hours thursday	hours thursday	OUT
+OUT_process description	process description	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_address	address	OUT
+OUT_primary site	primary site	OUT
+OUT_phone	phone	OUT
+OUT_longitude	longitude	OUT
+OUT_location name	location name	OUT
+IN_location	location	IN
+OUT_city	city	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_facility name	facility name	OUT
+OUT_facility id	facility id	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_hours sunday	hours sunday	OUT
+OUT_bin	bin	OUT
+OUT_zip	zip	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code	zip code	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_community area name	community area name	OUT
+OUT_wards	wards	OUT
+OUT_access point type	access point type	OUT
+OUT_provider state	provider state	OUT
+OUT_hospital location	hospital location	OUT
+OUT_hospital name	hospital name	OUT
+OUT_community area number	community area number	OUT
+OUT_central line days	central line days	OUT
+OUT_measure id	measure id	OUT
+OUT_location 1	location 1	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_observed infections	observed infections	OUT
+OUT_county	county	OUT
+OUT_unknown age	unknown age	OUT
+OUT_sir icon	sir icon	OUT
+OUT_predicted infections	predicted infections	OUT
+IN_counties	counties	IN
+OUT_2016 sir	2016 sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_maryland	maryland	OUT
+OUT_connecticut	connecticut	OUT
+OUT_nebraska	nebraska	OUT
+OUT_illinois	illinois	OUT
+OUT_borneol	borneol	OUT
+OUT_fips	fips	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_average age of death	average age of death	OUT
+OUT_hours	hours	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician last name	physician last name	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_date of payment	date of payment	OUT
+OUT_nerol	nerol	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_fertility rate 2003 lower ci	fertility rate 2003 lower ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_births 1999	births 1999	OUT
+OUT_fertility rate 1999	fertility rate 1999	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2009	percent 2009	OUT
+OUT_payment type	payment type	OUT
+OUT_unit values	unit values	OUT
+OUT_years averaged	years averaged	OUT
+OUT_amount	amount	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_birth rate	birth rate	OUT
+OUT_2003	2003	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_2008 us	2008 us	OUT
+OUT_referral type	referral type	OUT
+OUT_2009 us	2009 us	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2012	2012	OUT
+OUT_2010 us	2010 us	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_2012 us	2012 us	OUT
+OUT_protocol	protocol	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_deleted	deleted	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_a- cedrene	a- cedrene	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_minutes	minutes	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_gonorrhea in males	gonorrhea in males	OUT
+OUT_fy month order	fy month order	OUT
+OUT_total entry	total entry	OUT
+OUT_title	title	OUT
+OUT_paid per service	paid per service	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_lung cancer	lung cancer	OUT
+OUT_services rendered	services rendered	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_plan selections	plan selections	OUT
+OUT_date opened	date opened	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_sex	sex	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_prevalence	prevalence	OUT
+OUT_unemployment	unemployment	OUT
+OUT_race	race	OUT
+OUT_date closed	date closed	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_department name	department name	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_gender	gender	OUT
+OUT_id	id	OUT
+IN_health care provider	health care provider	IN
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_age	age	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_age group	age group	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_check out da	check out da	OUT
+OUT_program	program	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_special study	special study	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_source	source	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_context of research	context of research	OUT
+OUT_relative care	relative care	OUT
+OUT_drug type	drug type	OUT
+OUT_quarter	quarter	OUT
+OUT_residential	residential	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_date	date	OUT
+OUT_group home	group home	OUT
+OUT_animal id	animal id	OUT
+OUT_for more information	for more information	OUT
+OUT_foster care	foster care	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_number of employees	number of employees	OUT
+OUT_file date	file date	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_community registry	community registry	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_pe	pe	OUT
+OUT_employee category	employee category	OUT
+OUT_network	network	OUT
+OUT_adm count	adm count	OUT
+OUT_total critical	total critical	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_language	language	OUT
+OUT_unknown	unknown	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_calls	calls	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_study phase	study phase	OUT
+OUT_month	month	OUT
+OUT_pe desc	pe desc	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_frequency	frequency	OUT
+OUT_number of programs	number of programs	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_end date	end date	OUT
+OUT_quarter number	quarter number	OUT
+OUT_state name	state name	OUT
