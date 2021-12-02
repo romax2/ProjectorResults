@@ -1,0 +1,202 @@
+stc_label	sentence	category
+62_premature_deaths_cou	premature deaths counties in utah 2010-2016	Table
+OUT_rhode island	rhode island	OUT
+OUT_vermont	vermont	OUT
+OUT_california	california	OUT
+OUT_idaho	idaho	OUT
+OUT_nevada	nevada	OUT
+OUT_camphene	camphene	OUT
+IN_counties	counties	IN
+IN_fips	fips	IN
+OUT_standard deficiency	standard deficiency	OUT
+IN_utah senate districts	utah senate districts	IN
+IN_municipalities	municipalities	IN
+IN_county	county	IN
+IN_location 1	location 1	IN
+OUT_community area	community area	OUT
+IN_utah house districts	utah house districts	IN
+IN_census tract boundaries	census tract boundaries	IN
+OUT_hospital name	hospital name	OUT
+OUT_community areas	community areas	OUT
+OUT_provider state	provider state	OUT
+OUT_community area name	community area name	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_wards	wards	OUT
+OUT_access point type	access point type	OUT
+OUT_zip code	zip code	OUT
+OUT_provider city	provider city	OUT
+OUT_score	score	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+IN_2014 deaths	2014 deaths	IN
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_location	location	OUT
+OUT_city	city	OUT
+IN_2010 population	2010 population	IN
+IN_2015 deaths	2015 deaths	IN
+IN_2011 deaths	2011 deaths	IN
+OUT_site name	site name	OUT
+OUT_primary site	primary site	OUT
+OUT_address	address	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+IN_2012 deaths	2012 deaths	IN
+IN_2010 deaths	2010 deaths	IN
+OUT_isoborneol	isoborneol	OUT
+IN_2016 deaths	2016 deaths	IN
+OUT_hours thursday	hours thursday	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_state	state	OUT
+IN_2013 deaths	2013 deaths	IN
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_process description	process description	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_hours	hours	OUT
+OUT_35 to 39 years old	35 to 39 years old	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_product indicator	product indicator	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2005 lower ci	fertility rate 2005 lower ci	OUT
+OUT_fertility rate 2003 upper ci	fertility rate 2003 upper ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 1999 upper ci	fertility rate 1999 upper ci	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_births 2005	births 2005	OUT
+OUT_percent 2006 upper ci	percent 2006 upper ci	OUT
+OUT_percent 2002 upper ci	percent 2002 upper ci	OUT
+OUT_births 2009	births 2009	OUT
+OUT_percent 1999	percent 1999	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_any current supply of eye protection	any current supply of eye protection	OUT
+OUT_years averaged	years averaged	OUT
+OUT_25 to 29 years old	25 to 29 years old	OUT
+OUT_payment type	payment type	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_2000	2000	OUT
+OUT_date received	date received	OUT
+OUT_teen birth rate	teen birth rate	OUT
+OUT_2003	2003	OUT
+OUT_2004	2004	OUT
+OUT_amount	amount	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_2013 us	2013 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_submitted data	submitted data	OUT
+OUT_a- cedrene	a- cedrene	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_dme	dme	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_total numerator	total numerator	OUT
+OUT_sex	sex	OUT
+OUT_no high school diploma	no high school diploma	OUT
+OUT_demographic	demographic	OUT
+OUT_outlier	outlier	OUT
+OUT_referral type	referral type	OUT
+OUT_gender	gender	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_cedrol	cedrol	OUT
+OUT_shelter	shelter	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_veteran status	veteran status	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_age group	age group	OUT
+OUT_death year	death year	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_fenchol	fenchol	OUT
+OUT_check out da	check out da	OUT
+OUT_protocol	protocol	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_eeo category	eeo category	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_relative care	relative care	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_sliding fee	sliding fee	OUT
+OUT_foster care	foster care	OUT
+OUT_fy month order	fy month order	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_adm count	adm count	OUT
+OUT_first name	first name	OUT
+OUT_organization	organization	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_services rendered	services rendered	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_adm month	adm month	OUT
+OUT_date time	date time	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_additional information	additional information	OUT
+OUT_context of research	context of research	OUT
+OUT_agency id	agency id	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_month year	month year	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_other insurances	other insurances	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_warning	warning	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_program	program	OUT
+OUT_last name	last name	OUT
+OUT_calls	calls	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_town	town	OUT
+OUT_terpineol	terpineol	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_quarter	quarter	OUT
+OUT_name of study	name of study	OUT
+OUT_pos category	pos category	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_total rate	total rate	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+83_utah_nursing_home_ow	utah nursing home ownership directory	Table
+OUT_health inspection rating	health inspection rating	OUT
+OUT_street address	street address	OUT
+OUT_location name	location name	OUT
+OUT_phone number	phone number	OUT
+OUT_address	address	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+IN_location	location	IN
+OUT_longitude	longitude	OUT
+OUT_parking	parking	OUT
+OUT_town index	town index	OUT
+OUT_city	city	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_facility name	facility name	OUT
+OUT_facility id	facility id	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_primary site	primary site	OUT
+OUT_coordinates	coordinates	OUT
+OUT_zip code	zip code	OUT
+OUT_website	website	OUT
+OUT_procedure type	procedure type	OUT
+OUT_zip codes	zip codes	OUT
+IN_provider city	provider city	IN
+OUT_number of clinics	number of clinics	OUT
+IN_provider address	provider address	IN
+OUT_community area name	community area name	OUT
+IN_provider zip code	provider zip code	IN
+IN_provider name	provider name	IN
+IN_federal provider number	federal provider number	IN
+IN_provider state	provider state	IN
+IN_processing date	processing date	IN
+OUT_hospital name	hospital name	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_community area	community area	OUT
+OUT_location 2	location 2	OUT
+OUT_city 1	city 1	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_borough	borough	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_catheter days	catheter days	OUT
+OUT_county	county	OUT
+OUT_main phone	main phone	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_school districts	school districts	OUT
+OUT_counties	counties	OUT
+OUT_sir icon	sir icon	OUT
+OUT_observed infections	observed infections	OUT
+OUT_hours thursday	hours thursday	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_country region	country region	OUT
+OUT_new york	new york	OUT
+OUT_state	state	OUT
+OUT_bbl	bbl	OUT
+OUT_montana	montana	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_connecticut	connecticut	OUT
+OUT_fips	fips	OUT
+OUT_average age	average age	OUT
+OUT_l- fenchone	l- fenchone	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_2011 deaths	2011 deaths	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_average age of death	average age of death	OUT
+OUT_2013 deaths	2013 deaths	OUT
+OUT_process description	process description	OUT
+OUT_long	long	OUT
+OUT_hours	hours	OUT
+OUT_store type	store type	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_form of payment or transfer of value	form of payment or transfer of value	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_vendor	vendor	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_drug cost	drug cost	OUT
+OUT_vendor id	vendor id	OUT
+OUT_serial number	serial number	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 1999 upper ci	fertility rate 1999 upper ci	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_payment type	payment type	OUT
+OUT_all ages	all ages	OUT
+OUT_unit values	unit values	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_amount	amount	OUT
+OUT_2002	2002	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_census tract	census tract	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_billing npi	billing npi	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_dme	dme	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_per capita income	per capita income	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_referral type	referral type	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_brief description	brief description	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_sex	sex	OUT
+OUT_no high school diploma	no high school diploma	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_practice city name	practice city name	OUT
+OUT_protocol	protocol	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_population	population	OUT
+OUT_age	age	OUT
+OUT_minutes	minutes	OUT
+OUT_shelter	shelter	OUT
+OUT_age group	age group	OUT
+OUT_fy month order	fy month order	OUT
+OUT_death year	death year	OUT
+OUT_title	title	OUT
+IN_role description	role description	IN
+OUT_carene	carene	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_animal type	animal type	OUT
+OUT_b- eudesmol	b- eudesmol	OUT
+OUT_residential	residential	OUT
+OUT_animal id	animal id	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_plan selections	plan selections	OUT
+OUT_foster care	foster care	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_community registry	community registry	OUT
+OUT_crowded housing	crowded housing	OUT
+OUT_adm count	adm count	OUT
+OUT_found location	found location	OUT
+IN_first name	first name	IN
+OUT_organization	organization	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_language	language	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_data as of	data as of	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_department name	department name	OUT
+OUT_category	category	OUT
+IN_organization name	organization name	IN
+OUT_adm year	adm year	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_office visit type	office visit type	OUT
+OUT_study phase	study phase	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_notes	notes	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_small area code	small area code	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_rate	rate	OUT
+OUT_medicare	medicare	OUT
+OUT_county fips code	county fips code	OUT
+OUT_number of programs	number of programs	OUT
+OUT_state name	state name	OUT
+OUT_end time period	end time period	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_month year	month year	OUT
+OUT_last	last	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_date	date	OUT
+OUT_terpineol	terpineol	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_calls	calls	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_pos category	pos category	OUT
+OUT_name of study	name of study	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+IN_last name	last name	IN
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_intake condition	intake condition	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT

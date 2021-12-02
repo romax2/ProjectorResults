@@ -1,0 +1,202 @@
+stc_label	sentence	category
+78_structural_measures_	structural measures hospitals in utah	Table
+IN_hospital name	hospital name	IN
+IN_school districts	school districts	IN
+IN_municipalities	municipalities	IN
+OUT_provider state	provider state	OUT
+IN_location 1	location 1	IN
+OUT_number of clinics	number of clinics	OUT
+IN_counties	counties	IN
+OUT_provider city	provider city	OUT
+OUT_community area	community area	OUT
+IN_zip codes	zip codes	IN
+IN_footnote	footnote	IN
+IN_provider id	provider id	IN
+OUT_community area number	community area number	OUT
+OUT_district of columbia	district of columbia	OUT
+IN_measure start date	measure start date	IN
+OUT_massachusetts	massachusetts	OUT
+OUT_delaware	delaware	OUT
+OUT_nevada	nevada	OUT
+IN_zip code	zip code	IN
+IN_measure end date	measure end date	IN
+OUT_latitude	latitude	OUT
+OUT_community area name	community area name	OUT
+OUT_south dakota	south dakota	OUT
+OUT_st	st	OUT
+OUT_maine	maine	OUT
+OUT_access point type	access point type	OUT
+IN_measure id	measure id	IN
+IN_location	location	IN
+OUT_city	city	OUT
+IN_measure name	measure name	IN
+OUT_location name	location name	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_bin	bin	OUT
+OUT_community board	community board	OUT
+OUT_address	address	OUT
+OUT_area name	area name	OUT
+OUT_state	state	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_complaint number	complaint number	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_limonene	limonene	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_fertility rate 2005 lower ci	fertility rate 2005 lower ci	OUT
+OUT_fertility rate 1999 lower ci	fertility rate 1999 lower ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_fertility rate 2002 upper ci	fertility rate 2002 upper ci	OUT
+OUT_percent 2005 lower ci	percent 2005 lower ci	OUT
+OUT_percent 2004 lower ci	percent 2004 lower ci	OUT
+OUT_percent 2004	percent 2004	OUT
+OUT_percent 2004 upper ci	percent 2004 upper ci	OUT
+OUT_percent 2006 upper ci	percent 2006 upper ci	OUT
+OUT_any current supply of ventilator supplies	any current supply of ventilator supplies	OUT
+OUT_births 2002	births 2002	OUT
+OUT_percent 2003 upper ci	percent 2003 upper ci	OUT
+OUT_percent 1999 upper ci	percent 1999 upper ci	OUT
+OUT_any current supply of eye protection	any current supply of eye protection	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_years averaged	years averaged	OUT
+IN_measure response	measure response	IN
+OUT_payment type	payment type	OUT
+OUT_all ages	all ages	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2005	2005	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_2004	2004	OUT
+OUT_2002	2002	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_amount	amount	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2008	2008	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_npi	npi	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_amount paid	amount paid	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2011	2011	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_2013 us	2013 us	OUT
+OUT_guaiol	guaiol	OUT
+OUT_2011 us	2011 us	OUT
+OUT_a- cedrene	a- cedrene	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2012 carbon	2012 carbon	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_program identifier	program identifier	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_unemployment	unemployment	OUT
+OUT_race	race	OUT
+OUT_gender	gender	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_age	age	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_age group	age group	OUT
+OUT_protocol	protocol	OUT
+OUT_check out da	check out da	OUT
+OUT_demographic type	demographic type	OUT
+OUT_minutes	minutes	OUT
+OUT_carene	carene	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_animal type	animal type	OUT
+OUT_zone	zone	OUT
+OUT_relative care	relative care	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_fy month order	fy month order	OUT
+OUT_residential	residential	OUT
+OUT_total entry	total entry	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_group home	group home	OUT
+OUT_foster care	foster care	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_color	color	OUT
+OUT_crowded housing	crowded housing	OUT
+OUT_adm count	adm count	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_services rendered	services rendered	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_date opened	date opened	OUT
+OUT_language	language	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_adm year	adm year	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_month	month	OUT
+OUT_pe desc	pe desc	OUT
+OUT_number of employees	number of employees	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_study phase	study phase	OUT
+OUT_agency	agency	OUT
+OUT_assault	assault	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_department name	department name	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_office visit type	office visit type	OUT
+OUT_quarter number	quarter number	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_description	description	OUT
+OUT_number of programs	number of programs	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_end time period	end time period	OUT
+OUT_month year	month year	OUT
+OUT_program	program	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_town	town	OUT
+OUT_calls	calls	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_drug type	drug type	OUT
+OUT_quarter	quarter	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_employee category	employee category	OUT
+OUT_pos category	pos category	OUT
+OUT_date	date	OUT
+IN_county name	county name	IN
+OUT_intake condition	intake condition	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT

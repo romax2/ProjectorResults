@@ -1,0 +1,202 @@
+stc_label	sentence	category
+51_municipal_agents_for	municipal agents for the elderly listing	Table
+OUT_shortage of clinical staff	shortage of clinical staff	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_website	website	OUT
+OUT_measure description	measure description	OUT
+OUT_incident address street name	incident address street name	OUT
+IN_address	address	IN
+OUT_primary site	primary site	OUT
+IN_phone	phone	IN
+OUT_community board	community board	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_longitude	longitude	OUT
+IN_town index	town index	IN
+OUT_area name	area name	OUT
+OUT_location	location	OUT
+OUT_processing date	processing date	OUT
+IN_planning regions	planning regions	IN
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_survey type	survey type	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_facility name	facility name	OUT
+OUT_bin	bin	OUT
+IN_zip code	zip code	IN
+IN_zip code 2	zip code 2	IN
+OUT_zip codes	zip codes	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_community area name	community area name	OUT
+OUT_community area number	community area number	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_measure id	measure id	OUT
+IN_st	st	IN
+OUT_deficiency prefix	deficiency prefix	OUT
+IN_location 1	location 1	IN
+OUT_community area	community area	OUT
+OUT_county	county	OUT
+OUT_unknown age	unknown age	OUT
+IN_counties	counties	IN
+OUT_delaware	delaware	OUT
+OUT_indiana	indiana	OUT
+OUT_connecticut	connecticut	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_georgia	georgia	OUT
+OUT_south dakota	south dakota	OUT
+OUT_texas	texas	OUT
+OUT_fips	fips	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_hours	hours	OUT
+IN_fax	fax	IN
+OUT_physician middle name	physician middle name	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_recipient postal code	recipient postal code	OUT
+OUT_physician profile id	physician profile id	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 2007 lower ci	fertility rate 2007 lower ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_percent 2005 lower ci	percent 2005 lower ci	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_fertility rate 2007	fertility rate 2007	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_percent 2003 upper ci	percent 2003 upper ci	OUT
+OUT_percent 2001 lower ci	percent 2001 lower ci	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_payment type	payment type	OUT
+OUT_years averaged	years averaged	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2000	2000	OUT
+OUT_2005	2005	OUT
+OUT_birth rate	birth rate	OUT
+OUT_2003	2003	OUT
+OUT_npi	npi	OUT
+OUT_2002	2002	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_amount paid	amount paid	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_census tract	census tract	OUT
+OUT_condition	condition	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_2008	2008	OUT
+OUT_dme	dme	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2013	2013	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_2010	2010	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_2011	2011	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_census tract population	census tract population	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2011 us	2011 us	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_check in dat	check in dat	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_protocol	protocol	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_minutes	minutes	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_cancer	cancer	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_title	title	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_sex	sex	OUT
+OUT_total numerator	total numerator	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_outlier	outlier	OUT
+OUT_prevalence	prevalence	OUT
+OUT_unemployment	unemployment	OUT
+OUT_services rendered	services rendered	OUT
+OUT_race	race	OUT
+IN_region	region	IN
+OUT_date opened	date opened	OUT
+OUT_gender	gender	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_age group	age group	OUT
+OUT_2017	2017	OUT
+OUT_fenchol	fenchol	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_check out da	check out da	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_office visit type	office visit type	OUT
+OUT_special study	special study	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_zone	zone	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_program	program	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_community registry	community registry	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_found location	found location	OUT
+OUT_organization	organization	OUT
+IN_first name	first name	IN
+OUT_date	date	OUT
+OUT_unknown	unknown	OUT
+OUT_data as of	data as of	OUT
+OUT_research information link	research information link	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_month	month	OUT
+OUT_adm year	adm year	OUT
+OUT_file date	file date	OUT
+OUT_pos category	pos category	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_total expenditure	total expenditure	OUT
+IN_agency	agency	IN
+OUT_date time	date time	OUT
+OUT_employee category	employee category	OUT
+OUT_adm month	adm month	OUT
+OUT_intake condition	intake condition	OUT
+OUT_calls	calls	OUT
+OUT_name	name	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_completers - age	completers - age	OUT
+OUT_month year	month year	OUT
+OUT_county name	county name	OUT
+OUT_state name	state name	OUT
+IN_last name	last name	IN

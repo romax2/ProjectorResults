@@ -1,0 +1,202 @@
+stc_label	sentence	category
+77_strategic_measure_ye	strategic measure_years of potential life lost before age 75 per 100,000 population	Table
+OUT_census tract population	census tract population	OUT
+OUT_2013 us	2013 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_2006	2006	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2014	2014	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_independent living	independent living	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_disease	disease	OUT
+OUT_2008	2008	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_demographics	demographics	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+IN_years of potential life lost rate for total population	years of potential life lost rate for total population	IN
+OUT_diabetes rate	diabetes rate	OUT
+OUT_no high school diploma	no high school diploma	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_prevalence	prevalence	OUT
+OUT_outlier	outlier	OUT
+IN_# deaths for total population	# deaths for total population	IN
+OUT_age upon intake	age upon intake	OUT
+OUT_2018	2018	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_shelter	shelter	OUT
+OUT_age group	age group	OUT
+OUT_check out da	check out da	OUT
+OUT_year	year	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_eeo category	eeo category	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_animal type	animal type	OUT
+OUT_relative care	relative care	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_group home	group home	OUT
+OUT_community registry	community registry	OUT
+OUT_adm count	adm count	OUT
+OUT_first name	first name	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_residents weekly all deaths	residents weekly all deaths	OUT
+OUT_unknown	unknown	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_month	month	OUT
+IN_beginning time period	beginning time period	IN
+OUT_date time	date time	OUT
+OUT_study phase	study phase	OUT
+OUT_description of dog	description of dog	OUT
+OUT_state name	state name	OUT
+OUT_number of programs	number of programs	OUT
+OUT_value of interest	value of interest	OUT
+OUT_all ages	all ages	OUT
+IN_end time period	end time period	IN
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_last name	last name	OUT
+OUT_first	first	OUT
+OUT_calls	calls	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_name	name	OUT
+OUT_network	network	OUT
+OUT_b- terpinene	b- terpinene	OUT
+OUT_years averaged	years averaged	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_terpineol	terpineol	OUT
+OUT_total rate	total rate	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_quarter	quarter	OUT
+OUT_date	date	OUT
+OUT_drug type	drug type	OUT
+OUT_county fips code	county fips code	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_program	program	OUT
+OUT_passed quality assurance check	passed quality assurance check	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_completers	completers	OUT
+OUT_fertility rate 2000	fertility rate 2000	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_department name	department name	OUT
+OUT_births 2001	births 2001	OUT
+OUT_percent 2008 lower ci	percent 2008 lower ci	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_plan selections	plan selections	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_services rendered	services rendered	OUT
+OUT_percent 2003 upper ci	percent 2003 upper ci	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_program year	program year	OUT
+OUT_fertility rate 2004 lower ci	fertility rate 2004 lower ci	OUT
+OUT_protocol	protocol	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_submitted data	submitted data	OUT
+OUT_condition	condition	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_expiration date	expiration date	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_amount	amount	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_limonene	limonene	OUT
+OUT_payment type	payment type	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_record type	record type	OUT
+OUT_vendor id	vendor id	OUT
+OUT_drug cost	drug cost	OUT
+OUT_vendor	vendor	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_recipient province	recipient province	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_physician first name	physician first name	OUT
+OUT_product indicator	product indicator	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_average age of death	average age of death	OUT
+OUT_hours	hours	OUT
+OUT_recurrence days	recurrence days	OUT
+IN_fips	fips	IN
+OUT_new jersey	new jersey	OUT
+OUT_connecticut	connecticut	OUT
+OUT_maryland	maryland	OUT
+OUT_mississippi	mississippi	OUT
+OUT_north dakota	north dakota	OUT
+OUT_washington	washington	OUT
+OUT_florida	florida	OUT
+OUT_camphene	camphene	OUT
+OUT_utah	utah	OUT
+OUT_new york	new york	OUT
+OUT_bbl	bbl	OUT
+OUT_counties	counties	OUT
+IN_county	county	IN
+OUT_school districts	school districts	OUT
+OUT_st	st	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_provider number	provider number	OUT
+OUT_location 1	location 1	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_municipalities	municipalities	OUT
+OUT_zip code	zip code	OUT
+OUT_wards	wards	OUT
+OUT_location 2	location 2	OUT
+OUT_hospital name	hospital name	OUT
+OUT_census tracts	census tracts	OUT
+OUT_community area name	community area name	OUT
+OUT_provider address	provider address	OUT
+OUT_score	score	OUT
+OUT_provider city	provider city	OUT
+OUT_zip codes	zip codes	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_bin	bin	OUT
+OUT_town index	town index	OUT
+OUT_provider name	provider name	OUT
+OUT_full address	full address	OUT
+OUT_facility name	facility name	OUT
+OUT_city	city	OUT
+OUT_processing date	processing date	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_location	location	OUT
+OUT_phone number	phone number	OUT
+OUT_planning regions	planning regions	OUT
+OUT_address	address	OUT
+OUT_longitude	longitude	OUT
+OUT_street address	street address	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_provider business address	provider business address	OUT
+OUT_primary site	primary site	OUT
+OUT_website	website	OUT
+OUT_incident address borough	incident address borough	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_unweighted normalized outcome domain score	unweighted normalized outcome domain score	OUT
+OUT_unweighted patient experience of care domain score	unweighted patient experience of care domain score	OUT
+OUT_coordinates	coordinates	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_cms certification number	cms certification number	OUT
+IN_state	state	IN
+OUT_restaurant name	restaurant name	OUT
+OUT_process description	process description	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+74_strategic_measure_nu	strategic measure_number and percentage of people receiving homelessness services through city of austin contracts and downtown austin community court case management who move into housing	Table
+OUT_rate	rate	OUT
+OUT_state name	state name	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+OUT_number of programs	number of programs	OUT
+OUT_month	month	OUT
+OUT_last name	last name	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_calls	calls	OUT
+OUT_unknown	unknown	OUT
+IN_organization	organization	IN
+OUT_language	language	OUT
+OUT_county name	county name	OUT
+OUT_community registry	community registry	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_confirmed	confirmed	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total expenditure	total expenditure	OUT
+IN_total rate	total rate	IN
+OUT_for more information	for more information	OUT
+OUT_zone	zone	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_year	year	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_carene	carene	OUT
+OUT_demographic type	demographic type	OUT
+IN_fiscal year end	fiscal year end	IN
+OUT_check out da	check out da	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_geraniol	geraniol	OUT
+OUT_age group	age group	OUT
+OUT_county fips code	county fips code	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age	age	OUT
+OUT_id	id	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_notes	notes	OUT
+IN_fiscal year	fiscal year	IN
+OUT_2018	2018	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_prenatal care beginning in first trimester	prenatal care beginning in first trimester	OUT
+IN_fiscal year start	fiscal year start	IN
+OUT_additional information	additional information	OUT
+OUT_outlier	outlier	OUT
+OUT_race	race	OUT
+OUT_office visit type	office visit type	OUT
+OUT_qm rating	qm rating	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_org name	org name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_organization name	organization name	OUT
+OUT_sex	sex	OUT
+IN_total numerator	total numerator	IN
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+IN_oct- dec numerator	oct- dec numerator	IN
+IN_oct- dec denominator	oct- dec denominator	IN
+OUT_count of suicides	count of suicides	OUT
+OUT_plan selections	plan selections	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_independent living	independent living	OUT
+OUT_check in dat	check in dat	OUT
+IN_title	title	IN
+OUT_provider other organization name	provider other organization name	OUT
+OUT_sliding fee	sliding fee	OUT
+OUT_2011 us	2011 us	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_minutes	minutes	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_producer	producer	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012	2012	OUT
+OUT_practice city name	practice city name	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+IN_total denominator	total denominator	IN
+OUT_2007 us	2007 us	OUT
+OUT_2010	2010	OUT
+OUT_2008 us	2008 us	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_referral type	referral type	OUT
+OUT_2008	2008	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_any current supply of surgical masks	any current supply of surgical masks	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_dme	dme	OUT
+OUT_birth rate	birth rate	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_license #	license #	OUT
+OUT_amount	amount	OUT
+OUT_years averaged	years averaged	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_payment type	payment type	OUT
+OUT_births 2009	births 2009	OUT
+OUT_percent 2007 lower ci	percent 2007 lower ci	OUT
+OUT_fertility rate 2002 upper ci	fertility rate 2002 upper ci	OUT
+OUT_any current supply of eye protection	any current supply of eye protection	OUT
+OUT_record id	record id	OUT
+OUT_record type	record type	OUT
+OUT_vendor id	vendor id	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_nerol	nerol	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician first name	physician first name	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_hours	hours	OUT
+OUT_long	long	OUT
+OUT_2013 deaths	2013 deaths	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_shape st le	shape st le	OUT
+OUT_begin time	begin time	OUT
+OUT_fips	fips	OUT
+OUT_iowa	iowa	OUT
+OUT_nebraska	nebraska	OUT
+OUT_new mexico	new mexico	OUT
+OUT_california	california	OUT
+OUT_minnesota	minnesota	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_country region	country region	OUT
+OUT_missouri	missouri	OUT
+OUT_south dakota	south dakota	OUT
+OUT_washington	washington	OUT
+OUT_camphene	camphene	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_sir icon	sir icon	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_council district	council district	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_measure id	measure id	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_hospital	hospital	OUT
+OUT_school districts	school districts	OUT
+OUT_community area	community area	OUT
+OUT_main phone	main phone	OUT
+OUT_st	st	OUT
+OUT_area name	area name	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_observed infections	observed infections	OUT
+OUT_zip	zip	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_zip code	zip code	OUT
+OUT_survey type	survey type	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_provider city	provider city	OUT
+OUT_provider address	provider address	OUT
+OUT_location 1	location 1	OUT
+OUT_catheter days	catheter days	OUT
+OUT_municipalities	municipalities	OUT
+OUT_phone	phone	OUT
+OUT_hospital name	hospital name	OUT
+OUT_address	address	OUT
+OUT_provider state	provider state	OUT
+OUT_utah senate districts	utah senate districts	OUT
+OUT_zip codes	zip codes	OUT
+OUT_phone number	phone number	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_hospital location	hospital location	OUT
+OUT_website	website	OUT
+OUT_city	city	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_community areas	community areas	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_street address	street address	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_measure name	measure name	OUT
+OUT_location name	location name	OUT
+OUT_location	location	OUT
+OUT_site name	site name	OUT
+OUT_city 1	city 1	OUT
+OUT_planning regions	planning regions	OUT
+OUT_longitude	longitude	OUT
+OUT_boundaries - zip codes	boundaries - zip codes	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_state	state	OUT

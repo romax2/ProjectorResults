@@ -1,0 +1,202 @@
+stc_label	sentence	category
+59_payments_of_cash_or_	payments of cash or equivalents from pharmaceutical and medical device companies to physicians 9_30_14 utah	Table
+IN_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	IN
+IN_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	IN
+IN_total amount of payment us dollars	total amount of payment us dollars	IN
+IN_research transaction id	research transaction id	IN
+IN_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	IN
+IN_delay in publication of research payment indicator	delay in publication of research payment indicator	IN
+IN_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	IN
+IN_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	IN
+OUT_legal business name	legal business name	OUT
+IN_date of payment	date of payment	IN
+IN_covered recipient type	covered recipient type	IN
+IN_teaching hospital name	teaching hospital name	IN
+IN_physician primary type	physician primary type	IN
+IN_recipient state	recipient state	IN
+IN_recipient zip code	recipient zip code	IN
+IN_dispute status for publication	dispute status for publication	IN
+IN_form of payment or transfer of value	form of payment or transfer of value	IN
+IN_physician specialty	physician specialty	IN
+IN_physician last name	physician last name	IN
+OUT_drug cost	drug cost	OUT
+IN_physician name suffix	physician name suffix	IN
+IN_physician first name	physician first name	IN
+IN_recipient city	recipient city	IN
+IN_physician middle name	physician middle name	IN
+IN_product indicator	product indicator	IN
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_payment type	payment type	OUT
+OUT_amount	amount	OUT
+IN_clinical trials gov identifier	clinical trials gov identifier	IN
+OUT_billing npi	billing npi	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+IN_preclinical research indicator	preclinical research indicator	IN
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+IN_program year	program year	IN
+OUT_primary drug	primary drug	OUT
+OUT_title	title	OUT
+OUT_plan selections	plan selections	OUT
+OUT_services rendered	services rendered	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_department name	department name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_office visit type	office visit type	OUT
+OUT_additional information	additional information	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_notes	notes	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_recovered	recovered	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_town	town	OUT
+OUT_date	date	OUT
+OUT_medicaid	medicaid	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_file date	file date	OUT
+OUT_pos category	pos category	OUT
+OUT_single member council districts	single member council districts	OUT
+IN_name of study	name of study	IN
+IN_context of research	context of research	IN
+OUT_name	name	OUT
+OUT_county name	county name	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_first	first	OUT
+OUT_number of programs	number of programs	OUT
+OUT_state name	state name	OUT
+OUT_rate	rate	OUT
+OUT_reporting period	reporting period	OUT
+OUT_number of employees	number of employees	OUT
+OUT_study phase	study phase	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_the geom	the geom	OUT
+OUT_month	month	OUT
+OUT_adm year	adm year	OUT
+IN_research information link	research information link	IN
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_animal id	animal id	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_relative care	relative care	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_year	year	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_health care provider	health care provider	OUT
+OUT_2017	2017	OUT
+OUT_age group	age group	OUT
+OUT_age	age	OUT
+OUT_gender	gender	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_region	region	OUT
+OUT_race	race	OUT
+OUT_prevalence	prevalence	OUT
+OUT_sex	sex	OUT
+OUT_total numerator	total numerator	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_cancer	cancer	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2012	2012	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2009 us	2009 us	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_state	state	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_parking	parking	OUT
+OUT_number of ventilators in facility	number of ventilators in facility	OUT
+OUT_city 1	city 1	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+OUT_primary site	primary site	OUT
+OUT_provider business address	provider business address	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_correction date	correction date	OUT
+OUT_measure name	measure name	OUT
+OUT_address	address	OUT
+OUT_planning regions	planning regions	OUT
+OUT_location name	location name	OUT
+OUT_overall rating	overall rating	OUT
+OUT_inspection date	inspection date	OUT
+OUT_phone number	phone number	OUT
+OUT_location	location	OUT
+OUT_processing date	processing date	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_city	city	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_full address	full address	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_town index	town index	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_procedure type	procedure type	OUT
+OUT_provider state	provider state	OUT
+OUT_score	score	OUT
+OUT_community area name	community area name	OUT
+OUT_hospital name	hospital name	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_zip code	zip code	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_central line days	central line days	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_community area number	community area number	OUT
+OUT_observed infections	observed infections	OUT
+OUT_hospital	hospital	OUT
+OUT_st	st	OUT
+OUT_community area	community area	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_county	county	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_sir icon	sir icon	OUT
+OUT_counties	counties	OUT
+OUT_us states	us states	OUT
+OUT_borough	borough	OUT
+OUT_access type	access type	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_lat	lat	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_delaware	delaware	OUT
+OUT_washington	washington	OUT
+OUT_maryland	maryland	OUT
+OUT_vermont	vermont	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_tennessee	tennessee	OUT
+OUT_new mexico	new mexico	OUT
+OUT_kansas	kansas	OUT
+OUT_fips	fips	OUT
+OUT_census tract	census tract	OUT
+OUT_2014 deaths	2014 deaths	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2001	2001	OUT
+OUT_birth rate	birth rate	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_years averaged	years averaged	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_fertility rate 2004	fertility rate 2004	OUT
+OUT_fertility rate 2004 lower ci	fertility rate 2004 lower ci	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT

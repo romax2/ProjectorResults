@@ -1,0 +1,202 @@
+stc_label	sentence	category
+68_restaurant_inspectio	restaurant inspections in tri-county colorado 2018	Table
+OUT_health inspection rating	health inspection rating	OUT
+OUT_parking	parking	OUT
+OUT_street address	street address	OUT
+IN_city	city	IN
+IN_longitude	longitude	IN
+OUT_planning regions	planning regions	OUT
+OUT_facility name	facility name	OUT
+OUT_address	address	OUT
+IN_facility id	facility id	IN
+OUT_location	location	OUT
+OUT_survey type	survey type	OUT
+OUT_weighted patient experience of care domain score	weighted patient experience of care domain score	OUT
+OUT_zip code	zip code	OUT
+IN_zip	zip	IN
+OUT_primary site	primary site	OUT
+OUT_zip codes	zip codes	OUT
+IN_site address	site address	IN
+OUT_federal provider number	federal provider number	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_unweighted normalized outcome domain score	unweighted normalized outcome domain score	OUT
+OUT_provider name	provider name	OUT
+OUT_provider address	provider address	OUT
+OUT_provider state	provider state	OUT
+OUT_wards	wards	OUT
+OUT_measure end date	measure end date	OUT
+OUT_provider id	provider id	OUT
+OUT_hospital name	hospital name	OUT
+IN_latitude	latitude	IN
+IN_st	st	IN
+OUT_deficiency description	deficiency description	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_community area	community area	OUT
+IN_county	county	IN
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_counties	counties	OUT
+OUT_new york	new york	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_colorado	colorado	OUT
+OUT_vermont	vermont	OUT
+OUT_connecticut	connecticut	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_oregon	oregon	OUT
+OUT_begin time	begin time	OUT
+OUT_total performance score	total performance score	OUT
+OUT_shortage of clinical staff	shortage of clinical staff	OUT
+OUT_average age of death	average age of death	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_hours	hours	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician first name	physician first name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_teaching hospital name	teaching hospital name	OUT
+OUT_covered recipient type	covered recipient type	OUT
+IN_serial number	serial number	IN
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_fertility rate 2001 lower ci	fertility rate 2001 lower ci	OUT
+OUT_fertility rate 2004 upper ci	fertility rate 2004 upper ci	OUT
+IN_record id	record id	IN
+OUT_fertility rate 2002	fertility rate 2002	OUT
+OUT_percent 2004 upper ci	percent 2004 upper ci	OUT
+OUT_percent 2009 lower ci	percent 2009 lower ci	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_births 2001	births 2001	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2005	2005	OUT
+OUT_amount	amount	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_census tract	census tract	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_ventilator dependent unit	ventilator dependent unit	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_2010	2010	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2011 us	2011 us	OUT
+OUT_per capita income	per capita income	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_a- pinene	a- pinene	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+IN_program identifier	program identifier	IN
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_disease	disease	OUT
+OUT_cancer	cancer	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_total numerator	total numerator	OUT
+OUT_sex	sex	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_protocol	protocol	OUT
+OUT_2018	2018	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_minutes	minutes	OUT
+OUT_shelter	shelter	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_health care provider	health care provider	OUT
+IN_activity date	activity date	IN
+OUT_program year	program year	OUT
+OUT_age group	age group	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_total entry	total entry	OUT
+OUT_fenchol	fenchol	OUT
+OUT_check out da	check out da	OUT
+OUT_role description	role description	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_eeo category	eeo category	OUT
+OUT_zone	zone	OUT
+OUT_animal id	animal id	OUT
+OUT_plan selections	plan selections	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_breed	breed	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_end time	end time	OUT
+OUT_community registry	community registry	OUT
+OUT_color	color	OUT
+OUT_first name	first name	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_unknown	unknown	OUT
+IN_category	category	IN
+IN_total critical	total critical	IN
+OUT_total plan selections	total plan selections	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_office visit type	office visit type	OUT
+IN_pe desc	pe desc	IN
+OUT_qm rating	qm rating	OUT
+IN_service desc	service desc	IN
+IN_number of fbi critical	number of fbi critical	IN
+OUT_frequency	frequency	OUT
+OUT_study phase	study phase	OUT
+IN_agency	agency	IN
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_date time	date time	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+IN_description	description	IN
+OUT_context of research	context of research	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_reporting period	reporting period	OUT
+OUT_small area code	small area code	OUT
+OUT_quarter number	quarter number	OUT
+OUT_county fips code	county fips code	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_state name	state name	OUT
+OUT_drug type	drug type	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_quarter	quarter	OUT
+OUT_month year	month year	OUT
+OUT_single member council districts	single member council districts	OUT
+IN_total non critical	total non critical	IN
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_value of interest	value of interest	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_file date	file date	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_pos category	pos category	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_network	network	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+IN_pe	pe	IN
+OUT_last name	last name	OUT

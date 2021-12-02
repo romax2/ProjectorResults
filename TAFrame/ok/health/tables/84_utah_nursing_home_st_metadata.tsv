@@ -1,0 +1,202 @@
+stc_label	sentence	category
+84_utah_nursing_home_st	utah nursing home star ratings medicare	Table
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+IN_health inspection rating	health inspection rating	IN
+OUT_incident address borough	incident address borough	OUT
+OUT_longitude	longitude	OUT
+IN_overall rating	overall rating	IN
+OUT_city	city	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_website	website	OUT
+OUT_provider city	provider city	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_provider name	provider name	OUT
+OUT_provider address	provider address	OUT
+OUT_zip code	zip code	OUT
+OUT_provider state	provider state	OUT
+OUT_bin	bin	OUT
+IN_staffing rating	staffing rating	IN
+IN_zip codes	zip codes	IN
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_site languages	site languages	OUT
+OUT_processing date	processing date	OUT
+OUT_community area name	community area name	OUT
+OUT_hospital name	hospital name	OUT
+OUT_latitude	latitude	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_hours saturday	hours saturday	OUT
+OUT_community area number	community area number	OUT
+OUT_st	st	OUT
+OUT_borough	borough	OUT
+OUT_measure id	measure id	OUT
+OUT_community area	community area	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+IN_municipalities	municipalities	IN
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_camphor	camphor	OUT
+OUT_county	county	OUT
+IN_location 1	location 1	IN
+IN_school districts	school districts	IN
+OUT_deficiency category	deficiency category	OUT
+IN_counties	counties	IN
+OUT_bbl	bbl	OUT
+OUT_vermont	vermont	OUT
+OUT_below poverty level	below poverty level	OUT
+OUT_state	state	OUT
+OUT_mississippi	mississippi	OUT
+OUT_georgia	georgia	OUT
+OUT_illinois	illinois	OUT
+OUT_maine	maine	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_kentucky	kentucky	OUT
+OUT_fips	fips	OUT
+OUT_shortage of clinical staff	shortage of clinical staff	OUT
+OUT_average age of death	average age of death	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_complaint number	complaint number	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+IN_rn staffing rating	rn staffing rating	IN
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_recipient country	recipient country	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_serial number	serial number	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_percent 2004 lower ci	percent 2004 lower ci	OUT
+OUT_percent 2006 lower ci	percent 2006 lower ci	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_births 2009	births 2009	OUT
+OUT_any current supply of eye protection	any current supply of eye protection	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_payment type	payment type	OUT
+OUT_low birth weight	low birth weight	OUT
+OUT_all ages	all ages	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_unit values	unit values	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_2000	2000	OUT
+OUT_birth rate	birth rate	OUT
+OUT_2004	2004	OUT
+OUT_2002	2002	OUT
+OUT_amount	amount	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_npi	npi	OUT
+OUT_2008	2008	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_2010	2010	OUT
+OUT_2011	2011	OUT
+OUT_total denominator	total denominator	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2006	2006	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2012 carbon	2012 carbon	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_prevalence	prevalence	OUT
+OUT_outlier	outlier	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_population	population	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_veteran status	veteran status	OUT
+OUT_producer	producer	OUT
+OUT_age group	age group	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_geraniol	geraniol	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_primary drug	primary drug	OUT
+OUT_special study	special study	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_role description	role description	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_zone	zone	OUT
+OUT_residential	residential	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_free	free	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_organization	organization	OUT
+OUT_language	language	OUT
+OUT_date closed	date closed	OUT
+OUT_data as of	data as of	OUT
+OUT_unknown	unknown	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_the geom	the geom	OUT
+OUT_organization name	organization name	OUT
+OUT_department name	department name	OUT
+OUT_intake	intake	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+IN_qm rating	qm rating	IN
+OUT_date time	date time	OUT
+OUT_week ending	week ending	OUT
+OUT_completers	completers	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_reporting period	reporting period	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_small area code	small area code	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_rate	rate	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_for more information	for more information	OUT
+OUT_state name	state name	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_county fips code	county fips code	OUT
+OUT_month year	month year	OUT
+OUT_quarter	quarter	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+IN_date	date	IN
+OUT_dependency	dependency	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_completers - age	completers - age	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_pos category	pos category	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_employee category	employee category	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_pe	pe	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+IN_name	name	IN

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+82_utah_nursing_home_ch	utah nursing home characteristics 2020	Table
+OUT_footnote	footnote	OUT
+OUT_facility name	facility name	OUT
+OUT_provider business address	provider business address	OUT
+IN_provider address	provider address	IN
+IN_provider city	provider city	IN
+OUT_address line 2	address line 2	OUT
+IN_provider state	provider state	IN
+OUT_location	location	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider number	provider number	OUT
+OUT_zip code	zip code	OUT
+OUT_hospital name	hospital name	OUT
+IN_provider zip code	provider zip code	IN
+OUT_2010 house districts	2010 house districts	OUT
+IN_federal provider number	federal provider number	IN
+OUT_procedure type	procedure type	OUT
+IN_provider name	provider name	IN
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_city	city	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_street address	street address	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_community area number	community area number	OUT
+OUT_catheter days	catheter days	OUT
+OUT_community area	community area	OUT
+OUT_school districts	school districts	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_county	county	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_observed infections	observed infections	OUT
+OUT_counties	counties	OUT
+OUT_main phone	main phone	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_measure name	measure name	OUT
+OUT_bin	bin	OUT
+OUT_measure start date	measure start date	OUT
+OUT_sir	sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_phone number	phone number	OUT
+OUT_utah	utah	OUT
+OUT_overall rating	overall rating	OUT
+IN_number of ventilators in facility	number of ventilators in facility	IN
+OUT_address	address	OUT
+OUT_maryland	maryland	OUT
+OUT_montana	montana	OUT
+OUT_colorado	colorado	OUT
+OUT_new jersey	new jersey	OUT
+OUT_community board	community board	OUT
+IN_laboratory type is state health dept	laboratory type is state health dept	IN
+OUT_maine	maine	OUT
+OUT_missouri	missouri	OUT
+OUT_kentucky	kentucky	OUT
+OUT_california	california	OUT
+OUT_percent male	percent male	OUT
+IN_shortage of nursing staff	shortage of nursing staff	IN
+OUT_unweighted normalized outcome domain score	unweighted normalized outcome domain score	OUT
+OUT_phone	phone	OUT
+OUT_us states	us states	OUT
+OUT_south carolina	south carolina	OUT
+OUT_fenchone	fenchone	OUT
+OUT_country region	country region	OUT
+OUT_city 1	city 1	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+IN_number of all beds	number of all beds	IN
+OUT_total performance score	total performance score	OUT
+IN_shortage of clinical staff	shortage of clinical staff	IN
+OUT_average age of death	average age of death	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_incident address	incident address	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_hours	hours	OUT
+IN_total number of occupied beds	total number of occupied beds	IN
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_50 to 54 years old	50 to 54 years old	OUT
+OUT_physician first name	physician first name	OUT
+OUT_physician last name	physician last name	OUT
+OUT_legal business name	legal business name	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_vendor	vendor	OUT
+OUT_serial number	serial number	OUT
+OUT_fertility rate 2005	fertility rate 2005	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+IN_any current supply of ventilator supplies	any current supply of ventilator supplies	IN
+OUT_percent 2003	percent 2003	OUT
+IN_any current supply of hand sanitizer	any current supply of hand sanitizer	IN
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2007	percent 2007	OUT
+OUT_births 2009	births 2009	OUT
+OUT_births 2006	births 2006	OUT
+OUT_combined key	combined key	OUT
+OUT_percent 2008	percent 2008	OUT
+IN_any current supply of eye protection	any current supply of eye protection	IN
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+IN_any current supply of gloves	any current supply of gloves	IN
+IN_resident access to testing in facility	resident access to testing in facility	IN
+OUT_cases 2007	cases 2007	OUT
+IN_shortage of aides	shortage of aides	IN
+OUT_expiration date	expiration date	OUT
+IN_any current supply of gowns	any current supply of gowns	IN
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2009	2009	OUT
+IN_laboratory type is other	laboratory type is other	IN
+OUT_2007	2007	OUT
+OUT_npi	npi	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+IN_shortage of other staff	shortage of other staff	IN
+IN_ventilator dependent unit	ventilator dependent unit	IN
+OUT_census tract population	census tract population	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_2012	2012	OUT
+IN_submitted data	submitted data	IN
+OUT_2013 us	2013 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_independent living	independent living	OUT
+IN_any current supply of surgical masks	any current supply of surgical masks	IN
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_disease	disease	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_a- phellandrene	a- phellandrene	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_prevalence	prevalence	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_shelter	shelter	OUT
+OUT_a- terpinene	a- terpinene	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_check out da	check out da	OUT
+OUT_special study	special study	OUT
+OUT_year	year	OUT
+OUT_eeo category	eeo category	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_fy month order	fy month order	OUT
+OUT_provider other organization name	provider other organization name	OUT
+IN_residents total all deaths	residents total all deaths	IN
+OUT_paid per service	paid per service	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_description of dog	description of dog	OUT
+IN_laboratory type is private lab	laboratory type is private lab	IN
+OUT_plan selections	plan selections	OUT
+OUT_organization	organization	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+IN_residents weekly all deaths	residents weekly all deaths	IN
+OUT_total critical	total critical	OUT
+OUT_month	month	OUT
+OUT_pe desc	pe desc	OUT
+IN_passed quality assurance check	passed quality assurance check	IN
+OUT_beginning time period	beginning time period	OUT
+OUT_study phase	study phase	OUT
+OUT_agency	agency	OUT
+OUT_date time	date time	OUT
+IN_week ending	week ending	IN
+OUT_assault	assault	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_other insurances	other insurances	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_program	program	OUT
+OUT_drug type	drug type	OUT
+OUT_calls	calls	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_ages served	ages served	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_date	date	OUT
+OUT_dependency	dependency	OUT
+OUT_pos category	pos category	OUT
+OUT_network	network	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_county name	county name	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_total rate	total rate	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+70_seniors'_pharmacare_	seniors' pharmacare utilization by age group and sex	Table
+OUT_eeo category description	eeo category description	OUT
+OUT_last name	last name	OUT
+OUT_number of programs	number of programs	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_end date	end date	OUT
+OUT_end time period	end time period	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_rate	rate	OUT
+OUT_reporting period	reporting period	OUT
+OUT_state name	state name	OUT
+OUT_small area code	small area code	OUT
+OUT_county name	county name	OUT
+OUT_menthol	menthol	OUT
+OUT_warning	warning	OUT
+OUT_name	name	OUT
+OUT_rate effective date	rate effective date	OUT
+IN_number of prescriptions	number of prescriptions	IN
+OUT_first	first	OUT
+OUT_name of study	name of study	OUT
+OUT_single member council districts	single member council districts	OUT
+IN_total expenditure	total expenditure	IN
+OUT_confirmed	confirmed	OUT
+OUT_total rate	total rate	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_terpineol	terpineol	OUT
+OUT_intake	intake	OUT
+OUT_low cost	low cost	OUT
+OUT_adm year	adm year	OUT
+OUT_category	category	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_date	date	OUT
+IN_rx per beneficiary	rx per beneficiary	IN
+OUT_adm count	adm count	OUT
+OUT_color	color	OUT
+OUT_community registry	community registry	OUT
+OUT_description of dog	description of dog	OUT
+OUT_other insurances	other insurances	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_residential	residential	OUT
+IN_beneficiaries	beneficiaries	IN
+OUT_fiscal year start	fiscal year start	OUT
+OUT_animal type	animal type	OUT
+OUT_building floor suite	building floor suite	OUT
+IN_year	year	IN
+OUT_2013 box elder	2013 box elder	OUT
+OUT_date closed	date closed	OUT
+OUT_special study	special study	OUT
+OUT_terms of interest	terms of interest	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_org name	org name	OUT
+OUT_organization name	organization name	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_2017	2017	OUT
+IN_age group	age group	IN
+OUT_health care provider	health care provider	OUT
+OUT_veteran status	veteran status	OUT
+OUT_cedrol	cedrol	OUT
+OUT_age	age	OUT
+IN_cost per beneficiary	cost per beneficiary	IN
+OUT_2018	2018	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_plan selections	plan selections	OUT
+OUT_b- pinene	b- pinene	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_stroke	stroke	OUT
+OUT_diabetes rate	diabetes rate	OUT
+IN_sex	sex	IN
+OUT_title	title	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_protocol	protocol	OUT
+OUT_independent living	independent living	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2014	2014	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_referral type	referral type	OUT
+OUT_last update	last update	OUT
+OUT_2012	2012	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2010	2010	OUT
+OUT_2008 us	2008 us	OUT
+OUT_email	email	OUT
+OUT_2007	2007	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_postal code	postal code	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_2002	2002	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_active	active	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_fertility rate 2000	fertility rate 2000	OUT
+OUT_births 2000	births 2000	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2009 upper ci	percent 2009 upper ci	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_fertility rate 2004 upper ci	fertility rate 2004 upper ci	OUT
+OUT_fertility rate 2003 upper ci	fertility rate 2003 upper ci	OUT
+IN_drug cost	drug cost	IN
+OUT_vendor	vendor	OUT
+OUT_legal operator	legal operator	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_limonene	limonene	OUT
+OUT_date of payment	date of payment	OUT
+OUT_recipient postal code	recipient postal code	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_product indicator	product indicator	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_hours	hours	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_process description	process description	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_shape st le	shape st le	OUT
+OUT_2010 population	2010 population	OUT
+OUT_percent female	percent female	OUT
+OUT_percent male	percent male	OUT
+OUT_fips	fips	OUT
+OUT_south carolina	south carolina	OUT
+OUT_minnesota	minnesota	OUT
+OUT_new mexico	new mexico	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_vermont	vermont	OUT
+OUT_maryland	maryland	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_lat	lat	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_website	website	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_counties	counties	OUT
+OUT_area name	area name	OUT
+OUT_measure id	measure id	OUT
+OUT_community board	community board	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_bin	bin	OUT
+OUT_observed bsi	observed bsi	OUT
+OUT_provider number	provider number	OUT
+OUT_school districts	school districts	OUT
+OUT_provider id	provider id	OUT
+OUT_st	st	OUT
+OUT_central line days	central line days	OUT
+OUT_zip code	zip code	OUT
+OUT_phone	phone	OUT
+OUT_address	address	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_observed infections	observed infections	OUT
+OUT_access point type	access point type	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_provider address	provider address	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_wards	wards	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_census tracts	census tracts	OUT
+OUT_location 1	location 1	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_municipalities	municipalities	OUT
+OUT_facility id	facility id	OUT
+OUT_hospital name	hospital name	OUT
+OUT_processing date	processing date	OUT
+OUT_location 2	location 2	OUT
+OUT_city	city	OUT
+OUT_street address	street address	OUT
+OUT_hospital location	hospital location	OUT
+OUT_facility name	facility name	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_patient days	patient days	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_state	state	OUT
+OUT_health inspection rating	health inspection rating	OUT
+OUT_primary site	primary site	OUT
+OUT_address line 2	address line 2	OUT
+OUT_location	location	OUT
+OUT_coordinates	coordinates	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_address 1	address 1	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_provider business address	provider business address	OUT
+OUT_measure description	measure description	OUT

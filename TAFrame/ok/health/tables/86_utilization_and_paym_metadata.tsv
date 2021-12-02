@@ -1,0 +1,202 @@
+stc_label	sentence	category
+86_utilization_and_paym	utilization and payments to the nova scotia prosthetic programs	Table
+IN_paid per service	paid per service	IN
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_plan selections	plan selections	OUT
+OUT_free	free	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_provider other organization name	provider other organization name	OUT
+IN_services rendered	services rendered	IN
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_date opened	date opened	OUT
+OUT_minutes	minutes	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_practice city name	practice city name	OUT
+OUT_dollar amount invested	dollar amount invested	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_office visit type	office visit type	OUT
+IN_paid per beneficiary	paid per beneficiary	IN
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+IN_services per beneficiary	services per beneficiary	IN
+IN_fiscal year	fiscal year	IN
+IN_beneficiaries	beneficiaries	IN
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_county fips code	county fips code	OUT
+IN_program	program	IN
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_referral type	referral type	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_date	date	OUT
+OUT_quarter	quarter	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_pos category	pos category	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_ages served	ages served	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_intake condition	intake condition	OUT
+OUT_network	network	OUT
+OUT_name	name	OUT
+OUT_county name	county name	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_last name	last name	OUT
+OUT_warning	warning	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_state name	state name	OUT
+OUT_rate	rate	OUT
+OUT_frequency	frequency	OUT
+OUT_beginning time period	beginning time period	OUT
+IN_amount paid	amount paid	IN
+OUT_month	month	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_npi	npi	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_first name	first name	OUT
+OUT_found location	found location	OUT
+OUT_end time	end time	OUT
+OUT_community registry	community registry	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_year	year	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_check out da	check out da	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_death year	death year	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_amount	amount	OUT
+OUT_veteran status	veteran status	OUT
+OUT_deaths	deaths	OUT
+OUT_2018	2018	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_unemployment	unemployment	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_any current supply of gloves	any current supply of gloves	OUT
+OUT_demographics	demographics	OUT
+OUT_manner of death	manner of death	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_independent living	independent living	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_unit values	unit values	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2007 us	2007 us	OUT
+OUT_payment type	payment type	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2013	2013	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_census tract	census tract	OUT
+OUT_2004	2004	OUT
+OUT_2003	2003	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_record type	record type	OUT
+OUT_years averaged	years averaged	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_delay in publication of research payment indicator	delay in publication of research payment indicator	OUT
+OUT_percent 1999 lower ci	percent 1999 lower ci	OUT
+OUT_percent 2002 lower ci	percent 2002 lower ci	OUT
+OUT_nerol	nerol	OUT
+OUT_percent 2006 lower ci	percent 2006 lower ci	OUT
+OUT_births 2004	births 2004	OUT
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_percent 2005	percent 2005	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_date of payment	date of payment	OUT
+OUT_75 to 79 years old	75 to 79 years old	OUT
+OUT_physician last name	physician last name	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_fax	fax	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_process description	process description	OUT
+OUT_long	long	OUT
+OUT_shape st le	shape st le	OUT
+OUT_hours thursday	hours thursday	OUT
+OUT_city 1	city 1	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_website	website	OUT
+OUT_coordinates	coordinates	OUT
+OUT_site languages	site languages	OUT
+OUT_begin time	begin time	OUT
+OUT_weighted patient experience of care domain score	weighted patient experience of care domain score	OUT
+OUT_provider business address	provider business address	OUT
+OUT_address 1	address 1	OUT
+OUT_phone	phone	OUT
+OUT_address	address	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_inspection date	inspection date	OUT
+OUT_weighted efficiency domain score	weighted efficiency domain score	OUT
+OUT_correction date	correction date	OUT
+OUT_hours saturday	hours saturday	OUT
+OUT_location name	location name	OUT
+OUT_planning regions	planning regions	OUT
+OUT_processing date	processing date	OUT
+OUT_area name	area name	OUT
+OUT_hours sunday	hours sunday	OUT
+OUT_city	city	OUT
+OUT_location	location	OUT
+OUT_facility name	facility name	OUT
+OUT_town index	town index	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_zip codes	zip codes	OUT
+OUT_hospital location	hospital location	OUT
+OUT_procedure type	procedure type	OUT
+OUT_provider address	provider address	OUT
+OUT_community areas	community areas	OUT
+OUT_community area name	community area name	OUT
+OUT_zip code	zip code	OUT
+OUT_hospital name	hospital name	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_provider id	provider id	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_measure id	measure id	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_st	st	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+OUT_school districts	school districts	OUT
+OUT_national bsi mean	national bsi mean	OUT
+OUT_sir icon	sir icon	OUT
+OUT_county	county	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties	counties	OUT
+OUT_sir	sir	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_louisiana	louisiana	OUT
+OUT_washington	washington	OUT
+OUT_california	california	OUT
+OUT_fips	fips	OUT
+OUT_2016 deaths	2016 deaths	OUT
+OUT_80 to 84 years old	80 to 84 years old	OUT
+OUT_average age of death	average age of death	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT

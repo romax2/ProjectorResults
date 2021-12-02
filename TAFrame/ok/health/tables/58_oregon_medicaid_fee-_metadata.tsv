@@ -1,0 +1,202 @@
+stc_label	sentence	category
+58_oregon_medicaid_fee-	oregon medicaid fee-for-service pass-through rates for drg hospitals	Table
+OUT_vendor id	vendor id	OUT
+OUT_record type	record type	OUT
+OUT_serial number	serial number	OUT
+OUT_payment type	payment type	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+IN_unit values	unit values	IN
+OUT_expiration date	expiration date	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_npi	npi	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_physician first name	physician first name	OUT
+IN_dme	dme	IN
+OUT_fax	fax	OUT
+OUT_brief description	brief description	OUT
+OUT_protocol	protocol	OUT
+OUT_practice city name	practice city name	OUT
+OUT_minutes	minutes	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_program year	program year	OUT
+OUT_fy month order	fy month order	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_primary drug	primary drug	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_plan selections	plan selections	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_organization name	organization name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_terms of interest	terms of interest	OUT
+OUT_date closed	date closed	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_additional information	additional information	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_completers	completers	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_beneficiaries	beneficiaries	OUT
+IN_outpatient interim rates	outpatient interim rates	IN
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_program	program	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_county fips code	county fips code	OUT
+OUT_source	source	OUT
+OUT_drug type	drug type	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_date	date	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_single member council districts	single member council districts	OUT
+IN_file date	file date	IN
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_enrollees - age	enrollees - age	OUT
+IN_rate effective date	rate effective date	IN
+OUT_network	network	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county name	county name	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_end time period	end time period	OUT
+OUT_state name	state name	OUT
+OUT_reporting period	reporting period	OUT
+OUT_description of dog	description of dog	OUT
+OUT_agency	agency	OUT
+OUT_study phase	study phase	OUT
+OUT_adm month	adm month	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_total critical	total critical	OUT
+OUT_month	month	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_first name	first name	OUT
+OUT_community registry	community registry	OUT
+OUT_adm count	adm count	OUT
+OUT_color	color	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_relative care	relative care	OUT
+OUT_animal type	animal type	OUT
+OUT_carene	carene	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_check out da	check out da	OUT
+OUT_health care provider	health care provider	OUT
+OUT_demographic type	demographic type	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_2017	2017	OUT
+OUT_age group	age group	OUT
+OUT_shelter	shelter	OUT
+OUT_veteran status	veteran status	OUT
+OUT_age	age	OUT
+OUT_population	population	OUT
+OUT_region	region	OUT
+IN_outlier	outlier	IN
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_sex	sex	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_demographics	demographics	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_independent living	independent living	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_2014	2014	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2011 us	2011 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2012 us	2012 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2008 us	2008 us	OUT
+OUT_breast cancer in females	breast cancer in females	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2008	2008	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_cases 2010	cases 2010	OUT
+IN_outlier effective date	outlier effective date	IN
+OUT_2004	2004	OUT
+OUT_hours	hours	OUT
+OUT_2000	2000	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_rn staffing rating	rn staffing rating	OUT
+OUT_provider first line business practice location address	provider first line business practice location address	OUT
+OUT_state	state	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_city 1	city 1	OUT
+OUT_shape st le	shape st le	OUT
+OUT_website	website	OUT
+OUT_provider business address	provider business address	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_street address	street address	OUT
+OUT_scope severity code	scope severity code	OUT
+OUT_site name	site name	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_phone number	phone number	OUT
+OUT_location name	location name	OUT
+OUT_planning regions	planning regions	OUT
+OUT_location	location	OUT
+OUT_city	city	OUT
+OUT_address line 1	address line 1	OUT
+OUT_area name	area name	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_facility name	facility name	OUT
+OUT_recurrence days	recurrence days	OUT
+OUT_town index	town index	OUT
+OUT_facility id	facility id	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_community areas	community areas	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_provider state	provider state	OUT
+OUT_provider address	provider address	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_zip	zip	OUT
+OUT_zip code	zip code	OUT
+IN_hospital name	hospital name	IN
+OUT_community area name	community area name	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_census tracts	census tracts	OUT
+OUT_main phone	main phone	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_community area number	community area number	OUT
+OUT_community area	community area	OUT
+OUT_county	county	OUT
+OUT_school districts	school districts	OUT
+OUT_counties	counties	OUT
+OUT_us states	us states	OUT
+OUT_bbl	bbl	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_new york	new york	OUT
+OUT_south dakota	south dakota	OUT
+OUT_north dakota	north dakota	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_minnesota	minnesota	OUT
+OUT_iowa	iowa	OUT
+OUT_kansas	kansas	OUT
+OUT_south carolina	south carolina	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_long	long	OUT

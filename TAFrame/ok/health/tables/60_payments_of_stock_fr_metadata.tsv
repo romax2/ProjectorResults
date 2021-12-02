@@ -1,0 +1,202 @@
+stc_label	sentence	category
+60_payments_of_stock_fr	payments of stock from pharmaceutical and medical device companies to physicians utah	Table
+IN_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	IN
+IN_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	IN
+OUT_vendor	vendor	OUT
+IN_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	IN
+IN_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	IN
+OUT_drug cost	drug cost	OUT
+IN_recipient province	recipient province	IN
+IN_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	IN
+IN_physician profile id	physician profile id	IN
+OUT_record type	record type	OUT
+OUT_vendor id	vendor id	OUT
+IN_dispute status for publication	dispute status for publication	IN
+IN_recipient postal code	recipient postal code	IN
+IN_physician primary type	physician primary type	IN
+IN_recipient state	recipient state	IN
+IN_recipient zip code	recipient zip code	IN
+IN_physician specialty	physician specialty	IN
+IN_physician last name	physician last name	IN
+IN_physician name suffix	physician name suffix	IN
+IN_physician first name	physician first name	IN
+IN_recipient country	recipient country	IN
+IN_recipient city	recipient city	IN
+IN_physician middle name	physician middle name	IN
+IN_physician ownership transaction id	physician ownership transaction id	IN
+OUT_fax	fax	OUT
+OUT_unit values	unit values	OUT
+OUT_amount	amount	OUT
+OUT_license #	license #	OUT
+IN_interest held by physician or an immediate family member	interest held by physician or an immediate family member	IN
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_program identifier	program identifier	OUT
+OUT_last update	last update	OUT
+IN_dollar amount invested	dollar amount invested	IN
+OUT_protocol	protocol	OUT
+OUT_ab total maintenance payments	ab total maintenance payments	OUT
+OUT_minutes	minutes	OUT
+IN_program year	program year	IN
+OUT_primary drug	primary drug	OUT
+OUT_date opened	date opened	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_department name	department name	OUT
+OUT_organization name	organization name	OUT
+IN_terms of interest	terms of interest	IN
+OUT_fiscal year	fiscal year	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_county fips code	county fips code	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_building floor suite	building floor suite	OUT
+OUT_date	date	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_total non critical	total non critical	OUT
+OUT_pos category	pos category	OUT
+OUT_confirmed	confirmed	OUT
+OUT_employee category	employee category	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_name	name	OUT
+OUT_network	network	OUT
+OUT_county name	county name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_warning	warning	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_end time period	end time period	OUT
+IN_value of interest	value of interest	IN
+OUT_end date	end date	OUT
+OUT_small area code	small area code	OUT
+OUT_reporting period	reporting period	OUT
+OUT_number of employees	number of employees	OUT
+OUT_assault	assault	OUT
+OUT_date time	date time	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_month	month	OUT
+OUT_residents weekly all deaths	residents weekly all deaths	OUT
+OUT_data as of	data as of	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_organization	organization	OUT
+OUT_first name	first name	OUT
+OUT_found location	found location	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_adm count	adm count	OUT
+OUT_community registry	community registry	OUT
+OUT_end time	end time	OUT
+OUT_foster care	foster care	OUT
+OUT_breed	breed	OUT
+OUT_animal id	animal id	OUT
+OUT_eeo category	eeo category	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_special study	special study	OUT
+OUT_cause of death category	cause of death category	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+OUT_health care provider	health care provider	OUT
+OUT_age group	age group	OUT
+OUT_cedrol	cedrol	OUT
+OUT_population	population	OUT
+OUT_2018	2018	OUT
+OUT_gender	gender	OUT
+OUT_demographic	demographic	OUT
+OUT_a- phellandrene	a- phellandrene	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_demographics	demographics	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_lung cancer	lung cancer	OUT
+OUT_check in dat	check in dat	OUT
+OUT_2012 carbon	2012 carbon	OUT
+OUT_2015	2015	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_2010 us	2010 us	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2010	2010	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2008 us	2008 us	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_process description	process description	OUT
+OUT_2004	2004	OUT
+OUT_2003	2003	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_state	state	OUT
+OUT_website	website	OUT
+OUT_hours friday	hours friday	OUT
+OUT_provider business address	provider business address	OUT
+OUT_unweighted normalized efficiency domain score	unweighted normalized efficiency domain score	OUT
+OUT_street address	street address	OUT
+OUT_procedures performed	procedures performed	OUT
+OUT_phone	phone	OUT
+OUT_planning regions	planning regions	OUT
+OUT_location name	location name	OUT
+OUT_address line 2	address line 2	OUT
+OUT_location	location	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_city	city	OUT
+OUT_facility name	facility name	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_town index	town index	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_hospital location	hospital location	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_zip codes	zip codes	OUT
+OUT_provider state	provider state	OUT
+OUT_utah senate districts	utah senate districts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_zip code	zip code	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_municipalities	municipalities	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_location 1	location 1	OUT
+OUT_central line days	central line days	OUT
+OUT_observed infections	observed infections	OUT
+OUT_measure id	measure id	OUT
+OUT_st	st	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_community area	community area	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_county	county	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_sir icon	sir icon	OUT
+OUT_counties	counties	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_new york	new york	OUT
+OUT_utah	utah	OUT
+OUT_south dakota	south dakota	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_arizona	arizona	OUT
+OUT_california	california	OUT
+OUT_low birth weight	low birth weight	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_years averaged	years averaged	OUT
+OUT_average age of death	average age of death	OUT
+OUT_births 2000	births 2000	OUT
+OUT_percent 2008 upper ci	percent 2008 upper ci	OUT
+OUT_births 2008	births 2008	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_fertility rate 2007	fertility rate 2007	OUT
+OUT_fertility rate 2008 upper ci	fertility rate 2008 upper ci	OUT
+OUT_fertility rate 2004 upper ci	fertility rate 2004 upper ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2004 lower ci	fertility rate 2004 lower ci	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT

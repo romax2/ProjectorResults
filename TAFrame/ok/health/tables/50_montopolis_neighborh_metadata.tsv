@@ -1,0 +1,202 @@
+stc_label	sentence	category
+50_montopolis_neighborh	montopolis neighborhood center	Table
+OUT_foster care	foster care	OUT
+OUT_group home	group home	OUT
+OUT_relative care	relative care	OUT
+IN_neighborhood planning areas	neighborhood planning areas	IN
+OUT_year	year	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_2010 box elder	2010 box elder	OUT
+IN_community registry	community registry	IN
+OUT_special study	special study	OUT
+OUT_first name	first name	OUT
+OUT_color	color	OUT
+OUT_language	language	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_2017	2017	OUT
+OUT_month	month	OUT
+OUT_age group	age group	OUT
+OUT_check out da	check out da	OUT
+OUT_the geom	the geom	OUT
+OUT_adm year	adm year	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_pe desc	pe desc	OUT
+OUT_shelter	shelter	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_age	age	OUT
+OUT_health care provider	health care provider	OUT
+OUT_id	id	OUT
+OUT_population	population	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_2018	2018	OUT
+OUT_gender	gender	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_b- pinene	b- pinene	OUT
+OUT_# deaths for total population	# deaths for total population	OUT
+OUT_demographic	demographic	OUT
+OUT_state name	state name	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_no high school diploma	no high school diploma	OUT
+OUT_sex	sex	OUT
+OUT_demographics	demographics	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_manner of death	manner of death	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+IN_zoning review cases data	zoning review cases data	IN
+OUT_last name	last name	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_intake condition	intake condition	OUT
+OUT_name	name	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_2015	2015	OUT
+IN_single member council districts	single member council districts	IN
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_total rate	total rate	OUT
+OUT_2014	2014	OUT
+OUT_pe	pe	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_2011 us	2011 us	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_quarter	quarter	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_date	date	OUT
+OUT_2012 us	2012 us	OUT
+OUT_2006	2006	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_2010 us	2010 us	OUT
+OUT_county fips code	county fips code	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_2012	2012	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_passed quality assurance check	passed quality assurance check	OUT
+OUT_total denominator	total denominator	OUT
+IN_boundaries single member districts	boundaries single member districts	IN
+OUT_2007 us	2007 us	OUT
+OUT_notes	notes	OUT
+OUT_description	description	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_plan selections	plan selections	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_fy month order	fy month order	OUT
+OUT_program year	program year	OUT
+OUT_census tract	census tract	OUT
+OUT_cases 2007	cases 2007	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_protocol	protocol	OUT
+OUT_2001	2001	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_cases 2007 - 2011	cases 2007 - 2011	OUT
+OUT_email	email	OUT
+OUT_submitted data	submitted data	OUT
+OUT_years averaged	years averaged	OUT
+OUT_expiration date	expiration date	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_amount	amount	OUT
+OUT_births 2009	births 2009	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_percent 2007	percent 2007	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_percent 2005	percent 2005	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_fertility rate 2003 lower ci	fertility rate 2003 lower ci	OUT
+OUT_payment type	payment type	OUT
+OUT_20 to 24 years old	20 to 24 years old	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_record id	record id	OUT
+OUT_limonene	limonene	OUT
+OUT_legal operator	legal operator	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_recipient province	recipient province	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_form of payment or transfer of value	form of payment or transfer of value	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_physician last name	physician last name	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_fax	fax	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+IN_hours	hours	IN
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_2010 population	2010 population	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_2014 deaths	2014 deaths	OUT
+OUT_shape st le	shape st le	OUT
+OUT_fips	fips	OUT
+OUT_tennessee	tennessee	OUT
+OUT_connecticut	connecticut	OUT
+OUT_virginia	virginia	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_washington	washington	OUT
+OUT_oklahoma	oklahoma	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_district of columbia	district of columbia	OUT
+OUT_sir	sir	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_sir icon	sir icon	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_council district	council district	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_county	county	OUT
+OUT_community area	community area	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_zip	zip	OUT
+OUT_zip code	zip code	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_provider address	provider address	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_area name	area name	OUT
+OUT_hospital name	hospital name	OUT
+OUT_provider state	provider state	OUT
+IN_zip codes	zip codes	IN
+OUT_town index	town index	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_full address	full address	OUT
+OUT_city	city	OUT
+IN_facility name	facility name	IN
+OUT_survey date	survey date	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_location	location	OUT
+OUT_location name	location name	OUT
+IN_street address	street address	IN
+OUT_procedures performed	procedures performed	OUT
+OUT_incident address borough	incident address borough	OUT
+OUT_planning regions	planning regions	OUT
+IN_website	website	IN
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_shortage of nursing staff	shortage of nursing staff	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_measure description	measure description	OUT
+OUT_state	state	OUT

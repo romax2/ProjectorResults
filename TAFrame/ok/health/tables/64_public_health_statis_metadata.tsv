@@ -1,0 +1,202 @@
+stc_label	sentence	category
+64_public_health_statis	public health statistics - low birth weight in chicago, by year, 1999 â€“ 2009	Table
+IN_percent 2003 lower ci	percent 2003 lower ci	IN
+IN_percent 2004 upper ci	percent 2004 upper ci	IN
+IN_percent 2005 upper ci	percent 2005 upper ci	IN
+IN_percent 2009 lower ci	percent 2009 lower ci	IN
+IN_percent 2006 lower ci	percent 2006 lower ci	IN
+IN_percent 2004 lower ci	percent 2004 lower ci	IN
+IN_percent 2006 upper ci	percent 2006 upper ci	IN
+IN_percent 2007 lower ci	percent 2007 lower ci	IN
+IN_percent 2005 lower ci	percent 2005 lower ci	IN
+IN_births 2004	births 2004	IN
+IN_percent 2009 upper ci	percent 2009 upper ci	IN
+IN_percent 2003 upper ci	percent 2003 upper ci	IN
+IN_percent 2001 lower ci	percent 2001 lower ci	IN
+IN_percent 1999 upper ci	percent 1999 upper ci	IN
+IN_percent 2002 lower ci	percent 2002 lower ci	IN
+IN_births 1999	births 1999	IN
+IN_births 2005	births 2005	IN
+IN_percent 1999 lower ci	percent 1999 lower ci	IN
+IN_percent 2003	percent 2003	IN
+IN_percent 2007 upper ci	percent 2007 upper ci	IN
+IN_percent 2002 upper ci	percent 2002 upper ci	IN
+IN_percent 2004	percent 2004	IN
+IN_births 2002	births 2002	IN
+IN_percent 2001 upper ci	percent 2001 upper ci	IN
+IN_births 2003	births 2003	IN
+IN_percent 2005	percent 2005	IN
+IN_percent 2007	percent 2007	IN
+IN_percent 2002	percent 2002	IN
+IN_percent 2009	percent 2009	IN
+IN_percent 2006	percent 2006	IN
+IN_births 2009	births 2009	IN
+IN_percent 2000 upper ci	percent 2000 upper ci	IN
+IN_percent 2008 lower ci	percent 2008 lower ci	IN
+IN_percent 2000 lower ci	percent 2000 lower ci	IN
+IN_percent 1999	percent 1999	IN
+IN_births 2001	births 2001	IN
+IN_percent 2008 upper ci	percent 2008 upper ci	IN
+IN_percent 2001	percent 2001	IN
+IN_births 2008	births 2008	IN
+IN_births 2007	births 2007	IN
+IN_births 2006	births 2006	IN
+IN_births 2000	births 2000	IN
+IN_percent 2000	percent 2000	IN
+IN_percent 2008	percent 2008	IN
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2007 us	2007 us	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_demographics	demographics	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_population	population	OUT
+OUT_age group	age group	OUT
+OUT_death year	death year	OUT
+OUT_health care provider	health care provider	OUT
+OUT_check out da	check out da	OUT
+OUT_year	year	OUT
+OUT_animal type	animal type	OUT
+OUT_animal id	animal id	OUT
+OUT_residential	residential	OUT
+OUT_community registry	community registry	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_month	month	OUT
+OUT_the geom	the geom	OUT
+OUT_completers - gender	completers - gender	OUT
+OUT_date time	date time	OUT
+OUT_agency	agency	OUT
+OUT_reporting period	reporting period	OUT
+OUT_number of employees	number of employees	OUT
+OUT_rate	rate	OUT
+OUT_state name	state name	OUT
+OUT_number of programs	number of programs	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_last name	last name	OUT
+IN_warning	warning	IN
+OUT_call to door interval target	call to door interval target	OUT
+OUT_name	name	OUT
+OUT_ages served	ages served	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_drug type	drug type	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_program	program	OUT
+OUT_passed quality assurance check	passed quality assurance check	OUT
+OUT_building floor suite	building floor suite	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_qm rating	qm rating	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_department name	department name	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_plan selections	plan selections	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_title	title	OUT
+OUT_primary drug	primary drug	OUT
+OUT_sliding fee	sliding fee	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_total capacity	total capacity	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_cost	cost	OUT
+OUT_dme	dme	OUT
+OUT_email	email	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_payment type	payment type	OUT
+OUT_measure response	measure response	OUT
+OUT_serial number	serial number	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_2012 deaths	2012 deaths	OUT
+OUT_2016 deaths	2016 deaths	OUT
+OUT_percent female	percent female	OUT
+OUT_south carolina	south carolina	OUT
+OUT_oregon	oregon	OUT
+OUT_colorado	colorado	OUT
+OUT_missouri	missouri	OUT
+OUT_vermont	vermont	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_washington	washington	OUT
+OUT_louisiana	louisiana	OUT
+OUT_utah	utah	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_us states	us states	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_unknown age	unknown age	OUT
+OUT_sir	sir	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties	counties	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+IN_community area	community area	IN
+OUT_observed infections	observed infections	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_measure id	measure id	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_location 1	location 1	OUT
+OUT_municipalities	municipalities	OUT
+OUT_utah senate districts	utah senate districts	OUT
+OUT_latitude	latitude	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_zip code	zip code	OUT
+OUT_hospital name	hospital name	OUT
+IN_community area name	community area name	IN
+OUT_provider address	provider address	OUT
+OUT_access point type	access point type	OUT
+OUT_community areas	community areas	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_survey type	survey type	OUT
+OUT_provider name	provider name	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_bin	bin	OUT
+OUT_facility id	facility id	OUT
+OUT_comparison interpretation	comparison interpretation	OUT
+OUT_facility name	facility name	OUT
+OUT_city	city	OUT
+OUT_longitude	longitude	OUT
+OUT_phone	phone	OUT
+OUT_street address	street address	OUT
+OUT_address	address	OUT
+OUT_health inspection rating	health inspection rating	OUT
+OUT_provider business address	provider business address	OUT
+OUT_laboratory type is state health dept	laboratory type is state health dept	OUT
+OUT_primary site	primary site	OUT
+OUT_site languages	site languages	OUT
+OUT_number of ventilators in facility	number of ventilators in facility	OUT
+OUT_measure description	measure description	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_vendor	vendor	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_state	state	OUT
+OUT_total performance score	total performance score	OUT
+OUT_complaint number	complaint number	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_process description	process description	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_restaurant name	restaurant name	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_legal business name	legal business name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_fax #	fax #	OUT
+OUT_fax	fax	OUT

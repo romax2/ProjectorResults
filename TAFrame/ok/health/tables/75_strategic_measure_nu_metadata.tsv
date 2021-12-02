@@ -1,0 +1,202 @@
+stc_label	sentence	category
+75_strategic_measure_nu	strategic measure_number of city-supported fresh food access points	Table
+OUT_incident address borough	incident address borough	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_website	website	OUT
+OUT_primary site	primary site	OUT
+OUT_incident address street number	incident address street number	OUT
+OUT_measure description	measure description	OUT
+IN_address	address	IN
+OUT_street address	street address	OUT
+OUT_longitude	longitude	OUT
+OUT_state	state	OUT
+OUT_survey date	survey date	OUT
+IN_location name	location name	IN
+OUT_location	location	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_planning regions	planning regions	OUT
+OUT_weighted clinical process of care domain score	weighted clinical process of care domain score	OUT
+IN_city	city	IN
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_facility name	facility name	OUT
+OUT_footnote	footnote	OUT
+OUT_full address	full address	OUT
+OUT_processing date	processing date	OUT
+IN_access point type	access point type	IN
+OUT_provider name	provider name	OUT
+OUT_provider address	provider address	OUT
+OUT_bin	bin	OUT
+OUT_patient days	patient days	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_zip codes	zip codes	OUT
+OUT_hospital	hospital	OUT
+OUT_community area name	community area name	OUT
+OUT_zip code	zip code	OUT
+OUT_hospital location	hospital location	OUT
+OUT_hospital name	hospital name	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_community area	community area	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+OUT_municipalities	municipalities	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_number of all beds	number of all beds	OUT
+OUT_location 1	location 1	OUT
+OUT_country region	country region	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_central line days	central line days	OUT
+OUT_catheter days	catheter days	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_sir icon	sir icon	OUT
+OUT_lat	lat	OUT
+OUT_school districts	school districts	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_counties	counties	OUT
+OUT_unknown age	unknown age	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_wyoming	wyoming	OUT
+OUT_fenchone	fenchone	OUT
+OUT_vermont	vermont	OUT
+OUT_arizona	arizona	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_below poverty level	below poverty level	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_minnesota	minnesota	OUT
+OUT_new mexico	new mexico	OUT
+OUT_iowa	iowa	OUT
+OUT_maine	maine	OUT
+OUT_south dakota	south dakota	OUT
+OUT_percent female	percent female	OUT
+OUT_shape st le	shape st le	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_2016 deaths	2016 deaths	OUT
+OUT_complaint type 311	complaint type 311	OUT
+OUT_hours	hours	OUT
+OUT_fax	fax	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician last name	physician last name	OUT
+OUT_recipient state	recipient state	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_drug cost	drug cost	OUT
+OUT_any current supply of hand sanitizer	any current supply of hand sanitizer	OUT
+OUT_fertility rate 2004 upper ci	fertility rate 2004 upper ci	OUT
+OUT_fertility rate 2005 upper ci	fertility rate 2005 upper ci	OUT
+OUT_fertility rate 2004	fertility rate 2004	OUT
+OUT_fertility rate 2007	fertility rate 2007	OUT
+OUT_combined key	combined key	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_percent 2007 upper ci	percent 2007 upper ci	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_percent 2001 upper ci	percent 2001 upper ci	OUT
+OUT_percent 2000 lower ci	percent 2000 lower ci	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_40 to 44 years old	40 to 44 years old	OUT
+OUT_payment type	payment type	OUT
+OUT_years averaged	years averaged	OUT
+OUT_unit values	unit values	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_active	active	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_2005	2005	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_2004	2004	OUT
+OUT_any current supply of gowns	any current supply of gowns	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_amount paid	amount paid	OUT
+OUT_2009	2009	OUT
+OUT_2008	2008	OUT
+OUT_condition	condition	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_dme	dme	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2010 carbon	2010 carbon	OUT
+OUT_completion rate - total enrolled by year	completion rate - total enrolled by year	OUT
+OUT_2014	2014	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_general fertility rate	general fertility rate	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_tuberculosis	tuberculosis	OUT
+OUT_2016	2016	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_dollar amount invested	dollar amount invested	OUT
+OUT_sex	sex	OUT
+OUT_stroke	stroke	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_primary drug	primary drug	OUT
+OUT_id	id	OUT
+OUT_title	title	OUT
+OUT_paid per service	paid per service	OUT
+OUT_age	age	OUT
+OUT_health care provider	health care provider	OUT
+OUT_veteran status	veteran status	OUT
+OUT_age group	age group	OUT
+OUT_2017	2017	OUT
+OUT_geraniol	geraniol	OUT
+OUT_fenchol	fenchol	OUT
+OUT_demographic type	demographic type	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_year	year	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_pulegol	pulegol	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_end time	end time	OUT
+OUT_department name	department name	OUT
+OUT_color	color	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_unknown	unknown	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_adm year	adm year	OUT
+OUT_beginning time period	beginning time period	OUT
+OUT_program	program	OUT
+OUT_study phase	study phase	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_assault	assault	OUT
+OUT_county fips code	county fips code	OUT
+OUT_small area code	small area code	OUT
+OUT_quarter number	quarter number	OUT
+IN_date	date	IN
+OUT_first	first	OUT
+OUT_rate	rate	OUT
+OUT_single member council districts	single member council districts	OUT
+IN_number of programs	number of programs	IN
+OUT_state name	state name	OUT
+OUT_month year	month year	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_network	network	OUT
+OUT_calls	calls	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_intake condition	intake condition	OUT
+OUT_eeo category description	eeo category description	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+56_nursing_home_deficie	nursing home deficiencies in utah 2018	Table
+OUT_hospital location	hospital location	OUT
+OUT_location 1	location 1	OUT
+IN_zip codes	zip codes	IN
+OUT_hospital name	hospital name	OUT
+IN_municipalities	municipalities	IN
+IN_provider address	provider address	IN
+OUT_central line days	central line days	OUT
+OUT_number of clinics	number of clinics	OUT
+IN_provider state	provider state	IN
+OUT_sir interpretation	sir interpretation	OUT
+OUT_zip code	zip code	OUT
+IN_counties	counties	IN
+OUT_2016 sir	2016 sir	OUT
+IN_deficiency description	deficiency description	IN
+IN_provider zip code	provider zip code	IN
+IN_provider city	provider city	IN
+IN_deficiency prefix	deficiency prefix	IN
+IN_deficiency tag number	deficiency tag number	IN
+OUT_catheter days	catheter days	OUT
+OUT_sir icon	sir icon	OUT
+IN_counties in utah	counties in utah	IN
+OUT_zip	zip	OUT
+IN_location	location	IN
+IN_scope severity code	scope severity code	IN
+IN_provider name	provider name	IN
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_benchmark icon	benchmark icon	OUT
+IN_standard deficiency	standard deficiency	IN
+OUT_longitude	longitude	OUT
+OUT_hospital	hospital	OUT
+IN_complaint deficiency	complaint deficiency	IN
+OUT_city	city	OUT
+OUT_wyoming	wyoming	OUT
+OUT_access point type	access point type	OUT
+OUT_arkansas	arkansas	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+IN_correction date	correction date	IN
+IN_inspection cycle	inspection cycle	IN
+OUT_new hampshire	new hampshire	OUT
+OUT_mississippi	mississippi	OUT
+OUT_measure id	measure id	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_address 1	address 1	OUT
+IN_survey type	survey type	IN
+IN_deficiency corrected	deficiency corrected	IN
+OUT_north carolina	north carolina	OUT
+IN_processing date	processing date	IN
+OUT_fips	fips	OUT
+IN_survey date	survey date	IN
+OUT_address	address	OUT
+OUT_area name	area name	OUT
+OUT_hours wednesday	hours wednesday	OUT
+OUT_community board	community board	OUT
+OUT_site languages	site languages	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_incident address street name	incident address street name	OUT
+OUT_total performance score	total performance score	OUT
+OUT_less than 5 years old	less than 5 years old	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_physician middle name	physician middle name	OUT
+OUT_physician first name	physician first name	OUT
+OUT_limonene	limonene	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_nerol	nerol	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_fertility rate 2005 lower ci	fertility rate 2005 lower ci	OUT
+OUT_fertility rate 1999 lower ci	fertility rate 1999 lower ci	OUT
+OUT_percent 2005	percent 2005	OUT
+OUT_fertility rate 2006 upper ci	fertility rate 2006 upper ci	OUT
+OUT_fertility rate 1999 upper ci	fertility rate 1999 upper ci	OUT
+OUT_fertility rate 1999	fertility rate 1999	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_births 2000	births 2000	OUT
+OUT_70 to 74 years old	70 to 74 years old	OUT
+OUT_years averaged	years averaged	OUT
+OUT_payment type	payment type	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_2005	2005	OUT
+OUT_2003	2003	OUT
+OUT_2004	2004	OUT
+OUT_2001	2001	OUT
+OUT_cases 2010	cases 2010	OUT
+OUT_census tract	census tract	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2007	2007	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_total provider payment 75	total provider payment 75	OUT
+OUT_2010 duchesne	2010 duchesne	OUT
+OUT_amount paid	amount paid	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2011	2011	OUT
+OUT_2007 us	2007 us	OUT
+OUT_total denominator	total denominator	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_2010 us	2010 us	OUT
+OUT_guaiol	guaiol	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2014	2014	OUT
+OUT_dme	dme	OUT
+OUT_2013 carbon	2013 carbon	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_2016	2016	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_manner of death	manner of death	OUT
+OUT_demographics	demographics	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_total numerator	total numerator	OUT
+OUT_sex	sex	OUT
+OUT_prevalence	prevalence	OUT
+OUT_completion rate - % completed	completion rate - % completed	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_2018	2018	OUT
+OUT_population	population	OUT
+OUT_id	id	OUT
+OUT_age	age	OUT
+OUT_veteran status	veteran status	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_protocol	protocol	OUT
+OUT_age group	age group	OUT
+OUT_deleted	deleted	OUT
+OUT_2017	2017	OUT
+OUT_2007 box elder	2007 box elder	OUT
+OUT_2012 box elder	2012 box elder	OUT
+OUT_minutes	minutes	OUT
+OUT_demographic type	demographic type	OUT
+OUT_special study	special study	OUT
+OUT_year	year	OUT
+OUT_zone	zone	OUT
+OUT_program year	program year	OUT
+OUT_total entry	total entry	OUT
+OUT_animal id	animal id	OUT
+OUT_title	title	OUT
+OUT_pulegol	pulegol	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_group home	group home	OUT
+OUT_breed	breed	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_community registry	community registry	OUT
+OUT_services rendered	services rendered	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_language	language	OUT
+OUT_unknown	unknown	OUT
+OUT_category	category	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_total critical	total critical	OUT
+OUT_month	month	OUT
+OUT_study phase	study phase	OUT
+OUT_date time	date time	OUT
+OUT_completion rate - 1 year or less	completion rate - 1 year or less	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_genders served	genders served	OUT
+OUT_reporting period	reporting period	OUT
+OUT_quarter number	quarter number	OUT
+OUT_small area code	small area code	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_completers	completers	OUT
+OUT_medicare	medicare	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_number of programs	number of programs	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_month year	month year	OUT
+OUT_value of interest	value of interest	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county fips code	county fips code	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_drug type	drug type	OUT
+OUT_fiscal year end	fiscal year end	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_dependency	dependency	OUT
+OUT_date	date	OUT
+OUT_county name	county name	OUT
+OUT_number of prescriptions	number of prescriptions	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+54_number_of_reported_c	number of reported cases of notifiable conditions travis county 2007-2018	Table
+OUT_adm count	adm count	OUT
+OUT_month	month	OUT
+OUT_breed	breed	OUT
+OUT_community registry	community registry	OUT
+OUT_adm month	adm month	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_foster care	foster care	OUT
+OUT_date time	date time	OUT
+OUT_agency	agency	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_eeo category	eeo category	OUT
+OUT_year	year	OUT
+OUT_2013 box elder	2013 box elder	OUT
+OUT_special study	special study	OUT
+OUT_rate	rate	OUT
+OUT_state name	state name	OUT
+OUT_intake type	intake type	OUT
+IN_2017	2017	IN
+OUT_age group	age group	OUT
+OUT_veteran status	veteran status	OUT
+OUT_month year	month year	OUT
+OUT_health care provider	health care provider	OUT
+IN_2018	2018	IN
+OUT_gender	gender	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_calls	calls	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county name	county name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_intake condition	intake condition	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_sex	sex	OUT
+OUT_total numerator	total numerator	OUT
+OUT_eucalyptol	eucalyptol	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_years of potential life lost rate for total population	years of potential life lost rate for total population	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_pos category	pos category	OUT
+OUT_dependency	dependency	OUT
+OUT_terpineol	terpineol	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+IN_2016	2016	IN
+OUT_fiscal year end	fiscal year end	OUT
+OUT_last	last	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_infant mortality rate	infant mortality rate	OUT
+OUT_county fips code	county fips code	OUT
+OUT_check in dat	check in dat	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+IN_2015	2015	IN
+OUT_program	program	OUT
+OUT_gonorrhea in males	gonorrhea in males	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+IN_2014	2014	IN
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_notes	notes	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_fiscal year start	fiscal year start	OUT
+OUT_2011 us	2011 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_office visit type	office visit type	OUT
+OUT_guaiol	guaiol	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_ab total boarding homes - payments	ab total boarding homes - payments	OUT
+OUT_organization name	organization name	OUT
+OUT_2010 us	2010 us	OUT
+OUT_department name	department name	OUT
+IN_2012	2012	IN
+OUT_total denominator	total denominator	OUT
+OUT_2007 us	2007 us	OUT
+IN_2011	2011	IN
+IN_2010	2010	IN
+OUT_percent of prescriptions	percent of prescriptions	OUT
+IN_2013	2013	IN
+OUT_2009 carbon	2009 carbon	OUT
+OUT_type	type	OUT
+IN_2008	2008	IN
+OUT_total capacity	total capacity	OUT
+IN_2007	2007	IN
+IN_2009	2009	IN
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_2009 duchesne	2009 duchesne	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_census tract	census tract	OUT
+OUT_payment reduction percentage	payment reduction percentage	OUT
+OUT_15 to 19 years old	15 to 19 years old	OUT
+IN_condition	condition	IN
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_amount paid	amount paid	OUT
+OUT_years averaged	years averaged	OUT
+OUT_amount	amount	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_births 2007	births 2007	OUT
+OUT_date received	date received	OUT
+OUT_fertility rate 2001	fertility rate 2001	OUT
+OUT_fertility rate 2007	fertility rate 2007	OUT
+OUT_births 1999	births 1999	OUT
+OUT_births 2004	births 2004	OUT
+OUT_percent 2004 lower ci	percent 2004 lower ci	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_fertility rate 2009 upper ci	fertility rate 2009 upper ci	OUT
+OUT_any current supply of eye protection	any current supply of eye protection	OUT
+OUT_any current supply of ventilator supplies	any current supply of ventilator supplies	OUT
+OUT_vendor	vendor	OUT
+OUT_legal operator	legal operator	OUT
+OUT_total amount of payment us dollars	total amount of payment us dollars	OUT
+OUT_research transaction id	research transaction id	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_60 to 64 years old	60 to 64 years old	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_date of payment	date of payment	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_recipient city	recipient city	OUT
+OUT_fax	fax	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_2014 deaths	2014 deaths	OUT
+OUT_average age	average age	OUT
+OUT_south carolina	south carolina	OUT
+OUT_minnesota	minnesota	OUT
+OUT_maine	maine	OUT
+OUT_wisconsin	wisconsin	OUT
+OUT_oregon	oregon	OUT
+OUT_colorado	colorado	OUT
+OUT_begin date	begin date	OUT
+OUT_ohio	ohio	OUT
+OUT_missouri	missouri	OUT
+OUT_arizona	arizona	OUT
+OUT_idaho	idaho	OUT
+OUT_washington	washington	OUT
+OUT_camphene	camphene	OUT
+OUT_utah	utah	OUT
+OUT_us states	us states	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_counties	counties	OUT
+OUT_county	county	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_school districts	school districts	OUT
+OUT_census tract boundaries	census tract boundaries	OUT
+OUT_st	st	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_observed infections	observed infections	OUT
+OUT_community area number	community area number	OUT
+OUT_zip	zip	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_zip code	zip code	OUT
+OUT_wards	wards	OUT
+OUT_location 1	location 1	OUT
+OUT_latitude	latitude	OUT
+OUT_municipalities	municipalities	OUT
+OUT_2010 house districts	2010 house districts	OUT
+OUT_provider address	provider address	OUT
+OUT_access point type	access point type	OUT
+OUT_survey type	survey type	OUT
+OUT_area name	area name	OUT
+OUT_census tracts	census tracts	OUT
+OUT_hospital name	hospital name	OUT
+OUT_community area name	community area name	OUT
+OUT_provider state	provider state	OUT
+OUT_town index	town index	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_overall rating	overall rating	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_city	city	OUT
+OUT_inspection date	inspection date	OUT
+OUT_facility name	facility name	OUT
+OUT_processing date	processing date	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_location	location	OUT
+OUT_site name	site name	OUT
+OUT_street address	street address	OUT
+OUT_website	website	OUT
+OUT_planning regions	planning regions	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT
+OUT_address 1	address 1	OUT
+OUT_weighted patient experience of care domain score	weighted patient experience of care domain score	OUT
+OUT_unweighted patient experience of care domain score	unweighted patient experience of care domain score	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_measure description	measure description	OUT
+OUT_parking	parking	OUT
+OUT_provider business practice location address state name	provider business practice location address state name	OUT
+OUT_complaint status	complaint status	OUT

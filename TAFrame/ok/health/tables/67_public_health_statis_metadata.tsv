@@ -1,0 +1,202 @@
+stc_label	sentence	category
+67_public_health_statis	public health statistics- tuberculosis cases and average annual incidence rate, chicago, 2007- 2011	Table
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_2010 deaths	2010 deaths	OUT
+OUT_2010 population	2010 population	OUT
+OUT_2016 deaths	2016 deaths	OUT
+OUT_2015 deaths	2015 deaths	OUT
+OUT_north carolina	north carolina	OUT
+OUT_iowa	iowa	OUT
+OUT_maine	maine	OUT
+OUT_california	california	OUT
+OUT_new jersey	new jersey	OUT
+OUT_alaska	alaska	OUT
+OUT_florida	florida	OUT
+OUT_washington	washington	OUT
+OUT_massachusetts	massachusetts	OUT
+OUT_new york	new york	OUT
+OUT_counties in utah	counties in utah	OUT
+OUT_counties	counties	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_school districts	school districts	OUT
+OUT_sir icon	sir icon	OUT
+OUT_county	county	OUT
+OUT_deficiency tag number	deficiency tag number	OUT
+IN_community area	community area	IN
+OUT_observed infections	observed infections	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_municipalities	municipalities	OUT
+OUT_location 1	location 1	OUT
+OUT_council district	council district	OUT
+OUT_st	st	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_central line days	central line days	OUT
+OUT_location 2	location 2	OUT
+OUT_measure id	measure id	OUT
+OUT_measure start date	measure start date	OUT
+OUT_census tracts	census tracts	OUT
+OUT_provider number	provider number	OUT
+OUT_hospital name	hospital name	OUT
+IN_community area name	community area name	IN
+OUT_hospital	hospital	OUT
+OUT_provider state	provider state	OUT
+OUT_zip code	zip code	OUT
+OUT_provider address	provider address	OUT
+OUT_number of clinics	number of clinics	OUT
+OUT_zip codes	zip codes	OUT
+OUT_zip code 2	zip code 2	OUT
+OUT_zip	zip	OUT
+OUT_shape st ar	shape st ar	OUT
+OUT_measure end date	measure end date	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_score	score	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_complaint deficiency	complaint deficiency	OUT
+OUT_facility name	facility name	OUT
+OUT_footnote	footnote	OUT
+OUT_site address	site address	OUT
+OUT_town index	town index	OUT
+OUT_weighted efficiency domain score	weighted efficiency domain score	OUT
+OUT_planning regions	planning regions	OUT
+OUT_location	location	OUT
+OUT_city	city	OUT
+OUT_correction date	correction date	OUT
+OUT_measure name	measure name	OUT
+OUT_inspection date	inspection date	OUT
+OUT_weighted patient experience of care domain score	weighted patient experience of care domain score	OUT
+OUT_phone	phone	OUT
+OUT_address	address	OUT
+OUT_weighted outcome domain score	weighted outcome domain score	OUT
+OUT_primary site	primary site	OUT
+OUT_unweighted patient experience of care domain score	unweighted patient experience of care domain score	OUT
+OUT_coordinates	coordinates	OUT
+OUT_city 1	city 1	OUT
+OUT_measure description	measure description	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_total performance score	total performance score	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_process description	process description	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_hours	hours	OUT
+OUT_fax	fax	OUT
+OUT_recipient country	recipient country	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_recipient state	recipient state	OUT
+OUT_dispute status for publication	dispute status for publication	OUT
+OUT_legal business name	legal business name	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_vendor	vendor	OUT
+OUT_combined key	combined key	OUT
+IN_cases 2007 - 2011	cases 2007 - 2011	IN
+OUT_2005	2005	OUT
+IN_cases 2009	cases 2009	IN
+OUT_2001	2001	OUT
+IN_cases 2010	cases 2010	IN
+OUT_payment type	payment type	OUT
+IN_cases 2007	cases 2007	IN
+OUT_census tract	census tract	OUT
+IN_cases 2011	cases 2011	IN
+IN_cases 2008	cases 2008	IN
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_unit values	unit values	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_2013 us	2013 us	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2011 us	2011 us	OUT
+OUT_amount	amount	OUT
+OUT_2009 box elder	2009 box elder	OUT
+OUT_check in dat	check in dat	OUT
+OUT_independent living	independent living	OUT
+OUT_interest held by physician or an immediate family member	interest held by physician or an immediate family member	OUT
+OUT_disease	disease	OUT
+OUT_manner of death	manner of death	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_demographic	demographic	OUT
+OUT_outlier	outlier	OUT
+OUT_region	region	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_gender	gender	OUT
+OUT_deaths	deaths	OUT
+OUT_age	age	OUT
+OUT_cedrol	cedrol	OUT
+OUT_shelter	shelter	OUT
+OUT_condition	condition	OUT
+OUT_ventilator dependent unit	ventilator dependent unit	OUT
+OUT_age group	age group	OUT
+OUT_health care provider	health care provider	OUT
+OUT_2017	2017	OUT
+OUT_special study	special study	OUT
+OUT_year	year	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_residential	residential	OUT
+OUT_cost	cost	OUT
+OUT_community registry	community registry	OUT
+OUT_end time	end time	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_adm count	adm count	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_found location	found location	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_residents weekly all deaths	residents weekly all deaths	OUT
+OUT_adm year	adm year	OUT
+OUT_description of dog	description of dog	OUT
+OUT_month	month	OUT
+OUT_adm month	adm month	OUT
+OUT_preclinical research indicator	preclinical research indicator	OUT
+OUT_date time	date time	OUT
+OUT_agency	agency	OUT
+OUT_study phase	study phase	OUT
+OUT_last update	last update	OUT
+OUT_state name	state name	OUT
+OUT_month year	month year	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+IN_warning	warning	IN
+OUT_last name	last name	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_eeo category description	eeo category description	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_county name	county name	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_producer	producer	OUT
+OUT_minutes	minutes	OUT
+OUT_name	name	OUT
+OUT_network	network	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_intake condition	intake condition	OUT
+OUT_activity date	activity date	OUT
+OUT_building floor suite	building floor suite	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_pe	pe	OUT
+OUT_file date	file date	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total entry	total entry	OUT
+OUT_paid per service	paid per service	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_ab overall cost per case	ab overall cost per case	OUT
+OUT_total expenditure	total expenditure	OUT
+OUT_quarter	quarter	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_date	date	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_plan selections	plan selections	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_organization name	organization name	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_terms of interest	terms of interest	OUT
+OUT_qm rating	qm rating	OUT
+OUT_total plan selections	total plan selections	OUT

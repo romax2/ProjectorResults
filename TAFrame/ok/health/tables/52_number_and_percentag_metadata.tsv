@@ -1,0 +1,202 @@
+stc_label	sentence	category
+52_number_and_percentag	number and percentage of people who successfully complete workforce development training, eoa.f.4	Table
+OUT_gender	gender	OUT
+OUT_race	race	OUT
+OUT_deaths	deaths	OUT
+OUT_id	id	OUT
+OUT_unemployment	unemployment	OUT
+OUT_no high school diploma	no high school diploma	OUT
+OUT_veteran status	veteran status	OUT
+OUT_sex	sex	OUT
+OUT_age group	age group	OUT
+OUT_oct- dec numerator	oct- dec numerator	OUT
+OUT_oct- dec denominator	oct- dec denominator	OUT
+OUT_2017	2017	OUT
+OUT_demographic type	demographic type	OUT
+OUT_2007 box elder	2007 box elder	OUT
+IN_year	year	IN
+OUT_2012 box elder	2012 box elder	OUT
+OUT_eeo category	eeo category	OUT
+OUT_ethnicity	ethnicity	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_crowded housing	crowded housing	OUT
+OUT_average call to door interval	average call to door interval	OUT
+OUT_2011 us	2011 us	OUT
+OUT_organization	organization	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_2012 us	2012 us	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_2006	2006	OUT
+OUT_2013 us	2013 us	OUT
+OUT_unknown	unknown	OUT
+OUT_primary service to community	primary service to community	OUT
+OUT_2010 us	2010 us	OUT
+IN_completers - gender	completers - gender	IN
+OUT_2012	2012	OUT
+OUT_date time	date time	OUT
+OUT_2012 duchesne	2012 duchesne	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2010	2010	OUT
+OUT_reporting period	reporting period	OUT
+OUT_number of employees	number of employees	OUT
+OUT_state name	state name	OUT
+OUT_description of dog	description of dog	OUT
+OUT_2008 us	2008 us	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_month year	month year	OUT
+IN_completion rate - 1 - 2 years	completion rate - 1 - 2 years	IN
+OUT_warning	warning	OUT
+IN_completers - age	completers - age	IN
+OUT_principal investigator	principal investigator	OUT
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_2008	2008	OUT
+OUT_first	first	OUT
+IN_enrollment status - previously enrolled	enrollment status - previously enrolled	IN
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_county name	county name	OUT
+IN_enrollment status - newly enrolled	enrollment status - newly enrolled	IN
+OUT_2009	2009	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_name	name	OUT
+OUT_network	network	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_confirmed	confirmed	OUT
+OUT_rate effective date	rate effective date	OUT
+IN_enrollees - age	enrollees - age	IN
+OUT_for more information	for more information	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_total rate	total rate	OUT
+OUT_file date	file date	OUT
+OUT_total non critical	total non critical	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_childhood blood lead level screening	childhood blood lead level screening	OUT
+OUT_date	date	OUT
+OUT_ab boarding homes - dds - cases	ab boarding homes - dds - cases	OUT
+OUT_census tract	census tract	OUT
+IN_completion rate - more than 2 years	completion rate - more than 2 years	IN
+IN_enrollees - gender	enrollees - gender	IN
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_program	program	OUT
+OUT_2002	2002	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_ab total boarding homes - cases	ab total boarding homes - cases	OUT
+IN_total enrollment	total enrollment	IN
+OUT_paid per beneficiary	paid per beneficiary	OUT
+IN_completers	completers	IN
+OUT_date closed	date closed	OUT
+OUT_laboratory type is private lab	laboratory type is private lab	OUT
+OUT_office visit type	office visit type	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_qm rating	qm rating	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_org name	org name	OUT
+IN_completion rate - 1 year or less	completion rate - 1 year or less	IN
+OUT_plan selections	plan selections	OUT
+OUT_role description	role description	OUT
+OUT_paid per service	paid per service	OUT
+OUT_title	title	OUT
+OUT_total entry	total entry	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_ab other living arrangements payments	ab other living arrangements payments	OUT
+OUT_producer	producer	OUT
+OUT_practice city name	practice city name	OUT
+OUT_low birth weight	low birth weight	OUT
+IN_completion rate - total enrolled by year	completion rate - total enrolled by year	IN
+IN_completion rate - % completed	completion rate - % completed	IN
+OUT_years averaged	years averaged	OUT
+OUT_email	email	OUT
+OUT_required documents	required documents	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_percent 2008 upper ci	percent 2008 upper ci	OUT
+OUT_percent 2009	percent 2009	OUT
+OUT_condition	condition	OUT
+OUT_percent 1999 lower ci	percent 1999 lower ci	OUT
+OUT_percent 1999 upper ci	percent 1999 upper ci	OUT
+OUT_fertility rate 2000 upper ci	fertility rate 2000 upper ci	OUT
+OUT_percent 2006 lower ci	percent 2006 lower ci	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_fertility rate 2000 lower ci	fertility rate 2000 lower ci	OUT
+OUT_fertility rate 2002 lower ci	fertility rate 2002 lower ci	OUT
+OUT_10 to 14 years old	10 to 14 years old	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_active	active	OUT
+OUT_submitting applicable manufacturer or applicable gpo name	submitting applicable manufacturer or applicable gpo name	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_date of payment	date of payment	OUT
+OUT_physician last name	physician last name	OUT
+OUT_physician first name	physician first name	OUT
+OUT_fax	fax	OUT
+OUT_store type	store type	OUT
+OUT_hours	hours	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_average age of death	average age of death	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_percent male	percent male	OUT
+OUT_fips	fips	OUT
+OUT_iowa	iowa	OUT
+OUT_connecticut	connecticut	OUT
+OUT_percentile on 2014 national distribution	percentile on 2014 national distribution	OUT
+OUT_new york	new york	OUT
+OUT_percentile on 2014 national sir distribution	percentile on 2014 national sir distribution	OUT
+OUT_standard deficiency	standard deficiency	OUT
+OUT_counties	counties	OUT
+OUT_sir icon	sir icon	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_county	county	OUT
+OUT_predicted infections	predicted infections	OUT
+OUT_benchmark icon	benchmark icon	OUT
+OUT_school districts	school districts	OUT
+OUT_camphor	camphor	OUT
+OUT_community area	community area	OUT
+OUT_measure id	measure id	OUT
+OUT_deficiency description	deficiency description	OUT
+OUT_provider number	provider number	OUT
+OUT_sir interpretation	sir interpretation	OUT
+OUT_central line days	central line days	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_2010 senate districts	2010 senate districts	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_location 1	location 1	OUT
+OUT_zip code	zip code	OUT
+OUT_municipalities	municipalities	OUT
+OUT_wards	wards	OUT
+OUT_catheter days	catheter days	OUT
+OUT_hospital name	hospital name	OUT
+OUT_provider address	provider address	OUT
+OUT_score	score	OUT
+OUT_provider city	provider city	OUT
+OUT_community area name	community area name	OUT
+OUT_procedure type	procedure type	OUT
+OUT_survey type	survey type	OUT
+OUT_zip codes	zip codes	OUT
+OUT_hospital location	hospital location	OUT
+OUT_area name	area name	OUT
+OUT_utah house districts	utah house districts	OUT
+OUT_site address	site address	OUT
+OUT_facility name	facility name	OUT
+OUT_patient days	patient days	OUT
+OUT_city	city	OUT
+OUT_address line 1	address line 1	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+OUT_phone number	phone number	OUT
+OUT_location	location	OUT
+OUT_address	address	OUT
+OUT_phone	phone	OUT
+OUT_location name	location name	OUT
+OUT_planning regions	planning regions	OUT
+OUT_street address	street address	OUT
+OUT_longitude	longitude	OUT
+OUT_address 1	address 1	OUT
+OUT_primary site	primary site	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+OUT_weighted outcome domain score	weighted outcome domain score	OUT
+OUT_provider postal code	provider postal code	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_staffing rating	staffing rating	OUT
+OUT_state	state	OUT
+OUT_process description	process description	OUT

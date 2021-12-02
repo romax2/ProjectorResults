@@ -1,0 +1,202 @@
+stc_label	sentence	category
+80_utah_covid_cases_by_	utah covid cases by county map	Table
+OUT_zoning review cases data	zoning review cases data	OUT
+OUT_enrollment status - previously enrolled	enrollment status - previously enrolled	OUT
+OUT_completion rate - 1 - 2 years	completion rate - 1 - 2 years	OUT
+OUT_agency id	agency id	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_number of programs	number of programs	OUT
+OUT_month year	month year	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_end date	end date	OUT
+OUT_fiscal quarter	fiscal quarter	OUT
+OUT_intake type	intake type	OUT
+OUT_last name	last name	OUT
+OUT_intake condition	intake condition	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_fiscal quarter key	fiscal quarter key	OUT
+OUT_small area code	small area code	OUT
+OUT_employee category	employee category	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_rate effective date	rate effective date	OUT
+OUT_b- terpinene	b- terpinene	OUT
+OUT_context of research	context of research	OUT
+IN_confirmed	confirmed	IN
+OUT_name of study	name of study	OUT
+OUT_number of prescriptions	number of prescriptions	OUT
+OUT_pos category	pos category	OUT
+OUT_state name	state name	OUT
+OUT_b- caryophyllene	b- caryophyllene	OUT
+OUT_ab other living arrangements - cases	ab other living arrangements - cases	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_month	month	OUT
+OUT_rx per beneficiary	rx per beneficiary	OUT
+OUT_town	town	OUT
+OUT_drug type	drug type	OUT
+OUT_unknown	unknown	OUT
+OUT_description of dog	description of dog	OUT
+OUT_adm year	adm year	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_terpinolene	terpinolene	OUT
+OUT_language	language	OUT
+OUT_found location	found location	OUT
+OUT_county fips code	county fips code	OUT
+OUT_ab total paid cases	ab total paid cases	OUT
+OUT_crowded housing	crowded housing	OUT
+OUT_first name	first name	OUT
+OUT_community registry	community registry	OUT
+OUT_fiscal quarter end date	fiscal quarter end date	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_adm count	adm count	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_total enrollment	total enrollment	OUT
+IN_recovered	recovered	IN
+OUT_notes	notes	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_completers	completers	OUT
+OUT_animal id	animal id	OUT
+OUT_relative care	relative care	OUT
+OUT_total plan selections	total plan selections	OUT
+OUT_zone	zone	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_2010 box elder	2010 box elder	OUT
+OUT_organization name	organization name	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_eeo category	eeo category	OUT
+OUT_year	year	OUT
+OUT_demographic type	demographic type	OUT
+OUT_2011 box elder	2011 box elder	OUT
+OUT_age group	age group	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_cost per beneficiary	cost per beneficiary	OUT
+OUT_date opened	date opened	OUT
+OUT_plan selections	plan selections	OUT
+OUT_services rendered	services rendered	OUT
+IN_deaths	deaths	IN
+OUT_gender	gender	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_prevalence	prevalence	OUT
+OUT_role description	role description	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_a- phellandrene	a- phellandrene	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_fy month order	fy month order	OUT
+OUT_sex	sex	OUT
+OUT_total numerator	total numerator	OUT
+OUT_minutes	minutes	OUT
+OUT_lung cancer	lung cancer	OUT
+OUT_count of suicides	count of suicides	OUT
+OUT_payment type subcategory	payment type subcategory	OUT
+OUT_prostate cancer in males	prostate cancer in males	OUT
+OUT_2014	2014	OUT
+OUT_referral type	referral type	OUT
+OUT_2011 carbon	2011 carbon	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_2012 us	2012 us	OUT
+IN_last update	last update	IN
+OUT_2010 us	2010 us	OUT
+OUT_2007 carbon	2007 carbon	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_2011	2011	OUT
+OUT_2007 us	2007 us	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2009 us	2009 us	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2013	2013	OUT
+OUT_dme	dme	OUT
+OUT_breast cancer in females	breast cancer in females	OUT
+OUT_2008 carbon	2008 carbon	OUT
+OUT_descriptor 1 311	descriptor 1 311	OUT
+OUT_2008	2008	OUT
+OUT_shortage of aides	shortage of aides	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_condition	condition	OUT
+OUT_2008 duchesne	2008 duchesne	OUT
+OUT_2003	2003	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2005	2005	OUT
+OUT_total provider payment 25	total provider payment 25	OUT
+OUT_amount	amount	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_date received	date received	OUT
+IN_active	active	IN
+OUT_unit values	unit values	OUT
+OUT_percent 2008 upper ci	percent 2008 upper ci	OUT
+OUT_fertility rate 2008	fertility rate 2008	OUT
+OUT_births 2003	births 2003	OUT
+OUT_fertility rate 2006	fertility rate 2006	OUT
+OUT_percent 2007 lower ci	percent 2007 lower ci	OUT
+OUT_percent 2004 upper ci	percent 2004 upper ci	OUT
+IN_combined key	combined key	IN
+OUT_fertility rate 2007 upper ci	fertility rate 2007 upper ci	OUT
+OUT_fertility rate 1999 upper ci	fertility rate 1999 upper ci	OUT
+OUT_fertility rate 2006 lower ci	fertility rate 2006 lower ci	OUT
+OUT_fertility rate 2003 lower ci	fertility rate 2003 lower ci	OUT
+OUT_drug cost	drug cost	OUT
+OUT_covered recipient type	covered recipient type	OUT
+OUT_nerol	nerol	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_recipient zip code	recipient zip code	OUT
+OUT_form of payment or transfer of value	form of payment or transfer of value	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_recipient country	recipient country	OUT
+OUT_product indicator	product indicator	OUT
+OUT_physician ownership transaction id	physician ownership transaction id	OUT
+OUT_55 to 59 years old	55 to 59 years old	OUT
+OUT_total number of occupied beds	total number of occupied beds	OUT
+IN_long	long	IN
+OUT_cms certification number	cms certification number	OUT
+OUT_incident address	incident address	OUT
+OUT_refugee clinic patients	refugee clinic patients	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_process description	process description	OUT
+OUT_begin time	begin time	OUT
+OUT_total performance score	total performance score	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_begin date	begin date	OUT
+IN_country region	country region	IN
+OUT_state	state	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_address	address	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_hours sunday	hours sunday	OUT
+IN_fips	fips	IN
+OUT_inspection cycle	inspection cycle	OUT
+OUT_community board	community board	OUT
+OUT_deficiency category	deficiency category	OUT
+OUT_alabama	alabama	OUT
+OUT_street address	street address	OUT
+IN_lat	lat	IN
+OUT_score	score	OUT
+OUT_arizona	arizona	OUT
+OUT_survey type	survey type	OUT
+OUT_new hampshire	new hampshire	OUT
+OUT_oregon	oregon	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_provider address	provider address	OUT
+OUT_zip code	zip code	OUT
+OUT_provider city	provider city	OUT
+OUT_city	city	OUT
+IN_counties	counties	IN
+IN_county	county	IN
+OUT_provider zip code	provider zip code	OUT
+IN_province state	province state	IN
+OUT_provider name	provider name	OUT
+OUT_zip codes	zip codes	OUT
+OUT_location name	location name	OUT
+OUT_access point type	access point type	OUT
+OUT_census tracts	census tracts	OUT
+OUT_processing date	processing date	OUT
+IN_us states	us states	IN
+OUT_community area	community area	OUT
+OUT_location	location	OUT
+OUT_hospital name	hospital name	OUT
+OUT_community area number	community area number	OUT
+OUT_federal provider number	federal provider number	OUT
+OUT_location 1	location 1	OUT
+OUT_location 2	location 2	OUT
+OUT_# of diabetes patients receiving appropriate care	# of diabetes patients receiving appropriate care	OUT

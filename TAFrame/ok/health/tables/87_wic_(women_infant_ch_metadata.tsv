@@ -1,0 +1,202 @@
+stc_label	sentence	category
+87_wic_(women_infant_ch	wic (women infant children's) program locations utah	Table
+OUT_state	state	OUT
+OUT_incident address zip	incident address zip	OUT
+OUT_# of patients who received appropriate treatment	# of patients who received appropriate treatment	OUT
+OUT_tb clinic patients	tb clinic patients	OUT
+OUT_total performance score	total performance score	OUT
+OUT_total # of patients who were treated	total # of patients who were treated	OUT
+IN_street address	street address	IN
+IN_phone number	phone number	IN
+OUT_area name	area name	OUT
+OUT_measure description	measure description	OUT
+OUT_location	location	OUT
+IN_city	city	IN
+OUT_processing date	processing date	OUT
+OUT_total # of diabetes patients	total # of diabetes patients	OUT
+IN_zip codes	zip codes	IN
+OUT_community area name	community area name	OUT
+OUT_zip code	zip code	OUT
+OUT_provider city	provider city	OUT
+OUT_provider address	provider address	OUT
+OUT_provider state	provider state	OUT
+OUT_isoborneol	isoborneol	OUT
+OUT_shortage of clinical staff	shortage of clinical staff	OUT
+OUT_hospital location	hospital location	OUT
+OUT_inspection cycle	inspection cycle	OUT
+OUT_provider zip code	provider zip code	OUT
+OUT_hospital	hospital	OUT
+OUT_hospital name	hospital name	OUT
+OUT_community area number	community area number	OUT
+OUT_deficiency corrected	deficiency corrected	OUT
+OUT_st	st	OUT
+OUT_national avg total performance score	national avg total performance score	OUT
+OUT_community area	community area	OUT
+OUT_deficiency prefix	deficiency prefix	OUT
+IN_municipalities	municipalities	IN
+OUT_location 1	location 1	OUT
+OUT_central line days	central line days	OUT
+OUT_catheter days	catheter days	OUT
+OUT_county	county	OUT
+IN_counties	counties	IN
+OUT_observed infections	observed infections	OUT
+OUT_sir icon	sir icon	OUT
+OUT_2016 sir	2016 sir	OUT
+OUT_predicted infections	predicted infections	OUT
+IN_counties in utah	counties in utah	IN
+OUT_bbl	bbl	OUT
+OUT_idaho	idaho	OUT
+OUT_virginia	virginia	OUT
+OUT_arkansas	arkansas	OUT
+OUT_georgia	georgia	OUT
+OUT_tennessee	tennessee	OUT
+OUT_south carolina	south carolina	OUT
+OUT_average age of death	average age of death	OUT
+OUT_65 to 69 years old	65 to 69 years old	OUT
+OUT_cms certification number	cms certification number	OUT
+OUT_80 to 84 years old	80 to 84 years old	OUT
+OUT_45 to 49 years old	45 to 49 years old	OUT
+OUT_recipient city	recipient city	OUT
+OUT_physician name suffix	physician name suffix	OUT
+OUT_physician last name	physician last name	OUT
+OUT_physician specialty	physician specialty	OUT
+OUT_physician primary type	physician primary type	OUT
+OUT_applicable manufacturer or applicable gpo making payment country	applicable manufacturer or applicable gpo making payment country	OUT
+OUT_recipient province	recipient province	OUT
+OUT_applicable manufacturer or applicable gpo making payment name	applicable manufacturer or applicable gpo making payment name	OUT
+OUT_applicable manufacturer or applicable gpo making payment state	applicable manufacturer or applicable gpo making payment state	OUT
+OUT_applicable manufacturer or applicable gpo making payment id	applicable manufacturer or applicable gpo making payment id	OUT
+OUT_5 to 9 years old	5 to 9 years old	OUT
+OUT_drug cost	drug cost	OUT
+OUT_fertility rate 1999 lower ci	fertility rate 1999 lower ci	OUT
+OUT_fertility rate 2003	fertility rate 2003	OUT
+OUT_percent 2003 lower ci	percent 2003 lower ci	OUT
+OUT_fertility rate 2009	fertility rate 2009	OUT
+OUT_percent 1999 lower ci	percent 1999 lower ci	OUT
+OUT_percent 2006	percent 2006	OUT
+OUT_percent 2001 upper ci	percent 2001 upper ci	OUT
+OUT_percent 2002	percent 2002	OUT
+OUT_births 2000	births 2000	OUT
+OUT_outlier effective date	outlier effective date	OUT
+OUT_percent 2008	percent 2008	OUT
+OUT_years averaged	years averaged	OUT
+OUT_30 to 34 years old	30 to 34 years old	OUT
+OUT_resident access to testing in facility	resident access to testing in facility	OUT
+OUT_amount	amount	OUT
+OUT_2005	2005	OUT
+OUT_cases 2009	cases 2009	OUT
+OUT_2001	2001	OUT
+OUT_census tract	census tract	OUT
+OUT_laboratory type is other	laboratory type is other	OUT
+OUT_clinical trials gov identifier	clinical trials gov identifier	OUT
+OUT_total provider payment 50	total provider payment 50	OUT
+OUT_cases 2011	cases 2011	OUT
+OUT_amount paid	amount paid	OUT
+OUT_cases 2008	cases 2008	OUT
+OUT_2000 life expectancy	2000 life expectancy	OUT
+OUT_2009	2009	OUT
+OUT_2007 duchesne	2007 duchesne	OUT
+OUT_1990 life expectancy	1990 life expectancy	OUT
+OUT_2008	2008	OUT
+OUT_2011 duchesne	2011 duchesne	OUT
+OUT_2009 carbon	2009 carbon	OUT
+OUT_shortage of other staff	shortage of other staff	OUT
+OUT_2013 duchesne	2013 duchesne	OUT
+OUT_gonorrhea in females	gonorrhea in females	OUT
+OUT_childhood lead poisoning	childhood lead poisoning	OUT
+OUT_2008 us	2008 us	OUT
+OUT_2009 us	2009 us	OUT
+OUT_dme	dme	OUT
+OUT_2010	2010	OUT
+OUT_2007 us	2007 us	OUT
+OUT_census tract population	census tract population	OUT
+OUT_2012	2012	OUT
+OUT_provider organization name legal business name	provider organization name legal business name	OUT
+OUT_2013 us	2013 us	OUT
+OUT_guaiol	guaiol	OUT
+OUT_2012 us	2012 us	OUT
+OUT_death rate for suicide	death rate for suicide	OUT
+OUT_a- cedrene	a- cedrene	OUT
+OUT_food insecure percentage	food insecure percentage	OUT
+OUT_2010 life expectancy	2010 life expectancy	OUT
+OUT_check in dat	check in dat	OUT
+OUT_completion rate - more than 2 years	completion rate - more than 2 years	OUT
+OUT_food insecure population	food insecure population	OUT
+OUT_2008 box elder	2008 box elder	OUT
+OUT_protocol	protocol	OUT
+OUT_demographics	demographics	OUT
+OUT_sex	sex	OUT
+OUT_diabetes rate	diabetes rate	OUT
+OUT_fy month order	fy month order	OUT
+OUT_provider other organization name	provider other organization name	OUT
+OUT_demographic	demographic	OUT
+OUT_outlier	outlier	OUT
+OUT_title	title	OUT
+OUT_age upon intake	age upon intake	OUT
+OUT_ab boarding homes - other payments	ab boarding homes - other payments	OUT
+OUT_gender	gender	OUT
+OUT_age	age	OUT
+OUT_services rendered	services rendered	OUT
+OUT_plan selections	plan selections	OUT
+OUT_date opened	date opened	OUT
+OUT_age group	age group	OUT
+OUT_geraniol	geraniol	OUT
+OUT_percent of prescriptions	percent of prescriptions	OUT
+OUT_demographic type	demographic type	OUT
+OUT_special study	special study	OUT
+OUT_year	year	OUT
+OUT_crude prevalence rate	crude prevalence rate	OUT
+OUT_sex upon intake	sex upon intake	OUT
+OUT_date closed	date closed	OUT
+OUT_residents total all deaths	residents total all deaths	OUT
+OUT_ab boarding homes - dds payments	ab boarding homes - dds payments	OUT
+OUT_department name	department name	OUT
+OUT_passed quality assurance check	passed quality assurance check	OUT
+OUT_health zone of residence	health zone of residence	OUT
+OUT_morphine milligram equivalents	morphine milligram equivalents	OUT
+OUT_std clinic patients	std clinic patients	OUT
+OUT_paid per beneficiary	paid per beneficiary	OUT
+OUT_boundaries single member districts	boundaries single member districts	OUT
+OUT_therapeutic foster care	therapeutic foster care	OUT
+OUT_beneficiaries	beneficiaries	OUT
+OUT_services per beneficiary	services per beneficiary	OUT
+OUT_outpatient interim rates	outpatient interim rates	OUT
+OUT_adm count	adm count	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_language	language	OUT
+OUT_neighborhood planning areas	neighborhood planning areas	OUT
+OUT_unknown	unknown	OUT
+OUT_fiscal quarter start date	fiscal quarter start date	OUT
+OUT_number of employees	number of employees	OUT
+OUT_residents weekly all deaths	residents weekly all deaths	OUT
+OUT_adm year	adm year	OUT
+OUT_month	month	OUT
+OUT_enrollees - gender	enrollees - gender	OUT
+OUT_study phase	study phase	OUT
+IN_agency	agency	IN
+OUT_quarter	quarter	OUT
+OUT_date time	date time	OUT
+OUT_adm month	adm month	OUT
+OUT_date	date	OUT
+OUT_enrollment status - newly enrolled	enrollment status - newly enrolled	OUT
+OUT_single member council districts	single member council districts	OUT
+OUT_ab boarding homes - other - cases	ab boarding homes - other - cases	OUT
+OUT_file date	file date	OUT
+OUT_pos category	pos category	OUT
+OUT_b- myrcene	b- myrcene	OUT
+OUT_enrollees - age	enrollees - age	OUT
+OUT_menthol	menthol	OUT
+OUT_total rate	total rate	OUT
+OUT_employee category	employee category	OUT
+OUT_rate	rate	OUT
+OUT_intake type	intake type	OUT
+OUT_call to door interval target	call to door interval target	OUT
+OUT_calls	calls	OUT
+OUT_state name	state name	OUT
+OUT_month year	month year	OUT
+OUT_principal investigator	principal investigator	OUT
+OUT_mean annual frequency	mean annual frequency	OUT
+OUT_completers - age	completers - age	OUT
+OUT_value of interest	value of interest	OUT
+OUT_last name	last name	OUT
+OUT_county name	county name	OUT
