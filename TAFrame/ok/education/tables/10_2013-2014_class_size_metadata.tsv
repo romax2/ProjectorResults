@@ -1,0 +1,302 @@
+stc_label	sentence	category
+10_2013-2014_class_size	2013-2014 class size report district level detail final	Table
+IN_average class size	average class size	IN
+IN_core course	core course	IN
+IN_program type	program type	IN
+OUT_department	department	OUT
+OUT_teacher attendance rate	teacher attendance rate	OUT
+IN_csd	csd	IN
+IN_number of sections	number of sections	IN
+IN_grade level	grade level	IN
+OUT_tribal	tribal	OUT
+IN_service category	service category	IN
+OUT_additional need	additional need	OUT
+IN_number of students / seats filled	number of students / seats filled	IN
+IN_core subject	core subject	IN
+OUT_4	4	OUT
+OUT_2	2	OUT
+OUT_7	7	OUT
+OUT_2015	2015	OUT
+OUT_1	1	OUT
+OUT_5	5	OUT
+OUT_11	11	OUT
+OUT_12	12	OUT
+OUT_k	k	OUT
+OUT_female	female	OUT
+OUT_locale	locale	OUT
+OUT_african am or black	african am or black	OUT
+OUT_male	male	OUT
+OUT_november 2017 identified need	november 2017 identified need	OUT
+OUT_4th grade	4th grade	OUT
+OUT_ethnic minority	ethnic minority	OUT
+OUT_total	total	OUT
+OUT_gender	gender	OUT
+OUT_american indian or alaska native	american indian or alaska native	OUT
+OUT_american indian	american indian	OUT
+OUT_test	test	OUT
+OUT_school year	school year	OUT
+OUT_course type	course type	OUT
+OUT_native hawaiian or other pacific islander	native hawaiian or other pacific islander	OUT
+OUT_11th grade	11th grade	OUT
+OUT_5th grade	5th grade	OUT
+OUT_2012	2012	OUT
+OUT_hispanic	hispanic	OUT
+OUT_charter school	charter school	OUT
+OUT_2nd grade	2nd grade	OUT
+OUT_2017 grad rate	2017 grad rate	OUT
+OUT_2011	2011	OUT
+OUT_course	course	OUT
+OUT_2016 grad rate	2016 grad rate	OUT
+OUT_kansas	kansas	OUT
+OUT_district name	district name	OUT
+OUT_released	released	OUT
+OUT_program name	program name	OUT
+OUT_utah	utah	OUT
+OUT_present	present	OUT
+OUT_absent	absent	OUT
+OUT_5 p2 nontraditional completion	5 p2 nontraditional completion	OUT
+OUT_percent other citizen status	percent other citizen status	OUT
+OUT_1997	1997	OUT
+OUT_school district	school district	OUT
+OUT_uniform	uniform	OUT
+OUT_1769	1769	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_student count	student count	OUT
+IN_boro	boro	IN
+OUT_federal school code	federal school code	OUT
+OUT_district	district	OUT
+OUT_cumulative number of sessions	cumulative number of sessions	OUT
+OUT_ytd	ytd	OUT
+OUT_record count	record count	OUT
+OUT_pre- k applicants	pre- k applicants	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_number of offers	number of offers	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_metric type	metric type	OUT
+OUT_unnamed column 1	unnamed column 1	OUT
+OUT_grade 9 applicants	grade 9 applicants	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_school	school	OUT
+OUT_unnamed column	unnamed column	OUT
+OUT_tap college name	tap college name	OUT
+OUT_fiscal agent name	fiscal agent name	OUT
+OUT_count of testers	count of testers	OUT
+OUT_grade 6 applicants	grade 6 applicants	OUT
+OUT_sector type	sector type	OUT
+OUT_primary program type	primary program type	OUT
+OUT_literacy	literacy	OUT
+OUT_faculty total	faculty total	OUT
+OUT_number of seats in scope / design	number of seats in scope / design	OUT
+OUT_remaining balance	remaining balance	OUT
+OUT_capacity	capacity	OUT
+OUT_life insurance	life insurance	OUT
+OUT_town code	town code	OUT
+OUT_borough	borough	OUT
+OUT_retirement	retirement	OUT
+OUT_# of 8th graders who have completed at least one semester of health instruction	# of 8th graders who have completed at least one semester of health instruction	OUT
+OUT_town	town	OUT
+OUT_tap recipient dollars	tap recipient dollars	OUT
+OUT_total benefits	total benefits	OUT
+OUT_# of 8th graders	# of 8th graders	OUT
+OUT_district number	district number	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_mathematics	mathematics	OUT
+OUT_total trained	total trained	OUT
+OUT_total compensation	total compensation	OUT
+OUT_classification of instructional program name	classification of instructional program name	OUT
+OUT_month	month	OUT
+OUT_operating cost	operating cost	OUT
+OUT_score	score	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_community school district	community school district	OUT
+OUT_median beginning salary	median beginning salary	OUT
+OUT_geo dist	geo dist	OUT
+OUT_expended amount ltd	expended amount ltd	OUT
+OUT_amount	amount	OUT
+OUT_anticipated number of contracts	anticipated number of contracts	OUT
+OUT_grade 6 offers	grade 6 offers	OUT
+OUT_program designations included in counts bridging the gap	program designations included in counts bridging the gap	OUT
+OUT_median salary	median salary	OUT
+OUT_cte courses	cte courses	OUT
+OUT_count	count	OUT
+OUT_february 2018 funded need	february 2018 funded need	OUT
+OUT_contract award date	contract award date	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_county name	county name	OUT
+OUT_org id	org id	OUT
+OUT_residency	residency	OUT
+OUT_percent not receiving	percent not receiving	OUT
+OUT_3rd grade reading	3rd grade reading	OUT
+OUT_number of institutions	number of institutions	OUT
+OUT_# of licensed and regulated centers	# of licensed and regulated centers	OUT
+OUT_pre- k offers	pre- k offers	OUT
+OUT_city council district	city council district	OUT
+OUT_data as of date	data as of date	OUT
+OUT_org name	org name	OUT
+OUT_program designations included in counts school response clinician	program designations included in counts school response clinician	OUT
+OUT_name	name	OUT
+OUT_b elem	b elem	OUT
+OUT_building id	building id	OUT
+OUT_date	date	OUT
+OUT_board name	board name	OUT
+OUT_control	control	OUT
+OUT_attempted compliant contract	attempted compliant contract	OUT
+OUT_assigned contract negotiator	assigned contract negotiator	OUT
+OUT_montana	montana	OUT
+OUT_faculty part time	faculty part time	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_description	description	OUT
+OUT_part time	part time	OUT
+OUT_contract number	contract number	OUT
+OUT_percent hispanic latino	percent hispanic latino	OUT
+OUT_years of principal experience at this school	years of principal experience at this school	OUT
+OUT_sam #	sam #	OUT
+OUT_effective school leadership - percent positive	effective school leadership - percent positive	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_staff completing training	staff completing training	OUT
+OUT_type	type	OUT
+OUT_effective school leadership rating	effective school leadership rating	OUT
+OUT_rigorous instruction - percent positive	rigorous instruction - percent positive	OUT
+OUT_quality review - dates of review	quality review - dates of review	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+OUT_percent other ethnicity	percent other ethnicity	OUT
+OUT_average change in student attendance	average change in student attendance	OUT
+OUT_school information school name	school information school name	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_percent english language learners	percent english language learners	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_percent in temp housing	percent in temp housing	OUT
+OUT_percent white	percent white	OUT
+OUT_enrollment	enrollment	OUT
+OUT_economic need index	economic need index	OUT
+OUT_school name	school name	OUT
+OUT_preschool age	preschool age	OUT
+OUT_assigned contract negotiator email	assigned contract negotiator email	OUT
+OUT_total enrollment pre- k to 12	total enrollment pre- k to 12	OUT
+OUT_discharge type	discharge type	OUT
+OUT_label x	label x	OUT
+OUT_year	year	OUT
+OUT_% english language learners	% english language learners	OUT
+OUT_grade 2	grade 2	OUT
+OUT_grade k	grade k	OUT
+OUT_grade 4	grade 4	OUT
+OUT_# ell spanish	# ell spanish	OUT
+OUT_# of discharges	# of discharges	OUT
+OUT_# grade 1	# grade 1	OUT
+OUT_# black	# black	OUT
+OUT_grade 1	grade 1	OUT
+OUT_% black	% black	OUT
+OUT_grade 3	grade 3	OUT
+OUT_# grade 6	# grade 6	OUT
+OUT_# charter students	# charter students	OUT
+OUT_math # level 2	math # level 2	OUT
+OUT_% ell russian	% ell russian	OUT
+OUT_# grade 8	# grade 8	OUT
+OUT_# white	# white	OUT
+OUT_# female	# female	OUT
+OUT_category	category	OUT
+OUT_grade 12	grade 12	OUT
+OUT_# poverty	# poverty	OUT
+OUT_% hispanic	% hispanic	OUT
+OUT_grade 6	grade 6	OUT
+OUT_grade 9	grade 9	OUT
+OUT_math % level 2	math % level 2	OUT
+OUT_num level 2	num level 2	OUT
+OUT_pct level 4	pct level 4	OUT
+OUT_grade 5	grade 5	OUT
+OUT_% female	% female	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_num level 1	num level 1	OUT
+OUT_# charter sth	# charter sth	OUT
+OUT_grade 8	grade 8	OUT
+OUT_grade pk	grade pk	OUT
+OUT_%	%	OUT
+OUT_bilingual	bilingual	OUT
+OUT_total gc	total gc	OUT
+OUT_# doe sth	# doe sth	OUT
+OUT_colorado	colorado	OUT
+OUT_serving more than one location	serving more than one location	OUT
+OUT_connecticut	connecticut	OUT
+OUT_project number	project number	OUT
+OUT_additional role specifications bilingual gc	additional role specifications bilingual gc	OUT
+OUT_demographic	demographic	OUT
+OUT_school number	school number	OUT
+OUT_#	#	OUT
+OUT_st fips	st fips	OUT
+OUT_additional information	additional information	OUT
+OUT_regional centre for education name	regional centre for education name	OUT
+OUT_sat avg	sat avg	OUT
+OUT_grade 4 #	grade 4 #	OUT
+OUT_grade 2 #	grade 2 #	OUT
+OUT_new mexico	new mexico	OUT
+OUT_grade 9 #	grade 9 #	OUT
+OUT_total # within demographic	total # within demographic	OUT
+OUT_school age	school age	OUT
+OUT_atr	atr	OUT
+OUT_grade 2 %	grade 2 %	OUT
+OUT_services	services	OUT
+OUT_grade 6 #	grade 6 #	OUT
+OUT_additional role specifications sw serving more than one location	additional role specifications sw serving more than one location	OUT
+OUT_grade 8 #	grade 8 #	OUT
+OUT_board code	board code	OUT
+OUT_pa center for workforce information and analysis connection	pa center for workforce information and analysis connection	OUT
+OUT_grade 7 #	grade 7 #	OUT
+OUT_postal code	postal code	OUT
+OUT_elem	elem	OUT
+OUT_location	location	OUT
+OUT_civic address	civic address	OUT
+OUT_time	time	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_activities	activities	OUT
+OUT_local education agency	local education agency	OUT
+OUT_bus	bus	OUT
+OUT_institutions	institutions	OUT
+OUT_activities description	activities description	OUT
+OUT_overview	overview	OUT
+OUT_category values	category values	OUT
+OUT_address	address	OUT
+OUT_neighborhood	neighborhood	OUT
+OUT_zip	zip	OUT
+OUT_latitude	latitude	OUT
+OUT_website	website	OUT
+OUT_council district	council district	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_school id	school id	OUT
+OUT_sample site	sample site	OUT
+OUT_school longitude	school longitude	OUT
+OUT_school latitude	school latitude	OUT
+OUT_end time	end time	OUT
+OUT_phone number	phone number	OUT
+OUT_bbl	bbl	OUT
+OUT_effective leaders	effective leaders	OUT
+OUT_zip codes	zip codes	OUT
+OUT_status descriptions	status descriptions	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_county	county	OUT
+OUT_principal title	principal title	OUT
+OUT_counties	counties	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_cohort	cohort	OUT
+OUT_cohort year	cohort year	OUT
+OUT_total regents pct of cohort	total regents pct of cohort	OUT
+OUT_local pct of cohort	local pct of cohort	OUT
+OUT_robbery without weapon	robbery without weapon	OUT
+OUT_homicide without weapon	homicide without weapon	OUT
+OUT_kidnapping with weapon	kidnapping with weapon	OUT
+OUT_riot with weapon	riot with weapon	OUT
+OUT_arson with weapon	arson with weapon	OUT
+OUT_other sex offenses with weapon	other sex offenses with weapon	OUT
+OUT_assault with physical injury without weapon	assault with physical injury without weapon	OUT
+OUT_administrative district	administrative district	OUT
+OUT_forcible sex offenses with weapon	forcible sex offenses with weapon	OUT
+OUT_sth students with 2 or more suspensions or removals	sth students with 2 or more suspensions or removals	OUT
+OUT_5 superintendent	5 superintendent	OUT
+OUT_male superintendent	male superintendent	OUT
+OUT_female superintendent	female superintendent	OUT
+OUT_4 removal	4 removal	OUT
+OUT_0 superintendent	0 superintendent	OUT
+OUT_location category	location category	OUT
+OUT_female expulsions	female expulsions	OUT
+OUT_male expulsions	male expulsions	OUT
+OUT_location name	location name	OUT
+OUT_4 principal	4 principal	OUT

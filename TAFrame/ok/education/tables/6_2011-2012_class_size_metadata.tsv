@@ -1,0 +1,302 @@
+stc_label	sentence	category
+6_2011-2012_class_size	2011-2012 class size report district level distribution	Table
+IN_number of classes	number of classes	IN
+IN_class size	class size	IN
+IN_number of students	number of students	IN
+IN_program type	program type	IN
+OUT_teacher attendance rate	teacher attendance rate	OUT
+OUT_department	department	OUT
+OUT_3rd grade math	3rd grade math	OUT
+IN_grade level	grade level	IN
+OUT_multi- race	multi- race	OUT
+IN_service category	service category	IN
+OUT_special ed resource	special ed resource	OUT
+IN_csd	csd	IN
+IN_core subject	core subject	IN
+OUT_additional need	additional need	OUT
+OUT_6	6	OUT
+OUT_7	7	OUT
+OUT_1	1	OUT
+OUT_8	8	OUT
+OUT_locale	locale	OUT
+OUT_k	k	OUT
+OUT_november 2017 identified need	november 2017 identified need	OUT
+OUT_total	total	OUT
+OUT_female	female	OUT
+OUT_gender	gender	OUT
+OUT_male	male	OUT
+OUT_qualifier	qualifier	OUT
+OUT_sub- district	sub- district	OUT
+OUT_school year	school year	OUT
+OUT_course type	course type	OUT
+OUT_2001	2001	OUT
+OUT_2016	2016	OUT
+OUT_pacific islander	pacific islander	OUT
+OUT_asian	asian	OUT
+OUT_2017 grad rate	2017 grad rate	OUT
+OUT_hispanic	hispanic	OUT
+IN_subject	subject	IN
+OUT_1999	1999	OUT
+OUT_enrolled	enrolled	OUT
+OUT_2016 grad rate	2016 grad rate	OUT
+OUT_attendance rate	attendance rate	OUT
+OUT_released	released	OUT
+OUT_district use of software under special needs exemption	district use of software under special needs exemption	OUT
+OUT_2017 count	2017 count	OUT
+OUT_count female	count female	OUT
+OUT_adm rate all	adm rate all	OUT
+OUT_absent	absent	OUT
+OUT_enrollment count	enrollment count	OUT
+OUT_5 p2 nontraditional completion	5 p2 nontraditional completion	OUT
+OUT_international baccalaureate	international baccalaureate	OUT
+OUT_school district	school district	OUT
+OUT_1769	1769	OUT
+OUT_number of sessions	number of sessions	OUT
+OUT_total # of children	total # of children	OUT
+OUT_design start	design start	OUT
+OUT_federal school code	federal school code	OUT
+OUT_classroom	classroom	OUT
+OUT_previous appropriations	previous appropriations	OUT
+OUT_pre- k applicants	pre- k applicants	OUT
+OUT_% charter sth	% charter sth	OUT
+OUT_feeder school name	feeder school name	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_graduation rate	graduation rate	OUT
+OUT_classification of instructional program code	classification of instructional program code	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_metric type	metric type	OUT
+OUT_unnamed column 1	unnamed column 1	OUT
+OUT_district	district	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_number of contract	number of contract	OUT
+OUT_unnamed column	unnamed column	OUT
+OUT_tap college name	tap college name	OUT
+OUT_fiscal agent name	fiscal agent name	OUT
+OUT_count of testers	count of testers	OUT
+OUT_grade 6 applicants	grade 6 applicants	OUT
+OUT_sector type	sector type	OUT
+OUT_tap college code	tap college code	OUT
+OUT_health insurance	health insurance	OUT
+OUT_capacity	capacity	OUT
+OUT_life insurance	life insurance	OUT
+OUT_all employees total	all employees total	OUT
+OUT_metric value	metric value	OUT
+OUT_town code	town code	OUT
+IN_borough	borough	IN
+OUT_tap sector group	tap sector group	OUT
+OUT_award type	award type	OUT
+OUT_# of 8th graders who have completed at least one semester of health instruction	# of 8th graders who have completed at least one semester of health instruction	OUT
+OUT_school	school	OUT
+OUT_number of graduating students	number of graduating students	OUT
+OUT_town	town	OUT
+OUT_total benefits	total benefits	OUT
+OUT_main	main	OUT
+OUT_leased	leased	OUT
+OUT_# of 8th graders	# of 8th graders	OUT
+OUT_district number	district number	OUT
+OUT_count of students in hs admissions	count of students in hs admissions	OUT
+OUT_long- term disability	long- term disability	OUT
+OUT_processing snapshot date	processing snapshot date	OUT
+OUT_total trained	total trained	OUT
+OUT_not- to- exceed award amount per contract	not- to- exceed award amount per contract	OUT
+OUT_tap level of study	tap level of study	OUT
+OUT_adm rate	adm rate	OUT
+OUT_accreditation	accreditation	OUT
+OUT_grade 9 enrolment year	grade 9 enrolment year	OUT
+OUT_operating cost	operating cost	OUT
+OUT_operator name	operator name	OUT
+OUT_vendor id	vendor id	OUT
+OUT_oregon	oregon	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_community school district	community school district	OUT
+OUT_tap recipient ft es	tap recipient ft es	OUT
+OUT_geo dist	geo dist	OUT
+OUT_grade 6 offers	grade 6 offers	OUT
+OUT_program designations included in counts single shepherd	program designations included in counts single shepherd	OUT
+OUT_bldg name	bldg name	OUT
+OUT_cte courses	cte courses	OUT
+OUT_grade 9 offers	grade 9 offers	OUT
+OUT_count	count	OUT
+OUT_not receiving	not receiving	OUT
+OUT_degree level	degree level	OUT
+OUT_sample date	sample date	OUT
+OUT_february 2018 funded need	february 2018 funded need	OUT
+OUT_part day school readiness preschool spaces	part day school readiness preschool spaces	OUT
+OUT_needed to complete	needed to complete	OUT
+OUT_school code	school code	OUT
+OUT_score	score	OUT
+OUT_full day school readiness preschool spaces	full day school readiness preschool spaces	OUT
+OUT_signed agreement	signed agreement	OUT
+OUT_sector	sector	OUT
+OUT_apts number of recipients	apts number of recipients	OUT
+OUT_# of licensed family homes	# of licensed family homes	OUT
+OUT_enrolment	enrolment	OUT
+OUT_constr start	constr start	OUT
+OUT_apts average award	apts average award	OUT
+OUT_estimated cost of service per contract	estimated cost of service per contract	OUT
+OUT_# of licensed and regulated centers	# of licensed and regulated centers	OUT
+OUT_grade 9 enrolment number	grade 9 enrolment number	OUT
+OUT_subcategory	subcategory	OUT
+OUT_no equivalent	no equivalent	OUT
+OUT_city council district	city council district	OUT
+OUT_data as of date	data as of date	OUT
+OUT_program code	program code	OUT
+OUT_sample id	sample id	OUT
+OUT_name	name	OUT
+OUT_admin dist	admin dist	OUT
+OUT_property taxes	property taxes	OUT
+OUT_date	date	OUT
+OUT_project #	project #	OUT
+OUT_attempted compliant contract	attempted compliant contract	OUT
+OUT_faculty part time	faculty part time	OUT
+OUT_description	description	OUT
+OUT_cuny institution	cuny institution	OUT
+OUT_sam #	sam #	OUT
+OUT_country	country	OUT
+OUT_count by role specification part-time gc	count by role specification part-time gc	OUT
+OUT_collaborative teachers rating	collaborative teachers rating	OUT
+OUT_effective school leadership - percent positive	effective school leadership - percent positive	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_collaborative teachers - percent positive	collaborative teachers - percent positive	OUT
+OUT_effective school leadership rating	effective school leadership rating	OUT
+OUT_rigorous instruction - percent positive	rigorous instruction - percent positive	OUT
+OUT_trust rating	trust rating	OUT
+OUT_trust - percent positive	trust - percent positive	OUT
+OUT_average grade 8 english proficiency	average grade 8 english proficiency	OUT
+OUT_percent other ethnicity	percent other ethnicity	OUT
+OUT_school type	school type	OUT
+OUT_percent black	percent black	OUT
+OUT_classification	classification	OUT
+OUT_average grade 8 math proficiency	average grade 8 math proficiency	OUT
+OUT_percent students with disabilities	percent students with disabilities	OUT
+OUT_enrollment	enrollment	OUT
+OUT_percent of teachers with 3 or more years of experience	percent of teachers with 3 or more years of experience	OUT
+OUT_preschool age	preschool age	OUT
+OUT_program designations included in counts high needs gc	program designations included in counts high needs gc	OUT
+OUT_economic need index	economic need index	OUT
+OUT_school name	school name	OUT
+OUT_tier 3 support leader name	tier 3 support leader name	OUT
+OUT_label x	label x	OUT
+OUT_code	code	OUT
+OUT_year	year	OUT
+OUT_% english language learners	% english language learners	OUT
+OUT_grade 2	grade 2	OUT
+OUT_grade 4	grade 4	OUT
+OUT_# asian	# asian	OUT
+OUT_grade 1	grade 1	OUT
+OUT_bilingual	bilingual	OUT
+OUT_total gc	total gc	OUT
+OUT_% white	% white	OUT
+OUT_% students with disabilities	% students with disabilities	OUT
+OUT_grade 3	grade 3	OUT
+OUT_% ell bengali	% ell bengali	OUT
+OUT_% ell spanish	% ell spanish	OUT
+OUT_% ell other	% ell other	OUT
+OUT_ela # level 3	ela # level 3	OUT
+OUT_# ell french	# ell french	OUT
+OUT_total sw	total sw	OUT
+OUT_math # level 3	math # level 3	OUT
+OUT_# grade 11	# grade 11	OUT
+OUT_# male	# male	OUT
+OUT_# ell korean	# ell korean	OUT
+OUT_% asian	% asian	OUT
+OUT_% ell french	% ell french	OUT
+OUT_# white	# white	OUT
+OUT_# female	# female	OUT
+OUT_# hispanic	# hispanic	OUT
+OUT_ela % level 3	ela % level 3	OUT
+OUT_# grade 7	# grade 7	OUT
+OUT_enrollment and ratios ratio sw only	enrollment and ratios ratio sw only	OUT
+OUT_ela % level 1	ela % level 1	OUT
+OUT_grade 12	grade 12	OUT
+OUT_grade 6	grade 6	OUT
+OUT_% male	% male	OUT
+OUT_% ell chinese	% ell chinese	OUT
+OUT_grade 5	grade 5	OUT
+OUT_% female	% female	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_# qualified for free or reduced lunches	# qualified for free or reduced lunches	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_# charter sth	# charter sth	OUT
+OUT_serving more than one location	serving more than one location	OUT
+OUT_grade pk	grade pk	OUT
+OUT_enrollment and ratios ratio gc & sw	enrollment and ratios ratio gc & sw	OUT
+OUT_# doe students	# doe students	OUT
+OUT_%	%	OUT
+OUT_% doe sth	% doe sth	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_ratio gc & sw	ratio gc & sw	OUT
+OUT_# doe sth	# doe sth	OUT
+OUT_demographic	demographic	OUT
+OUT_additional supports learning to work	additional supports learning to work	OUT
+OUT_#	#	OUT
+OUT_sat avg	sat avg	OUT
+OUT_region	region	OUT
+OUT_north carolina	north carolina	OUT
+OUT_school age	school age	OUT
+OUT_services	services	OUT
+OUT_grade 4 #	grade 4 #	OUT
+OUT_age desc	age desc	OUT
+OUT_board code	board code	OUT
+OUT_by group	by group	OUT
+OUT_postal code	postal code	OUT
+OUT_solicitation number	solicitation number	OUT
+OUT_product web address	product web address	OUT
+OUT_grade 10 %	grade 10 %	OUT
+OUT_location	location	OUT
+OUT_grade 11 #	grade 11 #	OUT
+OUT_regional centre for education code	regional centre for education code	OUT
+OUT_grade 6 %	grade 6 %	OUT
+OUT_time	time	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_sam link	sam link	OUT
+OUT_grade 7 %	grade 7 %	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_institutions	institutions	OUT
+OUT_last mod user	last mod user	OUT
+OUT_city	city	OUT
+OUT_address	address	OUT
+OUT_existing site identified	existing site identified	OUT
+OUT_latitude	latitude	OUT
+OUT_managed by name	managed by name	OUT
+OUT_website	website	OUT
+OUT_fax	fax	OUT
+OUT_short name	short name	OUT
+OUT_supportive environment	supportive environment	OUT
+OUT_y coordinate	y coordinate	OUT
+OUT_x coordinate	x coordinate	OUT
+OUT_zip codes	zip codes	OUT
+OUT_national center for educational statistics connection	national center for educational statistics connection	OUT
+OUT_location code	location code	OUT
+OUT_county	county	OUT
+OUT_high school network name	high school network name	OUT
+OUT_school districts	school districts	OUT
+OUT_grades text	grades text	OUT
+OUT_municipalities	municipalities	OUT
+OUT_counties	counties	OUT
+OUT_administrative district code	administrative district code	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_cohort	cohort	OUT
+OUT_burglary with weapon	burglary with weapon	OUT
+OUT_administrative district	administrative district	OUT
+OUT_robbery without weapon	robbery without weapon	OUT
+OUT_sth students with 2 or more suspensions or removals	sth students with 2 or more suspensions or removals	OUT
+OUT_homicide without weapon	homicide without weapon	OUT
+OUT_total students with 2 or more suspensions or removals	total students with 2 or more suspensions or removals	OUT
+OUT_5 superintendent	5 superintendent	OUT
+OUT_male superintendent	male superintendent	OUT
+OUT_30 superintendent	30 superintendent	OUT
+OUT_1 removal	1 removal	OUT
+OUT_male removals	male removals	OUT
+OUT_2 removal	2 removal	OUT
+OUT_location category	location category	OUT
+OUT_weapon possession under other circumstances	weapon possession under other circumstances	OUT
+OUT_location name	location name	OUT
+OUT_male principal	male principal	OUT
+OUT_female principal	female principal	OUT
+OUT_3 principal	3 principal	OUT
+OUT_4 principal	4 principal	OUT
+OUT_bomb threat	bomb threat	OUT

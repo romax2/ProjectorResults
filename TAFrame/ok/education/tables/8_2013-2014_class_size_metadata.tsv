@@ -1,0 +1,302 @@
+stc_label	sentence	category
+8_2013-2014_class_size	2013-2014 class size report borough level detail summary	Table
+IN_average class size	average class size	IN
+IN_core course	core course	IN
+IN_program type	program type	IN
+OUT_department	department	OUT
+IN_number of sections	number of sections	IN
+OUT_3rd grade math	3rd grade math	OUT
+IN_grade level	grade level	IN
+IN_service category	service category	IN
+OUT_multiple race	multiple race	OUT
+IN_number of students / seats filled	number of students / seats filled	IN
+OUT_student attendance rate	student attendance rate	OUT
+IN_core subject	core subject	IN
+OUT_7	7	OUT
+OUT_kindergarten	kindergarten	OUT
+OUT_english learners	english learners	OUT
+OUT_female	female	OUT
+OUT_multiple races	multiple races	OUT
+OUT_locale	locale	OUT
+OUT_2009	2009	OUT
+OUT_african am or black	african am or black	OUT
+OUT_2014	2014	OUT
+OUT_male	male	OUT
+OUT_2013	2013	OUT
+OUT_november 2017 identified need	november 2017 identified need	OUT
+OUT_black	black	OUT
+OUT_4th grade	4th grade	OUT
+OUT_total	total	OUT
+OUT_white	white	OUT
+OUT_sub- district	sub- district	OUT
+OUT_students	students	OUT
+OUT_qualifier	qualifier	OUT
+OUT_american indian	american indian	OUT
+OUT_pacific islander	pacific islander	OUT
+OUT_test	test	OUT
+OUT_school year	school year	OUT
+OUT_asian	asian	OUT
+OUT_course type	course type	OUT
+OUT_2012	2012	OUT
+OUT_hispanic	hispanic	OUT
+OUT_10th grade	10th grade	OUT
+OUT_2006	2006	OUT
+OUT_8th grade	8th grade	OUT
+OUT_12th grade	12th grade	OUT
+OUT_enrolled	enrolled	OUT
+OUT_course	course	OUT
+OUT_2016 grad rate	2016 grad rate	OUT
+OUT_district name	district name	OUT
+OUT_program name	program name	OUT
+OUT_district use of software under special needs exemption	district use of software under special needs exemption	OUT
+OUT_program category	program category	OUT
+OUT_present	present	OUT
+OUT_school total	school total	OUT
+OUT_american community survey connection	american community survey connection	OUT
+OUT_count gender unknown	count gender unknown	OUT
+OUT_count female	count female	OUT
+OUT_enrollment count	enrollment count	OUT
+OUT_5 p2 nontraditional completion	5 p2 nontraditional completion	OUT
+OUT_international baccalaureate	international baccalaureate	OUT
+OUT_1997	1997	OUT
+OUT_2015 grad rate	2015 grad rate	OUT
+OUT_2010	2010	OUT
+OUT_1769	1769	OUT
+OUT_number of sessions	number of sessions	OUT
+IN_boro	boro	IN
+OUT_% of 11 & 12 grade students who earned at least 3 ccr credits	% of 11 & 12 grade students who earned at least 3 ccr credits	OUT
+OUT_preschool	preschool	OUT
+OUT_federal school code	federal school code	OUT
+OUT_classroom	classroom	OUT
+OUT_% charter sth	% charter sth	OUT
+OUT_selection criteria	selection criteria	OUT
+OUT_district	district	OUT
+OUT_vendor name	vendor name	OUT
+OUT_ytd	ytd	OUT
+OUT_number of offers	number of offers	OUT
+OUT_scholarship name	scholarship name	OUT
+OUT_graduation rate	graduation rate	OUT
+OUT_classification of instructional program code	classification of instructional program code	OUT
+OUT_unemployment insurance	unemployment insurance	OUT
+OUT_industrial insurance	industrial insurance	OUT
+OUT_count permanent resident alien	count permanent resident alien	OUT
+OUT_vendor code	vendor code	OUT
+OUT_dental insurance	dental insurance	OUT
+OUT_unnamed column	unnamed column	OUT
+OUT_tap college name	tap college name	OUT
+OUT_school	school	OUT
+OUT_count of testers	count of testers	OUT
+OUT_sector type	sector type	OUT
+OUT_tap college code	tap college code	OUT
+OUT_academic year	academic year	OUT
+OUT_number of seats in scope / design	number of seats in scope / design	OUT
+OUT_literacy	literacy	OUT
+OUT_health insurance	health insurance	OUT
+OUT_staff total	staff total	OUT
+OUT_all employees total	all employees total	OUT
+OUT_metric value	metric value	OUT
+OUT_operating cost per student	operating cost per student	OUT
+OUT_town code	town code	OUT
+OUT_borough	borough	OUT
+OUT_tap sector group	tap sector group	OUT
+OUT_retirement	retirement	OUT
+OUT_state operating cost per student	state operating cost per student	OUT
+OUT_award type	award type	OUT
+OUT_# of 8th graders who have completed at least one semester of health instruction	# of 8th graders who have completed at least one semester of health instruction	OUT
+OUT_number of graduating students	number of graduating students	OUT
+OUT_town	town	OUT
+OUT_main	main	OUT
+OUT_# of 8th graders	# of 8th graders	OUT
+OUT_district number	district number	OUT
+OUT_long- term disability	long- term disability	OUT
+OUT_expended amount ytd	expended amount ytd	OUT
+OUT_not- to- exceed award amount per contract	not- to- exceed award amount per contract	OUT
+OUT_mathematics	mathematics	OUT
+OUT_adm rate	adm rate	OUT
+OUT_total compensation	total compensation	OUT
+OUT_grade 9 enrolment year	grade 9 enrolment year	OUT
+OUT_month	month	OUT
+OUT_count citizen status total	count citizen status total	OUT
+OUT_teacher median salary	teacher median salary	OUT
+OUT_score	score	OUT
+OUT_community school district	community school district	OUT
+OUT_tap recipient ft es	tap recipient ft es	OUT
+OUT_classification of instructional programs degree title	classification of instructional programs degree title	OUT
+OUT_expended amount ltd	expended amount ltd	OUT
+OUT_count ethnicity total	count ethnicity total	OUT
+OUT_grade 6 offers	grade 6 offers	OUT
+OUT_count us citizen	count us citizen	OUT
+OUT_degree level	degree level	OUT
+OUT_sample date	sample date	OUT
+OUT_part day school readiness preschool spaces	part day school readiness preschool spaces	OUT
+OUT_classification of instructional programs degree code	classification of instructional programs degree code	OUT
+OUT_school readiness school based spaces	school readiness school based spaces	OUT
+OUT_school code	school code	OUT
+OUT_school day school readiness preschool spaces	school day school readiness preschool spaces	OUT
+OUT_head start spaces	head start spaces	OUT
+OUT_fully receiving	fully receiving	OUT
+OUT_awards	awards	OUT
+OUT_partially receiving	partially receiving	OUT
+OUT_county name	county name	OUT
+OUT_all employees full time	all employees full time	OUT
+OUT_percent partially receiving	percent partially receiving	OUT
+OUT_org id	org id	OUT
+OUT_program code	program code	OUT
+OUT_residency	residency	OUT
+OUT_count other citizen status	count other citizen status	OUT
+OUT_estimated cost of service per contract	estimated cost of service per contract	OUT
+OUT_number of institutions	number of institutions	OUT
+OUT_# of licensed and regulated centers	# of licensed and regulated centers	OUT
+OUT_subcategory	subcategory	OUT
+OUT_city council district	city council district	OUT
+OUT_data as of date	data as of date	OUT
+OUT_sample id	sample id	OUT
+OUT_name	name	OUT
+OUT_administrative unit number	administrative unit number	OUT
+OUT_admin dist	admin dist	OUT
+OUT_date	date	OUT
+OUT_board name	board name	OUT
+OUT_due date	due date	OUT
+OUT_faculty part time	faculty part time	OUT
+OUT_georgia	georgia	OUT
+OUT_pre- k students	pre- k students	OUT
+OUT_description	description	OUT
+OUT_percent ethnicity total	percent ethnicity total	OUT
+OUT_entity id	entity id	OUT
+OUT_pennsylvania	pennsylvania	OUT
+OUT_grades	grades	OUT
+OUT_count receives public assistance	count receives public assistance	OUT
+OUT_sam #	sam #	OUT
+OUT_collaborative teachers rating	collaborative teachers rating	OUT
+OUT_effective school leadership - percent positive	effective school leadership - percent positive	OUT
+OUT_supportive environment - percent positive	supportive environment - percent positive	OUT
+OUT_type	type	OUT
+OUT_percent asian non hispanic	percent asian non hispanic	OUT
+OUT_collaborative teachers - percent positive	collaborative teachers - percent positive	OUT
+OUT_rigorous instruction - percent positive	rigorous instruction - percent positive	OUT
+OUT_supportive environment rating	supportive environment rating	OUT
+OUT_quality review - dates of review	quality review - dates of review	OUT
+OUT_school information school name	school information school name	OUT
+OUT_school type	school type	OUT
+OUT_count ethnicity unknown	count ethnicity unknown	OUT
+OUT_percent hispanic	percent hispanic	OUT
+OUT_percent english language learners	percent english language learners	OUT
+OUT_percent in temp housing	percent in temp housing	OUT
+OUT_economic need index	economic need index	OUT
+OUT_preschool age	preschool age	OUT
+OUT_school name	school name	OUT
+OUT_grade	grade	OUT
+OUT_discharge type	discharge type	OUT
+OUT_year	year	OUT
+OUT_mean scale score	mean scale score	OUT
+OUT_% english language learners	% english language learners	OUT
+OUT_grade 2	grade 2	OUT
+OUT_# of discharges	# of discharges	OUT
+OUT_# grade 1	# grade 1	OUT
+OUT_# asian	# asian	OUT
+OUT_# ell bengali	# ell bengali	OUT
+OUT_% students with disabilities	% students with disabilities	OUT
+OUT_math # level 1	math # level 1	OUT
+OUT_# grade 6	# grade 6	OUT
+OUT_math # level 3	math # level 3	OUT
+OUT_% ell korean	% ell korean	OUT
+OUT_# grade 8	# grade 8	OUT
+OUT_# ell korean	# ell korean	OUT
+OUT_% asian	% asian	OUT
+OUT_# white	# white	OUT
+OUT_ela # level 4	ela # level 4	OUT
+OUT_# female	# female	OUT
+OUT_category	category	OUT
+OUT_ela % level 2	ela % level 2	OUT
+OUT_pct level 2	pct level 2	OUT
+OUT_# multiple race categories not represented	# multiple race categories not represented	OUT
+OUT_# poverty	# poverty	OUT
+OUT_% hispanic	% hispanic	OUT
+OUT_grade 11	grade 11	OUT
+OUT_grade 6	grade 6	OUT
+OUT_grade 9	grade 9	OUT
+OUT_grade 5	grade 5	OUT
+OUT_total enrollment	total enrollment	OUT
+OUT_math % level 3	math % level 3	OUT
+OUT_grade 10	grade 10	OUT
+OUT_num level 3 and 4	num level 3 and 4	OUT
+OUT_# charter sth	# charter sth	OUT
+OUT_% ict	% ict	OUT
+OUT_grade 8	grade 8	OUT
+OUT_bilingual	bilingual	OUT
+OUT_%	%	OUT
+OUT_% doe sth	% doe sth	OUT
+OUT_total enrolled students	total enrolled students	OUT
+OUT_serving more than one location	serving more than one location	OUT
+OUT_sat avg all	sat avg all	OUT
+OUT_ratio gc only	ratio gc only	OUT
+OUT_connecticut	connecticut	OUT
+OUT_% within demographic	% within demographic	OUT
+OUT_project number	project number	OUT
+OUT_additional role specifications bilingual gc	additional role specifications bilingual gc	OUT
+OUT_posting date	posting date	OUT
+OUT_demographic	demographic	OUT
+OUT_#	#	OUT
+OUT_additional information	additional information	OUT
+OUT_regional centre for education name	regional centre for education name	OUT
+OUT_grade organization	grade organization	OUT
+OUT_region	region	OUT
+OUT_school age	school age	OUT
+OUT_by group	by group	OUT
+OUT_services	services	OUT
+OUT_total # within demographic	total # within demographic	OUT
+OUT_grade 2 %	grade 2 %	OUT
+OUT_grade 10 #	grade 10 #	OUT
+OUT_additional role specifications sw serving more than one location	additional role specifications sw serving more than one location	OUT
+OUT_grade 11 %	grade 11 %	OUT
+OUT_board code	board code	OUT
+OUT_pa center for workforce information and analysis connection	pa center for workforce information and analysis connection	OUT
+OUT_grade 9 %	grade 9 %	OUT
+OUT_grade 11 #	grade 11 #	OUT
+OUT_new jersey	new jersey	OUT
+OUT_location	location	OUT
+OUT_washington	washington	OUT
+OUT_sam link	sam link	OUT
+OUT_local education agencies	local education agencies	OUT
+OUT_local education agency	local education agency	OUT
+OUT_beds code	beds code	OUT
+OUT_address line 1	address line 1	OUT
+OUT_subway	subway	OUT
+OUT_institutions	institutions	OUT
+OUT_last mod user	last mod user	OUT
+OUT_overview	overview	OUT
+OUT_blue ribbon award	blue ribbon award	OUT
+OUT_address	address	OUT
+OUT_zip	zip	OUT
+OUT_community board	community board	OUT
+OUT_council district	council district	OUT
+OUT_sample site	sample site	OUT
+OUT_street address	street address	OUT
+OUT_census tract	census tract	OUT
+OUT_student attendance percentage 2012	student attendance percentage 2012	OUT
+OUT_state code	state code	OUT
+OUT_county	county	OUT
+OUT_location 1	location 1	OUT
+OUT_num achieving apm	num achieving apm	OUT
+OUT_high school network location code	high school network location code	OUT
+OUT_pct of graduates achieving apm	pct of graduates achieving apm	OUT
+OUT_primary category	primary category	OUT
+OUT_pct of cohort achieving apm	pct of cohort achieving apm	OUT
+OUT_dropped out pct of cohort	dropped out pct of cohort	OUT
+OUT_total cohort num	total cohort num	OUT
+OUT_total regents pct of cohort	total regents pct of cohort	OUT
+OUT_regents w/o advanced pct of grads	regents w/o advanced pct of grads	OUT
+OUT_total regents num	total regents num	OUT
+OUT_total grads num	total grads num	OUT
+OUT_burglary without weapon	burglary without weapon	OUT
+OUT_administrative district	administrative district	OUT
+OUT_bomb threat	bomb threat	OUT
+OUT_total students with 2 or more suspensions or removals	total students with 2 or more suspensions or removals	OUT
+OUT_4 removal	4 removal	OUT
+OUT_female removals	female removals	OUT
+OUT_1 principal	1 principal	OUT
+OUT_location category	location category	OUT
+OUT_90 superintendent	90 superintendent	OUT
+OUT_female expulsions	female expulsions	OUT
+OUT_location name	location name	OUT
+OUT_female principal	female principal	OUT
