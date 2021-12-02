@@ -1,0 +1,202 @@
+stc_label	sentence	category
+49_statewide_water_usag	statewide water usage 2015	Table
+OUT_program location	program location	OUT
+IN_ind seco use	ind seco use	IN
+IN_com sec gpcd	com sec gpcd	IN
+IN_res seco use	res seco use	IN
+OUT_total rcf	total rcf	OUT
+IN_com seco use	com seco use	IN
+IN_shape are	shape are	IN
+OUT_domain category	domain category	OUT
+IN_tot seco use	tot seco use	IN
+IN_tot sec gpcd	tot sec gpcd	IN
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_organics mt	organics mt	OUT
+OUT_location	location	OUT
+OUT_acct num	acct num	OUT
+OUT_year / month	year / month	OUT
+OUT_ogo num	ogo num	OUT
+IN_the geom	the geom	IN
+OUT_kind of tree	kind of tree	OUT
+OUT_residential	residential	OUT
+OUT_organics	organics	OUT
+OUT_other industrial	other industrial	OUT
+OUT_month	month	OUT
+OUT_date	date	OUT
+OUT_total cost	total cost	OUT
+OUT_# of students	# of students	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_attendees	attendees	OUT
+IN_total use	total use	IN
+OUT_all grades gas price	all grades gas price	OUT
+OUT_industrial	industrial	OUT
+OUT_garbage	garbage	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_total board $	total board $	OUT
+OUT_fed. region	fed. region	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_commercial	commercial	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_wind	wind	OUT
+OUT_total funds	total funds	OUT
+OUT_well status	well status	OUT
+IN_shape len	shape len	IN
+OUT_total	total	OUT
+OUT_electric power	electric power	OUT
+OUT_complete status	complete status	OUT
+OUT_sego	sego	OUT
+OUT_population	population	OUT
+OUT_audience	audience	OUT
+OUT_coal	coal	OUT
+IN_acres	acres	IN
+OUT_overseas exports	overseas exports	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_gross withdrawals	gross withdrawals	OUT
+IN_ins seco use	ins seco use	IN
+OUT_prod form 1	prod form 1	OUT
+OUT_17	17	OUT
+IN_total sup	total sup	IN
+OUT_quantity	quantity	OUT
+OUT_season	season	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_tree size	tree size	OUT
+IN_res sec gpcd	res sec gpcd	IN
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_other receipts	other receipts	OUT
+OUT_20	20	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_condensate ending stocks	condensate ending stocks	OUT
+OUT_breeding behavior	breeding behavior	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_emery	emery	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_% of total	% of total	OUT
+OUT_condensate production	condensate production	OUT
+OUT_production	production	OUT
+OUT_29	29	OUT
+OUT_coalfield	coalfield	OUT
+OUT_operator	operator	OUT
+OUT_2006 gross production	2006 gross production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2013 production	2013 production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_rank	rank	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_year discovered	year discovered	OUT
+OUT_cumulative production	cumulative production	OUT
+OUT_field	field	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_total estimated recoverable reserves	total estimated recoverable reserves	OUT
+OUT_2002	2002	OUT
+IN_ind sec gpcd	ind sec gpcd	IN
+OUT_1985	1985	OUT
+OUT_2001	2001	OUT
+OUT_1991	1991	OUT
+OUT_2005	2005	OUT
+OUT_1998	1998	OUT
+OUT_2004	2004	OUT
+OUT_2010	2010	OUT
+OUT_1993	1993	OUT
+OUT_1996	1996	OUT
+OUT_underground estimated recoverable reserves	underground estimated recoverable reserves	OUT
+OUT_surface estimated recoverable reserves	surface estimated recoverable reserves	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_% total demonstrated reserve base	% total demonstrated reserve base	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_federal land	federal land	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_mean	mean	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_lease use	lease use	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+IN_ins sec gpcd	ins sec gpcd	IN
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_characteristic name	characteristic name	OUT
+IN_res pot gpcd	res pot gpcd	IN
+OUT_property name	property name	OUT
+OUT_client id	client id	OUT
+OUT_unconventional ind	unconventional ind	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_parameter name	parameter name	OUT
+OUT_activity comment text	activity comment text	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_written comments due	written comments due	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_ag district	ag district	OUT
+IN_com pot gpcd	com pot gpcd	IN
+IN_wells sup	wells sup	IN
+OUT_comment end date	comment end date	OUT
+OUT_year est	year est	OUT
+OUT_company city	company city	OUT
+OUT_company state	company state	OUT
+OUT_company name	company name	OUT
+OUT_state land	state land	OUT
+OUT_certification indicator	certification indicator	OUT
+OUT_company address	company address	OUT
+OUT_geothermal	geothermal	OUT
+OUT_block id	block id	OUT
+IN_ins pot gpcd	ins pot gpcd	IN
+OUT_comments	comments	OUT
+OUT_total state generation	total state generation	OUT
+OUT_site num	site num	OUT
+OUT_metadata uri	metadata uri	OUT
+OUT_pct diff	pct diff	OUT
+OUT_facility name	facility name	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_10th percentile	10th percentile	OUT
+OUT_company zip	company zip	OUT
+IN_total gpcd	total gpcd	IN
+OUT_city name	city name	OUT
+OUT_analysis start date	analysis start date	OUT
+IN_state	state	IN
+IN_tot pot gpcd	tot pot gpcd	IN
+OUT_location 1	location 1	OUT
+IN_ind pot gpcd	ind pot gpcd	IN
+OUT_method description text	method description text	OUT
+OUT_disc well	disc well	OUT
+OUT_arithmetic mean	arithmetic mean	OUT
+OUT_county	county	OUT
+OUT_activity end date	activity end date	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_long degree	long degree	OUT
+OUT_township	township	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_counties	counties	OUT
+OUT_conventional hydroelectric	conventional hydroelectric	OUT
+OUT_laboratory	laboratory	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_zip codes	zip codes	OUT
+OUT_classification	classification	OUT
+OUT_required day count	required day count	OUT
+OUT_parameter code	parameter code	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_school districts	school districts	OUT
+OUT_longitude	longitude	OUT
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+IN_springs sup	springs sup	IN
+OUT_underground demonstrated reserve base	underground demonstrated reserve base	OUT
+OUT_sample duration	sample duration	OUT
+OUT_municipalities	municipalities	OUT
+OUT_total demonstrated reserve base	total demonstrated reserve base	OUT
+OUT_total dry	total dry	OUT
+IN_surface sup	surface sup	IN
+OUT_number of stripper oil wells	number of stripper oil wells	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_total 2002 gas production million cf	total 2002 gas production million cf	OUT
+OUT_vented and flared	vented and flared	OUT

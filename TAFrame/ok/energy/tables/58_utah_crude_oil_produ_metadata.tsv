@@ -1,0 +1,202 @@
+stc_label	sentence	category
+58_utah_crude_oil_produ	utah crude oil production by county t3.7 1993-2013	Table
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_rank	rank	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_operator	operator	OUT
+OUT_coalfield	coalfield	OUT
+OUT_27	27	OUT
+OUT_production	production	OUT
+OUT_26	26	OUT
+OUT_9	9	OUT
+OUT_ethane production	ethane production	OUT
+OUT_emery	emery	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_propane beginning stocks	propane beginning stocks	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_others	others	OUT
+OUT_quantity	quantity	OUT
+OUT_season	season	OUT
+OUT_22	22	OUT
+OUT_solar	solar	OUT
+OUT_16	16	OUT
+OUT_gross withdrawals	gross withdrawals	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_gasoline deliveries	gasoline deliveries	OUT
+OUT_1	1	OUT
+OUT_natural gas	natural gas	OUT
+OUT_acres	acres	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_audience	audience	OUT
+OUT_total	total	OUT
+OUT_sego	sego	OUT
+OUT_shape len	shape len	OUT
+OUT_total funds	total funds	OUT
+OUT_other biomass	other biomass	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_coke plants	coke plants	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_commercial	commercial	OUT
+OUT_status	status	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_total price	total price	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_res sales	res sales	OUT
+OUT_industrial	industrial	OUT
+OUT_utility name	utility name	OUT
+OUT_garbage	garbage	OUT
+OUT_total use	total use	OUT
+OUT_com price	com price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_municipality	municipality	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_trans sales	trans sales	OUT
+OUT_total cost	total cost	OUT
+OUT_attendees	attendees	OUT
+OUT_date	date	OUT
+OUT_organics	organics	OUT
+OUT_residential	residential	OUT
+OUT_other industrial	other industrial	OUT
+OUT_system cost	system cost	OUT
+OUT_applicant	applicant	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_fee	fee	OUT
+OUT_the geom	the geom	OUT
+OUT_final disposition	final disposition	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_ind price	ind price	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_location	location	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_state and fee	state and fee	OUT
+OUT_tot seco use	tot seco use	OUT
+OUT_com seco use	com seco use	OUT
+IN_2002	2002	IN
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_program location	program location	OUT
+OUT_geo area	geo area	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_plant use	plant use	OUT
+IN_2007	2007	IN
+IN_2012	2012	IN
+OUT_alton	alton	OUT
+OUT_organics mt	organics mt	OUT
+IN_2013	2013	IN
+IN_2001	2001	IN
+IN_2003	2003	IN
+IN_2005	2005	IN
+IN_2011	2011	IN
+IN_1994	1994	IN
+IN_1998	1998	IN
+IN_2000	2000	IN
+IN_2004	2004	IN
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_ins seco use	ins seco use	OUT
+OUT_tree size	tree size	OUT
+IN_2008	2008	IN
+IN_2010	2010	IN
+IN_1997	1997	IN
+IN_1993	1993	IN
+IN_1996	1996	IN
+IN_1999	1999	IN
+IN_2006	2006	IN
+IN_2009	2009	IN
+IN_1995	1995	IN
+OUT_2002 rank	2002 rank	OUT
+OUT_date local	date local	OUT
+OUT_surface recoverable reserves at producing mines	surface recoverable reserves at producing mines	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_vented and flared	vented and flared	OUT
+OUT_total 2002 gas production million cf	total 2002 gas production million cf	OUT
+OUT_total 2005 gas production million cf	total 2005 gas production million cf	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_dry production	dry production	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_from oil wells	from oil wells	OUT
+OUT_from shale gas wells	from shale gas wells	OUT
+OUT_number of stripper gas wells	number of stripper gas wells	OUT
+OUT_number of stripper oil wells	number of stripper oil wells	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_surface sup	surface sup	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_springs sup	springs sup	OUT
+OUT_total rev	total rev	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_total gpcd	total gpcd	OUT
+OUT_municipalities	municipalities	OUT
+OUT_units of measure	units of measure	OUT
+OUT_metric used	metric used	OUT
+OUT_test method type code	test method type code	OUT
+OUT_conventional hydroelectric	conventional hydroelectric	OUT
+OUT_result temperature basis text	result temperature basis text	OUT
+OUT_municipality name	municipality name	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_school districts	school districts	OUT
+OUT_method description text	method description text	OUT
+OUT_local site name	local site name	OUT
+OUT_method name	method name	OUT
+OUT_precision value	precision value	OUT
+OUT_arithmetic mean	arithmetic mean	OUT
+OUT_zip codes	zip codes	OUT
+OUT_county name	county name	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_facility	facility	OUT
+OUT_written comments due	written comments due	OUT
+OUT_counties	counties	OUT
+OUT_ind rev	ind rev	OUT
+IN_county	county	IN
+OUT_testing device type name	testing device type name	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_state name	state name	OUT
+OUT_pollutant standard	pollutant standard	OUT
+OUT_company zip	company zip	OUT
+OUT_location 1	location 1	OUT
+OUT_city name	city name	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_3rd max date time	3rd max date time	OUT
+OUT_total state generation	total state generation	OUT
+OUT_2nd max date time	2nd max date time	OUT
+OUT_facility zip	facility zip	OUT
+OUT_total renewable generation	total renewable generation	OUT
+OUT_company address	company address	OUT
+OUT_facility location	facility location	OUT
+OUT_facility state	facility state	OUT
+OUT_company name	company name	OUT
+OUT_state land	state land	OUT
+OUT_company state	company state	OUT
+OUT_town or city	town or city	OUT
+OUT_company city	company city	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_borough	borough	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_ind cust	ind cust	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_lease use	lease use	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_coastal zone status	coastal zone status	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_property type	property type	OUT
+OUT_agreement	agreement	OUT

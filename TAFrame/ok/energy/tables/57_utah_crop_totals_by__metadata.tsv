@@ -1,0 +1,202 @@
+stc_label	sentence	category
+57_utah_crop_totals_by_	utah crop totals by commodity from 1879-2015	Table
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
+OUT_propane ending stocks	propane ending stocks	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_gasoline beginning stocks	gasoline beginning stocks	OUT
+OUT_condensate ending stocks	condensate ending stocks	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_other receipts	other receipts	OUT
+OUT_propane production	propane production	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+OUT_ethane beginning stocks	ethane beginning stocks	OUT
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_company	company	OUT
+OUT_ethane deliveries	ethane deliveries	OUT
+OUT_butane beginning stocks	butane beginning stocks	OUT
+OUT_quantity	quantity	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_ethane receipts	ethane receipts	OUT
+OUT_season	season	OUT
+OUT_ethane production	ethane production	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+IN_value	value	IN
+OUT_other ending stocks	other ending stocks	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_gasoline deliveries	gasoline deliveries	OUT
+OUT_other beginning stocks	other beginning stocks	OUT
+OUT_propane receipts	propane receipts	OUT
+IN_week ending	week ending	IN
+OUT_iso- butane production	iso- butane production	OUT
+OUT_shape len	shape len	OUT
+OUT_complete status	complete status	OUT
+IN_year	year	IN
+OUT_propane deliveries	propane deliveries	OUT
+OUT_status	status	OUT
+OUT_regular gas price	regular gas price	OUT
+IN_program	program	IN
+OUT_butane production	butane production	OUT
+OUT_condensate production	condensate production	OUT
+OUT_other production	other production	OUT
+OUT_total use	total use	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_date	date	OUT
+OUT_system cost	system cost	OUT
+IN_data item	data item	IN
+OUT_applicant	applicant	OUT
+OUT_mitigation year ended	mitigation year ended	OUT
+IN_commodity	commodity	IN
+OUT_dec contact	dec contact	OUT
+IN_period	period	IN
+OUT_the geom	the geom	OUT
+OUT_final disposition	final disposition	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_lead agency	lead agency	OUT
+OUT_mitigation comments	mitigation comments	OUT
+IN_domain	domain	IN
+OUT_location	location	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_building type code	building type code	OUT
+IN_cv	cv	IN
+OUT_measure value	measure value	OUT
+OUT_mitigation county	mitigation county	OUT
+OUT_coalfield	coalfield	OUT
+OUT_com seco use	com seco use	OUT
+OUT_tot seco use	tot seco use	OUT
+OUT_building purpose code	building purpose code	OUT
+IN_region	region	IN
+OUT_res seco use	res seco use	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+OUT_geo area	geo area	OUT
+OUT_operator	operator	OUT
+IN_domain category	domain category	IN
+OUT_mitigation test type	mitigation test type	OUT
+OUT_shape are	shape are	OUT
+OUT_ind seco use	ind seco use	OUT
+OUT_2002 production	2002 production	OUT
+OUT_county fips code	county fips code	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_application type	application type	OUT
+OUT_rank	rank	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_total sup	total sup	OUT
+OUT_ins seco use	ins seco use	OUT
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_tree size	tree size	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_property type	property type	OUT
+OUT_agreement	agreement	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_coastal zone status	coastal zone status	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_agree type	agree type	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_short description	short description	OUT
+OUT_hydrologic event	hydrologic event	OUT
+OUT_petro type	petro type	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_ins sec gpcd	ins sec gpcd	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_town or city	town or city	OUT
+OUT_written comments due	written comments due	OUT
+OUT_borough	borough	OUT
+OUT_property name	property name	OUT
+OUT_activity comment text	activity comment text	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_total gpcd	total gpcd	OUT
+OUT_wells sup	wells sup	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_application id	application id	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_result measure value	result measure value	OUT
+OUT_precision value	precision value	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_municipality name	municipality name	OUT
+OUT_resid	resid	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_method description text	method description text	OUT
+OUT_activity type code	activity type code	OUT
+IN_geo level	geo level	IN
+OUT_activity start date	activity start date	OUT
+OUT_data identifier	data identifier	OUT
+IN_state ansi	state ansi	IN
+OUT_test method type code	test method type code	OUT
+OUT_surface sup	surface sup	OUT
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_activity media name	activity media name	OUT
+OUT_hydrologic condition	hydrologic condition	OUT
+OUT_result comment text	result comment text	OUT
+OUT_activity identifier	activity identifier	OUT
+OUT_organization identifier	organization identifier	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_organization formal name	organization formal name	OUT
+OUT_measure qualifier code	measure qualifier code	OUT
+OUT_address postal code	address postal code	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_test result identifier	test result identifier	OUT
+OUT_result status identifier	result status identifier	OUT
+OUT_company city	company city	OUT
+OUT_activity depth altitude reference point text	activity depth altitude reference point text	OUT
+OUT_springs sup	springs sup	OUT
+IN_county ansi	county ansi	IN
+OUT_data source name	data source name	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_company address	company address	OUT
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_company name	company name	OUT
+IN_ag district	ag district	IN
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_result time basis text	result time basis text	OUT
+OUT_result laboratory comment text	result laboratory comment text	OUT
+IN_zip code	zip code	IN
+OUT_company zip	company zip	OUT
+OUT_pa school districts	pa school districts	OUT
+IN_ag district code	ag district code	IN
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_preparation start date	preparation start date	OUT
+OUT_permit type	permit type	OUT
+IN_location 1	location 1	IN
+IN_watershed code	watershed code	IN
+OUT_sample aquifer	sample aquifer	OUT
+OUT_result weight basis text	result weight basis text	OUT
+OUT_company state	company state	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_detection quantitation limit type name	detection quantitation limit type name	OUT
+OUT_result temperature basis text	result temperature basis text	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+OUT_result sample fraction text	result sample fraction text	OUT
+OUT_test end date	test end date	OUT
+OUT_county code	county code	OUT
+IN_watershed	watershed	IN
+OUT_statistical base code	statistical base code	OUT
+OUT_state	state	OUT
+OUT_result detection condition text	result detection condition text	OUT
+OUT_facility	facility	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_longitude	longitude	OUT
+OUT_latitude	latitude	OUT
+IN_counties	counties	IN
+IN_county	county	IN

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+53_tate_easement_list	tate easement list	Table
+IN_pct diff	pct diff	IN
+IN_gis acres	gis acres	IN
+OUT_facility name	facility name	OUT
+OUT_facility location	facility location	OUT
+OUT_test end date	test end date	OUT
+OUT_location 1	location 1	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_certification indicator	certification indicator	OUT
+OUT_permit type	permit type	OUT
+OUT_pollutant standard	pollutant standard	OUT
+OUT_facility city	facility city	OUT
+OUT_detection quantitation limit type name	detection quantitation limit type name	OUT
+OUT_facility zip	facility zip	OUT
+OUT_permit id	permit id	OUT
+OUT_county code	county code	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_total demonstrated reserve base	total demonstrated reserve base	OUT
+OUT_county land	county land	OUT
+OUT_data identifier	data identifier	OUT
+OUT_preparation start date	preparation start date	OUT
+OUT_company address	company address	OUT
+IN_rep acres	rep acres	IN
+OUT_result weight basis text	result weight basis text	OUT
+OUT_activity identifier	activity identifier	OUT
+OUT_company zip	company zip	OUT
+OUT_state land	state land	OUT
+OUT_school districts	school districts	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_company city	company city	OUT
+OUT_result sample fraction text	result sample fraction text	OUT
+OUT_zip codes	zip codes	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_company state	company state	OUT
+OUT_county name	county name	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_company name	company name	OUT
+OUT_local site name	local site name	OUT
+OUT_method name	method name	OUT
+OUT_units of measure	units of measure	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_resid	resid	OUT
+OUT_city name	city name	OUT
+OUT_2nd max value	2nd max value	OUT
+IN_year est	year est	IN
+OUT_hydrologic condition	hydrologic condition	OUT
+OUT_sample duration	sample duration	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_result value type name	result value type name	OUT
+OUT_municipalities	municipalities	OUT
+OUT_parameter code	parameter code	OUT
+OUT_counties	counties	OUT
+IN_county	county	IN
+OUT_3rd max value	3rd max value	OUT
+OUT_1st max value	1st max value	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_total rev	total rev	OUT
+IN_comments	comments	IN
+OUT_state	state	OUT
+OUT_unspecified	unspecified	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_comment begin date	comment begin date	OUT
+OUT_ba code	ba code	OUT
+OUT_property name	property name	OUT
+OUT_written comments due	written comments due	OUT
+OUT_borough	borough	OUT
+OUT_town or city	town or city	OUT
+OUT_garbage mt	garbage mt	OUT
+OUT_fee land	fee land	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_lease use	lease use	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_from oil wells	from oil wells	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_production from stripper gas wells thousand cf	production from stripper gas wells thousand cf	OUT
+OUT_from shale gas wells	from shale gas wells	OUT
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_vented and flared	vented and flared	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_ac- ft	ac- ft	OUT
+OUT_agreement	agreement	OUT
+OUT_mod	mod	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_underground recoverable reserves at producing mines	underground recoverable reserves at producing mines	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_surface estimated recoverable reserves	surface estimated recoverable reserves	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_1999	1999	OUT
+OUT_% total recoverable reserves at producing mines	% total recoverable reserves at producing mines	OUT
+OUT_2002	2002	OUT
+OUT_total estimated recoverable reserves	total estimated recoverable reserves	OUT
+OUT_% total estimated recoverable reserves	% total estimated recoverable reserves	OUT
+OUT_res cust	res cust	OUT
+OUT_tree size	tree size	OUT
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_rank	rank	OUT
+OUT_organics mt	organics mt	OUT
+OUT_alton	alton	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_plant use	plant use	OUT
+OUT_min	min	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_geo area	geo area	OUT
+OUT_program location	program location	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+OUT_res seco use	res seco use	OUT
+OUT_native american	native american	OUT
+OUT_operator	operator	OUT
+OUT_state and fee	state and fee	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_location	location	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_mitigation comments	mitigation comments	OUT
+OUT_coalfield	coalfield	OUT
+OUT_lead agency	lead agency	OUT
+OUT_final disposition	final disposition	OUT
+OUT_the geom	the geom	OUT
+OUT_dec contact	dec contact	OUT
+OUT_part	part	OUT
+OUT_# of students	# of students	OUT
+OUT_ind sales	ind sales	OUT
+OUT_applicant	applicant	OUT
+OUT_other industrial	other industrial	OUT
+OUT_attendees	attendees	OUT
+OUT_residential	residential	OUT
+OUT_organics	organics	OUT
+OUT_date	date	OUT
+OUT_total cost	total cost	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_municipality	municipality	OUT
+OUT_garbage	garbage	OUT
+OUT_total use	total use	OUT
+OUT_utility name	utility name	OUT
+OUT_service units	service units	OUT
+OUT_industrial	industrial	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_federal	federal	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_total consumption	total consumption	OUT
+OUT_commercial	commercial	OUT
+OUT_year	year	OUT
+OUT_coke plants	coke plants	OUT
+OUT_other biomass	other biomass	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_service type	service type	OUT
+OUT_wind	wind	OUT
+OUT_production	production	OUT
+OUT_total funds	total funds	OUT
+OUT_audience	audience	OUT
+OUT_electric power	electric power	OUT
+OUT_total	total	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_natural gas plant	natural gas plant	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_natural gas	natural gas	OUT
+OUT_18	18	OUT
+OUT_% of total	% of total	OUT
+OUT_16	16	OUT
+OUT_solar	solar	OUT
+OUT_30	30	OUT
+OUT_22	22	OUT
+OUT_ethane receipts	ethane receipts	OUT
+OUT_season	season	OUT
+OUT_other beginning stocks	other beginning stocks	OUT
+OUT_quantity	quantity	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_others	others	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_butane beginning stocks	butane beginning stocks	OUT
+OUT_11	11	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_emery	emery	OUT
+OUT_marketed production	marketed production	OUT
+OUT_company	company	OUT

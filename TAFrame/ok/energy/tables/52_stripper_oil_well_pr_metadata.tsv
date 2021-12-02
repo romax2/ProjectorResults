@@ -1,0 +1,202 @@
+stc_label	sentence	category
+52_stripper_oil_well_pr	stripper oil well production by state t3.11 2009	Table
+IN_municipalities	municipalities	IN
+IN_counties	counties	IN
+OUT_township	township	OUT
+OUT_facility	facility	OUT
+OUT_county	county	OUT
+OUT_count	count	OUT
+IN_location 1	location 1	IN
+IN_school districts	school districts	IN
+OUT_comments	comments	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_block id	block id	OUT
+OUT_fire number	fire number	OUT
+IN_zip codes	zip codes	IN
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+OUT_year est	year est	OUT
+OUT_company state	company state	OUT
+OUT_rep acres	rep acres	OUT
+OUT_specific cause	specific cause	OUT
+OUT_county land	county land	OUT
+OUT_company name	company name	OUT
+OUT_company zip	company zip	OUT
+OUT_subunit id	subunit id	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_sample aquifer	sample aquifer	OUT
+OUT_analysis start date	analysis start date	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_inspection result desc	inspection result desc	OUT
+OUT_gis acres	gis acres	OUT
+OUT_company address	company address	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_result status identifier	result status identifier	OUT
+OUT_organization formal name	organization formal name	OUT
+OUT_inspection type	inspection type	OUT
+OUT_lat ss	lat ss	OUT
+OUT_pct diff	pct diff	OUT
+OUT_company city	company city	OUT
+OUT_trans rev	trans rev	OUT
+OUT_inspection date	inspection date	OUT
+IN_production from stripper oil wells bbls	production from stripper oil wells bbls	IN
+OUT_region id	region id	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_surface sup	surface sup	OUT
+OUT_unspecified	unspecified	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_address postal code	address postal code	OUT
+OUT_data identifier	data identifier	OUT
+OUT_activity type code	activity type code	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_activity start date	activity start date	OUT
+OUT_method description text	method description text	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_resid	resid	OUT
+IN_percent production from stripper oil wells	percent production from stripper oil wells	IN
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_other known i ds	other known i ds	OUT
+IN_number of stripper oil wells	number of stripper oil wells	IN
+OUT_property name	property name	OUT
+OUT_borough	borough	OUT
+OUT_com cust	com cust	OUT
+OUT_configuration code	configuration code	OUT
+IN_average daily production per well bbls	average daily production per well bbls	IN
+OUT_permit effective date	permit effective date	OUT
+OUT_fee land	fee land	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_date received	date received	OUT
+OUT_lease use	lease use	OUT
+OUT_ind cust	ind cust	OUT
+OUT_petro type	petro type	OUT
+OUT_short description	short description	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_mean	mean	OUT
+OUT_federal land	federal land	OUT
+OUT_trans cust	trans cust	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_family name	family name	OUT
+OUT_agreement	agreement	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_1993	1993	OUT
+OUT_2004	2004	OUT
+OUT_2000	2000	OUT
+OUT_2012	2012	OUT
+OUT_res cust	res cust	OUT
+OUT_data type	data type	OUT
+OUT_tree size	tree size	OUT
+OUT_permit	permit	OUT
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_total sup	total sup	OUT
+OUT_family description	family description	OUT
+OUT_fed. region	fed. region	OUT
+IN_rank	rank	IN
+OUT_organics mt	organics mt	OUT
+OUT_total cust	total cust	OUT
+OUT_county fips code	county fips code	OUT
+OUT_total rcf	total rcf	OUT
+OUT_ind seco use	ind seco use	OUT
+OUT_geo area	geo area	OUT
+OUT_program location	program location	OUT
+OUT_discovery	discovery	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+OUT_region	region	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_breeding status	breeding status	OUT
+OUT_mitigation county	mitigation county	OUT
+OUT_measure value	measure value	OUT
+OUT_class people	class people	OUT
+OUT_common name	common name	OUT
+OUT_building type code	building type code	OUT
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_ogo num	ogo num	OUT
+OUT_year / month	year / month	OUT
+OUT_coalfield	coalfield	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_total sum all	total sum all	OUT
+OUT_scientific name	scientific name	OUT
+OUT_lead agency	lead agency	OUT
+OUT_client	client	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_the geom	the geom	OUT
+OUT_# of students	# of students	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_ind sales	ind sales	OUT
+OUT_system cost	system cost	OUT
+OUT_other industrial	other industrial	OUT
+OUT_attendees	attendees	OUT
+OUT_date	date	OUT
+OUT_month	month	OUT
+OUT_27	27	OUT
+OUT_total cost	total cost	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_garbage	garbage	OUT
+OUT_com price	com price	OUT
+OUT_utility name	utility name	OUT
+OUT_service units	service units	OUT
+OUT_industrial	industrial	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_total board $	total board $	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_production	production	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_trans price	trans price	OUT
+OUT_21	21	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_status	status	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+OUT_commercial	commercial	OUT
+OUT_year	year	OUT
+OUT_condensate production	condensate production	OUT
+OUT_total consumption	total consumption	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_coke plants	coke plants	OUT
+OUT_well status	well status	OUT
+OUT_total all projects	total all projects	OUT
+OUT_service type	service type	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_complete status	complete status	OUT
+OUT_total funds	total funds	OUT
+OUT_shape len	shape len	OUT
+OUT_audience	audience	OUT
+OUT_total	total	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_coal	coal	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_% of total	% of total	OUT
+OUT_31	31	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_natural gas	natural gas	OUT
+OUT_1	1	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_6	6	OUT
+OUT_other	other	OUT
+OUT_14	14	OUT
+OUT_19	19	OUT
+OUT_prod form 1	prod form 1	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_prod form 4	prod form 4	OUT
+OUT_9	9	OUT
+OUT_season	season	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_4	4	OUT
+OUT_others	others	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_emery	emery	OUT
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
