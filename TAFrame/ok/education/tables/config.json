@@ -1,0 +1,38 @@
+{
+    "embeddings": [{
+            "tensorName": "0_2005_-_2011_graduati",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/0_2005_-_2011_graduati_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/0_2005_-_2011_graduati_metadata.tsv"
+        }, {
+            "tensorName": "1_2006_-_2012__math_te",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/1_2006_-_2012__math_te_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/1_2006_-_2012__math_te_metadata.tsv"
+        }, {
+            "tensorName": "2_2008_-_2012_historic",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/2_2008_-_2012_historic_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/2_2008_-_2012_historic_metadata.tsv"
+        }, {
+            "tensorName": "3_2010_-_2011_graduati",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/3_2010_-_2011_graduati_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/3_2010_-_2011_graduati_metadata.tsv"
+        }, {
+            "tensorName": "4_2010-11_discharge_re",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/4_2010-11_discharge_re_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/4_2010-11_discharge_re_metadata.tsv"
+        }, {
+            "tensorName": "5_2010-2011_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/5_2010-2011_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/5_2010-2011_class_size_metadata.tsv"
+        }, {
+            "tensorName": "6_2011-2012_class_size",
+            "tensorShape": [61, 384],
+            "tensorPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/6_2011-2012_class_size_embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/romax2/ProjectorResults/main/TAFrame/ok/education/tables/6_2011-2012_class_size_metadata.tsv"
+        }]
+}
