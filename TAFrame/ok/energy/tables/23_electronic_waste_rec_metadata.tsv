@@ -1,0 +1,202 @@
+stc_label	sentence	category
+23_electronic_waste_rec	electronic waste recycling facilities list	Table
+OUT_state land	state land	OUT
+OUT_measure qualifier code	measure qualifier code	OUT
+IN_phone number	phone number	IN
+OUT_company city	company city	OUT
+OUT_data identifier	data identifier	OUT
+OUT_detection quantitation limit type name	detection quantitation limit type name	OUT
+IN_location 1	location 1	IN
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_company state	company state	OUT
+OUT_organization formal name	organization formal name	OUT
+OUT_activity depth altitude reference point text	activity depth altitude reference point text	OUT
+OUT_county land	county land	OUT
+OUT_data source name	data source name	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_company address	company address	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+IN_facility name	facility name	IN
+IN_street address	street address	IN
+OUT_activity identifier	activity identifier	OUT
+OUT_company name	company name	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+IN_new york zip codes	new york zip codes	IN
+OUT_result laboratory comment text	result laboratory comment text	OUT
+IN_zip code	zip code	IN
+OUT_analysis start date	analysis start date	OUT
+OUT_company zip	company zip	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_result detection condition text	result detection condition text	OUT
+OUT_test end date	test end date	OUT
+IN_registration number	registration number	IN
+OUT_preparation start date	preparation start date	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_activity media name	activity media name	OUT
+IN_counties	counties	IN
+OUT_sample aquifer	sample aquifer	OUT
+IN_county	county	IN
+OUT_activity end date	activity end date	OUT
+OUT_activity type code	activity type code	OUT
+IN_city	city	IN
+OUT_resid	resid	OUT
+OUT_hydrologic condition	hydrologic condition	OUT
+OUT_activity start date	activity start date	OUT
+IN_state	state	IN
+OUT_longitude	longitude	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_result comment text	result comment text	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_unspecified	unspecified	OUT
+OUT_property name	property name	OUT
+OUT_activity comment text	activity comment text	OUT
+IN_website	website	IN
+OUT_result measure value	result measure value	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_borough	borough	OUT
+OUT_garbage mt	garbage mt	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_town or city	town or city	OUT
+OUT_fee land	fee land	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_lease use	lease use	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_petro type	petro type	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_hydrologic event	hydrologic event	OUT
+OUT_short description	short description	OUT
+OUT_lease and plant use	lease and plant use	OUT
+IN_contact name	contact name	IN
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_coastal zone status	coastal zone status	OUT
+OUT_federal land	federal land	OUT
+OUT_mean	mean	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_ac- ft	ac- ft	OUT
+OUT_agreement	agreement	OUT
+OUT_property type	property type	OUT
+OUT_activity conducting organization text	activity conducting organization text	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_coalville	coalville	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_tree size	tree size	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_application type	application type	OUT
+OUT_rank	rank	OUT
+OUT_alton	alton	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_county fips code	county fips code	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_geo area	geo area	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_program location	program location	OUT
+OUT_2002 production	2002 production	OUT
+OUT_region	region	OUT
+OUT_operator	operator	OUT
+OUT_mitigation county	mitigation county	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_max	max	OUT
+OUT_location	location	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_mitigation comments	mitigation comments	OUT
+OUT_lead agency	lead agency	OUT
+OUT_final disposition	final disposition	OUT
+OUT_the geom	the geom	OUT
+OUT_dec contact	dec contact	OUT
+OUT_coalfield	coalfield	OUT
+OUT_# of students	# of students	OUT
+OUT_system cost	system cost	OUT
+OUT_other industrial	other industrial	OUT
+OUT_attendees	attendees	OUT
+OUT_residential	residential	OUT
+OUT_organics	organics	OUT
+OUT_date	date	OUT
+OUT_total cost	total cost	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_municipality	municipality	OUT
+OUT_day	day	OUT
+OUT_garbage	garbage	OUT
+OUT_mitigation year ended	mitigation year ended	OUT
+OUT_industrial	industrial	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+IN_extension	extension	IN
+OUT_27	27	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_transportation	transportation	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_propane deliveries	propane deliveries	OUT
+OUT_commercial	commercial	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_coke plants	coke plants	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_complete status	complete status	OUT
+OUT_sego	sego	OUT
+OUT_total funds	total funds	OUT
+OUT_production	production	OUT
+OUT_electric power	electric power	OUT
+OUT_audience	audience	OUT
+OUT_total	total	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_21	21	OUT
+OUT_population	population	OUT
+OUT_other production	other production	OUT
+OUT_condensate production	condensate production	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_15	15	OUT
+OUT_coal	coal	OUT
+OUT_butane production	butane production	OUT
+OUT_2	2	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_natural gas	natural gas	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_7	7	OUT
+OUT_% of total	% of total	OUT
+OUT_16	16	OUT
+OUT_gasoline receipts	gasoline receipts	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_22	22	OUT
+OUT_12	12	OUT
+OUT_ethane receipts	ethane receipts	OUT
+OUT_6	6	OUT
+OUT_season	season	OUT
+OUT_8	8	OUT
+OUT_quantity	quantity	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_23	23	OUT
+OUT_other beginning stocks	other beginning stocks	OUT
+OUT_others	others	OUT
+OUT_propane production	propane production	OUT
+OUT_other receipts	other receipts	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_9	9	OUT
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_propane beginning stocks	propane beginning stocks	OUT
+OUT_25	25	OUT
+OUT_propane ending stocks	propane ending stocks	OUT
+OUT_ethane production	ethane production	OUT
+OUT_emery	emery	OUT
+OUT_company	company	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+8_coal_production_in_u	coal production in utah by coalfield t 2.11 1982-2013	Table
+OUT_cumulative production	cumulative production	OUT
+OUT_year discovered	year discovered	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2003 gross production	2003 gross production	OUT
+OUT_rank	rank	OUT
+OUT_2007 gross production	2007 gross production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_2007 production	2007 production	OUT
+OUT_field	field	OUT
+OUT_% total estimated recoverable reserves	% total estimated recoverable reserves	OUT
+OUT_2013 production	2013 production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_2006 gross production	2006 gross production	OUT
+OUT_operator	operator	OUT
+OUT_coalfield	coalfield	OUT
+OUT_butane production	butane production	OUT
+OUT_iso- butane production	iso- butane production	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_marketed production	marketed production	OUT
+OUT_company	company	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+IN_emery	emery	IN
+IN_others	others	IN
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_ethane deliveries	ethane deliveries	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_season	season	OUT
+OUT_prod form 1	prod form 1	OUT
+OUT_solar	solar	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_acres	acres	OUT
+IN_total	total	IN
+OUT_electric power	electric power	OUT
+IN_sego	sego	IN
+OUT_complete status	complete status	OUT
+OUT_well status	well status	OUT
+OUT_wind	wind	OUT
+OUT_total all projects	total all projects	OUT
+IN_year	year	IN
+OUT_total estimated recoverable reserves	total estimated recoverable reserves	OUT
+OUT_commercial	commercial	OUT
+OUT_status	status	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_extension	extension	OUT
+OUT_total board $	total board $	OUT
+OUT_industrial	industrial	OUT
+OUT_fiscal year	fiscal year	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_date	date	OUT
+OUT_system cost	system cost	OUT
+OUT_applicant	applicant	OUT
+OUT_dec contact	dec contact	OUT
+OUT_the geom	the geom	OUT
+OUT_final disposition	final disposition	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_location	location	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_measure value	measure value	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_tot seco use	tot seco use	OUT
+OUT_com seco use	com seco use	OUT
+OUT_1987	1987	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_res seco use	res seco use	OUT
+OUT_geo area	geo area	OUT
+OUT_2002	2002	OUT
+OUT_total rcf	total rcf	OUT
+IN_alton	alton	IN
+OUT_2007	2007	OUT
+OUT_2013	2013	OUT
+OUT_1990	1990	OUT
+OUT_2001	2001	OUT
+OUT_2003	2003	OUT
+OUT_2005	2005	OUT
+OUT_tree size	tree size	OUT
+OUT_1994	1994	OUT
+OUT_2000	2000	OUT
+OUT_% total recoverable reserves at producing mines	% total recoverable reserves at producing mines	OUT
+OUT_2008	2008	OUT
+OUT_2010	2010	OUT
+OUT_1993	1993	OUT
+OUT_1999	1999	OUT
+OUT_2009	2009	OUT
+OUT_total recoverable reserves at producing mines	total recoverable reserves at producing mines	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_date local	date local	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+IN_coalville	coalville	IN
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_vented and flared	vented and flared	OUT
+OUT_total 2002 gas production million cf	total 2002 gas production million cf	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_dry production	dry production	OUT
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_production from stripper gas wells thousand cf	production from stripper gas wells thousand cf	OUT
+OUT_from shale gas wells	from shale gas wells	OUT
+OUT_from gas wells	from gas wells	OUT
+OUT_number of stripper oil wells	number of stripper oil wells	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_count	count	OUT
+OUT_total dry	total dry	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_total demonstrated reserve base	total demonstrated reserve base	OUT
+OUT_springs sup	springs sup	OUT
+IN_book cliffs	book cliffs	IN
+OUT_disc well	disc well	OUT
+OUT_municipalities	municipalities	OUT
+OUT_hydrologic condition	hydrologic condition	OUT
+OUT_result temperature basis text	result temperature basis text	OUT
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+OUT_result measure value	result measure value	OUT
+OUT_specimen description	specimen description	OUT
+IN_wasatch plateau	wasatch plateau	IN
+OUT_method description text	method description text	OUT
+OUT_school districts	school districts	OUT
+OUT_surface demonstrated reserve base	surface demonstrated reserve base	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_latitude	latitude	OUT
+OUT_observation percent	observation percent	OUT
+OUT_activity depth altitude reference point text	activity depth altitude reference point text	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_zip codes	zip codes	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_wells sup	wells sup	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_oh mg l	oh mg l	OUT
+OUT_parameter name	parameter name	OUT
+OUT_zip code	zip code	OUT
+OUT_registration number	registration number	OUT
+OUT_written comments due	written comments due	OUT
+OUT_counties	counties	OUT
+OUT_county	county	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_event type	event type	OUT
+OUT_site num	site num	OUT
+OUT_state name	state name	OUT
+OUT_conservation	conservation	OUT
+OUT_pct diff	pct diff	OUT
+OUT_location 1	location 1	OUT
+OUT_result value type name	result value type name	OUT
+OUT_gis acres	gis acres	OUT
+OUT_fe mg l	fe mg l	OUT
+OUT_city name	city name	OUT
+OUT_comments	comments	OUT
+OUT_facility name	facility name	OUT
+OUT_total state generation	total state generation	OUT
+OUT_field name	field name	OUT
+OUT_total renewable generation	total renewable generation	OUT
+OUT_company address	company address	OUT
+OUT_organization identifier	organization identifier	OUT
+OUT_spud date	spud date	OUT
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_street address	street address	OUT
+OUT_facility state	facility state	OUT
+OUT_phone number	phone number	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_company name	company name	OUT
+OUT_inspection date	inspection date	OUT
+OUT_rep acres	rep acres	OUT
+OUT_company state	company state	OUT
+OUT_company city	company city	OUT
+OUT_year est	year est	OUT
+OUT_permit type	permit type	OUT
+OUT_inspection type	inspection type	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_short description	short description	OUT
+OUT_website	website	OUT
+OUT_permit id	permit id	OUT
+OUT_biomass wood & derived fuels	biomass wood & derived fuels	OUT
+OUT_unconventional ind	unconventional ind	OUT
+OUT_resid	resid	OUT
+OUT_application id	application id	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_borough	borough	OUT
+OUT_property name	property name	OUT
+OUT_ins sec gpcd	ins sec gpcd	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_agree type	agree type	OUT
+OUT_contact name	contact name	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_% total demonstrated reserve base	% total demonstrated reserve base	OUT
+OUT_property type	property type	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT

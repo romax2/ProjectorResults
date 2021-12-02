@@ -1,0 +1,202 @@
+stc_label	sentence	category
+1_annual_all_utah_air_	annual all utah air quality 2013	Table
+IN_valid day count	valid day count	IN
+IN_required day count	required day count	IN
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_analysis start date	analysis start date	OUT
+IN_2nd max date time	2nd max date time	IN
+IN_location 1	location 1	IN
+IN_county code	county code	IN
+IN_4th max date time	4th max date time	IN
+IN_3rd max date time	3rd max date time	IN
+OUT_pa senatorial districts	pa senatorial districts	OUT
+OUT_pa house districts	pa house districts	OUT
+IN_school districts	school districts	IN
+IN_state name	state name	IN
+IN_observation count	observation count	IN
+IN_exceptional data count	exceptional data count	IN
+IN_1st max date time	1st max date time	IN
+IN_state code	state code	IN
+IN_county name	county name	IN
+OUT_pct diff	pct diff	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_organization identifier	organization identifier	OUT
+IN_null data count	null data count	IN
+OUT_company state	company state	OUT
+OUT_result weight basis text	result weight basis text	OUT
+IN_zip codes	zip codes	IN
+OUT_organization formal name	organization formal name	OUT
+OUT_sample tissue anatomy name	sample tissue anatomy name	OUT
+IN_city name	city name	IN
+IN_2nd no max date time	2nd no max date time	IN
+OUT_year est	year est	OUT
+OUT_inspection id	inspection id	OUT
+OUT_company name	company name	OUT
+OUT_rep acres	rep acres	OUT
+OUT_gis acres	gis acres	OUT
+OUT_company address	company address	OUT
+OUT_inspection type	inspection type	OUT
+IN_certification indicator	certification indicator	IN
+OUT_activity end date	activity end date	OUT
+IN_local site name	local site name	IN
+OUT_permit expiration date	permit expiration date	OUT
+IN_pollutant standard	pollutant standard	IN
+OUT_company city	company city	OUT
+OUT_preparation start date	preparation start date	OUT
+IN_metric used	metric used	IN
+IN_arithmetic standard dev	arithmetic standard dev	IN
+IN_sample duration	sample duration	IN
+IN_50th percentile	50th percentile	IN
+IN_1st no max date time	1st no max date time	IN
+IN_observation percent	observation percent	IN
+OUT_company zip	company zip	OUT
+OUT_inspection result desc	inspection result desc	OUT
+OUT_county	county	OUT
+IN_counties	counties	IN
+IN_site num	site num	IN
+OUT_permit type	permit type	OUT
+IN_10th percentile	10th percentile	IN
+IN_75th percentile	75th percentile	IN
+OUT_subject taxonomic name	subject taxonomic name	OUT
+IN_municipalities	municipalities	IN
+IN_method name	method name	IN
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_field name	field name	OUT
+IN_units of measure	units of measure	IN
+OUT_method description text	method description text	OUT
+IN_2nd max non overlapping value	2nd max non overlapping value	IN
+OUT_facility	facility	OUT
+OUT_count	count	OUT
+OUT_result comment text	result comment text	OUT
+IN_2nd max value	2nd max value	IN
+IN_arithmetic mean	arithmetic mean	IN
+OUT_comments	comments	OUT
+IN_parameter code	parameter code	IN
+IN_date of last change	date of last change	IN
+IN_4th max value	4th max value	IN
+IN_poc	poc	IN
+IN_1st max non overlapping value	1st max non overlapping value	IN
+IN_3rd max value	3rd max value	IN
+OUT_surface ownership % private	surface ownership % private	OUT
+IN_1st max value	1st max value	IN
+IN_datum	datum	IN
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_surface sup	surface sup	OUT
+OUT_resid	resid	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_precision value	precision value	OUT
+IN_event type	event type	IN
+OUT_disc well	disc well	OUT
+OUT_activity comment text	activity comment text	OUT
+OUT_property name	property name	OUT
+OUT_conservation	conservation	OUT
+OUT_unconventional ind	unconventional ind	OUT
+IN_parameter name	parameter name	IN
+OUT_town or city	town or city	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_petro type	petro type	OUT
+OUT_short description	short description	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_coastal zone status	coastal zone status	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_agreement	agreement	OUT
+OUT_property type	property type	OUT
+OUT_activity conducting organization text	activity conducting organization text	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_1995	1995	OUT
+OUT_2009	2009	OUT
+OUT_2006	2006	OUT
+OUT_1993	1993	OUT
+OUT_1997	1997	OUT
+OUT_2010	2010	OUT
+OUT_2008	2008	OUT
+OUT_1998	1998	OUT
+OUT_1994	1994	OUT
+OUT_2005	2005	OUT
+OUT_2003	2003	OUT
+OUT_2001	2001	OUT
+OUT_2002	2002	OUT
+OUT_field	field	OUT
+OUT_tree size	tree size	OUT
+OUT_permit	permit	OUT
+OUT_cumulative production	cumulative production	OUT
+OUT_year discovered	year discovered	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_2003 gross production	2003 gross production	OUT
+OUT_application type	application type	OUT
+OUT_rank	rank	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_total rcf	total rcf	OUT
+OUT_ind seco use	ind seco use	OUT
+OUT_2007 production	2007 production	OUT
+OUT_2011 production	2011 production	OUT
+OUT_2013 production	2013 production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_geo area	geo area	OUT
+OUT_2006 gross production	2006 gross production	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_res seco use	res seco use	OUT
+OUT_region	region	OUT
+OUT_operator	operator	OUT
+OUT_revolving construction fund board $	revolving construction fund board $	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_location	location	OUT
+OUT_total sum all	total sum all	OUT
+OUT_coalfield	coalfield	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_the geom	the geom	OUT
+OUT_dec contact	dec contact	OUT
+OUT_applicant	applicant	OUT
+OUT_date	date	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_total use	total use	OUT
+OUT_total board $	total board $	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_status	status	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+IN_year	year	IN
+OUT_total all projects	total all projects	OUT
+OUT_well status	well status	OUT
+OUT_complete status	complete status	OUT
+OUT_other production	other production	OUT
+OUT_condensate production	condensate production	OUT
+OUT_butane production	butane production	OUT
+OUT_propane receipts	propane receipts	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_iso- butane production	iso- butane production	OUT
+OUT_prod form 1	prod form 1	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_prod form 4	prod form 4	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_season	season	OUT
+OUT_farm	farm	OUT
+OUT_quantity	quantity	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_other receipts	other receipts	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_butane beginning stocks	butane beginning stocks	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_ethane production	ethane production	OUT
+OUT_ethane beginning stocks	ethane beginning stocks	OUT
+OUT_propane ending stocks	propane ending stocks	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+OUT_company	company	OUT

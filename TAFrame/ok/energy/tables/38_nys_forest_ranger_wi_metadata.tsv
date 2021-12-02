@@ -1,0 +1,202 @@
+stc_label	sentence	category
+38_nys_forest_ranger_wi	nys forest ranger wildfires for firefamily plus 4.1: 1975-2007	Table
+OUT_condensate receipts	condensate receipts	OUT
+OUT_ethane deliveries	ethane deliveries	OUT
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_gross withdrawals	gross withdrawals	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_season	season	OUT
+OUT_solar	solar	OUT
+OUT_other receipts	other receipts	OUT
+IN_other	other	IN
+OUT_condensate ending stocks	condensate ending stocks	OUT
+OUT_gasoline beginning stocks	gasoline beginning stocks	OUT
+OUT_propane beginning stocks	propane beginning stocks	OUT
+OUT_wind	wind	OUT
+OUT_coke plants	coke plants	OUT
+IN_wild num	wild num	IN
+OUT_commercial	commercial	OUT
+IN_year	year	IN
+OUT_other biomass	other biomass	OUT
+OUT_butane beginning stocks	butane beginning stocks	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_company	company	OUT
+OUT_marketed production	marketed production	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_ethane production	ethane production	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_residential	residential	OUT
+OUT_date	date	OUT
+OUT_system cost	system cost	OUT
+OUT_the geom	the geom	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_final disposition	final disposition	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_year / month	year / month	OUT
+OUT_location	location	OUT
+OUT_acct num	acct num	OUT
+OUT_iso- butane production	iso- butane production	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_building type code	building type code	OUT
+IN_class people	class people	IN
+OUT_mitigation county	mitigation county	OUT
+OUT_measure value	measure value	OUT
+OUT_geo area	geo area	OUT
+IN_discovery	discovery	IN
+OUT_mitigation test type	mitigation test type	OUT
+OUT_county fips code	county fips code	OUT
+OUT_coalfield	coalfield	OUT
+OUT_operator	operator	OUT
+OUT_2002 production	2002 production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+IN_size class	size class	IN
+OUT_percent of state production	percent of state production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_rank	rank	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_% total estimated recoverable reserves	% total estimated recoverable reserves	OUT
+OUT_date local	date local	OUT
+OUT_total estimated recoverable reserves	total estimated recoverable reserves	OUT
+OUT_2002	2002	OUT
+OUT_1984	1984	OUT
+OUT_1986	1986	OUT
+OUT_1989	1989	OUT
+OUT_1985	1985	OUT
+OUT_2001	2001	OUT
+OUT_2000	2000	OUT
+OUT_1998	1998	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_% total recoverable reserves at producing mines	% total recoverable reserves at producing mines	OUT
+OUT_2008	2008	OUT
+OUT_1993	1993	OUT
+OUT_total recoverable reserves at producing mines	total recoverable reserves at producing mines	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_surface recoverable reserves at producing mines	surface recoverable reserves at producing mines	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_mod	mod	OUT
+OUT_agreement	agreement	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_coastal zone status	coastal zone status	OUT
+IN_ignition	ignition	IN
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_agree type	agree type	OUT
+OUT_remediation system description	remediation system description	OUT
+IN_lon mm	lon mm	IN
+OUT_hydrologic event	hydrologic event	OUT
+IN_cause narr	cause narr	IN
+OUT_short description	short description	OUT
+IN_lon ss	lon ss	IN
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_date received	date received	OUT
+IN_lon dd	lon dd	IN
+OUT_borough	borough	OUT
+OUT_parameter name	parameter name	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_biomass wood & derived fuels	biomass wood & derived fuels	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_written comments due	written comments due	OUT
+OUT_activity comment text	activity comment text	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_comment begin date	comment begin date	OUT
+OUT_from shale gas wells	from shale gas wells	OUT
+OUT_dry production	dry production	OUT
+OUT_resid	resid	OUT
+IN_general cause	general cause	IN
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_result measure value	result measure value	OUT
+OUT_number of stripper gas wells	number of stripper gas wells	OUT
+IN_agency id	agency id	IN
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_data identifier	data identifier	OUT
+OUT_permit type	permit type	OUT
+OUT_municipality name	municipality name	OUT
+OUT_permit id	permit id	OUT
+IN_region id	region id	IN
+OUT_1st max value	1st max value	OUT
+OUT_permit expiration date	permit expiration date	OUT
+IN_fire name	fire name	IN
+OUT_number of stripper oil wells	number of stripper oil wells	OUT
+IN_lat mm	lat mm	IN
+OUT_monitoring location identifier	monitoring location identifier	OUT
+IN_lat ss	lat ss	IN
+OUT_pollutant standard	pollutant standard	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_measure qualifier code	measure qualifier code	OUT
+OUT_comment end date	comment end date	OUT
+OUT_result comment text	result comment text	OUT
+IN_lat dd	lat dd	IN
+OUT_facility city	facility city	OUT
+OUT_total renewable generation	total renewable generation	OUT
+OUT_company name	company name	OUT
+OUT_units of measure	units of measure	OUT
+OUT_geothermal	geothermal	OUT
+IN_unit id	unit id	IN
+OUT_method description text	method description text	OUT
+OUT_company address	company address	OUT
+OUT_facility state	facility state	OUT
+OUT_total state generation	total state generation	OUT
+OUT_site num	site num	OUT
+IN_fire number	fire number	IN
+OUT_test method type code	test method type code	OUT
+IN_fire id	fire id	IN
+OUT_new york zip codes	new york zip codes	OUT
+OUT_parameter code	parameter code	OUT
+IN_total acres	total acres	IN
+OUT_analysis start date	analysis start date	OUT
+OUT_facility zip	facility zip	OUT
+OUT_city name	city name	OUT
+OUT_location 1	location 1	OUT
+IN_subunit id	subunit id	IN
+OUT_pa house districts	pa house districts	OUT
+OUT_vented and flared	vented and flared	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_from oil wells	from oil wells	OUT
+IN_state	state	IN
+OUT_state code	state code	OUT
+OUT_preparation start date	preparation start date	OUT
+OUT_sample tissue anatomy name	sample tissue anatomy name	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_conventional hydroelectric	conventional hydroelectric	OUT
+OUT_from gas wells	from gas wells	OUT
+OUT_method name	method name	OUT
+IN_sub section	sub section	IN
+OUT_observation percent	observation percent	OUT
+OUT_local site name	local site name	OUT
+OUT_zip codes	zip codes	OUT
+IN_specific cause	specific cause	IN
+OUT_county name	county name	OUT
+OUT_facility	facility	OUT
+OUT_date of last change	date of last change	OUT
+IN_notes	notes	IN
+IN_township	township	IN
+IN_section	section	IN
+OUT_surface demonstrated reserve base	surface demonstrated reserve base	OUT
+OUT_municipality boundary	municipality boundary	OUT
+IN_county	county	IN
+OUT_counties	counties	OUT
+OUT_school districts	school districts	OUT
+IN_statistical cause	statistical cause	IN
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_total dry	total dry	OUT
+OUT_total demonstrated reserve base	total demonstrated reserve base	OUT
+IN_range	range	IN
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_production from stripper gas wells thousand cf	production from stripper gas wells thousand cf	OUT
+OUT_municipalities	municipalities	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_total 2005 gas production million cf	total 2005 gas production million cf	OUT
+OUT_total 2002 gas production million cf	total 2002 gas production million cf	OUT

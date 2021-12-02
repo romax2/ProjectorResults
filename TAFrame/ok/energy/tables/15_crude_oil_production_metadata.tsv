@@ -1,0 +1,202 @@
+stc_label	sentence	category
+15_crude_oil_production	crude oil production in utah by 25 largest operators t3.9 2009	Table
+IN_operator	operator	IN
+OUT_coalfield	coalfield	OUT
+IN_percent of state production	percent of state production	IN
+IN_2009 production	2009 production	IN
+IN_rank	rank	IN
+OUT_production	production	OUT
+IN_percent of cumulative production	percent of cumulative production	IN
+OUT_iso- butane production	iso- butane production	OUT
+OUT_28	28	OUT
+OUT_week ending	week ending	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_20	20	OUT
+OUT_others	others	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_quantity	quantity	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_season	season	OUT
+OUT_farm	farm	OUT
+OUT_12	12	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_31	31	OUT
+OUT_natural gas	natural gas	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_15	15	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_audience	audience	OUT
+OUT_total	total	OUT
+OUT_electric power	electric power	OUT
+OUT_total funds	total funds	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_total all projects	total all projects	OUT
+OUT_coke plants	coke plants	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_year	year	OUT
+OUT_propane deliveries	propane deliveries	OUT
+OUT_commercial	commercial	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_status	status	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_trans price	trans price	OUT
+OUT_federal	federal	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_total board $	total board $	OUT
+OUT_industrial	industrial	OUT
+OUT_res price	res price	OUT
+OUT_service units	service units	OUT
+OUT_garbage	garbage	OUT
+OUT_municipality	municipality	OUT
+OUT_well code	well code	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_attendees	attendees	OUT
+OUT_date	date	OUT
+OUT_organics	organics	OUT
+OUT_residential	residential	OUT
+OUT_other industrial	other industrial	OUT
+OUT_applicant	applicant	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_commodity	commodity	OUT
+OUT_period	period	OUT
+OUT_dec contact	dec contact	OUT
+OUT_fee	fee	OUT
+OUT_the geom	the geom	OUT
+OUT_final disposition	final disposition	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_domain	domain	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_common name	common name	OUT
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_building type code	building type code	OUT
+OUT_class people	class people	OUT
+OUT_breeding status	breeding status	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_revolving construction fund board $	revolving construction fund board $	OUT
+OUT_region	region	OUT
+OUT_discovery	discovery	OUT
+OUT_res seco use	res seco use	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_program location	program location	OUT
+OUT_geo area	geo area	OUT
+OUT_domain category	domain category	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_plant use	plant use	OUT
+OUT_shape are	shape are	OUT
+OUT_total rcf	total rcf	OUT
+OUT_organics mt	organics mt	OUT
+OUT_family description	family description	OUT
+OUT_size class	size class	OUT
+OUT_total sup	total sup	OUT
+OUT_ins seco use	ins seco use	OUT
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_breeding behavior	breeding behavior	OUT
+OUT_res cust	res cust	OUT
+OUT_2002	2002	OUT
+OUT_2012	2012	OUT
+OUT_1990	1990	OUT
+OUT_2001	2001	OUT
+OUT_1994	1994	OUT
+OUT_2000	2000	OUT
+OUT_2008	2008	OUT
+OUT_1995	1995	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_cause narr	cause narr	OUT
+OUT_mod	mod	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_com rev	com rev	OUT
+OUT_total dry	total dry	OUT
+OUT_unit of measure	unit of measure	OUT
+OUT_result measure value	result measure value	OUT
+OUT_units of measure	units of measure	OUT
+OUT_sample duration	sample duration	OUT
+OUT_state ansi	state ansi	OUT
+OUT_municipalities	municipalities	OUT
+OUT_2nd max non overlapping value	2nd max non overlapping value	OUT
+OUT_specimen collection date	specimen collection date	OUT
+OUT_wells sup	wells sup	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_specimen description	specimen description	OUT
+OUT_written comments due	written comments due	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_school districts	school districts	OUT
+OUT_range	range	OUT
+OUT_other analytical data	other analytical data	OUT
+OUT_test end date	test end date	OUT
+OUT_specimen id	specimen id	OUT
+OUT_event type	event type	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_ind rev	ind rev	OUT
+OUT_county ansi	county ansi	OUT
+OUT_zip codes	zip codes	OUT
+OUT_poc	poc	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_county code	county code	OUT
+OUT_facility	facility	OUT
+OUT_pollutant standard	pollutant standard	OUT
+OUT_srs	srs	OUT
+OUT_company zip	company zip	OUT
+OUT_arithmetic standard dev	arithmetic standard dev	OUT
+OUT_source	source	OUT
+OUT_counties	counties	OUT
+OUT_location 1	location 1	OUT
+OUT_county	county	OUT
+OUT_parent company name	parent company name	OUT
+OUT_h mg l	h mg l	OUT
+OUT_elevation ft msl	elevation ft msl	OUT
+OUT_facility name	facility name	OUT
+OUT_watershed	watershed	OUT
+OUT_comments	comments	OUT
+OUT_company address	company address	OUT
+OUT_street address	street address	OUT
+OUT_phone number	phone number	OUT
+OUT_facility location	facility location	OUT
+OUT_fire name	fire name	OUT
+OUT_lat dd	lat dd	OUT
+OUT_1st max date time	1st max date time	OUT
+OUT_facility state	facility state	OUT
+OUT_company name	company name	OUT
+OUT_website	website	OUT
+OUT_state land	state land	OUT
+OUT_company state	company state	OUT
+OUT_trans rev	trans rev	OUT
+OUT_exceptional data count	exceptional data count	OUT
+OUT_ba code	ba code	OUT
+OUT_comment end date	comment end date	OUT
+OUT_inspection type	inspection type	OUT
+OUT_region id	region id	OUT
+OUT_unconventional ind	unconventional ind	OUT
+OUT_year est	year est	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_inspection id	inspection id	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_resid	resid	OUT
+OUT_client id	client id	OUT
+OUT_application id	application id	OUT
+OUT_borough	borough	OUT
+OUT_property name	property name	OUT
+OUT_ownership	ownership	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_ind cust	ind cust	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_family name	family name	OUT
+OUT_contact name	contact name	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_property type	property type	OUT
+OUT_petro type	petro type	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_federal land	federal land	OUT
+OUT_trans cust	trans cust	OUT
+OUT_coastal zone status	coastal zone status	OUT

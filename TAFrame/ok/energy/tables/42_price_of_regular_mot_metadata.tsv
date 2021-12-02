@@ -1,0 +1,202 @@
+stc_label	sentence	category
+42_price_of_regular_mot	price of regular motor gasoline by state t 3.21 1984-2010	Table
+IN_1995	1995	IN
+IN_2009	2009	IN
+IN_1999	1999	IN
+IN_2006	2006	IN
+IN_1996	1996	IN
+IN_1993	1993	IN
+IN_1997	1997	IN
+IN_2010	2010	IN
+IN_2008	2008	IN
+IN_2004	2004	IN
+IN_2000	2000	IN
+IN_1998	1998	IN
+IN_1994	1994	IN
+IN_2005	2005	IN
+IN_1991	1991	IN
+IN_2003	2003	IN
+IN_2001	2001	IN
+IN_1992	1992	IN
+IN_1990	1990	IN
+IN_1985	1985	IN
+IN_1989	1989	IN
+IN_2007	2007	IN
+IN_1986	1986	IN
+IN_1984	1984	IN
+IN_1988	1988	IN
+IN_2002	2002	IN
+IN_1987	1987	IN
+OUT_field	field	OUT
+OUT_cumulative production	cumulative production	OUT
+OUT_year discovered	year discovered	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_2003 gross production	2003 gross production	OUT
+OUT_rank	rank	OUT
+OUT_2007 gross production	2007 gross production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_operator	operator	OUT
+OUT_coalfield	coalfield	OUT
+OUT_27	27	OUT
+OUT_mitigation year ended	mitigation year ended	OUT
+OUT_production	production	OUT
+OUT_7	7	OUT
+OUT_% of total	% of total	OUT
+OUT_19	19	OUT
+OUT_company	company	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+OUT_emery	emery	OUT
+OUT_count	count	OUT
+IN_municipalities	municipalities	IN
+OUT_municipality boundary	municipality boundary	OUT
+OUT_longitude	longitude	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_latitude	latitude	OUT
+OUT_hydrologic condition	hydrologic condition	OUT
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+IN_school districts	school districts	IN
+OUT_disc well	disc well	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_notes	notes	OUT
+IN_zip codes	zip codes	IN
+OUT_subunit id	subunit id	OUT
+IN_counties	counties	IN
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_county	county	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_comments	comments	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+OUT_ind rev	ind rev	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_company zip	company zip	OUT
+IN_location 1	location 1	IN
+OUT_analysis start date	analysis start date	OUT
+OUT_pct diff	pct diff	OUT
+OUT_gis acres	gis acres	OUT
+OUT_county land	county land	OUT
+OUT_fire number	fire number	OUT
+OUT_field name	field name	OUT
+OUT_data source name	data source name	OUT
+OUT_company address	company address	OUT
+OUT_block id	block id	OUT
+OUT_fire id	fire id	OUT
+OUT_map link	map link	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_lat dd	lat dd	OUT
+OUT_spud date	spud date	OUT
+OUT_company name	company name	OUT
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_rep acres	rep acres	OUT
+OUT_company state	company state	OUT
+OUT_inspection date	inspection date	OUT
+OUT_state land	state land	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_unspecified	unspecified	OUT
+OUT_company city	company city	OUT
+OUT_year est	year est	OUT
+OUT_region id	region id	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_town or city	town or city	OUT
+OUT_ba code	ba code	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_borough	borough	OUT
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
+OUT_lon ss	lon ss	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_ind cust	ind cust	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_lease use	lease use	OUT
+OUT_hydrologic event	hydrologic event	OUT
+OUT_agree type	agree type	OUT
+OUT_petro type	petro type	OUT
+OUT_others	others	OUT
+OUT_other receipts	other receipts	OUT
+OUT_propane production	propane production	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_ethane deliveries	ethane deliveries	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_season	season	OUT
+OUT_prod form 4	prod form 4	OUT
+OUT_22	22	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_federal land	federal land	OUT
+OUT_coastal zone status	coastal zone status	OUT
+OUT_trans cust	trans cust	OUT
+OUT_other	other	OUT
+OUT_18	18	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_31	31	OUT
+OUT_natural gas	natural gas	OUT
+OUT_acres	acres	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_coal	coal	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_audience	audience	OUT
+OUT_population	population	OUT
+OUT_total	total	OUT
+OUT_electric power	electric power	OUT
+OUT_sego	sego	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_coke plants	coke plants	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_year	year	OUT
+OUT_wild num	wild num	OUT
+OUT_commercial	commercial	OUT
+OUT_status	status	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_agreement	agreement	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_property type	property type	OUT
+OUT_industrial	industrial	OUT
+OUT_garbage	garbage	OUT
+OUT_total use	total use	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_well code	well code	OUT
+OUT_municipality	municipality	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_attendees	attendees	OUT
+OUT_total cost	total cost	OUT
+OUT_date	date	OUT
+OUT_organics	organics	OUT
+OUT_other industrial	other industrial	OUT
+OUT_residential	residential	OUT
+OUT_applicant	applicant	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_the geom	the geom	OUT
+OUT_final disposition	final disposition	OUT
+OUT_client	client	OUT
+OUT_mitigation comments	mitigation comments	OUT
+OUT_total sum all	total sum all	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_common name	common name	OUT
+OUT_building type code	building type code	OUT
+OUT_mitigation county	mitigation county	OUT
+OUT_breeding status	breeding status	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_program location	program location	OUT
+OUT_plant use	plant use	OUT
+OUT_shape are	shape are	OUT
+OUT_total rcf	total rcf	OUT
+OUT_alton	alton	OUT
+OUT_application type	application type	OUT
+OUT_family description	family description	OUT
+OUT_size class	size class	OUT
+OUT_permit	permit	OUT
+OUT_data type	data type	OUT
+OUT_coalville	coalville	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT

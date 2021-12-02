@@ -1,0 +1,202 @@
+stc_label	sentence	category
+41_percent_of_energy_ge	percent of energy generation from renewable energy (including hydro)	Table
+OUT_overseas exports	overseas exports	OUT
+OUT_electric power	electric power	OUT
+IN_other biomass	other biomass	IN
+OUT_population	population	OUT
+OUT_total funds	total funds	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+IN_wind	wind	IN
+OUT_total	total	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_natural gas	natural gas	OUT
+OUT_total all projects	total all projects	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+OUT_commercial	commercial	OUT
+OUT_2	2	OUT
+OUT_wild num	wild num	OUT
+OUT_transportation	transportation	OUT
+OUT_year	year	OUT
+OUT_total price	total price	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_audience	audience	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_total board $	total board $	OUT
+IN_solar	solar	IN
+OUT_sego	sego	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_service units	service units	OUT
+OUT_status	status	OUT
+OUT_industrial	industrial	OUT
+OUT_utility name	utility name	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_18	18	OUT
+OUT_gasoline receipts	gasoline receipts	OUT
+OUT_municipality	municipality	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_day	day	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_total cost	total cost	OUT
+OUT_garbage	garbage	OUT
+OUT_30	30	OUT
+OUT_quantity	quantity	OUT
+OUT_farm	farm	OUT
+OUT_organics	organics	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_other industrial	other industrial	OUT
+OUT_residential	residential	OUT
+OUT_season	season	OUT
+OUT_month	month	OUT
+OUT_prod form 4	prod form 4	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_butane receipts	butane receipts	OUT
+OUT_date	date	OUT
+OUT_well code	well code	OUT
+OUT_attendees	attendees	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_lead agency	lead agency	OUT
+OUT_final disposition	final disposition	OUT
+OUT_# of students	# of students	OUT
+OUT_ind price	ind price	OUT
+OUT_scientific name	scientific name	OUT
+OUT_20	20	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_total sum all	total sum all	OUT
+OUT_max	max	OUT
+OUT_3	3	OUT
+OUT_year / month	year / month	OUT
+OUT_ogo num	ogo num	OUT
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+OUT_11	11	OUT
+OUT_breeding status	breeding status	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_butane beginning stocks	butane beginning stocks	OUT
+OUT_revolving construction fund board $	revolving construction fund board $	OUT
+OUT_tot seco use	tot seco use	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_region	region	OUT
+OUT_program location	program location	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_geo area	geo area	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+OUT_other beginning stocks	other beginning stocks	OUT
+OUT_19	19	OUT
+OUT_6	6	OUT
+OUT_iso- butane production	iso- butane production	OUT
+OUT_% of total	% of total	OUT
+OUT_total rcf	total rcf	OUT
+OUT_other production	other production	OUT
+OUT_production	production	OUT
+OUT_27	27	OUT
+OUT_application type	application type	OUT
+OUT_fed. region	fed. region	OUT
+OUT_coalfield	coalfield	OUT
+OUT_res sec gpcd	res sec gpcd	OUT
+OUT_tree size	tree size	OUT
+OUT_breeding behavior	breeding behavior	OUT
+IN_rank	rank	IN
+OUT_2002	2002	OUT
+OUT_2012	2012	OUT
+OUT_2000	2000	OUT
+OUT_2008	2008	OUT
+OUT_1996	1996	OUT
+OUT_2006	2006	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_coalville	coalville	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_agreement	agreement	OUT
+OUT_family name	family name	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_federal land	federal land	OUT
+OUT_mean	mean	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_agree type	agree type	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_petro type	petro type	OUT
+OUT_lon mm	lon mm	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_ind cust	ind cust	OUT
+OUT_lon ss	lon ss	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_date received	date received	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_garbage mt	garbage mt	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_borough	borough	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_ba code	ba code	OUT
+IN_biomass wood & derived fuels	biomass wood & derived fuels	IN
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_activity comment text	activity comment text	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_map link	map link	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_general cause	general cause	OUT
+OUT_project identifier	project identifier	OUT
+OUT_company city	company city	OUT
+OUT_inspection type	inspection type	OUT
+OUT_data identifier	data identifier	OUT
+OUT_disc well	disc well	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_activity type code	activity type code	OUT
+IN_total renewable generation	total renewable generation	IN
+OUT_unspecified	unspecified	OUT
+OUT_state land	state land	OUT
+OUT_spud date	spud date	OUT
+OUT_lat mm	lat mm	OUT
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_year est	year est	OUT
+OUT_company state	company state	OUT
+OUT_rep acres	rep acres	OUT
+OUT_company name	company name	OUT
+OUT_result status identifier	result status identifier	OUT
+OUT_lat dd	lat dd	OUT
+OUT_gis acres	gis acres	OUT
+OUT_organization formal name	organization formal name	OUT
+OUT_block id	block id	OUT
+IN_geothermal	geothermal	IN
+OUT_fire id	fire id	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_year end date	year end date	OUT
+IN_total state generation	total state generation	IN
+OUT_company zip	company zip	OUT
+OUT_county land	county land	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+IN_location 1	location 1	IN
+OUT_comments	comments	OUT
+OUT_analysis start date	analysis start date	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_subunit id	subunit id	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_specific cause	specific cause	OUT
+IN_percent renewable	percent renewable	IN
+IN_conventional hydroelectric	conventional hydroelectric	IN
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_result laboratory comment text	result laboratory comment text	OUT
+OUT_total rev	total rev	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+IN_zip codes	zip codes	IN
+OUT_facility	facility	OUT
+OUT_section	section	OUT
+OUT_county	county	OUT
+IN_school districts	school districts	IN
+OUT_result detection condition text	result detection condition text	OUT
+IN_counties	counties	IN
+OUT_result temperature basis text	result temperature basis text	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_result weight basis text	result weight basis text	OUT
+OUT_latitude	latitude	OUT
+OUT_longitude	longitude	OUT
+IN_municipalities	municipalities	IN

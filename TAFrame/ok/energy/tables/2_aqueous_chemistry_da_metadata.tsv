@@ -1,0 +1,202 @@
+stc_label	sentence	category
+2_aqueous_chemistry_da	aqueous chemistry data minor constituents utah	Table
+IN_other analytical data	other analytical data	IN
+IN_location uncertainty statement	location uncertainty statement	IN
+IN_specimen collection method	specimen collection method	IN
+IN_source uri	source uri	IN
+IN_specimen collection date	specimen collection date	IN
+IN_specimen id	specimen id	IN
+OUT_pa school districts	pa school districts	OUT
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+IN_fluid temperature c	fluid temperature c	IN
+IN_plss meridians	plss meridians	IN
+IN_discharge units	discharge units	IN
+IN_other site id	other site id	IN
+IN_analysis date time	analysis date time	IN
+IN_sampling feature type	sampling feature type	IN
+OUT_analysis start date	analysis start date	OUT
+IN_elevation ft msl	elevation ft msl	IN
+IN_sr mg l	sr mg l	IN
+IN_b mg l	b mg l	IN
+IN_location 1	location 1	IN
+OUT_county land	county land	OUT
+IN_metadata uri	metadata uri	IN
+IN_section part	section part	IN
+IN_sampling feature name	sampling feature name	IN
+OUT_data source name	data source name	OUT
+IN_lat degree	lat degree	IN
+IN_long degree	long degree	IN
+IN_fe mg l	fe mg l	IN
+OUT_floor level tested	floor level tested	OUT
+IN_h mg l	h mg l	IN
+OUT_result sample fraction text	result sample fraction text	OUT
+IN_zr mg l	zr mg l	IN
+IN_specimen description	specimen description	IN
+IN_br mg l	br mg l	IN
+IN_mn mg l	mn mg l	IN
+IN_analytical procedure	analytical procedure	IN
+OUT_activity identifier	activity identifier	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_detection quantitation limit type name	detection quantitation limit type name	OUT
+IN_drilled depth ft	drilled depth ft	IN
+IN_i mg l	i mg l	IN
+IN_srs	srs	IN
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_company state	company state	OUT
+OUT_state land	state land	OUT
+OUT_result detection condition text	result detection condition text	OUT
+OUT_permit expiration date	permit expiration date	OUT
+IN_analysis name	analysis name	IN
+OUT_company name	company name	OUT
+OUT_company address	company address	OUT
+OUT_company city	company city	OUT
+OUT_company zip	company zip	OUT
+OUT_result value type name	result value type name	OUT
+IN_oh mg l	oh mg l	IN
+OUT_result particle size basis text	result particle size basis text	OUT
+IN_notes	notes	IN
+OUT_permit type	permit type	OUT
+IN_label	label	IN
+IN_source	source	IN
+OUT_municipality boundary	municipality boundary	OUT
+OUT_springs sup	springs sup	OUT
+IN_county	county	IN
+IN_range	range	IN
+IN_section	section	IN
+IN_rb mg l	rb mg l	IN
+IN_counties	counties	IN
+IN_laboratory	laboratory	IN
+IN_township	township	IN
+OUT_activity media name	activity media name	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_hydrologic condition	hydrologic condition	OUT
+IN_discharge	discharge	IN
+OUT_latitude	latitude	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_unspecified	unspecified	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_resid	resid	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_property name	property name	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_written comments due	written comments due	OUT
+OUT_borough	borough	OUT
+OUT_town or city	town or city	OUT
+OUT_garbage mt	garbage mt	OUT
+OUT_fee land	fee land	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_ind cust	ind cust	OUT
+OUT_petro type	petro type	OUT
+OUT_short description	short description	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_federal land	federal land	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_res rev	res rev	OUT
+OUT_agreement	agreement	OUT
+OUT_activity conducting organization text	activity conducting organization text	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_total sup	total sup	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_application type	application type	OUT
+OUT_rank	rank	OUT
+OUT_organics mt	organics mt	OUT
+OUT_total cust	total cust	OUT
+OUT_alton	alton	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_county fips code	county fips code	OUT
+OUT_plant use	plant use	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_program location	program location	OUT
+OUT_res seco use	res seco use	OUT
+OUT_region	region	OUT
+OUT_building purpose code	building purpose code	OUT
+OUT_operator	operator	OUT
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_max	max	OUT
+OUT_coalfield	coalfield	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_final disposition	final disposition	OUT
+OUT_the geom	the geom	OUT
+OUT_# of students	# of students	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_ind sales	ind sales	OUT
+OUT_other industrial	other industrial	OUT
+OUT_attendees	attendees	OUT
+OUT_residential	residential	OUT
+OUT_organics	organics	OUT
+OUT_date	date	OUT
+OUT_total cost	total cost	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_municipality	municipality	OUT
+OUT_mitigation year ended	mitigation year ended	OUT
+OUT_day	day	OUT
+OUT_garbage	garbage	OUT
+OUT_27	27	OUT
+OUT_service units	service units	OUT
+OUT_res price	res price	OUT
+OUT_industrial	industrial	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_transportation	transportation	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_status	status	OUT
+OUT_commercial	commercial	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_coke plants	coke plants	OUT
+OUT_29	29	OUT
+OUT_production	production	OUT
+OUT_total sales	total sales	OUT
+OUT_total funds	total funds	OUT
+OUT_21	21	OUT
+OUT_audience	audience	OUT
+OUT_butane production	butane production	OUT
+OUT_total	total	OUT
+OUT_natural gas plant	natural gas plant	OUT
+OUT_coal	coal	OUT
+OUT_2	2	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_acres	acres	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_natural gas	natural gas	OUT
+OUT_1	1	OUT
+OUT_17	17	OUT
+OUT_28	28	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_6	6	OUT
+OUT_season	season	OUT
+OUT_other beginning stocks	other beginning stocks	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_quantity	quantity	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_others	others	OUT
+OUT_propane production	propane production	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_5	5	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_gasoline beginning stocks	gasoline beginning stocks	OUT
+OUT_ethane production	ethane production	OUT
+OUT_gasoline ending stocks	gasoline ending stocks	OUT
+OUT_emery	emery	OUT
+OUT_company	company	OUT

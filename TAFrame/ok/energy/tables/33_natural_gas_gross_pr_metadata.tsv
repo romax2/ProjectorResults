@@ -1,0 +1,202 @@
+stc_label	sentence	category
+33_natural_gas_gross_pr	natural gas gross production in utah by the 25 largest operators t4.7 2008	Table
+IN_rank	rank	IN
+IN_percent of state production	percent of state production	IN
+IN_2008 gross production	2008 gross production	IN
+IN_percent of total state cumulative production	percent of total state cumulative production	IN
+IN_operator	operator	IN
+OUT_production	production	OUT
+OUT_other production	other production	OUT
+OUT_% of total	% of total	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_emery	emery	OUT
+OUT_propane ending stocks	propane ending stocks	OUT
+OUT_13	13	OUT
+OUT_other deliveries	other deliveries	OUT
+OUT_25	25	OUT
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_4	4	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_prod form 3	prod form 3	OUT
+OUT_quantity	quantity	OUT
+OUT_season	season	OUT
+OUT_prod form 4	prod form 4	OUT
+OUT_30	30	OUT
+OUT_other	other	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_propane receipts	propane receipts	OUT
+OUT_natural gas	natural gas	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_coal	coal	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_total	total	OUT
+OUT_electric power	electric power	OUT
+OUT_sego	sego	OUT
+OUT_complete status	complete status	OUT
+OUT_total sales	total sales	OUT
+OUT_total funds	total funds	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_coke plants	coke plants	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_wild num	wild num	OUT
+OUT_year	year	OUT
+OUT_commercial	commercial	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_status	status	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_trans price	trans price	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_total board $	total board $	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_industrial	industrial	OUT
+OUT_com price	com price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_total cost	total cost	OUT
+OUT_trans sales	trans sales	OUT
+OUT_attendees	attendees	OUT
+OUT_date	date	OUT
+OUT_month	month	OUT
+OUT_residential	residential	OUT
+OUT_system cost	system cost	OUT
+OUT_data item	data item	OUT
+OUT_# of students	# of students	OUT
+OUT_applicant	applicant	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_part	part	OUT
+OUT_period	period	OUT
+OUT_the geom	the geom	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_lead agency	lead agency	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_location	location	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_state and fee	state and fee	OUT
+OUT_measure value	measure value	OUT
+OUT_revolving construction fund board $	revolving construction fund board $	OUT
+OUT_native american	native american	OUT
+OUT_region	region	OUT
+OUT_program location	program location	OUT
+OUT_geo area	geo area	OUT
+OUT_total rcf	total rcf	OUT
+OUT_ind seco use	ind seco use	OUT
+OUT_alton	alton	OUT
+OUT_organics mt	organics mt	OUT
+OUT_family description	family description	OUT
+OUT_1987	1987	OUT
+OUT_2007	2007	OUT
+OUT_2012	2012	OUT
+OUT_2013	2013	OUT
+OUT_2003	2003	OUT
+OUT_2005	2005	OUT
+OUT_1998	1998	OUT
+OUT_2000	2000	OUT
+OUT_2004	2004	OUT
+OUT_1993	1993	OUT
+OUT_1999	1999	OUT
+OUT_2009	2009	OUT
+OUT_1995	1995	OUT
+OUT_date local	date local	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_coalville	coalville	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_surface sup	surface sup	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_count	count	OUT
+OUT_total dry	total dry	OUT
+OUT_com rev	com rev	OUT
+OUT_3rd max value	3rd max value	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_total rev	total rev	OUT
+OUT_unit of measure	unit of measure	OUT
+OUT_units of measure	units of measure	OUT
+OUT_municipalities	municipalities	OUT
+OUT_method description text	method description text	OUT
+OUT_municipality name	municipality name	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_com cust	com cust	OUT
+OUT_sample tissue anatomy name	sample tissue anatomy name	OUT
+OUT_precision value	precision value	OUT
+OUT_school districts	school districts	OUT
+OUT_method name	method name	OUT
+OUT_range	range	OUT
+OUT_result time basis text	result time basis text	OUT
+OUT_observation count	observation count	OUT
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_activity depth altitude reference point text	activity depth altitude reference point text	OUT
+OUT_other analytical data	other analytical data	OUT
+OUT_zip codes	zip codes	OUT
+OUT_classification	classification	OUT
+OUT_county name	county name	OUT
+OUT_county code	county code	OUT
+OUT_test result identifier	test result identifier	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_zip code	zip code	OUT
+OUT_event type	event type	OUT
+OUT_facility	facility	OUT
+OUT_section	section	OUT
+OUT_conservation	conservation	OUT
+OUT_notes	notes	OUT
+OUT_srs	srs	OUT
+OUT_counties	counties	OUT
+OUT_result comment text	result comment text	OUT
+OUT_pollutant standard	pollutant standard	OUT
+OUT_analysis date time	analysis date time	OUT
+OUT_company zip	company zip	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_arithmetic standard dev	arithmetic standard dev	OUT
+OUT_site num	site num	OUT
+OUT_county	county	OUT
+OUT_gis acres	gis acres	OUT
+OUT_location 1	location 1	OUT
+OUT_valid day count	valid day count	OUT
+OUT_county land	county land	OUT
+OUT_facility name	facility name	OUT
+OUT_comments	comments	OUT
+OUT_field name	field name	OUT
+OUT_4th max date time	4th max date time	OUT
+OUT_facility zip	facility zip	OUT
+OUT_elevation ft msl	elevation ft msl	OUT
+OUT_company address	company address	OUT
+OUT_town or city	town or city	OUT
+OUT_analysis name	analysis name	OUT
+OUT_block id	block id	OUT
+OUT_br mg l	br mg l	OUT
+OUT_1st max date time	1st max date time	OUT
+OUT_company name	company name	OUT
+OUT_state land	state land	OUT
+OUT_rep acres	rep acres	OUT
+OUT_company state	company state	OUT
+OUT_inspection date	inspection date	OUT
+OUT_unspecified	unspecified	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_permit type	permit type	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_inspection id	inspection id	OUT
+OUT_resid	resid	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_garbage mt	garbage mt	OUT
+OUT_fee land	fee land	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_petro type	petro type	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_family name	family name	OUT
+OUT_1st max hour	1st max hour	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_property type	property type	OUT
+OUT_agreement	agreement	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+12_crude_oil_production	crude oil production in utah 25 largest fields t3.8 2011	Table
+IN_cumulative production	cumulative production	IN
+IN_year discovered	year discovered	IN
+IN_percent of cumulative production	percent of cumulative production	IN
+IN_rank	rank	IN
+IN_percent of state production	percent of state production	IN
+IN_2011 production	2011 production	IN
+IN_field	field	IN
+OUT_coalfield	coalfield	OUT
+OUT_27	27	OUT
+OUT_production	production	OUT
+OUT_29	29	OUT
+OUT_28	28	OUT
+OUT_other ending stocks	other ending stocks	OUT
+OUT_ethane production	ethane production	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_company	company	OUT
+OUT_ethane beginning stocks	ethane beginning stocks	OUT
+OUT_emery	emery	OUT
+OUT_11	11	OUT
+OUT_25	25	OUT
+OUT_3	3	OUT
+OUT_gasoline beginning stocks	gasoline beginning stocks	OUT
+OUT_24	24	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_others	others	OUT
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_quantity	quantity	OUT
+OUT_12	12	OUT
+OUT_ethane receipts	ethane receipts	OUT
+OUT_17	17	OUT
+OUT_14	14	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_propane receipts	propane receipts	OUT
+OUT_natural gas	natural gas	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_natural gas plant	natural gas plant	OUT
+OUT_coal	coal	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_population	population	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_total	total	OUT
+OUT_electric power	electric power	OUT
+OUT_sego	sego	OUT
+OUT_shape len	shape len	OUT
+OUT_total sales	total sales	OUT
+OUT_total funds	total funds	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_coke plants	coke plants	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_commercial	commercial	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_total price	total price	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_res sales	res sales	OUT
+OUT_industrial	industrial	OUT
+OUT_service units	service units	OUT
+OUT_garbage	garbage	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_total cost	total cost	OUT
+OUT_attendees	attendees	OUT
+OUT_date	date	OUT
+OUT_residential	residential	OUT
+OUT_other industrial	other industrial	OUT
+OUT_# of students	# of students	OUT
+OUT_dec contact	dec contact	OUT
+OUT_fee	fee	OUT
+OUT_ind price	ind price	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_location	location	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_state and fee	state and fee	OUT
+OUT_measure value	measure value	OUT
+OUT_tot seco use	tot seco use	OUT
+OUT_building purpose code	building purpose code	OUT
+OUT_region	region	OUT
+OUT_res seco use	res seco use	OUT
+OUT_program location	program location	OUT
+OUT_geo area	geo area	OUT
+OUT_1987	1987	OUT
+OUT_min	min	OUT
+OUT_2002	2002	OUT
+OUT_plant use	plant use	OUT
+OUT_1988	1988	OUT
+OUT_shape are	shape are	OUT
+OUT_1984	1984	OUT
+OUT_alton	alton	OUT
+OUT_organics mt	organics mt	OUT
+OUT_1985	1985	OUT
+OUT_1990	1990	OUT
+OUT_ins seco use	ins seco use	OUT
+OUT_2001	2001	OUT
+OUT_2005	2005	OUT
+OUT_1998	1998	OUT
+OUT_1996	1996	OUT
+OUT_2006	2006	OUT
+OUT_data type	data type	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_coalville	coalville	OUT
+OUT_surface sup	surface sup	OUT
+OUT_date of last change	date of last change	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_total dry	total dry	OUT
+OUT_total gpcd	total gpcd	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_springs sup	springs sup	OUT
+OUT_result sample fraction text	result sample fraction text	OUT
+OUT_total rev	total rev	OUT
+OUT_4th max value	4th max value	OUT
+OUT_municipalities	municipalities	OUT
+OUT_com rev	com rev	OUT
+OUT_test method type code	test method type code	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_school districts	school districts	OUT
+OUT_municipality name	municipality name	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_local site name	local site name	OUT
+OUT_observation percent	observation percent	OUT
+OUT_precision value	precision value	OUT
+OUT_com cust	com cust	OUT
+OUT_test end date	test end date	OUT
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_zip codes	zip codes	OUT
+OUT_parameter name	parameter name	OUT
+OUT_county name	county name	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_county code	county code	OUT
+OUT_written comments due	written comments due	OUT
+OUT_1st max value	1st max value	OUT
+OUT_counties	counties	OUT
+OUT_poc	poc	OUT
+OUT_state code	state code	OUT
+OUT_event type	event type	OUT
+IN_county	county	IN
+OUT_arithmetic standard dev	arithmetic standard dev	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_company zip	company zip	OUT
+OUT_site num	site num	OUT
+OUT_state name	state name	OUT
+OUT_location 1	location 1	OUT
+OUT_com pot gpcd	com pot gpcd	OUT
+OUT_county land	county land	OUT
+OUT_facility name	facility name	OUT
+OUT_3rd max date time	3rd max date time	OUT
+OUT_facility zip	facility zip	OUT
+OUT_address postal code	address postal code	OUT
+OUT_company address	company address	OUT
+OUT_res rev	res rev	OUT
+OUT_other known i ds	other known i ds	OUT
+OUT_facility state	facility state	OUT
+OUT_1st max date time	1st max date time	OUT
+OUT_facility city	facility city	OUT
+OUT_company name	company name	OUT
+OUT_state land	state land	OUT
+OUT_company state	company state	OUT
+OUT_exceptional data count	exceptional data count	OUT
+OUT_unspecified	unspecified	OUT
+OUT_company city	company city	OUT
+OUT_comment end date	comment end date	OUT
+OUT_permit type	permit type	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_permit id	permit id	OUT
+OUT_comment begin date	comment begin date	OUT
+OUT_resid	resid	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_property name	property name	OUT
+OUT_date received	date received	OUT
+OUT_fee land	fee land	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_ins sec gpcd	ins sec gpcd	OUT
+OUT_hydrologic event	hydrologic event	OUT
+OUT_petro type	petro type	OUT
+OUT_mean	mean	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_federal land	federal land	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_property type	property type	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_activity conducting organization text	activity conducting organization text	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+18_dart_(department_app	dart (department application review and tracking) on the web: beginning 1988	Table
+OUT_ind sec gpcd	ind sec gpcd	OUT
+OUT_coalville	coalville	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_date local	date local	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_property type	property type	OUT
+OUT_family name	family name	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+IN_coastal zone status	coastal zone status	IN
+OUT_federal land	federal land	OUT
+OUT_contact name	contact name	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_lease use	lease use	OUT
+OUT_ind cust	ind cust	OUT
+OUT_fee land	fee land	OUT
+IN_permit effective date	permit effective date	IN
+IN_date received	date received	IN
+OUT_property name	property name	OUT
+IN_short description	short description	IN
+OUT_surface ownership % state	surface ownership % state	OUT
+IN_application id	application id	IN
+IN_town or city	town or city	IN
+OUT_website	website	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+IN_other known i ds	other known i ds	IN
+IN_permit type	permit type	IN
+OUT_trans rev	trans rev	OUT
+OUT_region id	region id	OUT
+OUT_unspecified	unspecified	OUT
+OUT_city	city	OUT
+OUT_company state	company state	OUT
+IN_written comments due	written comments due	IN
+OUT_agency id	agency id	OUT
+OUT_fire name	fire name	OUT
+OUT_inspection result desc	inspection result desc	OUT
+OUT_rep acres	rep acres	OUT
+OUT_lat mm	lat mm	OUT
+OUT_spud date	spud date	OUT
+IN_permit expiration date	permit expiration date	IN
+OUT_geothermal	geothermal	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_company address	company address	OUT
+OUT_facility name	facility name	OUT
+OUT_parent company name	parent company name	OUT
+OUT_total renewable generation	total renewable generation	OUT
+IN_facility	facility	IN
+OUT_pa house districts	pa house districts	OUT
+OUT_map link	map link	OUT
+OUT_county land	county land	OUT
+OUT_pollutant standard	pollutant standard	OUT
+OUT_gis acres	gis acres	OUT
+OUT_fluid temperature c	fluid temperature c	OUT
+OUT_location 1	location 1	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_comments	comments	OUT
+OUT_county	county	OUT
+OUT_50th percentile	50th percentile	OUT
+OUT_srs	srs	OUT
+OUT_counties	counties	OUT
+OUT_state code	state code	OUT
+OUT_discharge	discharge	OUT
+OUT_county code	county code	OUT
+OUT_result comment text	result comment text	OUT
+OUT_activity type code	activity type code	OUT
+OUT_notes	notes	OUT
+OUT_zip codes	zip codes	OUT
+OUT_observation percent	observation percent	OUT
+OUT_1st max non overlapping value	1st max non overlapping value	OUT
+OUT_activity start date	activity start date	OUT
+OUT_local site name	local site name	OUT
+OUT_other analytical data	other analytical data	OUT
+OUT_required day count	required day count	OUT
+OUT_school districts	school districts	OUT
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_state ansi	state ansi	OUT
+OUT_surface demonstrated reserve base	surface demonstrated reserve base	OUT
+OUT_method name	method name	OUT
+OUT_latitude	latitude	OUT
+OUT_specimen collection date	specimen collection date	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_sample duration	sample duration	OUT
+OUT_municipalities	municipalities	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_date of last change	date of last change	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_dry production	dry production	OUT
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_permit	permit	OUT
+OUT_total sup	total sup	OUT
+OUT_breeding behavior	breeding behavior	OUT
+IN_application type	application type	IN
+OUT_organics mt	organics mt	OUT
+OUT_alton	alton	OUT
+OUT_plant use	plant use	OUT
+OUT_program location	program location	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_native american	native american	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_measure value	measure value	OUT
+OUT_breeding status	breeding status	OUT
+IN_location	location	IN
+OUT_year / month	year / month	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_total sum all	total sum all	OUT
+OUT_domain	domain	OUT
+OUT_ind price	ind price	OUT
+IN_lead agency	lead agency	IN
+OUT_client	client	OUT
+IN_stimulus project	stimulus project	IN
+IN_dec contact	dec contact	IN
+IN_final disposition	final disposition	IN
+OUT_the geom	the geom	OUT
+IN_applicant	applicant	IN
+OUT_data item	data item	OUT
+OUT_# of students	# of students	OUT
+OUT_utility number	utility number	OUT
+OUT_residential	residential	OUT
+OUT_month	month	OUT
+OUT_date	date	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_well code	well code	OUT
+OUT_municipality	municipality	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_industrial	industrial	OUT
+OUT_total board $	total board $	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_transportation	transportation	OUT
+OUT_value of coal produced million real dollars	value of coal produced million real dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_federal	federal	OUT
+IN_status	status	IN
+OUT_year	year	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_total consumption	total consumption	OUT
+OUT_commercial	commercial	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_total all projects	total all projects	OUT
+OUT_coke plants	coke plants	OUT
+OUT_other biomass	other biomass	OUT
+OUT_well status	well status	OUT
+OUT_total funds	total funds	OUT
+IN_complete status	complete status	IN
+OUT_sego	sego	OUT
+OUT_total	total	OUT
+OUT_audience	audience	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_2	2	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_natural gas	natural gas	OUT
+OUT_propane receipts	propane receipts	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_other	other	OUT
+OUT_14	14	OUT
+OUT_value	value	OUT
+OUT_season	season	OUT
+OUT_farm	farm	OUT
+OUT_ethane receipts	ethane receipts	OUT
+OUT_quantity	quantity	OUT
+OUT_condensate deliveries	condensate deliveries	OUT
+OUT_others	others	OUT
+OUT_condensate ending stocks	condensate ending stocks	OUT
+OUT_25	25	OUT
+OUT_% of total	% of total	OUT
+OUT_condensate production	condensate production	OUT
+OUT_21	21	OUT
+OUT_production	production	OUT
+OUT_coalfield	coalfield	OUT
+OUT_operator	operator	OUT
+OUT_2006 gross production	2006 gross production	OUT
+OUT_2002 production	2002 production	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_2013 production	2013 production	OUT
+OUT_2007 production	2007 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2007 gross production	2007 gross production	OUT
+OUT_2009 production	2009 production	OUT
+OUT_rank	rank	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_year discovered	year discovered	OUT
+OUT_cumulative production	cumulative production	OUT
+OUT_field	field	OUT
+OUT_% total estimated recoverable reserves	% total estimated recoverable reserves	OUT
+OUT_total recoverable reserves at producing mines	total recoverable reserves at producing mines	OUT
+OUT_1997	1997	OUT
+OUT_2008	2008	OUT
+OUT_1998	1998	OUT
+OUT_2000	2000	OUT
+OUT_1994	1994	OUT
+OUT_2005	2005	OUT
+OUT_2001	2001	OUT
+OUT_% total recoverable reserves at producing mines	% total recoverable reserves at producing mines	OUT
+OUT_1987	1987	OUT
+OUT_1988	1988	OUT
+OUT_2013	2013	OUT

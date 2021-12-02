@@ -1,0 +1,202 @@
+stc_label	sentence	category
+5_breeding_bird_atlas,	breeding bird atlas, first edition, 1980-1985	Table
+OUT_location 1	location 1	OUT
+OUT_facility state	facility state	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_city name	city name	OUT
+OUT_measure qualifier code	measure qualifier code	OUT
+OUT_facility city	facility city	OUT
+OUT_result depth altitude reference point text	result depth altitude reference point text	OUT
+OUT_facility location	facility location	OUT
+OUT_surface demonstrated reserve base	surface demonstrated reserve base	OUT
+OUT_test end date	test end date	OUT
+OUT_state code	state code	OUT
+OUT_zip codes	zip codes	OUT
+OUT_pa senatorial districts	pa senatorial districts	OUT
+OUT_site num	site num	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_sample tissue anatomy name	sample tissue anatomy name	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_company zip	company zip	OUT
+OUT_county name	county name	OUT
+OUT_total state generation	total state generation	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_result detection condition text	result detection condition text	OUT
+OUT_laboratory name	laboratory name	OUT
+OUT_school districts	school districts	OUT
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_company name	company name	OUT
+OUT_total dry	total dry	OUT
+OUT_county code	county code	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_company state	company state	OUT
+OUT_data identifier	data identifier	OUT
+OUT_municipalities	municipalities	OUT
+OUT_comment end date	comment end date	OUT
+OUT_sample duration	sample duration	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_company address	company address	OUT
+OUT_permit type	permit type	OUT
+OUT_result weight basis text	result weight basis text	OUT
+OUT_counties	counties	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+IN_block id	block id	IN
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_floor level tested	floor level tested	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_resid	resid	OUT
+OUT_testing device type name	testing device type name	OUT
+OUT_ins pot gpcd	ins pot gpcd	OUT
+IN_county	county	IN
+OUT_company city	company city	OUT
+OUT_new york zip codes	new york zip codes	OUT
+OUT_facility	facility	OUT
+OUT_total renewable generation	total renewable generation	OUT
+OUT_geothermal	geothermal	OUT
+OUT_state	state	OUT
+OUT_longitude	longitude	OUT
+OUT_units of measure	units of measure	OUT
+OUT_activity end date	activity end date	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_parameter code	parameter code	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_application id	application id	OUT
+OUT_property name	property name	OUT
+OUT_municipality name	municipality name	OUT
+OUT_date of last change	date of last change	OUT
+OUT_surface sup	surface sup	OUT
+OUT_tot pot gpcd	tot pot gpcd	OUT
+OUT_precision value	precision value	OUT
+IN_map link	map link	IN
+OUT_event type	event type	OUT
+OUT_result measure value	result measure value	OUT
+OUT_wells sup	wells sup	OUT
+OUT_written comments due	written comments due	OUT
+OUT_parameter name	parameter name	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_town or city	town or city	OUT
+OUT_res pot gpcd	res pot gpcd	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_from gas wells	from gas wells	OUT
+OUT_petro type	petro type	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_percent production from stripper gas wells	percent production from stripper gas wells	OUT
+OUT_number of stripper oil wells	number of stripper oil wells	OUT
+OUT_from oil wells	from oil wells	OUT
+OUT_production from stripper gas wells thousand cf	production from stripper gas wells thousand cf	OUT
+OUT_number of stripper gas wells	number of stripper gas wells	OUT
+OUT_from shale gas wells	from shale gas wells	OUT
+OUT_total 2002 gas production million cf	total 2002 gas production million cf	OUT
+OUT_total 2005 gas production million cf	total 2005 gas production million cf	OUT
+OUT_short description	short description	OUT
+OUT_remediation system description	remediation system description	OUT
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_dry production	dry production	OUT
+OUT_vented and flared	vented and flared	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_agree type	agree type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_1st max hour	1st max hour	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+IN_family name	family name	IN
+OUT_agreement	agreement	OUT
+OUT_mod	mod	OUT
+OUT_property type	property type	OUT
+OUT_% total demonstrated reserve base	% total demonstrated reserve base	OUT
+OUT_activity conducting organization text	activity conducting organization text	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_2002 rank	2002 rank	OUT
+OUT_total recoverable reserves at producing mines	total recoverable reserves at producing mines	OUT
+OUT_surface estimated recoverable reserves	surface estimated recoverable reserves	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_1995	1995	OUT
+OUT_1999	1999	OUT
+OUT_1996	1996	OUT
+OUT_2008	2008	OUT
+OUT_1998	1998	OUT
+OUT_2000	2000	OUT
+OUT_1991	1991	OUT
+OUT_2003	2003	OUT
+OUT_2001	2001	OUT
+OUT_1992	1992	OUT
+OUT_1990	1990	OUT
+OUT_2007	2007	OUT
+OUT_1986	1986	OUT
+OUT_2002	2002	OUT
+OUT_1987	1987	OUT
+OUT_% total estimated recoverable reserves	% total estimated recoverable reserves	OUT
+IN_breeding behavior	breeding behavior	IN
+OUT_tree size	tree size	OUT
+IN_family description	family description	IN
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+IN_fed. region	fed. region	IN
+OUT_application type	application type	OUT
+OUT_rank	rank	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_ind seco use	ind seco use	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_geo area	geo area	OUT
+OUT_2002 production	2002 production	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_building purpose code	building purpose code	OUT
+OUT_operator	operator	OUT
+IN_breeding status	breeding status	IN
+OUT_measure value	measure value	OUT
+IN_common name	common name	IN
+OUT_acct num	acct num	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_year / month	year / month	OUT
+OUT_location	location	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_mitigation comments	mitigation comments	OUT
+IN_scientific name	scientific name	IN
+OUT_lead agency	lead agency	OUT
+OUT_stimulus project	stimulus project	OUT
+OUT_coalfield	coalfield	OUT
+OUT_the geom	the geom	OUT
+OUT_system cost	system cost	OUT
+OUT_other industrial	other industrial	OUT
+OUT_date	date	OUT
+IN_month	month	IN
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+IN_day	day	IN
+OUT_industrial	industrial	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_propane deliveries	propane deliveries	OUT
+OUT_commercial	commercial	OUT
+IN_year	year	IN
+OUT_coke plants	coke plants	OUT
+OUT_other biomass	other biomass	OUT
+OUT_wind	wind	OUT
+OUT_complete status	complete status	OUT
+OUT_shape len	shape len	OUT
+OUT_electric power	electric power	OUT
+OUT_natural gas plant	natural gas plant	OUT
+OUT_gasoline deliveries	gasoline deliveries	OUT
+OUT_gross withdrawals	gross withdrawals	OUT
+OUT_solar	solar	OUT
+OUT_gasoline receipts	gasoline receipts	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_season	season	OUT
+OUT_quantity	quantity	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_propane production	propane production	OUT
+OUT_iso- butane beginning stocks	iso- butane beginning stocks	OUT
+OUT_propane beginning stocks	propane beginning stocks	OUT
+OUT_ethane beginning stocks	ethane beginning stocks	OUT
+OUT_ethane production	ethane production	OUT
+OUT_marketed production	marketed production	OUT

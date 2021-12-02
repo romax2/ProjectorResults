@@ -1,0 +1,202 @@
+stc_label	sentence	category
+37_new_well_inspections	new well inspections fy 2015-2020 environmental protection	Table
+IN_inspection type	inspection type	IN
+OUT_location 1	location 1	OUT
+OUT_certification indicator	certification indicator	OUT
+OUT_county code	county code	OUT
+OUT_4th max date time	4th max date time	OUT
+OUT_laboratory name	laboratory name	OUT
+IN_inspection id	inspection id	IN
+IN_pa house districts	pa house districts	IN
+IN_inspection date	inspection date	IN
+IN_inspection result desc	inspection result desc	IN
+OUT_detection quantitation limit type name	detection quantitation limit type name	OUT
+OUT_state code	state code	OUT
+IN_pa school districts	pa school districts	IN
+OUT_facility state	facility state	OUT
+IN_pa senatorial districts	pa senatorial districts	IN
+IN_pennsylvania county boundaries	pennsylvania county boundaries	IN
+OUT_school districts	school districts	OUT
+OUT_total demonstrated reserve base	total demonstrated reserve base	OUT
+OUT_company state	company state	OUT
+OUT_null data count	null data count	OUT
+OUT_observation count	observation count	OUT
+OUT_activity media subdivision name	activity media subdivision name	OUT
+OUT_statistical base code	statistical base code	OUT
+OUT_permit id	permit id	OUT
+OUT_total dry	total dry	OUT
+OUT_facility zip	facility zip	OUT
+OUT_state land	state land	OUT
+OUT_zip codes	zip codes	OUT
+OUT_company address	company address	OUT
+OUT_preparation start date	preparation start date	OUT
+OUT_result detection condition text	result detection condition text	OUT
+OUT_total wet after lease separation	total wet after lease separation	OUT
+OUT_geothermal	geothermal	OUT
+OUT_project identifier	project identifier	OUT
+IN_year end date	year end date	IN
+OUT_1st no max date time	1st no max date time	OUT
+OUT_sample tissue anatomy name	sample tissue anatomy name	OUT
+OUT_local site name	local site name	OUT
+OUT_company name	company name	OUT
+OUT_percent renewable	percent renewable	OUT
+OUT_arithmetic standard dev	arithmetic standard dev	OUT
+OUT_result weight basis text	result weight basis text	OUT
+OUT_facility location	facility location	OUT
+OUT_company zip	company zip	OUT
+OUT_company city	company city	OUT
+OUT_counties	counties	OUT
+IN_county	county	IN
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_municipalities	municipalities	OUT
+OUT_site num	site num	OUT
+OUT_2nd max non overlapping value	2nd max non overlapping value	OUT
+IN_spud date	spud date	IN
+OUT_total renewable generation	total renewable generation	OUT
+IN_municipality boundary	municipality boundary	IN
+OUT_sample duration	sample duration	OUT
+OUT_date of last change	date of last change	OUT
+OUT_result particle size basis text	result particle size basis text	OUT
+OUT_state	state	OUT
+OUT_conventional hydroelectric	conventional hydroelectric	OUT
+OUT_facility	facility	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_resid	resid	OUT
+IN_count	count	IN
+OUT_total rev	total rev	OUT
+OUT_arithmetic mean	arithmetic mean	OUT
+OUT_application id	application id	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_ownership	ownership	OUT
+IN_conservation	conservation	IN
+OUT_property name	property name	OUT
+IN_configuration code	configuration code	IN
+IN_client id	client id	IN
+IN_unconventional ind	unconventional ind	IN
+OUT_borough	borough	OUT
+OUT_parameter name	parameter name	OUT
+OUT_permit effective date	permit effective date	OUT
+OUT_fee land	fee land	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_production from stripper oil wells bbls	production from stripper oil wells bbls	OUT
+OUT_gas wells plugged and abandoned	gas wells plugged and abandoned	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_ind cust	ind cust	OUT
+OUT_from gas wells	from gas wells	OUT
+OUT_characteristic name	characteristic name	OUT
+OUT_percent production from stripper oil wells	percent production from stripper oil wells	OUT
+OUT_from oil wells	from oil wells	OUT
+OUT_petro type	petro type	OUT
+OUT_production from stripper gas wells thousand cf	production from stripper gas wells thousand cf	OUT
+OUT_number of stripper gas wells	number of stripper gas wells	OUT
+OUT_average daily production per well thousand cf	average daily production per well thousand cf	OUT
+OUT_average daily production per well bbls	average daily production per well bbls	OUT
+OUT_dry production	dry production	OUT
+OUT_lease and plant use	lease and plant use	OUT
+OUT_extraction loss	extraction loss	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+OUT_mean	mean	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_agreement	agreement	OUT
+OUT_surface ownership % federal	surface ownership % federal	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_colorado pipeline only	colorado pipeline only	OUT
+OUT_underground estimated recoverable reserves	underground estimated recoverable reserves	OUT
+OUT_2009	2009	OUT
+OUT_1996	1996	OUT
+OUT_1997	1997	OUT
+OUT_2010	2010	OUT
+OUT_1998	1998	OUT
+OUT_1990	1990	OUT
+OUT_1988	1988	OUT
+OUT_total estimated recoverable reserves	total estimated recoverable reserves	OUT
+OUT_res cust	res cust	OUT
+IN_permit	permit	IN
+OUT_ins seco use	ins seco use	OUT
+OUT_percent of cumulative production	percent of cumulative production	OUT
+OUT_2010 gross production	2010 gross production	OUT
+OUT_rank	rank	OUT
+OUT_alton	alton	OUT
+OUT_2009 production	2009 production	OUT
+OUT_percent of state production	percent of state production	OUT
+OUT_2008 gross production	2008 gross production	OUT
+OUT_shape are	shape are	OUT
+OUT_percent of total state cumulative production	percent of total state cumulative production	OUT
+OUT_geo area	geo area	OUT
+OUT_2002 production	2002 production	OUT
+OUT_program location	program location	OUT
+OUT_tot sec gpcd	tot sec gpcd	OUT
+IN_region	region	IN
+OUT_native american	native american	OUT
+OUT_operator	operator	OUT
+OUT_kind of tree	kind of tree	OUT
+IN_ogo num	ogo num	IN
+OUT_year / month	year / month	OUT
+OUT_max	max	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_ind price	ind price	OUT
+OUT_lead agency	lead agency	OUT
+IN_client	client	IN
+OUT_coalfield	coalfield	OUT
+OUT_part	part	OUT
+OUT_fee	fee	OUT
+OUT_ind sales	ind sales	OUT
+OUT_applicant	applicant	OUT
+OUT_other industrial	other industrial	OUT
+OUT_attendees	attendees	OUT
+OUT_residential	residential	OUT
+OUT_date	date	OUT
+IN_well code	well code	IN
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_all grades gas price	all grades gas price	OUT
+IN_municipality	municipality	IN
+IN_fiscal year	fiscal year	IN
+OUT_utility name	utility name	OUT
+OUT_27	27	OUT
+OUT_industrial	industrial	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_transportation	transportation	OUT
+OUT_pipeline fuel	pipeline fuel	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_vehicle fuel	vehicle fuel	OUT
+OUT_total consumption	total consumption	OUT
+OUT_year	year	OUT
+OUT_coke plants	coke plants	OUT
+IN_well status	well status	IN
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_wind	wind	OUT
+OUT_29	29	OUT
+OUT_sego	sego	OUT
+OUT_total funds	total funds	OUT
+OUT_shape len	shape len	OUT
+OUT_other production	other production	OUT
+OUT_audience	audience	OUT
+OUT_electric power	electric power	OUT
+OUT_total	total	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_15	15	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_total deliveries to consumers	total deliveries to consumers	OUT
+OUT_iso- butane production	iso- butane production	OUT
+OUT_gross withdrawals	gross withdrawals	OUT
+OUT_solar	solar	OUT
+OUT_6	6	OUT
+OUT_8	8	OUT
+IN_farm	farm	IN
+OUT_season	season	OUT
+OUT_19	19	OUT
+OUT_quantity	quantity	OUT
+OUT_23	23	OUT
+OUT_4	4	OUT
+OUT_other receipts	other receipts	OUT
+OUT_9	9	OUT
+OUT_5	5	OUT
+OUT_butane ending stocks	butane ending stocks	OUT
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
+OUT_25	25	OUT
+OUT_marketed production	marketed production	OUT
+OUT_company	company	OUT

@@ -1,0 +1,202 @@
+stc_label	sentence	category
+46_recoverable_coal_res	recoverable coal reserves at producing mines, estimated recoverable reserves and demonstrated reserve base by state and mining method t2.2 2012	Table
+IN_surface recoverable reserves at producing mines	surface recoverable reserves at producing mines	IN
+IN_municipalities	municipalities	IN
+OUT_longitude	longitude	OUT
+IN_total demonstrated reserve base	total demonstrated reserve base	IN
+OUT_statistical cause	statistical cause	OUT
+OUT_municipality boundary	municipality boundary	OUT
+OUT_floor level tested	floor level tested	OUT
+IN_underground demonstrated reserve base	underground demonstrated reserve base	IN
+IN_surface demonstrated reserve base	surface demonstrated reserve base	IN
+IN_school districts	school districts	IN
+IN_counties	counties	IN
+OUT_facility	facility	OUT
+OUT_county	county	OUT
+OUT_state	state	OUT
+OUT_subject taxonomic name	subject taxonomic name	OUT
+OUT_wasatch plateau	wasatch plateau	OUT
+OUT_general cause	general cause	OUT
+IN_zip codes	zip codes	IN
+OUT_result time basis text	result time basis text	OUT
+OUT_total acres	total acres	OUT
+OUT_pennsylvania county boundaries	pennsylvania county boundaries	OUT
+OUT_comments	comments	OUT
+OUT_ind pot gpcd	ind pot gpcd	OUT
+OUT_com rev	com rev	OUT
+OUT_pa school districts	pa school districts	OUT
+OUT_activity depth altitude reference point text	activity depth altitude reference point text	OUT
+OUT_test result identifier	test result identifier	OUT
+OUT_method description text	method description text	OUT
+IN_location 1	location 1	IN
+OUT_ins pot gpcd	ins pot gpcd	OUT
+OUT_county land	county land	OUT
+OUT_pa house districts	pa house districts	OUT
+OUT_company zip	company zip	OUT
+OUT_block id	block id	OUT
+OUT_gis acres	gis acres	OUT
+OUT_address postal code	address postal code	OUT
+OUT_fire name	fire name	OUT
+OUT_book cliffs	book cliffs	OUT
+OUT_wells sup	wells sup	OUT
+OUT_spud date	spud date	OUT
+OUT_unspecified	unspecified	OUT
+OUT_rep acres	rep acres	OUT
+OUT_organization identifier	organization identifier	OUT
+OUT_lat mm	lat mm	OUT
+OUT_company name	company name	OUT
+OUT_state land	state land	OUT
+OUT_company state	company state	OUT
+OUT_year est	year est	OUT
+OUT_monitoring location identifier	monitoring location identifier	OUT
+OUT_surface ownership % private	surface ownership % private	OUT
+OUT_company city	company city	OUT
+OUT_permit expiration date	permit expiration date	OUT
+OUT_project identifier	project identifier	OUT
+OUT_sample collection equipment name	sample collection equipment name	OUT
+OUT_resid	resid	OUT
+OUT_surface ownership % state	surface ownership % state	OUT
+OUT_application id	application id	OUT
+OUT_unconventional ind	unconventional ind	OUT
+OUT_utah pipeline only	utah pipeline only	OUT
+OUT_client id	client id	OUT
+OUT_cause narr	cause narr	OUT
+OUT_property name	property name	OUT
+OUT_borough	borough	OUT
+OUT_lon dd	lon dd	OUT
+OUT_fee land	fee land	OUT
+OUT_mineral ownership % private	mineral ownership % private	OUT
+OUT_lease use	lease use	OUT
+OUT_wyoming pipeline only	wyoming pipeline only	OUT
+OUT_lon mm	lon mm	OUT
+OUT_hydrologic event	hydrologic event	OUT
+OUT_agree type	agree type	OUT
+OUT_petro type	petro type	OUT
+OUT_canada pipeline only	canada pipeline only	OUT
+IN_underground recoverable reserves at producing mines	underground recoverable reserves at producing mines	IN
+OUT_trans cust	trans cust	OUT
+OUT_mineral ownership % state	mineral ownership % state	OUT
+OUT_ac- ft	ac- ft	OUT
+OUT_family name	family name	OUT
+OUT_agreement	agreement	OUT
+IN_total recoverable reserves at producing mines	total recoverable reserves at producing mines	IN
+IN_% total demonstrated reserve base	% total demonstrated reserve base	IN
+OUT_property type	property type	OUT
+IN_surface estimated recoverable reserves	surface estimated recoverable reserves	IN
+IN_underground estimated recoverable reserves	underground estimated recoverable reserves	IN
+OUT_1999	1999	OUT
+OUT_2010	2010	OUT
+OUT_2008	2008	OUT
+IN_% total recoverable reserves at producing mines	% total recoverable reserves at producing mines	IN
+OUT_2004	2004	OUT
+OUT_1998	1998	OUT
+OUT_2003	2003	OUT
+OUT_2001	2001	OUT
+OUT_neral ownership % federal	neral ownership % federal	OUT
+OUT_2012	2012	OUT
+OUT_2002	2002	OUT
+OUT_coalville	coalville	OUT
+IN_total estimated recoverable reserves	total estimated recoverable reserves	IN
+IN_% total estimated recoverable reserves	% total estimated recoverable reserves	IN
+OUT_colorado pipeline only	colorado pipeline only	OUT
+IN_rank	rank	IN
+OUT_coalfield	coalfield	OUT
+OUT_27	27	OUT
+OUT_mitigation year ended	mitigation year ended	OUT
+OUT_production	production	OUT
+OUT_other production	other production	OUT
+OUT_% of total	% of total	OUT
+OUT_28	28	OUT
+OUT_8	8	OUT
+OUT_6	6	OUT
+OUT_ethane production	ethane production	OUT
+OUT_ethane ending stocks	ethane ending stocks	OUT
+OUT_company	company	OUT
+OUT_13	13	OUT
+OUT_3	3	OUT
+OUT_iso- butane ending stocks	iso- butane ending stocks	OUT
+OUT_gasoline production	gasoline production	OUT
+OUT_condensate receipts	condensate receipts	OUT
+OUT_season	season	OUT
+OUT_quantity	quantity	OUT
+OUT_butane deliveries	butane deliveries	OUT
+OUT_12	12	OUT
+OUT_condensate beginning stocks	condensate beginning stocks	OUT
+OUT_prod form 1	prod form 1	OUT
+OUT_prod form 2	prod form 2	OUT
+OUT_gasoline deliveries	gasoline deliveries	OUT
+OUT_iso- butane receipts	iso- butane receipts	OUT
+OUT_1	1	OUT
+OUT_natural gas	natural gas	OUT
+OUT_2	2	OUT
+OUT_overseas exports	overseas exports	OUT
+OUT_coal	coal	OUT
+OUT_audience	audience	OUT
+OUT_residential deliveries	residential deliveries	OUT
+OUT_population	population	OUT
+OUT_commercial deliveries	commercial deliveries	OUT
+OUT_total	total	OUT
+OUT_sego	sego	OUT
+OUT_shape len	shape len	OUT
+OUT_complete status	complete status	OUT
+OUT_total funds	total funds	OUT
+OUT_vehicle fuel deliveries	vehicle fuel deliveries	OUT
+OUT_coke plants	coke plants	OUT
+OUT_year	year	OUT
+OUT_total consumption	total consumption	OUT
+OUT_petroleum products	petroleum products	OUT
+OUT_commercial	commercial	OUT
+OUT_status	status	OUT
+OUT_# of projects rcf	# of projects rcf	OUT
+OUT_value of crude oil nominal dollars	value of crude oil nominal dollars	OUT
+OUT_regular gas price	regular gas price	OUT
+OUT_transportation	transportation	OUT
+OUT_total board $	total board $	OUT
+OUT_electric utilities	electric utilities	OUT
+OUT_industrial	industrial	OUT
+OUT_industrial deliveries	industrial deliveries	OUT
+OUT_value of crude oil real dollars	value of crude oil real dollars	OUT
+OUT_res sales	res sales	OUT
+OUT_garbage	garbage	OUT
+OUT_service units	service units	OUT
+OUT_all grades gas price	all grades gas price	OUT
+OUT_day	day	OUT
+OUT_municipality	municipality	OUT
+OUT_premium gas price	premium gas price	OUT
+OUT_attendees	attendees	OUT
+OUT_value of coal produced mill nom dollars	value of coal produced mill nom dollars	OUT
+OUT_date	date	OUT
+OUT_residential	residential	OUT
+OUT_other industrial	other industrial	OUT
+OUT_organics	organics	OUT
+OUT_# of students	# of students	OUT
+OUT_total cost / unit	total cost / unit	OUT
+OUT_ind sales	ind sales	OUT
+OUT_the geom	the geom	OUT
+OUT_client	client	OUT
+OUT_ind price	ind price	OUT
+OUT_kind of tree	kind of tree	OUT
+OUT_location	location	OUT
+OUT_residential & commercial	residential & commercial	OUT
+OUT_year / month	year / month	OUT
+OUT_acct num	acct num	OUT
+OUT_conservation & dev fund board $	conservation & dev fund board $	OUT
+OUT_measure value	measure value	OUT
+OUT_breeding status	breeding status	OUT
+OUT_cities water loan fund board $	cities water loan fund board $	OUT
+OUT_revolving construction fund board $	revolving construction fund board $	OUT
+OUT_region	region	OUT
+OUT_com seco use	com seco use	OUT
+OUT_building purpose code	building purpose code	OUT
+OUT_com sec gpcd	com sec gpcd	OUT
+OUT_program location	program location	OUT
+OUT_geo area	geo area	OUT
+OUT_min	min	OUT
+OUT_mitigation test type	mitigation test type	OUT
+OUT_total rcf	total rcf	OUT
+OUT_alton	alton	OUT
+OUT_total cust	total cust	OUT
+OUT_breeding behavior	breeding behavior	OUT
+OUT_fed. region	fed. region	OUT
+OUT_tree size	tree size	OUT
+OUT_data type	data type	OUT
